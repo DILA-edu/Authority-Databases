@@ -1,10 +1,13 @@
 {
     "B0001": {
+        "authorityID": "CA0006085",
         "vol": "B01..B02",
         "type": "textbody",
         "category": "新編部類",
         "title": "均如大師華嚴學全書",
         "juans": "20",
+        "cjk_chars": "426239",
+        "en_words": "22",
         "byline": "均如著　金知見編",
         "contributors": [
             {
@@ -18,11 +21,13 @@
         ]
     },
     "B0002": {
+        "authorityID": "CA0006086",
         "vol": "B03..B05",
         "type": "textbody",
         "category": "新編部類",
         "title": "華嚴經疏論纂要",
         "juans": "120",
+        "cjk_chars": "1700768",
         "byline": "道霈編",
         "contributors": [
             {
@@ -32,11 +37,14 @@
         ]
     },
     "B0003": {
+        "authorityID": "CA0006087",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳長部經典",
         "juans": "2",
+        "cjk_chars": "178088",
+        "en_words": "3",
         "byline": "江鍊百譯",
         "contributors": [
             {
@@ -46,11 +54,14 @@
         ]
     },
     "B0004": {
+        "authorityID": "CA0006088",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳中部經典",
         "juans": "1",
+        "cjk_chars": "162826",
+        "en_words": "14",
         "byline": "芝峯譯",
         "contributors": [
             {
@@ -60,11 +71,14 @@
         ]
     },
     "B0005": {
+        "authorityID": "CA0006089",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳小部經典",
         "juans": "2",
+        "cjk_chars": "235250",
+        "en_words": "2",
         "byline": "夏丏尊譯",
         "contributors": [
             {
@@ -74,11 +88,13 @@
         ]
     },
     "B0006": {
+        "authorityID": "CA0006090",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "泰國大藏經小部經",
         "juans": "1",
+        "cjk_chars": "73982",
         "byline": "黃謹良譯",
         "contributors": [
             {
@@ -88,11 +104,14 @@
         ]
     },
     "B0007": {
+        "authorityID": "CA0006091",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "發趣論",
         "juans": "1",
+        "cjk_chars": "110941",
+        "en_words": "5",
         "byline": "范寄東譯",
         "contributors": [
             {
@@ -102,11 +121,14 @@
         ]
     },
     "B0008": {
+        "authorityID": "CA0006092",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "大發趣論註",
         "juans": "1",
+        "cjk_chars": "65574",
+        "en_words": "12",
         "byline": "覺音造　范寄東譯",
         "contributors": [
             {
@@ -120,11 +142,13 @@
         ]
     },
     "B0009": {
+        "authorityID": "CA0006093",
         "vol": "B06",
         "type": "textbody",
         "category": "新編部類",
         "title": "冠導阿毗達磨俱舍論",
         "juans": "30",
+        "cjk_chars": "209404",
         "byline": "佐伯旭雅編",
         "contributors": [
             {
@@ -134,11 +158,13 @@
         ]
     },
     "B0010": {
+        "authorityID": "CA0006094",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳轉法輪經",
         "juans": "1",
+        "cjk_chars": "1250",
         "byline": "丘哌博譯",
         "contributors": [
             {
@@ -148,11 +174,13 @@
         ]
     },
     "B0011": {
+        "authorityID": "CA0006095",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "轉法輪經",
         "juans": "1",
+        "cjk_chars": "1109",
         "byline": "岫廬譯",
         "contributors": [
             {
@@ -162,11 +190,13 @@
         ]
     },
     "B0012": {
+        "authorityID": "CA0006096",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "三寶經",
         "juans": "1",
+        "cjk_chars": "1006",
         "byline": "法舫譯",
         "contributors": [
             {
@@ -176,11 +206,13 @@
         ]
     },
     "B0013": {
+        "authorityID": "CA0006097",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "吉祥經",
         "juans": "1",
+        "cjk_chars": "333",
         "byline": "法舫譯",
         "contributors": [
             {
@@ -190,11 +222,14 @@
         ]
     },
     "B0014": {
+        "authorityID": "CA0006098",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "婆羅門正法經",
         "juans": "1",
+        "cjk_chars": "1552",
+        "en_words": "1",
         "byline": "法舫譯",
         "contributors": [
             {
@@ -204,11 +239,13 @@
         ]
     },
     "B0015": {
+        "authorityID": "CA0006099",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳羯臘摩經",
         "juans": "1",
+        "cjk_chars": "963",
         "byline": "丘寶光．徐鄂雲同譯",
         "contributors": [
             {
@@ -222,11 +259,13 @@
         ]
     },
     "B0016": {
+        "authorityID": "CA0006100",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳大悲經",
         "juans": "1",
+        "cjk_chars": "798",
         "byline": "法舫譯",
         "contributors": [
             {
@@ -236,11 +275,14 @@
         ]
     },
     "B0017": {
+        "authorityID": "CA0006101",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳法句經",
         "juans": "1",
+        "cjk_chars": "14098",
+        "en_words": "124",
         "byline": "了參譯",
         "contributors": [
             {
@@ -250,11 +292,13 @@
         ]
     },
     "B0018": {
+        "authorityID": "CA0006102",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳大般湼槃經",
         "juans": "1",
+        "cjk_chars": "26951",
         "byline": "巴宙譯",
         "contributors": [
             {
@@ -264,11 +308,14 @@
         ]
     },
     "B0019": {
+        "authorityID": "CA0006103",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "南傳念安般經",
         "juans": "1",
+        "cjk_chars": "5632",
+        "en_words": "4",
         "byline": "湯用彤譯",
         "contributors": [
             {
@@ -278,11 +325,13 @@
         ]
     },
     "B0020": {
+        "authorityID": "CA0006104",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "隨念三寶經淺說",
         "juans": "1",
+        "cjk_chars": "9178",
         "byline": "法尊口述　雲根記",
         "contributors": [
             {
@@ -296,11 +345,13 @@
         ]
     },
     "B0021": {
+        "authorityID": "CA0006105",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "毒語心經",
         "juans": "1",
+        "cjk_chars": "4554",
         "byline": "白隱慧鶴註釋　南天棒鄧州提唱",
         "contributors": [
             {
@@ -314,11 +365,13 @@
         ]
     },
     "B0022": {
+        "authorityID": "CA0006106",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "新譯薄伽梵母智慧到彼岸心經詮釋",
         "juans": "1",
+        "cjk_chars": "6316",
         "byline": "貢噶呼圖克圖譯",
         "contributors": [
             {
@@ -328,11 +381,13 @@
         ]
     },
     "B0023": {
+        "authorityID": "CA0006107",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛般若波羅蜜經講義",
         "juans": "5",
+        "cjk_chars": "309107",
         "byline": "江味農著",
         "contributors": [
             {
@@ -342,11 +397,13 @@
         ]
     },
     "B0024": {
+        "authorityID": "CA0006108",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說阿彌陀經註釋會要",
         "juans": "1",
+        "cjk_chars": "49410",
         "byline": "鳩摩羅什譯　徐珂輯",
         "contributors": [
             {
@@ -360,11 +417,13 @@
         ]
     },
     "B0025": {
+        "authorityID": "CA0006109",
         "vol": "B07",
         "type": "textbody",
         "category": "新編部類",
         "title": "阿毗達摩攝義論",
         "juans": "1",
+        "cjk_chars": "16713",
         "byline": "阿耨樓陀造　法舫譯",
         "contributors": [
             {
@@ -378,11 +437,14 @@
         ]
     },
     "B0026": {
+        "authorityID": "CA0006110",
         "vol": "B08",
         "type": "textbody",
         "category": "新編部類",
         "title": "四分比丘尼戒本註解",
         "juans": "2",
+        "cjk_chars": "664654",
+        "en_words": "4777",
         "byline": "佛瑩編",
         "contributors": [
             {
@@ -392,11 +454,14 @@
         ]
     },
     "B0027": {
+        "authorityID": "CA0006111",
         "vol": "B08",
         "type": "textbody",
         "category": "新編部類",
         "title": "瑜伽師地論戒品纂釋",
         "juans": "2",
+        "cjk_chars": "89290",
+        "en_words": "9",
         "byline": "宗喀巴釋論　湯薌銘譯纂",
         "contributors": [
             {
@@ -410,11 +475,13 @@
         ]
     },
     "B0028": {
+        "authorityID": "CA0006112",
         "vol": "B08",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提正道菩薩戒論",
         "juans": "1",
+        "cjk_chars": "61910",
         "byline": "宗喀巴造　湯薌銘譯",
         "contributors": [
             {
@@ -428,11 +495,13 @@
         ]
     },
     "B0029": {
+        "authorityID": "CA0006113",
         "vol": "B08",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩薩戒品釋",
         "juans": "5",
+        "cjk_chars": "68379",
         "byline": "宗喀巴造　法尊譯",
         "contributors": [
             {
@@ -446,11 +515,13 @@
         ]
     },
     "B0030": {
+        "authorityID": "CA0006114",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "現觀莊嚴論中八品七十義略解",
         "juans": "1",
+        "cjk_chars": "7512",
         "byline": "法尊述",
         "contributors": [
             {
@@ -460,11 +531,13 @@
         ]
     },
     "B0031": {
+        "authorityID": "CA0006115",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "現觀莊嚴論略釋",
         "juans": "4",
+        "cjk_chars": "44025",
         "byline": "彌勒造頌　法尊譯釋",
         "contributors": [
             {
@@ -478,11 +551,14 @@
         ]
     },
     "B0032": {
+        "authorityID": "CA0006116",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "七十空性論科攝",
         "juans": "1",
+        "cjk_chars": "8128",
+        "en_words": "2",
         "byline": "龍樹造　法尊譯　弘悲科攝",
         "contributors": [
             {
@@ -500,11 +576,13 @@
         ]
     },
     "B0033": {
+        "authorityID": "CA0006117",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "大乘修心七義論釋",
         "juans": "1",
+        "cjk_chars": "6468",
         "byline": "無著賢造　慧海等譯",
         "contributors": [
             {
@@ -518,11 +596,13 @@
         ]
     },
     "B0034": {
+        "authorityID": "CA0006118",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "辨法法性論",
         "juans": "1",
+        "cjk_chars": "1517",
         "byline": "彌勒造　法尊譯",
         "contributors": [
             {
@@ -536,11 +616,14 @@
         ]
     },
     "B0035": {
+        "authorityID": "CA0006119",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "西藏傳本攝大乘論",
         "juans": "1",
+        "cjk_chars": "7456",
+        "en_words": "9",
         "byline": "無著造　呂澂譯",
         "contributors": [
             {
@@ -554,11 +637,14 @@
         ]
     },
     "B0036": {
+        "authorityID": "CA0006120",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "三自性論",
         "juans": "1",
+        "cjk_chars": "1373",
+        "en_words": "38",
         "byline": "世親造　劉孝蘭譯",
         "contributors": [
             {
@@ -572,11 +658,14 @@
         ]
     },
     "B0037": {
+        "authorityID": "CA0006121",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "集量論釋略抄",
         "juans": "1",
+        "cjk_chars": "17151",
+        "en_words": "45",
         "byline": "呂澂輯",
         "contributors": [
             {
@@ -586,11 +675,14 @@
         ]
     },
     "B0038": {
+        "authorityID": "CA0006122",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "安慧三十唯識釋略抄",
         "juans": "1",
+        "cjk_chars": "9357",
+        "en_words": "8",
         "byline": "呂澂輯",
         "contributors": [
             {
@@ -600,11 +692,14 @@
         ]
     },
     "B0039": {
+        "authorityID": "CA0006123",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "觀所緣釋論會譯",
         "juans": "1",
+        "cjk_chars": "12178",
+        "en_words": "4",
         "byline": "呂澂．印滄編",
         "contributors": [
             {
@@ -618,11 +713,14 @@
         ]
     },
     "B0040": {
+        "authorityID": "CA0006124",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "集量論略解",
         "juans": "6",
+        "cjk_chars": "61691",
+        "en_words": "55",
         "byline": "陳那著　法尊譯編",
         "contributors": [
             {
@@ -636,11 +734,13 @@
         ]
     },
     "B0041": {
+        "authorityID": "CA0006125",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "正理滴論（譯自梵文本）",
         "juans": "1",
+        "cjk_chars": "5555",
         "byline": "法稱著　王森譯",
         "contributors": [
             {
@@ -654,11 +754,14 @@
         ]
     },
     "B0042": {
+        "authorityID": "CA0006126",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "正理滴論（譯自西藏文本）",
         "juans": "1",
+        "cjk_chars": "7601",
+        "en_words": "160",
         "byline": "法稱著　楊化群譯",
         "contributors": [
             {
@@ -672,11 +775,14 @@
         ]
     },
     "B0043": {
+        "authorityID": "CA0006127",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "釋量論略解",
         "juans": "9",
+        "cjk_chars": "161186",
+        "en_words": "3",
         "byline": "法稱著　僧成釋　法尊譯",
         "contributors": [
             {
@@ -694,11 +800,13 @@
         ]
     },
     "B0044": {
+        "authorityID": "CA0006128",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "入中論善顯密意疏",
         "juans": "14",
+        "cjk_chars": "134980",
         "byline": "宗喀巴造　法尊譯",
         "contributors": [
             {
@@ -712,11 +820,13 @@
         ]
     },
     "B0045": {
+        "authorityID": "CA0006129",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "入中論講記",
         "juans": "1",
+        "cjk_chars": "51476",
         "byline": "月稱造頌　法尊譯講",
         "contributors": [
             {
@@ -730,11 +840,13 @@
         ]
     },
     "B0046": {
+        "authorityID": "CA0006130",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "中論略義",
         "juans": "1",
+        "cjk_chars": "5037",
         "byline": "宗喀巴著　潭影譯",
         "contributors": [
             {
@@ -748,11 +860,14 @@
         ]
     },
     "B0047": {
+        "authorityID": "CA0006131",
         "vol": "B09",
         "type": "textbody",
         "category": "新編部類",
         "title": "中論文句釋",
         "juans": "1",
+        "cjk_chars": "31351",
+        "en_words": "62",
         "byline": "僧成釋　常浩譯",
         "contributors": [
             {
@@ -766,11 +881,13 @@
         ]
     },
     "B0048": {
+        "authorityID": "CA0006132",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "辨了不了義善說藏論",
         "juans": "5",
+        "cjk_chars": "56541",
         "byline": "宗喀巴造　法尊譯",
         "contributors": [
             {
@@ -784,11 +901,13 @@
         ]
     },
     "B0049": {
+        "authorityID": "CA0006133",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道炬論",
         "juans": "1",
+        "cjk_chars": "1488",
         "byline": "阿底霞造　超一譯",
         "contributors": [
             {
@@ -802,11 +921,13 @@
         ]
     },
     "B0050": {
+        "authorityID": "CA0006134",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "地道建立",
         "juans": "1",
+        "cjk_chars": "8922",
         "byline": "三寶無畏王造　法尊譯",
         "contributors": [
             {
@@ -820,11 +941,13 @@
         ]
     },
     "B0051": {
+        "authorityID": "CA0006135",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道次恒修教授",
         "juans": "1",
+        "cjk_chars": "4193",
         "byline": "札迦說　法尊譯",
         "contributors": [
             {
@@ -838,11 +961,13 @@
         ]
     },
     "B0052": {
+        "authorityID": "CA0006136",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "緣起讚",
         "juans": "1",
+        "cjk_chars": "1365",
         "byline": "宗喀巴著　法尊譯",
         "contributors": [
             {
@@ -856,11 +981,13 @@
         ]
     },
     "B0053": {
+        "authorityID": "CA0006137",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "集諸學頌",
         "juans": "1",
+        "cjk_chars": "569",
         "byline": "寂靜造　超一譯",
         "contributors": [
             {
@@ -874,11 +1001,13 @@
         ]
     },
     "B0054": {
+        "authorityID": "CA0006138",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道次第論攝頌",
         "juans": "1",
+        "cjk_chars": "1079",
         "byline": "宗喀巴造　超一譯",
         "contributors": [
             {
@@ -892,11 +1021,14 @@
         ]
     },
     "B0055": {
+        "authorityID": "CA0006139",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道次第論極略頌",
         "juans": "1",
+        "cjk_chars": "497",
+        "en_words": "2",
         "byline": "宗喀巴著　超一譯",
         "contributors": [
             {
@@ -910,11 +1042,13 @@
         ]
     },
     "B0056": {
+        "authorityID": "CA0006140",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "西藏法寶貫珠",
         "juans": "1",
+        "cjk_chars": "8566",
         "byline": "達瓦桑杜譯英　伊文思溫慈編註　趙洪鑄譯漢",
         "contributors": [
             {
@@ -932,11 +1066,13 @@
         ]
     },
     "B0057": {
+        "authorityID": "CA0006141",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "密宗道次第論",
         "juans": "5",
+        "cjk_chars": "46849",
         "byline": "克主著　法尊譯",
         "contributors": [
             {
@@ -950,11 +1086,14 @@
         ]
     },
     "B0058": {
+        "authorityID": "CA0006142",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "涅般道大手印瑜伽法要釋",
         "juans": "1",
+        "cjk_chars": "21490",
+        "en_words": "63",
         "byline": "白蓮花造　光明心譯",
         "contributors": [
             {
@@ -968,11 +1107,13 @@
         ]
     },
     "B0059": {
+        "authorityID": "CA0006143",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "明行道六成就法",
         "juans": "1",
+        "cjk_chars": "20147",
         "byline": "珀瑪迦爾著　張妙定蓮菩提金剛正譯",
         "contributors": [
             {
@@ -986,11 +1127,13 @@
         ]
     },
     "B0060": {
+        "authorityID": "CA0006144",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "頗哇心要轉識自在法",
         "juans": "1",
+        "cjk_chars": "4343",
         "byline": "達瓦桑杜譯英　伊文思溫慈纂集　張妙定蓮菩提金剛正譯漢",
         "contributors": [
             {
@@ -1008,11 +1151,13 @@
         ]
     },
     "B0061": {
+        "authorityID": "CA0006145",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "椎擊三要訣勝法解",
         "juans": "1",
+        "cjk_chars": "4553",
         "byline": "大善解功德主著　貢噶傳　滿空譯",
         "contributors": [
             {
@@ -1030,11 +1175,13 @@
         ]
     },
     "B0062": {
+        "authorityID": "CA0006146",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "貢噶上師恒河大手印直講",
         "juans": "1",
+        "cjk_chars": "8462",
         "byline": "貢噶講",
         "contributors": [
             {
@@ -1044,11 +1191,14 @@
         ]
     },
     "B0063": {
+        "authorityID": "CA0006147",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "大密妙義深道六法引導廣論纂要",
         "juans": "1",
+        "cjk_chars": "9420",
+        "en_words": "17",
         "byline": "吉祥造　鍾伯毅纂",
         "contributors": [
             {
@@ -1062,11 +1212,14 @@
         ]
     },
     "B0064": {
+        "authorityID": "CA0006148",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "大圓滿",
         "juans": "1",
+        "cjk_chars": "11194",
+        "en_words": "261",
         "byline": "郭元興著　慈威校註",
         "contributors": [
             {
@@ -1080,11 +1233,14 @@
         ]
     },
     "B0065": {
+        "authorityID": "CA0006149",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道次第略論",
         "juans": "6",
+        "cjk_chars": "108168",
+        "en_words": "1",
         "byline": "宗喀巴著　邢肅芝譯",
         "contributors": [
             {
@@ -1098,11 +1254,13 @@
         ]
     },
     "B0066": {
+        "authorityID": "CA0006150",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道次第直講",
         "juans": "6",
+        "cjk_chars": "39324",
         "byline": "宗喀巴著　大勇口譯　智湛筆錄",
         "contributors": [
             {
@@ -1120,11 +1278,14 @@
         ]
     },
     "B0067": {
+        "authorityID": "CA0006151",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "菩提道次第廣論",
         "juans": "24",
+        "cjk_chars": "230806",
+        "en_words": "1",
         "byline": "宗喀巴著　法尊譯",
         "contributors": [
             {
@@ -1138,11 +1299,13 @@
         ]
     },
     "B0068": {
+        "authorityID": "CA0006152",
         "vol": "B10",
         "type": "textbody",
         "category": "新編部類",
         "title": "密宗道次第廣論",
         "juans": "22",
+        "cjk_chars": "224744",
         "byline": "宗喀巴著　法尊譯",
         "contributors": [
             {
@@ -1156,11 +1319,13 @@
         ]
     },
     "B0069": {
+        "authorityID": "CA0006153",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "七系付法傳",
         "juans": "7",
+        "cjk_chars": "46879",
         "byline": "多羅那他著　郭元興譯",
         "contributors": [
             {
@@ -1174,11 +1339,13 @@
         ]
     },
     "B0070": {
+        "authorityID": "CA0006154",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "安樂妙寶",
         "juans": "1",
+        "cjk_chars": "15110",
         "byline": "金慧暢編",
         "contributors": [
             {
@@ -1188,11 +1355,13 @@
         ]
     },
     "B0071": {
+        "authorityID": "CA0006155",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "蓮華生大士應化史略",
         "juans": "15",
+        "cjk_chars": "34182",
         "byline": "諾那呼圖克圖逞列匠磋譯",
         "contributors": [
             {
@@ -1202,11 +1371,13 @@
         ]
     },
     "B0072": {
+        "authorityID": "CA0006156",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "阿底峽尊者傳",
         "juans": "5",
+        "cjk_chars": "32540",
         "byline": "法尊譯述",
         "contributors": [
             {
@@ -1216,11 +1387,13 @@
         ]
     },
     "B0073": {
+        "authorityID": "CA0006157",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "木納記",
         "juans": "29",
+        "cjk_chars": "104032",
         "byline": "惹穹多傑札把著　多傑譯述　張心若筆錄",
         "contributors": [
             {
@@ -1238,11 +1411,13 @@
         ]
     },
     "B0074": {
+        "authorityID": "CA0006158",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "宗喀巴大師傳",
         "juans": "5",
+        "cjk_chars": "36895",
         "byline": "法尊譯述",
         "contributors": [
             {
@@ -1252,11 +1427,13 @@
         ]
     },
     "B0075": {
+        "authorityID": "CA0006159",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "西藏王臣護法記",
         "juans": "26",
+        "cjk_chars": "97727",
         "byline": "第五世達賴喇嘛著　郭和卿譯",
         "contributors": [
             {
@@ -1270,11 +1447,14 @@
         ]
     },
     "B0076": {
+        "authorityID": "CA0006160",
         "vol": "B11",
         "type": "textbody",
         "category": "新編部類",
         "title": "印度佛教史",
         "juans": "44",
+        "cjk_chars": "38917",
+        "en_words": "82",
         "byline": "達喇那他著　王沂暖譯",
         "contributors": [
             {
@@ -1288,11 +1468,14 @@
         ]
     },
     "B0077": {
+        "authorityID": "CA0006161",
         "vol": "B12",
         "type": "textbody",
         "category": "新編部類",
         "title": "洛陽伽藍記校釋",
         "juans": "5",
+        "cjk_chars": "126741",
+        "en_words": "292",
         "byline": "楊衒之著　周祖謨校釋",
         "contributors": [
             {
@@ -1306,11 +1489,14 @@
         ]
     },
     "B0078": {
+        "authorityID": "CA0006162",
         "vol": "B12",
         "type": "textbody",
         "category": "新編部類",
         "title": "洛陽伽藍記校注",
         "juans": "5",
+        "cjk_chars": "102482",
+        "en_words": "28",
         "byline": "楊衒之著　范祥雍校注",
         "contributors": [
             {
@@ -1324,11 +1510,13 @@
         ]
     },
     "B0079": {
+        "authorityID": "CA0006163",
         "vol": "B13",
         "type": "textbody",
         "category": "新編部類",
         "title": "釋氏六帖",
         "juans": "24",
+        "cjk_chars": "557819",
         "byline": "義楚集",
         "contributors": [
             {
@@ -1338,11 +1526,14 @@
         ]
     },
     "B0080": {
+        "authorityID": "CA0006164",
         "vol": "B13",
         "type": "textbody",
         "category": "新編部類",
         "title": "大唐西域記（校點本）",
         "juans": "12",
+        "cjk_chars": "109380",
+        "en_words": "8",
         "byline": "玄奘口述　辯機編纂",
         "contributors": [
             {
@@ -1356,11 +1547,13 @@
         ]
     },
     "B0081": {
+        "authorityID": "CA0006165",
         "vol": "B14",
         "type": "textbody",
         "category": "新編部類",
         "title": "雙峰山曹侯溪寶林傳（殘卷）",
         "juans": "7",
+        "cjk_chars": "72010",
         "byline": "智炬著",
         "contributors": [
             {
@@ -1370,11 +1563,13 @@
         ]
     },
     "B0082": {
+        "authorityID": "CA0006166",
         "vol": "B14",
         "type": "textbody",
         "category": "新編部類",
         "title": "傳燈玉英集（殘卷）",
         "juans": "9",
+        "cjk_chars": "93269",
         "byline": "王隨編",
         "contributors": [
             {
@@ -1384,17 +1579,20 @@
         ]
     },
     "B0083": {
+        "authorityID": "CA0006167",
         "vol": "B14",
         "type": "textbody",
         "alt": "JB118",
         "title": "密藏開禪師遺稿"
     },
     "B0084": {
+        "authorityID": "CA0006168",
         "vol": "B14",
         "type": "textbody",
         "category": "新編部類",
         "title": "藏逸經書標目",
         "juans": "1",
+        "cjk_chars": "5113",
         "byline": "密藏編",
         "contributors": [
             {
@@ -1404,11 +1602,13 @@
         ]
     },
     "B0085": {
+        "authorityID": "CA0006169",
         "vol": "B14",
         "type": "textbody",
         "category": "新編部類",
         "title": "憨山大師年譜疏註",
         "juans": "2",
+        "cjk_chars": "60081",
         "byline": "福善記錄　福徵述疏",
         "contributors": [
             {
@@ -1422,11 +1622,13 @@
         ]
     },
     "B0086": {
+        "authorityID": "CA0006170",
         "vol": "B14",
         "type": "textbody",
         "category": "新編部類",
         "title": "南朝寺考",
         "juans": "1",
+        "cjk_chars": "55693",
         "byline": "劉世珩著",
         "contributors": [
             {
@@ -1436,11 +1638,13 @@
         ]
     },
     "B0087": {
+        "authorityID": "CA0006171",
         "vol": "B14",
         "type": "textbody",
         "category": "新編部類",
         "title": "合訂天台三聖二和詩集",
         "juans": "1",
+        "cjk_chars": "52854",
         "byline": "寒山．豐干．拾得原詩　梵琦．濟岳和",
         "contributors": [
             {
@@ -1466,18 +1670,22 @@
         ]
     },
     "B0088": {
+        "authorityID": "CA0006172",
         "vol": "B15..B16",
         "type": "textbody",
         "category": "新編部類",
         "title": "古今圖書集成選輯",
-        "juans": "158"
+        "juans": "158",
+        "cjk_chars": "2106564"
     },
     "B0089": {
+        "authorityID": "CA0006173",
         "vol": "B17",
         "type": "textbody",
         "category": "新編部類",
         "title": "太平廣記選輯（卷八十七～一三四）",
         "juans": "48",
+        "cjk_chars": "161946",
         "byline": "李昉等編纂",
         "contributors": [
             {
@@ -1487,11 +1695,14 @@
         ]
     },
     "B0090": {
+        "authorityID": "CA0006174",
         "vol": "B17",
         "type": "textbody",
         "category": "新編部類",
         "title": "酉陽雜俎選輯（前集、續集等六篇）",
         "juans": "6",
+        "cjk_chars": "21842",
+        "en_words": "209",
         "byline": "段成式著",
         "contributors": [
             {
@@ -1501,25 +1712,31 @@
         ]
     },
     "B0091": {
+        "authorityID": "CA0006175",
         "vol": "B17",
         "type": "textbody",
         "category": "新編部類",
         "title": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
-        "juans": "10"
+        "juans": "10",
+        "cjk_chars": "52988"
     },
     "B0092": {
+        "authorityID": "CA0006176",
         "vol": "B17",
         "type": "textbody",
         "category": "新編部類",
         "title": "唐會要、五代會要、明書、明會典選輯",
-        "juans": "8"
+        "juans": "8",
+        "cjk_chars": "34738"
     },
     "B0093": {
+        "authorityID": "CA0006177",
         "vol": "B17",
         "type": "textbody",
         "category": "新編部類",
         "title": "象教皮編（六卷全）",
         "juans": "6",
+        "cjk_chars": "68316",
         "byline": "陳士元編",
         "contributors": [
             {
@@ -1529,11 +1746,13 @@
         ]
     },
     "B0094": {
+        "authorityID": "CA0006178",
         "vol": "B17",
         "type": "textbody",
         "category": "新編部類",
         "title": "冊府元龜選輯",
         "juans": "4",
+        "cjk_chars": "26108",
         "byline": "王欽若、楊億等著",
         "contributors": [
             {
@@ -1547,11 +1766,14 @@
         ]
     },
     "B0095": {
+        "authorityID": "CA0006179",
         "vol": "B18",
         "type": "textbody",
         "category": "新編部類",
         "title": "入唐求法巡禮行記",
         "juans": "4",
+        "cjk_chars": "84137",
+        "en_words": "2",
         "byline": "圓仁著",
         "contributors": [
             {
@@ -1561,18 +1783,22 @@
         ]
     },
     "B0096": {
+        "authorityID": "CA0006180",
         "vol": "B18",
         "type": "textbody",
         "category": "新編部類",
         "title": "佛教繪畫史料",
-        "juans": "6"
+        "juans": "6",
+        "cjk_chars": "19998"
     },
     "B0097": {
+        "authorityID": "CA0006181",
         "vol": "B18",
         "type": "textbody",
         "category": "新編部類",
         "title": "歸元鏡",
         "juans": "2",
+        "cjk_chars": "48085",
         "byline": "智達著",
         "contributors": [
             {
@@ -1582,11 +1808,13 @@
         ]
     },
     "B0098": {
+        "authorityID": "CA0006182",
         "vol": "B18",
         "type": "textbody",
         "category": "新編部類",
         "title": "高旻寺規約",
         "juans": "3",
+        "cjk_chars": "196676",
         "byline": "來果著",
         "contributors": [
             {
@@ -1596,11 +1824,13 @@
         ]
     },
     "B0099": {
+        "authorityID": "CA0006183",
         "vol": "B18",
         "type": "textbody",
         "category": "新編部類",
         "title": "相宗絡索",
         "juans": "1",
+        "cjk_chars": "17000",
         "byline": "王夫之著",
         "contributors": [
             {
@@ -1610,17 +1840,21 @@
         ]
     },
     "B0100": {
+        "authorityID": "CA0006184",
         "vol": "B18",
         "type": "textbody",
         "alt": "JB325",
         "title": "解惑編"
     },
     "B0101": {
+        "authorityID": "CA0006185",
         "vol": "B18",
         "type": "textbody",
         "category": "新編部類",
         "title": "絕觀論",
         "juans": "1",
+        "cjk_chars": "5248",
+        "en_words": "15",
         "byline": "菩提達磨（？）著",
         "contributors": [
             {
@@ -1630,17 +1864,20 @@
         ]
     },
     "B0102": {
+        "authorityID": "CA0006186",
         "vol": "B18",
         "type": "textbody",
         "alt": "JB090",
         "title": "續原教論"
     },
     "B0103": {
+        "authorityID": "CA0006187",
         "vol": "B19",
         "type": "textbody",
         "category": "新編部類",
         "title": "禪林象器箋",
         "juans": "30",
+        "cjk_chars": "420406",
         "byline": "無著道忠著",
         "contributors": [
             {
@@ -1650,83 +1887,97 @@
         ]
     },
     "B0104": {
+        "authorityID": "CA0006188",
         "vol": "B20",
         "type": "textbody",
         "alt": "P1612",
         "title": "諸佛世尊如來菩薩尊者名稱歌曲"
     },
     "B0105": {
+        "authorityID": "CA0006189",
         "vol": "B20",
         "type": "textbody",
         "alt": "JB097",
         "title": "天樂鳴空集"
     },
     "B0106": {
+        "authorityID": "CA0006190",
         "vol": "B20",
         "type": "textbody",
         "alt": "JB098",
         "title": "黃蘗無念禪師復問"
     },
     "B0107": {
+        "authorityID": "CA0006191",
         "vol": "B20",
         "type": "textbody",
         "alt": "L1651",
         "title": "南宋江陰軍乾明院羅漢尊號碑"
     },
     "B0108": {
+        "authorityID": "CA0006192",
         "vol": "B20",
         "type": "textbody",
         "alt": "X1235",
         "title": "寂音尊者智證傳"
     },
     "B0109": {
+        "authorityID": "CA0006193",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB135",
         "title": "石門文字禪"
     },
     "B0110": {
+        "authorityID": "CA0006194",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB127",
         "title": "無依道人錄"
     },
     "B0111": {
+        "authorityID": "CA0006195",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB128",
         "title": "普明禪師牧牛圖頌"
     },
     "B0112": {
+        "authorityID": "CA0006196",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB129",
         "title": "牧牛圖頌"
     },
     "B0113": {
+        "authorityID": "CA0006197",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB295",
         "title": "學佛考訓"
     },
     "B0114": {
+        "authorityID": "CA0006198",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB298",
         "title": "艸峰憲禪師語錄"
     },
     "B0115": {
+        "authorityID": "CA0006199",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB299",
         "title": "三峰藏和尚語錄"
     },
     "B0116": {
+        "authorityID": "CA0006200",
         "vol": "B21",
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛般若波羅蜜經集註",
         "juans": "1",
+        "cjk_chars": "78020",
         "byline": "明成祖朱棣集註",
         "contributors": [
             {
@@ -1736,11 +1987,14 @@
         ]
     },
     "B0117": {
+        "authorityID": "CA0006201",
         "vol": "B22",
         "type": "textbody",
         "category": "新編部類",
         "title": "三藏法數",
         "juans": "38",
+        "cjk_chars": "555886",
+        "en_words": "24474",
         "byline": "一如等編　丁福保重校",
         "contributors": [
             {
@@ -1754,11 +2008,13 @@
         ]
     },
     "B0118": {
+        "authorityID": "CA0006202",
         "vol": "B22",
         "type": "textbody",
         "category": "新編部類",
         "title": "律宗燈譜",
         "juans": "8",
+        "cjk_chars": "66183",
         "byline": "源諒著　劉霞彩編",
         "contributors": [
             {
@@ -1772,11 +2028,13 @@
         ]
     },
     "B0119": {
+        "authorityID": "CA0006203",
         "vol": "B22",
         "type": "textbody",
         "category": "新編部類",
         "title": "天然和尚年譜",
         "juans": "1",
+        "cjk_chars": "42192",
         "byline": "汪宗衍著",
         "contributors": [
             {
@@ -1786,6 +2044,7 @@
         ]
     },
     "B0120": {
+        "authorityID": "CA0006204",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
@@ -1793,54 +2052,63 @@
         "juans": "3"
     },
     "B0121": {
+        "authorityID": "CA0006205",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "雲棲大師塔銘"
     },
     "B0122": {
+        "authorityID": "CA0006206",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "雲棲紀事"
     },
     "B0123": {
+        "authorityID": "CA0006207",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "竹窗隨筆"
     },
     "B0124": {
+        "authorityID": "CA0006208",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "竹窗二筆"
     },
     "B0125": {
+        "authorityID": "CA0006209",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "竹窗三筆"
     },
     "B0126": {
+        "authorityID": "CA0006210",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "正訛集"
     },
     "B0127": {
+        "authorityID": "CA0006211",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "雲棲共住規約"
     },
     "B0128": {
+        "authorityID": "CA0006212",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
         "title": "直道錄"
     },
     "B0129": {
+        "authorityID": "CA0006213",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
@@ -1848,6 +2116,7 @@
         "juans": "2"
     },
     "B0130": {
+        "authorityID": "CA0006214",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB348+JB120+X1641+選錄",
@@ -1863,11 +2132,13 @@
         ]
     },
     "B0131": {
+        "authorityID": "CA0006216",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "法海觀瀾",
         "juans": "5",
+        "cjk_chars": "55835",
         "byline": "智旭輯",
         "contributors": [
             {
@@ -1877,11 +2148,13 @@
         ]
     },
     "B0132": {
+        "authorityID": "CA0006217",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "尚直編",
         "juans": "2",
+        "cjk_chars": "25346",
         "byline": "空谷景隆著",
         "contributors": [
             {
@@ -1891,11 +2164,13 @@
         ]
     },
     "B0133": {
+        "authorityID": "CA0006218",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "尚理編",
         "juans": "1",
+        "cjk_chars": "8236",
         "byline": "空谷景隆著",
         "contributors": [
             {
@@ -1905,6 +2180,7 @@
         ]
     },
     "B0134": {
+        "authorityID": "CA0006219",
         "vol": "B24",
         "type": "textbody",
         "alt": "JB120+B0130+選錄",
@@ -1919,11 +2195,13 @@
         ]
     },
     "B0135": {
+        "authorityID": "CA0006221",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "蒲室集",
         "juans": "15",
+        "cjk_chars": "106400",
         "byline": "笑隱大訢著",
         "contributors": [
             {
@@ -1933,11 +2211,13 @@
         ]
     },
     "B0136": {
+        "authorityID": "CA0006222",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "選佛譜",
         "juans": "6",
+        "cjk_chars": "61038",
         "byline": "智旭著",
         "contributors": [
             {
@@ -1947,11 +2227,13 @@
         ]
     },
     "B0137": {
+        "authorityID": "CA0006223",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "正名錄",
         "juans": "14",
+        "cjk_chars": "137397",
         "byline": "智楷著",
         "contributors": [
             {
@@ -1961,16 +2243,19 @@
         ]
     },
     "B0138": {
+        "authorityID": "CA0008618",
         "alt": "GA0062",
         "category": "新編部類",
         "title": "開元寺志"
     },
     "B0139": {
+        "authorityID": "CA0006224",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "獻花巖志",
         "juans": "1",
+        "cjk_chars": "8753",
         "byline": "陳沂著",
         "contributors": [
             {
@@ -1980,11 +2265,13 @@
         ]
     },
     "B0140": {
+        "authorityID": "CA0006225",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "雪峰志",
         "juans": "10",
+        "cjk_chars": "49225",
         "byline": "徐𤊹纂輯",
         "contributors": [
             {
@@ -1994,11 +2281,13 @@
         ]
     },
     "B0141": {
+        "authorityID": "CA0006226",
         "vol": "B24",
         "type": "textbody",
         "category": "新編部類",
         "title": "嵩山少林寺輯志",
         "juans": "11",
+        "cjk_chars": "115827",
         "byline": "輯自傅梅撰《嵩書》",
         "contributors": [
             {
@@ -2008,11 +2297,14 @@
         ]
     },
     "B0142": {
+        "authorityID": "CA0006227",
         "vol": "B25",
         "type": "textbody",
         "category": "新編部類",
         "title": "新校定的敦煌寫本神會和尚遺著兩種",
         "juans": "1",
+        "cjk_chars": "36347",
+        "en_words": "120",
         "byline": "胡適校定",
         "contributors": [
             {
@@ -2022,11 +2314,14 @@
         ]
     },
     "B0143": {
+        "authorityID": "CA0006228",
         "vol": "B25",
         "type": "textbody",
         "category": "新編部類",
         "title": "神會和尚語錄的第三個敦煌寫本：南陽和尚問答雜徵義（劉澄集）",
         "juans": "1",
+        "cjk_chars": "16853",
+        "en_words": "129",
         "byline": "胡適校定",
         "contributors": [
             {
@@ -2036,11 +2331,13 @@
         ]
     },
     "B0144": {
+        "authorityID": "CA0006229",
         "vol": "B25",
         "type": "textbody",
         "category": "新編部類",
         "title": "祖堂集",
         "juans": "20",
+        "cjk_chars": "191288",
         "byline": "靜、筠二禪德編著",
         "contributors": [
             {
@@ -2054,11 +2351,13 @@
         ]
     },
     "B0145": {
+        "authorityID": "CA0006230",
         "vol": "B25",
         "type": "textbody",
         "category": "新編部類",
         "title": "天目中峰廣錄",
         "juans": "30",
+        "cjk_chars": "210485",
         "byline": "中峰明本著",
         "contributors": [
             {
@@ -2068,18 +2367,23 @@
         ]
     },
     "B0146": {
+        "authorityID": "CA0006231",
         "vol": "B26",
         "type": "textbody",
         "category": "新編部類",
         "title": "房山雲居寺石經──經文、題記、碑銘等拓片之選輯",
-        "juans": "5"
+        "juans": "5",
+        "cjk_chars": "48488"
     },
     "B0147": {
+        "authorityID": "CA0006232",
         "vol": "B26",
         "type": "textbody",
         "category": "新編部類",
         "title": "三階教殘卷",
         "juans": "17",
+        "cjk_chars": "170419",
+        "en_words": "23",
         "byline": "矢吹慶輝輯",
         "contributors": [
             {
@@ -2089,11 +2393,13 @@
         ]
     },
     "B0148": {
+        "authorityID": "CA0006233",
         "vol": "B26",
         "type": "textbody",
         "category": "新編部類",
         "title": "東坡禪喜集",
         "juans": "9",
+        "cjk_chars": "36314",
         "byline": "徐長孺輯",
         "contributors": [
             {
@@ -2103,11 +2409,13 @@
         ]
     },
     "B0149": {
+        "authorityID": "CA0006234",
         "vol": "B26",
         "type": "textbody",
         "category": "新編部類",
         "title": "鳴道集說",
         "juans": "5",
+        "cjk_chars": "36231",
         "byline": "李屏山著",
         "contributors": [
             {
@@ -2117,6 +2425,7 @@
         ]
     },
     "B0150": {
+        "authorityID": "CA0006235",
         "vol": "B26",
         "type": "textbody",
         "alt": "JB091+選錄",
@@ -2132,11 +2441,13 @@
         ]
     },
     "B0151": {
+        "authorityID": "CA0006237",
         "vol": "B27",
         "type": "textbody",
         "category": "新編部類",
         "title": "新續高僧傳",
         "juans": "65",
+        "cjk_chars": "389633",
         "byline": "喻謙著",
         "contributors": [
             {
@@ -2146,11 +2457,13 @@
         ]
     },
     "B0152": {
+        "authorityID": "CA0006238",
         "vol": "B27",
         "type": "textbody",
         "category": "新編部類",
         "title": "普濟玉琳國師語錄",
         "juans": "14",
+        "cjk_chars": "141450",
         "byline": "音緯等編",
         "contributors": [
             {
@@ -2160,11 +2473,13 @@
         ]
     },
     "B0153": {
+        "authorityID": "CA0006239",
         "vol": "B27",
         "type": "textbody",
         "category": "新編部類",
         "title": "法藏碎金錄",
         "juans": "10",
+        "cjk_chars": "98593",
         "byline": "晁逈著",
         "contributors": [
             {
@@ -2174,17 +2489,20 @@
         ]
     },
     "B0154": {
+        "authorityID": "CA0006240",
         "vol": "B28",
         "type": "textbody",
         "alt": "JB110",
         "title": "宋文憲公護法錄"
     },
     "B0155": {
+        "authorityID": "CA0006241",
         "vol": "B28",
         "type": "textbody",
         "category": "新編部類",
         "title": "聖朝破邪集",
         "juans": "8",
+        "cjk_chars": "90538",
         "byline": "徐昌治編",
         "contributors": [
             {
@@ -2194,11 +2512,14 @@
         ]
     },
     "B0156": {
+        "authorityID": "CA0006242",
         "vol": "B28",
         "type": "textbody",
         "category": "新編部類",
         "title": "佛法金湯",
         "juans": "3",
+        "cjk_chars": "29306",
+        "en_words": "1",
         "byline": "屠隆著",
         "contributors": [
             {
@@ -2208,11 +2529,13 @@
         ]
     },
     "B0157": {
+        "authorityID": "CA0006243",
         "vol": "B28",
         "type": "textbody",
         "category": "新編部類",
         "title": "楊仁山居士遺書",
         "juans": "24",
+        "cjk_chars": "213074",
         "byline": "楊文會著",
         "contributors": [
             {
@@ -2222,11 +2545,13 @@
         ]
     },
     "B0158": {
+        "authorityID": "CA0006244",
         "vol": "B28",
         "type": "textbody",
         "category": "新編部類",
         "title": "陰騭文圖",
         "juans": "1",
+        "cjk_chars": "25982",
         "byline": "費丹旭繪圖　許光清集證",
         "contributors": [
             {
@@ -2240,11 +2565,13 @@
         ]
     },
     "B0159": {
+        "authorityID": "CA0006245",
         "vol": "B28",
         "type": "textbody",
         "category": "新編部類",
         "title": "了凡四訓",
         "juans": "1",
+        "cjk_chars": "30566",
         "byline": "袁了凡著",
         "contributors": [
             {
@@ -2254,11 +2581,13 @@
         ]
     },
     "B0160": {
+        "authorityID": "CA0006246",
         "vol": "B29",
         "type": "textbody",
         "category": "新編部類",
         "title": "金陵梵剎志",
         "juans": "53",
+        "cjk_chars": "359621",
         "byline": "葛寅亮著",
         "contributors": [
             {
@@ -2268,11 +2597,13 @@
         ]
     },
     "B0161": {
+        "authorityID": "CA0006247",
         "vol": "B29",
         "type": "textbody",
         "category": "新編部類",
         "title": "武林梵志",
         "juans": "12",
+        "cjk_chars": "172789",
         "byline": "吳之鯨著",
         "contributors": [
             {
@@ -2282,17 +2613,20 @@
         ]
     },
     "B0162": {
+        "authorityID": "CA0006248",
         "vol": "B29",
         "type": "textbody",
         "alt": "GA0086",
         "title": "黃檗山志"
     },
     "B0163": {
+        "authorityID": "CA0006249",
         "vol": "B30",
         "type": "textbody",
         "category": "新編部類",
         "title": "重修曹溪通志",
         "juans": "8",
+        "cjk_chars": "121808",
         "byline": "馬元、釋真樸重修",
         "contributors": [
             {
@@ -2306,48 +2640,58 @@
         ]
     },
     "B0164": {
+        "authorityID": "CA0006250",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0009",
         "title": "普陀洛迦新志"
     },
     "B0165": {
+        "authorityID": "CA0006251",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0081",
         "title": "清涼山志"
     },
     "B0166": {
+        "authorityID": "CA0006252",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0077",
         "title": "九華山志"
     },
     "B0167": {
+        "authorityID": "CA0006253",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0049",
         "title": "峨眉山志"
     },
     "B0168": {
+        "authorityID": "CA0006254",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0089",
         "title": "天台山方外志"
     },
     "B0169": {
+        "authorityID": "CA0006255",
         "vol": "B31",
         "type": "textbody",
         "category": "新編部類",
         "title": "朝鮮寺剎史料",
-        "juans": "2"
+        "juans": "2",
+        "cjk_chars": "317407"
     },
     "B0170": {
+        "authorityID": "CA0006256",
         "vol": "B31",
         "type": "textbody",
         "category": "新編部類",
         "title": "朝鮮佛教通史",
         "juans": "3",
+        "cjk_chars": "905520",
+        "en_words": "91",
         "byline": "李能和著",
         "contributors": [
             {
@@ -2357,11 +2701,13 @@
         ]
     },
     "B0171": {
+        "authorityID": "CA0006257",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "八宗綱要鈔",
         "juans": "2",
+        "cjk_chars": "25499",
         "byline": "凝然述",
         "contributors": [
             {
@@ -2371,11 +2717,14 @@
         ]
     },
     "B0172": {
+        "authorityID": "CA0006258",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "出定後語",
         "juans": "2",
+        "cjk_chars": "30042",
+        "en_words": "25",
         "byline": "富永仲基著",
         "contributors": [
             {
@@ -2385,11 +2734,14 @@
         ]
     },
     "B0173": {
+        "authorityID": "CA0006259",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "元亨釋書",
         "juans": "30",
+        "cjk_chars": "232628",
+        "en_words": "438",
         "byline": "師鍊著",
         "contributors": [
             {
@@ -2399,11 +2751,14 @@
         ]
     },
     "B0174": {
+        "authorityID": "CA0006260",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "參天台五台山記",
         "juans": "8",
+        "cjk_chars": "108871",
+        "en_words": "9",
         "byline": "成尋著",
         "contributors": [
             {
@@ -2413,11 +2768,14 @@
         ]
     },
     "B0175": {
+        "authorityID": "CA0006261",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "喫茶養生記",
         "juans": "2",
+        "cjk_chars": "10202",
+        "en_words": "1",
         "byline": "榮西著",
         "contributors": [
             {
@@ -2427,11 +2785,14 @@
         ]
     },
     "B0176": {
+        "authorityID": "CA0006262",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "四宗要文",
         "juans": "3",
+        "cjk_chars": "44098",
+        "en_words": "1",
         "byline": "日朝著　英園纂補",
         "contributors": [
             {
@@ -2445,11 +2806,14 @@
         ]
     },
     "B0177": {
+        "authorityID": "CA0006263",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "本朝諸宗要集",
         "juans": "5",
+        "cjk_chars": "51522",
+        "en_words": "1",
         "byline": "義觀述",
         "contributors": [
             {
@@ -2459,18 +2823,24 @@
         ]
     },
     "B0178": {
+        "authorityID": "CA0006264",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "東大寺六宗未決義",
-        "juans": "1"
+        "juans": "1",
+        "cjk_chars": "3563",
+        "en_words": "1"
     },
     "B0179": {
+        "authorityID": "CA0006265",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "八海含藏",
         "juans": "1",
+        "cjk_chars": "2265",
+        "en_words": "1",
         "byline": "師鍊著",
         "contributors": [
             {
@@ -2480,11 +2850,14 @@
         ]
     },
     "B0180": {
+        "authorityID": "CA0006266",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "華嚴通關",
         "juans": "1",
+        "cjk_chars": "7579",
+        "en_words": "1",
         "byline": "定仙著",
         "contributors": [
             {
@@ -2494,11 +2867,14 @@
         ]
     },
     "B0181": {
+        "authorityID": "CA0006267",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "諸宗教理同異釋",
         "juans": "1",
+        "cjk_chars": "9292",
+        "en_words": "1",
         "byline": "賴瑜釋",
         "contributors": [
             {
@@ -2508,11 +2884,14 @@
         ]
     },
     "B0182": {
+        "authorityID": "CA0006268",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "內典塵露章",
         "juans": "1",
+        "cjk_chars": "13404",
+        "en_words": "1",
         "byline": "凝然述",
         "contributors": [
             {
@@ -2522,11 +2901,14 @@
         ]
     },
     "B0183": {
+        "authorityID": "CA0006269",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "禪祖念佛集",
         "juans": "2",
+        "cjk_chars": "22423",
+        "en_words": "1",
         "byline": "慧中集",
         "contributors": [
             {
@@ -2536,11 +2918,14 @@
         ]
     },
     "B0184": {
+        "authorityID": "CA0006270",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "顯揚正法復古集",
         "juans": "2",
+        "cjk_chars": "48255",
+        "en_words": "1",
         "byline": "普寂著",
         "contributors": [
             {
@@ -2550,11 +2935,14 @@
         ]
     },
     "B0185": {
+        "authorityID": "CA0006271",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "初學題額集",
         "juans": "3",
+        "cjk_chars": "79998",
+        "en_words": "1",
         "byline": "良山集",
         "contributors": [
             {
@@ -2564,11 +2952,13 @@
         ]
     },
     "B0186": {
+        "authorityID": "CA0006272",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "三國佛法傳通緣起",
         "juans": "3",
+        "cjk_chars": "23586",
         "byline": "凝然述",
         "contributors": [
             {
@@ -2578,11 +2968,14 @@
         ]
     },
     "B0187": {
+        "authorityID": "CA0006273",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "二障義",
         "juans": "1",
+        "cjk_chars": "26652",
+        "en_words": "1",
         "byline": "元曉著",
         "contributors": [
             {
@@ -2592,17 +2985,20 @@
         ]
     },
     "B0188": {
+        "authorityID": "CA0006274",
         "vol": "B32",
         "type": "textbody",
         "alt": "X0860",
         "title": "判比量論"
     },
     "B0189": {
+        "authorityID": "CA0006275",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "大華嚴一乘法界圖註并序",
         "juans": "1",
+        "cjk_chars": "4389",
         "byline": "雪岑著",
         "contributors": [
             {
@@ -2612,11 +3008,13 @@
         ]
     },
     "B0190": {
+        "authorityID": "CA0006276",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "華嚴經釋題",
         "juans": "1",
+        "cjk_chars": "6045",
         "byline": "雪岑著",
         "contributors": [
             {
@@ -2626,11 +3024,13 @@
         ]
     },
     "B0191": {
+        "authorityID": "CA0006277",
         "vol": "B32",
         "type": "textbody",
         "category": "新編部類",
         "title": "義相法師法性偈",
         "juans": "1",
+        "cjk_chars": "2310",
         "byline": "有聞科註　聖奎證正",
         "contributors": [
             {
@@ -2644,11 +3044,13 @@
         ]
     },
     "B0192": {
+        "authorityID": "CA0006278",
         "vol": "B33",
         "type": "textbody",
         "category": "新編部類",
         "title": "釋文紀",
         "juans": "45",
+        "cjk_chars": "554181",
         "byline": "梅鼎祚輯",
         "contributors": [
             {
@@ -2658,11 +3060,13 @@
         ]
     },
     "B0193": {
+        "authorityID": "CA0006279",
         "vol": "B34",
         "type": "textbody",
         "category": "新編部類",
         "title": "吳都法乘",
         "juans": "30",
+        "cjk_chars": "778988",
         "byline": "周永年編",
         "contributors": [
             {
@@ -2672,11 +3076,14 @@
         ]
     },
     "B0194": {
+        "authorityID": "CA0006280",
         "vol": "B35",
         "type": "textbody",
         "category": "新編部類",
         "title": "中華大藏經總目錄",
         "juans": "8",
+        "cjk_chars": "300421",
+        "en_words": "8982",
         "byline": "蔡念生編",
         "contributors": [
             {
@@ -2686,11 +3093,14 @@
         ]
     },
     "B0195": {
+        "authorityID": "CA0006281",
         "vol": "B35",
         "type": "textbody",
         "category": "新編部類",
         "title": "頓悟大乘政理決",
         "juans": "1",
+        "cjk_chars": "19297",
+        "en_words": "355",
         "byline": "王錫著",
         "contributors": [
             {
@@ -2700,18 +3110,24 @@
         ]
     },
     "B0196": {
+        "authorityID": "CA0006282",
         "vol": "B35",
         "type": "textbody",
         "category": "新編部類",
         "title": "大乘中宗見解",
-        "juans": "1"
+        "juans": "1",
+        "cjk_chars": "3143",
+        "en_words": "2770"
     },
     "B0197": {
+        "authorityID": "CA0006283",
         "vol": "B36",
         "type": "textbody",
         "category": "新編部類",
         "title": "摩訶婆羅多的故事",
         "juans": "1",
+        "cjk_chars": "185323",
+        "en_words": "342",
         "byline": "拉賈戈帕拉查理改寫　唐季雍譯　金克木校",
         "contributors": [
             {
@@ -2725,11 +3141,14 @@
         ]
     },
     "B0198": {
+        "authorityID": "CA0006284",
         "vol": "B36",
         "type": "textbody",
         "category": "新編部類",
         "title": "博伽梵歌",
         "juans": "18",
+        "cjk_chars": "378125",
+        "en_words": "23158",
         "byline": "雅蘇瑪蒂書達．踏薩譯",
         "contributors": [
             {
@@ -2739,10 +3158,12 @@
         ]
     },
     "Ba001": {
+        "authorityID": "CA0008573",
         "vol": "B00",
         "type": "textbody",
         "title": "出版說明",
         "juans": "1",
+        "cjk_chars": "2082",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2752,10 +3173,13 @@
         ]
     },
     "Ba002": {
+        "authorityID": "CA0008574",
         "vol": "B00",
         "type": "textbody",
         "title": "全書內容簡介",
         "juans": "1",
+        "cjk_chars": "21635",
+        "en_words": "18",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2765,10 +3189,12 @@
         ]
     },
     "Ba003": {
+        "authorityID": "CA0008575",
         "vol": "B03",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "1659",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2778,10 +3204,12 @@
         ]
     },
     "Ba004": {
+        "authorityID": "CA0008576",
         "vol": "B06",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "746",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2791,10 +3219,12 @@
         ]
     },
     "Ba005": {
+        "authorityID": "CA0008577",
         "vol": "B07",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "561",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2804,10 +3234,12 @@
         ]
     },
     "Ba006": {
+        "authorityID": "CA0008578",
         "vol": "B08",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "467",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2817,10 +3249,13 @@
         ]
     },
     "Ba007": {
+        "authorityID": "CA0008579",
         "vol": "B09",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "605",
+        "en_words": "2",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2830,10 +3265,12 @@
         ]
     },
     "Ba008": {
+        "authorityID": "CA0008580",
         "vol": "B10",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "613",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2843,10 +3280,12 @@
         ]
     },
     "Ba009": {
+        "authorityID": "CA0008581",
         "vol": "B11",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "627",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2856,10 +3295,13 @@
         ]
     },
     "Ba010": {
+        "authorityID": "CA0008582",
         "vol": "B12",
         "type": "textbody",
         "title": "洛陽伽藍記解題",
         "juans": "1",
+        "cjk_chars": "1643",
+        "en_words": "1",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2869,10 +3311,12 @@
         ]
     },
     "Ba011": {
+        "authorityID": "CA0008583",
         "vol": "B13",
         "type": "textbody",
         "title": "釋氏六帖解題",
         "juans": "1",
+        "cjk_chars": "814",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2882,10 +3326,13 @@
         ]
     },
     "Ba012": {
+        "authorityID": "CA0008584",
         "vol": "B13",
         "type": "textbody",
         "title": "大唐西域記解題",
         "juans": "1",
+        "cjk_chars": "2063",
+        "en_words": "41",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2895,10 +3342,12 @@
         ]
     },
     "Ba013": {
+        "authorityID": "CA0008585",
         "vol": "B14",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "590",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2908,10 +3357,12 @@
         ]
     },
     "Ba014": {
+        "authorityID": "CA0008586",
         "vol": "B15",
         "type": "textbody",
         "title": "編輯說明（上）",
         "juans": "1",
+        "cjk_chars": "878",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2921,10 +3372,12 @@
         ]
     },
     "Ba015": {
+        "authorityID": "CA0008587",
         "vol": "B16",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "368",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2934,10 +3387,12 @@
         ]
     },
     "Ba016": {
+        "authorityID": "CA0008588",
         "vol": "B17",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "1329",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2947,10 +3402,12 @@
         ]
     },
     "Ba017": {
+        "authorityID": "CA0008589",
         "vol": "B18",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "795",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2960,10 +3417,13 @@
         ]
     },
     "Ba018": {
+        "authorityID": "CA0008590",
         "vol": "B19",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "611",
+        "en_words": "2",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2973,10 +3433,12 @@
         ]
     },
     "Ba019": {
+        "authorityID": "CA0008591",
         "vol": "B19",
         "type": "textbody",
         "title": "禪林象器箋序",
         "juans": "1",
+        "cjk_chars": "212",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2986,10 +3448,12 @@
         ]
     },
     "Ba020": {
+        "authorityID": "CA0008592",
         "vol": "B20",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "593",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -2999,10 +3463,12 @@
         ]
     },
     "Ba021": {
+        "authorityID": "CA0008593",
         "vol": "B21",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "564",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3012,10 +3478,12 @@
         ]
     },
     "Ba022": {
+        "authorityID": "CA0008594",
         "vol": "B22",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "633",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3025,10 +3493,13 @@
         ]
     },
     "Ba023": {
+        "authorityID": "CA0008595",
         "vol": "B23",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "672",
+        "en_words": "4",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3038,10 +3509,13 @@
         ]
     },
     "Ba024": {
+        "authorityID": "CA0008596",
         "vol": "B24",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "856",
+        "en_words": "2",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3051,10 +3525,13 @@
         ]
     },
     "Ba025": {
+        "authorityID": "CA0008597",
         "vol": "B25",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "623",
+        "en_words": "2",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3064,10 +3541,12 @@
         ]
     },
     "Ba026": {
+        "authorityID": "CA0008598",
         "vol": "B26",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "638",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3077,10 +3556,12 @@
         ]
     },
     "Ba027": {
+        "authorityID": "CA0008599",
         "vol": "B27",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "706",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3090,10 +3571,13 @@
         ]
     },
     "Ba028": {
+        "authorityID": "CA0008600",
         "vol": "B28",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "839",
+        "en_words": "2",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3103,10 +3587,12 @@
         ]
     },
     "Ba029": {
+        "authorityID": "CA0008601",
         "vol": "B29",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "782",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3116,10 +3602,12 @@
         ]
     },
     "Ba030": {
+        "authorityID": "CA0008602",
         "vol": "B30",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "646",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3129,10 +3617,12 @@
         ]
     },
     "Ba031": {
+        "authorityID": "CA0008603",
         "vol": "B31",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "641",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3142,10 +3632,12 @@
         ]
     },
     "Ba032": {
+        "authorityID": "CA0008604",
         "vol": "B32",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "890",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3155,10 +3647,13 @@
         ]
     },
     "Ba033": {
+        "authorityID": "CA0008605",
         "vol": "B33",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "743",
+        "en_words": "1",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3168,10 +3663,13 @@
         ]
     },
     "Ba034": {
+        "authorityID": "CA0008606",
         "vol": "B34",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "322",
+        "en_words": "2",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3181,10 +3679,12 @@
         ]
     },
     "Ba035": {
+        "authorityID": "CA0008607",
         "vol": "B34",
         "type": "textbody",
         "title": "吳都法乘簡介",
         "juans": "1",
+        "cjk_chars": "619",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3194,10 +3694,13 @@
         ]
     },
     "Ba036": {
+        "authorityID": "CA0008608",
         "vol": "B35",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "637",
+        "en_words": "3",
         "byline": "藍吉富",
         "contributors": [
             {
@@ -3207,10 +3710,13 @@
         ]
     },
     "Ba037": {
+        "authorityID": "CA0008609",
         "vol": "B36",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "774",
+        "en_words": "17",
         "byline": "藍吉富",
         "contributors": [
             {

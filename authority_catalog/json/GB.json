@@ -1,10 +1,13 @@
 {
     "GB0109": {
+        "authorityID": "CA0008134",
         "vol": "GB078",
         "type": "textbody",
         "category": "新編部類",
         "title": "徑山集",
         "juans": "3",
+        "cjk_chars": "18951",
+        "en_words": "6",
         "byline": "明 釋宗淨集",
         "dynasty": "明",
         "time_from": 1368,
@@ -17,10 +20,13 @@
         ]
     },
     "GBa001": {
+        "authorityID": "CA0008133",
         "vol": "GB000",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "323",
+        "en_words": "48",
         "byline": "中華電子佛典協會"
     }
 }

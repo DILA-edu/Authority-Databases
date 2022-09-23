@@ -1,5 +1,6 @@
 {
     "JA001": {
+        "authorityID": "CA0005538",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0293",
@@ -7,6 +8,7 @@
         "juans": "40"
     },
     "JA002": {
+        "authorityID": "CA0005539",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0663",
@@ -14,6 +16,7 @@
         "juans": "4"
     },
     "JA003": {
+        "authorityID": "CA0005540",
         "vol": "J01",
         "type": "textbody",
         "alt": "T09n0262_p0056c02",
@@ -21,6 +24,7 @@
         "juans": "1"
     },
     "JA004": {
+        "authorityID": "CA0005541",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0364",
@@ -28,6 +32,7 @@
         "juans": "2"
     },
     "JA005": {
+        "authorityID": "CA0005542",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1057b",
@@ -35,6 +40,7 @@
         "juans": "2"
     },
     "JA006": {
+        "authorityID": "CA0005543",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1063",
@@ -42,6 +48,7 @@
         "juans": "1"
     },
     "JA007": {
+        "authorityID": "CA0005544",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0446b",
@@ -49,6 +56,7 @@
         "juans": "1"
     },
     "JA008": {
+        "authorityID": "CA0005545",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0447b",
@@ -56,6 +64,7 @@
         "juans": "1"
     },
     "JA009": {
+        "authorityID": "CA0005546",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0448b",
@@ -63,6 +72,7 @@
         "juans": "1"
     },
     "JA010": {
+        "authorityID": "CA0005547",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1154",
@@ -70,6 +80,7 @@
         "juans": "1"
     },
     "JA011": {
+        "authorityID": "CA0005548",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1316",
@@ -77,6 +88,7 @@
         "juans": "1"
     },
     "JA012": {
+        "authorityID": "CA0005549",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1794",
@@ -84,6 +96,7 @@
         "juans": "1"
     },
     "JA013": {
+        "authorityID": "CA0005550",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1256",
@@ -91,6 +104,7 @@
         "juans": "1"
     },
     "JA014": {
+        "authorityID": "CA0005551",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0412",
@@ -98,6 +112,7 @@
         "juans": "2"
     },
     "JA015": {
+        "authorityID": "CA0005552",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1108A",
@@ -105,6 +120,7 @@
         "juans": "1"
     },
     "JA016": {
+        "authorityID": "CA0005553",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1688",
@@ -112,6 +128,7 @@
         "juans": "1"
     },
     "JA017": {
+        "authorityID": "CA0005554",
         "vol": "J01",
         "type": "textbody",
         "alt": "T0931",
@@ -119,6 +136,7 @@
         "juans": "1"
     },
     "JA018": {
+        "authorityID": "CA0005555",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1319+T1320",
@@ -126,6 +144,7 @@
         "juans": "1"
     },
     "JA019": {
+        "authorityID": "CA0005556",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1956",
@@ -133,6 +152,7 @@
         "juans": "1"
     },
     "JA020": {
+        "authorityID": "CA0005557",
         "vol": "J01",
         "type": "textbody",
         "alt": "T2114",
@@ -140,6 +160,7 @@
         "juans": "1"
     },
     "JA021": {
+        "authorityID": "CA0005558",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1909",
@@ -147,6 +168,7 @@
         "juans": "10"
     },
     "JA022": {
+        "authorityID": "CA0005559",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1941",
@@ -154,6 +176,7 @@
         "juans": "1"
     },
     "JA023": {
+        "authorityID": "CA0005560",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1942",
@@ -161,6 +184,7 @@
         "juans": "1"
     },
     "JA024": {
+        "authorityID": "CA0005561",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1945",
@@ -168,6 +192,7 @@
         "juans": "1"
     },
     "JA025": {
+        "authorityID": "CA0005562",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1984",
@@ -175,6 +200,7 @@
         "juans": "1"
     },
     "JA026": {
+        "authorityID": "CA0005563",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1968",
@@ -182,6 +208,7 @@
         "juans": "1"
     },
     "JA027": {
+        "authorityID": "CA0005564",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1949",
@@ -189,6 +216,7 @@
         "juans": "1"
     },
     "JA028": {
+        "authorityID": "CA0005565",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1946",
@@ -196,6 +224,7 @@
         "juans": "1"
     },
     "JA029": {
+        "authorityID": "CA0005566",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1950",
@@ -203,6 +232,7 @@
         "juans": "1"
     },
     "JA030": {
+        "authorityID": "CA0005567",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1944",
@@ -210,6 +240,7 @@
         "juans": "1"
     },
     "JA031": {
+        "authorityID": "CA0005568",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1951",
@@ -217,6 +248,7 @@
         "juans": "1"
     },
     "JA032": {
+        "authorityID": "CA0005569",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1947",
@@ -224,6 +256,7 @@
         "juans": "1"
     },
     "JA033": {
+        "authorityID": "CA0005570",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1948",
@@ -231,6 +264,7 @@
         "juans": "1"
     },
     "JA034": {
+        "authorityID": "CA0005571",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1952",
@@ -238,6 +272,7 @@
         "juans": "1"
     },
     "JA035": {
+        "authorityID": "CA0005572",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1910",
@@ -245,6 +280,7 @@
         "juans": "3"
     },
     "JA036": {
+        "authorityID": "CA0005573",
         "vol": "J01",
         "type": "textbody",
         "alt": "T2008",
@@ -252,6 +288,7 @@
         "juans": "1"
     },
     "JA037": {
+        "authorityID": "CA0005574",
         "vol": "J01",
         "type": "textbody",
         "alt": "P1519",
@@ -259,6 +296,7 @@
         "juans": "22"
     },
     "JA038": {
+        "authorityID": "CA0005575",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1996",
@@ -266,6 +304,7 @@
         "juans": "6"
     },
     "JA039": {
+        "authorityID": "CA0005576",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1997",
@@ -273,6 +312,7 @@
         "juans": "20"
     },
     "JA040": {
+        "authorityID": "CA0005577",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1998A",
@@ -280,6 +320,7 @@
         "juans": "30"
     },
     "JA041": {
+        "authorityID": "CA0005578",
         "vol": "J01",
         "type": "textbody",
         "alt": "T1998B",
@@ -287,11 +328,13 @@
         "juans": "1"
     },
     "JA042": {
+        "authorityID": "CA0000599",
         "vol": "J01",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大慧普覺禪師年譜",
         "juans": "1",
+        "cjk_chars": "25554",
         "byline": "宋 祖詠編　張掄序　宗演跋",
         "dynasty": "宋",
         "time_from": 960,
@@ -312,6 +355,7 @@
         ]
     },
     "JA043": {
+        "authorityID": "CA0005579",
         "vol": "J02",
         "type": "textbody",
         "alt": "T1716",
@@ -319,6 +363,7 @@
         "juans": "20"
     },
     "JA044": {
+        "authorityID": "CA0005580",
         "vol": "J02",
         "type": "textbody",
         "alt": "T1717",
@@ -326,6 +371,7 @@
         "juans": "20"
     },
     "JA045": {
+        "authorityID": "CA0005581",
         "vol": "J02",
         "type": "textbody",
         "alt": "T1718",
@@ -333,6 +379,7 @@
         "juans": "10"
     },
     "JA046": {
+        "authorityID": "CA0005582",
         "vol": "J02",
         "type": "textbody",
         "alt": "T1719",
@@ -340,6 +387,7 @@
         "juans": "10"
     },
     "JA047": {
+        "authorityID": "CA0005583",
         "vol": "J02",
         "type": "textbody",
         "alt": "T1911",
@@ -347,6 +395,7 @@
         "juans": "20"
     },
     "JA048": {
+        "authorityID": "CA0005584",
         "vol": "J02",
         "type": "textbody",
         "alt": "T1912",
@@ -354,6 +403,7 @@
         "juans": "40"
     },
     "JA049": {
+        "authorityID": "CA0005585",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1915",
@@ -361,6 +411,7 @@
         "juans": "1"
     },
     "JA050": {
+        "authorityID": "CA0005586",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1913",
@@ -368,6 +419,7 @@
         "juans": "2"
     },
     "JA051": {
+        "authorityID": "CA0005587",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1924",
@@ -375,6 +427,7 @@
         "juans": "4"
     },
     "JA052": {
+        "authorityID": "CA0005588",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1923",
@@ -382,6 +435,7 @@
         "juans": "2"
     },
     "JA053": {
+        "authorityID": "CA0005589",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1767",
@@ -389,6 +443,7 @@
         "juans": "33"
     },
     "JA054": {
+        "authorityID": "CA0005590",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1765",
@@ -396,6 +451,7 @@
         "juans": "2"
     },
     "JA055": {
+        "authorityID": "CA0005591",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1926",
@@ -403,6 +459,7 @@
         "juans": "1"
     },
     "JA056": {
+        "authorityID": "CA0005592",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1766",
@@ -410,6 +467,7 @@
         "juans": "4"
     },
     "JA057": {
+        "authorityID": "CA0005593",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1783",
@@ -417,6 +475,7 @@
         "juans": "2"
     },
     "JA058": {
+        "authorityID": "CA0005594",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1784",
@@ -424,6 +483,7 @@
         "juans": "6"
     },
     "JA059": {
+        "authorityID": "CA0005595",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1698",
@@ -431,6 +491,7 @@
         "juans": "1"
     },
     "JA060": {
+        "authorityID": "CA0005596",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1931",
@@ -438,6 +499,7 @@
         "juans": "1"
     },
     "JA061": {
+        "authorityID": "CA0005597",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1785",
@@ -445,6 +507,7 @@
         "juans": "6"
     },
     "JA062": {
+        "authorityID": "CA0005598",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1786",
@@ -452,6 +515,7 @@
         "juans": "6"
     },
     "JA063": {
+        "authorityID": "CA0005599",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1811",
@@ -459,6 +523,7 @@
         "juans": "2"
     },
     "JA064": {
+        "authorityID": "CA0005600",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1726",
@@ -466,6 +531,7 @@
         "juans": "2"
     },
     "JA065": {
+        "authorityID": "CA0005601",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1727",
@@ -473,6 +539,7 @@
         "juans": "4"
     },
     "JA066": {
+        "authorityID": "CA0005602",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1728",
@@ -480,6 +547,7 @@
         "juans": "2"
     },
     "JA067": {
+        "authorityID": "CA0005603",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1729",
@@ -487,6 +555,7 @@
         "juans": "4"
     },
     "JA068": {
+        "authorityID": "CA0005604",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1750",
@@ -494,6 +563,7 @@
         "juans": "1"
     },
     "JA069": {
+        "authorityID": "CA0005605",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1751",
@@ -501,6 +571,7 @@
         "juans": "6"
     },
     "JA070": {
+        "authorityID": "CA0005606",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1919",
@@ -508,6 +579,7 @@
         "juans": "1"
     },
     "JA071": {
+        "authorityID": "CA0005607",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1800",
@@ -515,6 +587,7 @@
         "juans": "1"
     },
     "JA072": {
+        "authorityID": "CA0005608",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1801",
@@ -522,6 +595,7 @@
         "juans": "4"
     },
     "JA073": {
+        "authorityID": "CA0005609",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1922",
@@ -529,6 +603,7 @@
         "juans": "1"
     },
     "JA074": {
+        "authorityID": "CA0005610",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1918",
@@ -536,6 +611,7 @@
         "juans": "4"
     },
     "JA075": {
+        "authorityID": "CA0005611",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1705",
@@ -543,6 +619,7 @@
         "juans": "5"
     },
     "JA076": {
+        "authorityID": "CA0005612",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1706",
@@ -550,6 +627,7 @@
         "juans": "4"
     },
     "JA077": {
+        "authorityID": "CA0005613",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1930",
@@ -557,6 +635,7 @@
         "juans": "1"
     },
     "JA078": {
+        "authorityID": "CA0005614",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1929",
@@ -564,6 +643,7 @@
         "juans": "6"
     },
     "JA079": {
+        "authorityID": "CA0005615",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1934",
@@ -571,6 +651,7 @@
         "juans": "4"
     },
     "JA080": {
+        "authorityID": "CA0005616",
         "vol": "J03",
         "type": "textbody",
         "alt": "T1916",
@@ -578,6 +659,7 @@
         "juans": "10"
     },
     "JA081": {
+        "authorityID": "CA0005617",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1925",
@@ -585,6 +667,7 @@
         "juans": "3"
     },
     "JA082": {
+        "authorityID": "CA0005618",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1940",
@@ -592,6 +675,7 @@
         "juans": "1"
     },
     "JA083": {
+        "authorityID": "CA0005619",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1961",
@@ -599,6 +683,7 @@
         "juans": "1"
     },
     "JA084": {
+        "authorityID": "CA0005620",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1921",
@@ -606,6 +691,7 @@
         "juans": "5"
     },
     "JA085": {
+        "authorityID": "CA0005621",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1933",
@@ -613,6 +699,7 @@
         "juans": "1"
     },
     "JA086": {
+        "authorityID": "CA0005622",
         "vol": "J04",
         "type": "textbody",
         "alt": "T2050",
@@ -620,6 +707,7 @@
         "juans": "1"
     },
     "JA087": {
+        "authorityID": "CA0005623",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1914",
@@ -627,6 +715,7 @@
         "juans": "1"
     },
     "JA088": {
+        "authorityID": "CA0005624",
         "vol": "J04",
         "type": "textbody",
         "alt": "T46n1915_p0473b11",
@@ -634,6 +723,7 @@
         "juans": "1"
     },
     "JA089": {
+        "authorityID": "CA0005625",
         "vol": "J04",
         "type": "textbody",
         "alt": "T46n1937_p0868a23",
@@ -641,6 +731,7 @@
         "juans": "1"
     },
     "JA090": {
+        "authorityID": "CA0005626",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1927",
@@ -648,6 +739,7 @@
         "juans": "1"
     },
     "JA091": {
+        "authorityID": "CA0005627",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1928",
@@ -655,6 +747,7 @@
         "juans": "2"
     },
     "JA092": {
+        "authorityID": "CA0005628",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1932",
@@ -662,6 +755,7 @@
         "juans": "1"
     },
     "JA093": {
+        "authorityID": "CA0005629",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1935",
@@ -669,6 +763,7 @@
         "juans": "1"
     },
     "JA094": {
+        "authorityID": "CA0005630",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1938",
@@ -676,6 +771,7 @@
         "juans": "1"
     },
     "JA095": {
+        "authorityID": "CA0005631",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1971",
@@ -683,6 +779,7 @@
         "juans": "1"
     },
     "JA096": {
+        "authorityID": "CA0005632",
         "vol": "J04",
         "type": "textbody",
         "alt": "T2013+T2014",
@@ -690,6 +787,7 @@
         "juans": "2"
     },
     "JA097": {
+        "authorityID": "CA0005633",
         "vol": "J04",
         "type": "textbody",
         "alt": "P1581",
@@ -697,6 +795,7 @@
         "juans": "30"
     },
     "JA098": {
+        "authorityID": "CA0005634",
         "vol": "J04",
         "type": "textbody",
         "alt": "T1735",
@@ -704,6 +803,7 @@
         "juans": "60"
     },
     "JA099": {
+        "authorityID": "CA0005635",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1736",
@@ -711,6 +811,7 @@
         "juans": "90"
     },
     "JA100": {
+        "authorityID": "CA0005636",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1866",
@@ -718,6 +819,7 @@
         "juans": "4"
     },
     "JA101": {
+        "authorityID": "CA0005637",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1874",
@@ -725,6 +827,7 @@
         "juans": "2"
     },
     "JA102": {
+        "authorityID": "CA0005638",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1876",
@@ -732,6 +835,7 @@
         "juans": "1"
     },
     "JA103": {
+        "authorityID": "CA0005639",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1886",
@@ -739,6 +843,7 @@
         "juans": "1"
     },
     "JA104": {
+        "authorityID": "CA0005640",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1871",
@@ -746,6 +851,7 @@
         "juans": "1"
     },
     "JA105": {
+        "authorityID": "CA0005641",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1884",
@@ -753,6 +859,7 @@
         "juans": "1"
     },
     "JA106": {
+        "authorityID": "CA0005642",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1883",
@@ -760,6 +867,7 @@
         "juans": "2"
     },
     "JA107": {
+        "authorityID": "CA0005643",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1712",
@@ -767,6 +875,7 @@
         "juans": "1"
     },
     "JA108": {
+        "authorityID": "CA0005644",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1713",
@@ -774,6 +883,7 @@
         "juans": "2"
     },
     "JA109": {
+        "authorityID": "CA0005645",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1792",
@@ -781,6 +891,7 @@
         "juans": "2"
     },
     "JA110": {
+        "authorityID": "CA0005646",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1880",
@@ -788,6 +899,7 @@
         "juans": "1"
     },
     "JA111": {
+        "authorityID": "CA0005647",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1759",
@@ -795,6 +907,7 @@
         "juans": "1"
     },
     "JA112": {
+        "authorityID": "CA0005648",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1789",
@@ -802,6 +915,7 @@
         "juans": "4"
     },
     "JA113": {
+        "authorityID": "CA0005649",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1714",
@@ -809,6 +923,7 @@
         "juans": "1"
     },
     "JA114": {
+        "authorityID": "CA0005650",
         "vol": "J05",
         "type": "textbody",
         "alt": "T1703",
@@ -816,6 +931,7 @@
         "juans": "1"
     },
     "JA115": {
+        "authorityID": "CA0005651",
         "vol": "J05",
         "type": "textbody",
         "alt": "P1610",
@@ -823,6 +939,7 @@
         "juans": "1"
     },
     "JA116": {
+        "authorityID": "CA0005652",
         "vol": "J06",
         "type": "textbody",
         "alt": "P1611",
@@ -830,6 +947,7 @@
         "juans": "40"
     },
     "JA117": {
+        "authorityID": "CA0005653",
         "vol": "J06",
         "type": "textbody",
         "alt": "P1612",
@@ -837,6 +955,7 @@
         "juans": "51"
     },
     "JA118": {
+        "authorityID": "CA0005654",
         "vol": "J06",
         "type": "textbody",
         "alt": "T2064",
@@ -844,6 +963,7 @@
         "juans": "9"
     },
     "JA119": {
+        "authorityID": "CA0005655",
         "vol": "J06",
         "type": "textbody",
         "alt": "P1615",
@@ -851,6 +971,7 @@
         "juans": "50"
     },
     "JA120": {
+        "authorityID": "CA0005656",
         "vol": "J07",
         "type": "textbody",
         "alt": "X0236",
@@ -858,6 +979,7 @@
         "juans": "40"
     },
     "JA121": {
+        "authorityID": "CA0005657",
         "vol": "J07",
         "type": "textbody",
         "alt": "P1617",
@@ -865,6 +987,7 @@
         "juans": "7"
     },
     "JA122": {
+        "authorityID": "CA0005658",
         "vol": "J07",
         "type": "textbody",
         "alt": "P1618",
@@ -872,6 +995,7 @@
         "juans": "20"
     },
     "JA123": {
+        "authorityID": "CA0005659",
         "vol": "J07",
         "type": "textbody",
         "alt": "JA123+L1600",
@@ -890,6 +1014,7 @@
         ]
     },
     "JA124": {
+        "authorityID": "CA0005661",
         "vol": "J07",
         "type": "textbody",
         "alt": "T1848",
@@ -897,6 +1022,7 @@
         "juans": "20"
     },
     "JA125": {
+        "authorityID": "CA0005662",
         "vol": "J07",
         "type": "textbody",
         "alt": "T1860",
@@ -904,6 +1030,7 @@
         "juans": "3"
     },
     "JA126": {
+        "authorityID": "CA0005663",
         "vol": "J07",
         "type": "textbody",
         "alt": "X0872",
@@ -911,6 +1038,7 @@
         "juans": "3"
     },
     "JA127": {
+        "authorityID": "CA0005664",
         "vol": "J07",
         "type": "textbody",
         "alt": "X0248",
@@ -918,6 +1046,7 @@
         "juans": "29"
     },
     "JA128": {
+        "authorityID": "CA0005665",
         "vol": "J08",
         "type": "textbody",
         "alt": "T1701",
@@ -925,6 +1054,7 @@
         "juans": "2"
     },
     "JA129": {
+        "authorityID": "CA0005666",
         "vol": "J08",
         "type": "textbody",
         "alt": "T1702",
@@ -932,6 +1062,7 @@
         "juans": "7"
     },
     "JA130": {
+        "authorityID": "CA0005667",
         "vol": "J08",
         "type": "textbody",
         "alt": "T1775",
@@ -939,6 +1070,7 @@
         "juans": "10"
     },
     "JA131": {
+        "authorityID": "CA0005668",
         "vol": "J08",
         "type": "textbody",
         "alt": "X1032",
@@ -946,6 +1078,7 @@
         "juans": "4"
     },
     "JA132": {
+        "authorityID": "CA0005669",
         "vol": "J08",
         "type": "textbody",
         "alt": "T2118",
@@ -953,6 +1086,7 @@
         "juans": "5"
     },
     "JA133": {
+        "authorityID": "CA0005670",
         "vol": "J08",
         "type": "textbody",
         "alt": "X0978+P1629",
@@ -960,6 +1094,7 @@
         "juans": "10"
     },
     "JA134": {
+        "authorityID": "CA0005671",
         "vol": "J08",
         "type": "textbody",
         "alt": "P1630",
@@ -967,6 +1102,7 @@
         "juans": "40"
     },
     "JA135": {
+        "authorityID": "CA0005672",
         "vol": "J08",
         "type": "textbody",
         "alt": "T2036",
@@ -974,6 +1110,7 @@
         "juans": "36"
     },
     "JA136": {
+        "authorityID": "CA0005673",
         "vol": "J08",
         "type": "textbody",
         "alt": "T2022",
@@ -981,6 +1118,7 @@
         "juans": "4"
     },
     "JA137": {
+        "authorityID": "CA0005674",
         "vol": "J08",
         "type": "textbody",
         "alt": "X0232",
@@ -988,6 +1126,7 @@
         "juans": "29"
     },
     "JA138": {
+        "authorityID": "CA0005675",
         "vol": "J08",
         "type": "textbody",
         "alt": "T2131",
@@ -995,6 +1134,7 @@
         "juans": "20"
     },
     "JA139": {
+        "authorityID": "CA0005676",
         "vol": "J09",
         "type": "textbody",
         "alt": "X1593",
@@ -1002,6 +1142,7 @@
         "juans": "20"
     },
     "JA140": {
+        "authorityID": "CA0005677",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2025",
@@ -1009,6 +1150,7 @@
         "juans": "8"
     },
     "JA141": {
+        "authorityID": "CA0005678",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2117",
@@ -1016,6 +1158,7 @@
         "juans": "2"
     },
     "JA142": {
+        "authorityID": "CA0005679",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2023",
@@ -1023,6 +1166,7 @@
         "juans": "10"
     },
     "JA143": {
+        "authorityID": "CA0005680",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2115",
@@ -1030,6 +1174,7 @@
         "juans": "19"
     },
     "JA144": {
+        "authorityID": "CA0005681",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2015",
@@ -1037,6 +1182,7 @@
         "juans": "4"
     },
     "JA145": {
+        "authorityID": "CA0005682",
         "vol": "J09",
         "type": "textbody",
         "alt": "T1865",
@@ -1044,6 +1190,7 @@
         "juans": "2"
     },
     "JA146": {
+        "authorityID": "CA0005683",
         "vol": "J09",
         "type": "textbody",
         "alt": "T1836",
@@ -1051,6 +1198,7 @@
         "juans": "2"
     },
     "JA147": {
+        "authorityID": "CA0005684",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2020",
@@ -1058,6 +1206,7 @@
         "juans": "1"
     },
     "JA148": {
+        "authorityID": "CA0005685",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2019A",
@@ -1065,6 +1214,7 @@
         "juans": "1"
     },
     "JA149": {
+        "authorityID": "CA0005686",
         "vol": "J09",
         "type": "textbody",
         "alt": "T1857",
@@ -1072,6 +1222,7 @@
         "juans": "1"
     },
     "JA150": {
+        "authorityID": "CA0005687",
         "vol": "J09",
         "type": "textbody",
         "alt": "T1973",
@@ -1079,6 +1230,7 @@
         "juans": "10"
     },
     "JA151": {
+        "authorityID": "CA0005688",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2018",
@@ -1086,6 +1238,7 @@
         "juans": "1"
     },
     "JA152": {
+        "authorityID": "CA0005689",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2021",
@@ -1093,6 +1246,7 @@
         "juans": "1"
     },
     "JA153": {
+        "authorityID": "CA0005690",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2012A+T2012B",
@@ -1100,6 +1254,7 @@
         "juans": "2"
     },
     "JA154": {
+        "authorityID": "CA0005691",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2017",
@@ -1107,6 +1262,7 @@
         "juans": "6"
     },
     "JA155": {
+        "authorityID": "CA0005692",
         "vol": "J09",
         "type": "textbody",
         "alt": "T1885",
@@ -1114,6 +1270,7 @@
         "juans": "2"
     },
     "JA156": {
+        "authorityID": "CA0005693",
         "vol": "J09",
         "type": "textbody",
         "alt": "X0010",
@@ -1121,6 +1278,7 @@
         "juans": "2"
     },
     "JA157": {
+        "authorityID": "CA0005694",
         "vol": "J09",
         "type": "textbody",
         "alt": "T2077",
@@ -1128,11 +1286,13 @@
         "juans": "36"
     },
     "JA158": {
+        "authorityID": "CA0005695",
         "vol": "J10",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "密雲禪師語錄",
         "juans": "12",
+        "cjk_chars": "128930",
         "byline": "明 圓悟說　如學等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -1149,6 +1309,7 @@
         ]
     },
     "JA159": {
+        "authorityID": "CA0005696",
         "vol": "J10",
         "type": "textbody",
         "alt": "X1315",
@@ -1156,6 +1317,7 @@
         "juans": "48"
     },
     "JA160": {
+        "authorityID": "CA0005697",
         "vol": "J10",
         "type": "textbody",
         "alt": "X1295",
@@ -1163,6 +1325,7 @@
         "juans": "40"
     },
     "JA161": {
+        "authorityID": "CA0005698",
         "vol": "J10",
         "type": "textbody",
         "alt": "T2035",
@@ -1170,6 +1333,7 @@
         "juans": "54"
     },
     "JB001": {
+        "authorityID": "CA0005699",
         "vol": "J11..J12",
         "type": "textbody",
         "alt": "L1557+X0227",
@@ -1177,6 +1341,7 @@
         "juans": "99"
     },
     "JB002": {
+        "authorityID": "CA0005700",
         "vol": "J13",
         "type": "textbody",
         "alt": "X0223",
@@ -1184,6 +1349,7 @@
         "juans": "120"
     },
     "JB003": {
+        "authorityID": "CA0005701",
         "vol": "J14",
         "type": "textbody",
         "alt": "X0240",
@@ -1191,6 +1357,7 @@
         "juans": "80"
     },
     "JB004": {
+        "authorityID": "CA0005702",
         "vol": "J15",
         "type": "textbody",
         "alt": "X1469+X1470",
@@ -1198,6 +1365,7 @@
         "juans": "43"
     },
     "JB005": {
+        "authorityID": "CA0005703",
         "vol": "J15",
         "type": "textbody",
         "alt": "X0229+JB005",
@@ -1220,6 +1388,7 @@
         ]
     },
     "JB006": {
+        "authorityID": "CA0005705",
         "vol": "J15",
         "type": "textbody",
         "alt": "T1741",
@@ -1227,6 +1396,7 @@
         "juans": "4"
     },
     "JB007": {
+        "authorityID": "CA0005706",
         "vol": "J15",
         "type": "textbody",
         "alt": "T1888",
@@ -1234,6 +1404,7 @@
         "juans": "1"
     },
     "JB008": {
+        "authorityID": "CA0005707",
         "vol": "J15",
         "type": "textbody",
         "alt": "X0239",
@@ -1241,6 +1412,7 @@
         "juans": "3"
     },
     "JB009": {
+        "authorityID": "CA0005708",
         "vol": "J15",
         "type": "textbody",
         "alt": "X1014",
@@ -1248,6 +1420,7 @@
         "juans": "1"
     },
     "JB010": {
+        "authorityID": "CA0005709",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0616",
@@ -1255,6 +1428,7 @@
         "juans": "16"
     },
     "JB011": {
+        "authorityID": "CA0005710",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0611",
@@ -1262,6 +1436,7 @@
         "juans": "7"
     },
     "JB012": {
+        "authorityID": "CA0005711",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0603",
@@ -1269,6 +1444,7 @@
         "juans": "7"
     },
     "JB013": {
+        "authorityID": "CA0005712",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0609",
@@ -1276,6 +1452,7 @@
         "juans": "3"
     },
     "JB014": {
+        "authorityID": "CA0005713",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0613",
@@ -1283,6 +1460,7 @@
         "juans": "1"
     },
     "JB015": {
+        "authorityID": "CA0005714",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0589",
@@ -1290,6 +1468,7 @@
         "juans": "2"
     },
     "JB016": {
+        "authorityID": "CA0005715",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0617",
@@ -1297,6 +1476,7 @@
         "juans": "7"
     },
     "JB017": {
+        "authorityID": "CA0005716",
         "vol": "J16",
         "type": "textbody",
         "alt": "X0275+X0273+X0274",
@@ -1304,6 +1484,7 @@
         "juans": "12"
     },
     "JB018": {
+        "authorityID": "CA0005717",
         "vol": "J17",
         "type": "textbody",
         "alt": "X0281",
@@ -1311,6 +1492,7 @@
         "juans": "10"
     },
     "JB019": {
+        "authorityID": "CA0005718",
         "vol": "J17",
         "type": "textbody",
         "alt": "X0285+X0284",
@@ -1318,6 +1500,7 @@
         "juans": "12"
     },
     "JB020": {
+        "authorityID": "CA0005719",
         "vol": "J17",
         "type": "textbody",
         "alt": "X0270",
@@ -1325,6 +1508,7 @@
         "juans": "20"
     },
     "JB021": {
+        "authorityID": "CA0005720",
         "vol": "J17",
         "type": "textbody",
         "alt": "T1799",
@@ -1332,6 +1516,7 @@
         "juans": "20"
     },
     "JB022": {
+        "authorityID": "CA0005721",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0282",
@@ -1339,6 +1524,7 @@
         "juans": "4"
     },
     "JB023": {
+        "authorityID": "CA0005722",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0272",
@@ -1346,6 +1532,7 @@
         "juans": "10"
     },
     "JB024": {
+        "authorityID": "CA0005723",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0287",
@@ -1353,6 +1540,7 @@
         "juans": "20"
     },
     "JB025": {
+        "authorityID": "CA0005724",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0008",
@@ -1360,6 +1548,7 @@
         "juans": "4"
     },
     "JB026": {
+        "authorityID": "CA0005725",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0329+X0328",
@@ -1367,6 +1556,7 @@
         "juans": "10"
     },
     "JB027": {
+        "authorityID": "CA0005726",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0243",
@@ -1374,6 +1564,7 @@
         "juans": "12"
     },
     "JB028": {
+        "authorityID": "CA0005727",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0258",
@@ -1381,6 +1572,7 @@
         "juans": "2"
     },
     "JB029": {
+        "authorityID": "CA0005728",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0260",
@@ -1388,6 +1580,7 @@
         "juans": "2"
     },
     "JB030": {
+        "authorityID": "CA0005729",
         "vol": "J18",
         "type": "textbody",
         "alt": "X0262",
@@ -1395,6 +1588,7 @@
         "juans": "2"
     },
     "JB031": {
+        "authorityID": "CA0005730",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0478",
@@ -1402,6 +1596,7 @@
         "juans": "1"
     },
     "JB032": {
+        "authorityID": "CA0005731",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0484+X0561",
@@ -1409,6 +1604,7 @@
         "juans": "1"
     },
     "JB033": {
+        "authorityID": "CA0005732",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0562",
@@ -1416,6 +1612,7 @@
         "juans": "1"
     },
     "JB034": {
+        "authorityID": "CA0005733",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0486",
@@ -1423,6 +1620,7 @@
         "juans": "1"
     },
     "JB035": {
+        "authorityID": "CA0005734",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0479",
@@ -1430,6 +1628,7 @@
         "juans": "1"
     },
     "JB036": {
+        "authorityID": "CA0005735",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0555",
@@ -1437,6 +1636,7 @@
         "juans": "1"
     },
     "JB037": {
+        "authorityID": "CA0005736",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0480",
@@ -1444,6 +1644,7 @@
         "juans": "1"
     },
     "JB038": {
+        "authorityID": "CA0005737",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0485",
@@ -1451,6 +1652,7 @@
         "juans": "1"
     },
     "JB039": {
+        "authorityID": "CA0005738",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1630+X1631",
@@ -1458,6 +1660,7 @@
         "juans": "3"
     },
     "JB040": {
+        "authorityID": "CA0005739",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1633",
@@ -1465,6 +1668,7 @@
         "juans": "1"
     },
     "JB041": {
+        "authorityID": "CA0005740",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0494",
@@ -1472,6 +1676,7 @@
         "juans": "1"
     },
     "JB042": {
+        "authorityID": "CA0005741",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0546",
@@ -1479,6 +1684,7 @@
         "juans": "1"
     },
     "JB043": {
+        "authorityID": "CA0005742",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0550",
@@ -1486,14 +1692,17 @@
         "juans": "1"
     },
     "JB044": {
+        "authorityID": "CA0005743",
         "vol": "J19",
         "type": "textbody",
         "category": "經集部類",
         "title": "諸經日誦集要",
         "juans": "3",
+        "cjk_chars": "59800",
         "byline": "佚名"
     },
     "JB045": {
+        "authorityID": "CA0005744",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0665",
@@ -1501,6 +1710,7 @@
         "juans": "1"
     },
     "JB046": {
+        "authorityID": "CA0005745",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0669",
@@ -1508,11 +1718,13 @@
         "juans": "1"
     },
     "JB047": {
+        "authorityID": "CA0005746",
         "vol": "J19",
         "type": "textbody",
         "category": "密教部類",
         "title": "瑜伽集要燄口施食儀",
         "juans": "1",
+        "cjk_chars": "15969",
         "byline": "唐 不空譯　西夏 不動金剛重集　清 受登詮次　有圖像四十　緣起",
         "dynasty": "清",
         "time_from": 1644,
@@ -1533,11 +1745,13 @@
         ]
     },
     "JB048": {
+        "authorityID": "CA0005747",
         "vol": "J19",
         "type": "textbody",
         "category": "事彙部類",
         "title": "北京五大部直音會韻",
         "juans": "2",
+        "cjk_chars": "58015",
         "byline": "明 久隱撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -1550,6 +1764,7 @@
         ]
     },
     "JB049": {
+        "authorityID": "CA0005748",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1534",
@@ -1557,6 +1772,7 @@
         "juans": "1"
     },
     "JB050": {
+        "authorityID": "CA0005749",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1541",
@@ -1564,6 +1780,7 @@
         "juans": "2"
     },
     "JB051": {
+        "authorityID": "CA0005750",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1635",
@@ -1571,6 +1788,7 @@
         "juans": "2"
     },
     "JB052": {
+        "authorityID": "CA0005751",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1542",
@@ -1578,6 +1796,7 @@
         "juans": "1"
     },
     "JB053": {
+        "authorityID": "CA0005752",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1172",
@@ -1585,6 +1804,7 @@
         "juans": "10"
     },
     "JB054": {
+        "authorityID": "CA0005753",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0765",
@@ -1592,6 +1812,7 @@
         "juans": "2"
     },
     "JB055": {
+        "authorityID": "CA0005754",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1478",
@@ -1599,6 +1820,7 @@
         "juans": "2"
     },
     "JB056": {
+        "authorityID": "CA0005755",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1489",
@@ -1606,6 +1828,7 @@
         "juans": "1"
     },
     "JB057": {
+        "authorityID": "CA0005756",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1480",
@@ -1613,6 +1836,7 @@
         "juans": "1"
     },
     "JB058": {
+        "authorityID": "CA0005757",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1482",
@@ -1620,6 +1844,7 @@
         "juans": "1"
     },
     "JB059": {
+        "authorityID": "CA0005758",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1488",
@@ -1627,6 +1852,7 @@
         "juans": "4"
     },
     "JB060": {
+        "authorityID": "CA0005759",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1490",
@@ -1634,6 +1860,7 @@
         "juans": "1"
     },
     "JB061": {
+        "authorityID": "CA0005760",
         "vol": "J19",
         "type": "textbody",
         "alt": "T1945+T16n0663_p0340a07",
@@ -1641,6 +1868,7 @@
         "juans": "1"
     },
     "JB062": {
+        "authorityID": "CA0005761",
         "vol": "J19",
         "type": "textbody",
         "alt": "T0839+X1485",
@@ -1648,6 +1876,7 @@
         "juans": "3"
     },
     "JB063": {
+        "authorityID": "CA0005762",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1486",
@@ -1655,6 +1884,7 @@
         "juans": "1"
     },
     "JB064": {
+        "authorityID": "CA0005763",
         "vol": "J19",
         "type": "textbody",
         "alt": "T24n1488_p1047a25+X0702",
@@ -1662,6 +1892,7 @@
         "juans": "2"
     },
     "JB065": {
+        "authorityID": "CA0005764",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1121",
@@ -1669,6 +1900,7 @@
         "juans": "1"
     },
     "JB066": {
+        "authorityID": "CA0005765",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0745",
@@ -1676,6 +1908,7 @@
         "juans": "1"
     },
     "JB067": {
+        "authorityID": "CA0005766",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0905",
@@ -1683,6 +1916,7 @@
         "juans": "4"
     },
     "JB068": {
+        "authorityID": "CA0005767",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0370+X0371",
@@ -1690,6 +1924,7 @@
         "juans": "3"
     },
     "JB069": {
+        "authorityID": "CA0005768",
         "vol": "J19",
         "type": "textbody",
         "alt": "X1077",
@@ -1697,6 +1932,7 @@
         "juans": "3"
     },
     "JB070": {
+        "authorityID": "CA0005769",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0666+X0670+X0672",
@@ -1704,6 +1940,7 @@
         "juans": "3"
     },
     "JB071": {
+        "authorityID": "CA0005770",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0749",
@@ -1711,6 +1948,7 @@
         "juans": "1"
     },
     "JB072": {
+        "authorityID": "CA0005771",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0856",
@@ -1718,6 +1956,7 @@
         "juans": "1"
     },
     "JB073": {
+        "authorityID": "CA0005772",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0894+X0803",
@@ -1725,6 +1964,7 @@
         "juans": "2"
     },
     "JB074": {
+        "authorityID": "CA0005773",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0899",
@@ -1732,6 +1972,7 @@
         "juans": "8"
     },
     "JB075": {
+        "authorityID": "CA0005774",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0891",
@@ -1739,6 +1980,7 @@
         "juans": "1"
     },
     "JB076": {
+        "authorityID": "CA0005775",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0804+X0827+X0830+X0900+X0832+X0856+X0861+X0890",
@@ -1746,6 +1988,7 @@
         "juans": "8"
     },
     "JB077": {
+        "authorityID": "CA0005776",
         "vol": "J19",
         "type": "textbody",
         "alt": "X0859+X0805+X0828+X0831+X0833+X0862+X0895+X0901",
@@ -1753,6 +1996,7 @@
         "juans": "8"
     },
     "JB078": {
+        "authorityID": "CA0005777",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1162",
@@ -1760,6 +2004,7 @@
         "juans": "6"
     },
     "JB079": {
+        "authorityID": "CA0005778",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1762",
@@ -1767,6 +2012,7 @@
         "juans": "1"
     },
     "JB080": {
+        "authorityID": "CA0005779",
         "vol": "J20",
         "type": "textbody",
         "alt": "X0421",
@@ -1774,6 +2020,7 @@
         "juans": "1"
     },
     "JB081": {
+        "authorityID": "CA0005780",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1974",
@@ -1781,6 +2028,7 @@
         "juans": "2"
     },
     "JB082": {
+        "authorityID": "CA0005781",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1163",
@@ -1788,6 +2036,7 @@
         "juans": "3"
     },
     "JB083": {
+        "authorityID": "CA0005782",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1961+T1967+T1975+X61n1164_p0745b07",
@@ -1795,6 +2044,7 @@
         "juans": "5"
     },
     "JB084": {
+        "authorityID": "CA0005783",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1154",
@@ -1802,6 +2052,7 @@
         "juans": "2"
     },
     "JB085": {
+        "authorityID": "CA0005784",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1972",
@@ -1809,6 +2060,7 @@
         "juans": "1"
     },
     "JB086": {
+        "authorityID": "CA0005785",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1970",
@@ -1816,6 +2068,7 @@
         "juans": "12"
     },
     "JB087": {
+        "authorityID": "CA0005786",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1464",
@@ -1823,6 +2076,7 @@
         "juans": "1"
     },
     "JB088": {
+        "authorityID": "CA0005787",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1858",
@@ -1830,6 +2084,7 @@
         "juans": "3"
     },
     "JB089": {
+        "authorityID": "CA0005788",
         "vol": "J20",
         "type": "textbody",
         "alt": "T1850",
@@ -1837,11 +2092,13 @@
         "juans": "6"
     },
     "JB090": {
+        "authorityID": "CA0003652",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "續原教論",
         "juans": "2",
+        "cjk_chars": "19043",
         "byline": "明 沈士榮著",
         "dynasty": "明",
         "time_from": 1368,
@@ -1854,11 +2111,13 @@
         ]
     },
     "JB091": {
+        "authorityID": "CA0000739",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "道餘錄",
         "juans": "1",
+        "cjk_chars": "11941",
         "byline": "明 姚廣孝著並序",
         "dynasty": "明",
         "time_from": 1368,
@@ -1871,6 +2130,7 @@
         ]
     },
     "JB092": {
+        "authorityID": "CA0005789",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1231",
@@ -1878,6 +2138,7 @@
         "juans": "4"
     },
     "JB093": {
+        "authorityID": "CA0005790",
         "vol": "J20",
         "type": "textbody",
         "alt": "X0377",
@@ -1885,6 +2146,7 @@
         "juans": "1"
     },
     "JB094": {
+        "authorityID": "CA0005791",
         "vol": "J20",
         "type": "textbody",
         "alt": "X0954",
@@ -1892,11 +2154,13 @@
         "juans": "1"
     },
     "JB095": {
+        "authorityID": "CA0005792",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "蕅益三頌",
         "juans": "1",
+        "cjk_chars": "9991",
         "byline": "明 智旭述並序　三頌為華嚴．楞嚴．法華　有偶拈問答及重刻自跋",
         "dynasty": "明",
         "time_from": 1368,
@@ -1909,11 +2173,13 @@
         ]
     },
     "JB096": {
+        "authorityID": "CA0004113",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "周易禪解",
         "juans": "10",
+        "cjk_chars": "97151",
         "byline": "明 智旭著",
         "dynasty": "明",
         "time_from": 1368,
@@ -1926,11 +2192,13 @@
         ]
     },
     "JB097": {
+        "authorityID": "CA0005793",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天樂鳴空集",
         "juans": "3",
+        "cjk_chars": "48453",
         "byline": "明 鮑宗肇述　智旭定",
         "dynasty": "明",
         "time_from": 1368,
@@ -1947,11 +2215,13 @@
         ]
     },
     "JB098": {
+        "authorityID": "CA0005794",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "黃蘗無念禪師復問",
         "juans": "6",
+        "cjk_chars": "39162",
         "byline": "明 深有撰　明 聞刪定",
         "dynasty": "明",
         "time_from": 1368,
@@ -1968,6 +2238,7 @@
         ]
     },
     "JB099": {
+        "authorityID": "CA0005795",
         "vol": "J20",
         "type": "textbody",
         "alt": "L1651",
@@ -1975,6 +2246,7 @@
         "juans": "1"
     },
     "JB100": {
+        "authorityID": "CA0005796",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1235",
@@ -1982,6 +2254,7 @@
         "juans": "11"
     },
     "JB101": {
+        "authorityID": "CA0005797",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1560+X1234",
@@ -1989,6 +2262,7 @@
         "juans": "32"
     },
     "JB102": {
+        "authorityID": "CA0005798",
         "vol": "J20",
         "type": "textbody",
         "alt": "T2062",
@@ -1996,11 +2270,13 @@
         "juans": "8"
     },
     "JB103": {
+        "authorityID": "CA0005799",
         "vol": "J20",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "寒山子詩集",
         "juans": "1",
+        "cjk_chars": "16650",
         "byline": "唐 閭丘胤集並序　明 王宗沐序　附拾得．豐干詩",
         "dynasty": "明",
         "time_from": 1368,
@@ -2017,6 +2293,7 @@
         ]
     },
     "JB104": {
+        "authorityID": "CA0005800",
         "vol": "J20",
         "type": "textbody",
         "alt": "X1580",
@@ -2024,6 +2301,7 @@
         "juans": "16"
     },
     "JB105": {
+        "authorityID": "CA0005801",
         "vol": "J21",
         "type": "textbody",
         "alt": "X0820",
@@ -2031,6 +2309,7 @@
         "juans": "10"
     },
     "JB106": {
+        "authorityID": "CA0005802",
         "vol": "J21",
         "type": "textbody",
         "alt": "X1594",
@@ -2038,6 +2317,7 @@
         "juans": "41"
     },
     "JB107": {
+        "authorityID": "CA0005803",
         "vol": "J21",
         "type": "textbody",
         "alt": "X1602",
@@ -2045,6 +2325,7 @@
         "juans": "8"
     },
     "JB108": {
+        "authorityID": "CA0005804",
         "vol": "J21",
         "type": "textbody",
         "alt": "X1607",
@@ -2052,11 +2333,13 @@
         "juans": "2"
     },
     "JB109": {
+        "authorityID": "CA0005805",
         "vol": "J21",
         "type": "textbody",
         "category": "事彙部類",
         "title": "大藏一覽",
         "juans": "10",
+        "cjk_chars": "214408",
         "byline": "明 陳實編　姚舜漁重輯",
         "dynasty": "明",
         "time_from": 1368,
@@ -2073,11 +2356,13 @@
         ]
     },
     "JB110": {
+        "authorityID": "CA0001342",
         "vol": "J21",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "護法錄",
         "juans": "10",
+        "cjk_chars": "152671",
         "byline": "明 宋濂著　袾宏輯　錢謙益訂",
         "dynasty": "明",
         "time_from": 1368,
@@ -2098,6 +2383,7 @@
         ]
     },
     "JB111": {
+        "authorityID": "CA0005806",
         "vol": "J21",
         "type": "textbody",
         "alt": "X1628",
@@ -2105,6 +2391,7 @@
         "juans": "16"
     },
     "JB112": {
+        "authorityID": "CA0005807",
         "vol": "J22",
         "type": "textbody",
         "alt": "X1156",
@@ -2112,6 +2399,7 @@
         "juans": "4"
     },
     "JB113": {
+        "authorityID": "CA0005808",
         "vol": "J22",
         "type": "textbody",
         "alt": "T2003",
@@ -2119,6 +2407,7 @@
         "juans": "10"
     },
     "JB114": {
+        "authorityID": "CA0005809",
         "vol": "J22",
         "type": "textbody",
         "alt": "X1452",
@@ -2126,6 +2415,7 @@
         "juans": "15"
     },
     "JB115": {
+        "authorityID": "CA0005810",
         "vol": "J22",
         "type": "textbody",
         "alt": "X1456",
@@ -2133,11 +2423,13 @@
         "juans": "41"
     },
     "JB116": {
+        "authorityID": "CA0004944",
         "vol": "J22",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "憨山老人夢遊全集",
         "juans": "5",
+        "cjk_chars": "114121",
         "byline": "明 德清撰　福善日錄",
         "dynasty": "明",
         "time_from": 1368,
@@ -2154,6 +2446,7 @@
         ]
     },
     "JB117": {
+        "authorityID": "CA0005811",
         "vol": "J22",
         "type": "textbody",
         "alt": "B0085",
@@ -2161,11 +2454,13 @@
         "juans": "2"
     },
     "JB118": {
+        "authorityID": "CA0005812",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "密藏開禪師遺稿",
         "juans": "2",
+        "cjk_chars": "62634",
         "byline": "明 道開著",
         "dynasty": "明",
         "time_from": 1368,
@@ -2178,6 +2473,7 @@
         ]
     },
     "JB119": {
+        "authorityID": "CA0005813",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1641",
@@ -2185,11 +2481,13 @@
         "juans": "1"
     },
     "JB120": {
+        "authorityID": "CA0004945",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "闢邪集",
         "juans": "1",
+        "cjk_chars": "7529",
         "byline": "明 鍾始聲著　大朗序　文分天學初徵及天學再徵　附書柬四則　程啟用跋",
         "dynasty": "明",
         "time_from": 1368,
@@ -2210,6 +2508,7 @@
         ]
     },
     "JB121": {
+        "authorityID": "CA0005814",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1453",
@@ -2217,11 +2516,13 @@
         "juans": "4"
     },
     "JB122": {
+        "authorityID": "CA0003597",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "醒世錄",
         "juans": "8",
+        "cjk_chars": "140389",
         "byline": "清 徐昌治輯",
         "dynasty": "清",
         "time_from": 1644,
@@ -2234,6 +2535,7 @@
         ]
     },
     "JB123": {
+        "authorityID": "CA0005815",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1618",
@@ -2241,6 +2543,7 @@
         "juans": "2"
     },
     "JB124": {
+        "authorityID": "CA0005816",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1626",
@@ -2248,6 +2551,7 @@
         "juans": "4"
     },
     "JB125": {
+        "authorityID": "CA0005817",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1620+X1621+JB125",
@@ -2266,6 +2570,7 @@
         ]
     },
     "JB126": {
+        "authorityID": "CA0005819",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1287",
@@ -2273,11 +2578,13 @@
         "juans": "1"
     },
     "JB127": {
+        "authorityID": "CA0003449",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "無依道人錄",
         "juans": "2",
+        "cjk_chars": "14836",
         "byline": "清 徐昌治著　超悟錄　僧鑑序　附疏稿（原有缺頁）",
         "dynasty": "清",
         "time_from": 1644,
@@ -2298,11 +2605,13 @@
         ]
     },
     "JB128": {
+        "authorityID": "CA0005820",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "普明禪師牧牛圖頌",
         "juans": "1",
+        "cjk_chars": "5997",
         "byline": "明 普明原唱　諸方和韻　嚴大參序　清 如念編目　有圖十",
         "dynasty": "清",
         "time_from": 1644,
@@ -2323,11 +2632,13 @@
         ]
     },
     "JB129": {
+        "authorityID": "CA0004946",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "牧牛圖頌",
         "juans": "1",
+        "cjk_chars": "6831",
         "byline": "明 普明原輯　性音續集舊跋　清 納信序　明 袾宏序　清 超格序　乾隆四十九年了彙重刊",
         "dynasty": "清",
         "time_from": 1644,
@@ -2360,6 +2671,7 @@
         ]
     },
     "JB130": {
+        "authorityID": "CA0005821",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1223+X1224",
@@ -2367,6 +2679,7 @@
         "juans": "2"
     },
     "JB131": {
+        "authorityID": "CA0005822",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1309",
@@ -2374,6 +2687,7 @@
         "juans": "3"
     },
     "JB132": {
+        "authorityID": "CA0005823",
         "vol": "J23",
         "type": "textbody",
         "alt": "T2006",
@@ -2381,6 +2695,7 @@
         "juans": "6"
     },
     "JB133": {
+        "authorityID": "CA0005824",
         "vol": "J23",
         "type": "textbody",
         "alt": "X1624+X1625",
@@ -2388,6 +2703,7 @@
         "juans": "3"
     },
     "JB134": {
+        "authorityID": "CA0005825",
         "vol": "J23",
         "type": "textbody",
         "alt": "JB134+T1989+T1990+T1986B+T1987B+T1991",
@@ -2410,11 +2726,13 @@
         ]
     },
     "JB135": {
+        "authorityID": "CA0003088",
         "vol": "J23",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "石門文字禪",
         "juans": "30",
+        "cjk_chars": "228100",
         "byline": "宋 德洪著　原書缺　依民國十年常州天寧寺刻本印",
         "dynasty": "宋",
         "time_from": 960,
@@ -2427,6 +2745,7 @@
         ]
     },
     "JB136": {
+        "authorityID": "CA0005827",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1565",
@@ -2434,11 +2753,13 @@
         "juans": "20"
     },
     "JB137": {
+        "authorityID": "CA0005828",
         "vol": "J24",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "趙州和尚語錄",
         "juans": "3",
+        "cjk_chars": "21517",
         "byline": "唐 從諗說　文遠記　大參重校　明聲重刻",
         "dynasty": "唐",
         "time_from": 618,
@@ -2463,11 +2784,13 @@
         ]
     },
     "JB138": {
+        "authorityID": "CA0005829",
         "vol": "J24",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲門匡真禪師語錄",
         "juans": "3",
+        "cjk_chars": "29514",
         "byline": "南漢 文偃說　守堅編",
         "dynasty": "南漢",
         "time_from": 917,
@@ -2484,6 +2807,7 @@
         ]
     },
     "JB139": {
+        "authorityID": "CA0005830",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1420",
@@ -2491,6 +2815,7 @@
         "juans": "20"
     },
     "JB140": {
+        "authorityID": "CA0005831",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1351",
@@ -2498,6 +2823,7 @@
         "juans": "2"
     },
     "JB141": {
+        "authorityID": "CA0005832",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1358",
@@ -2505,6 +2831,7 @@
         "juans": "1"
     },
     "JB142": {
+        "authorityID": "CA0005833",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1359",
@@ -2512,6 +2839,7 @@
         "juans": "10"
     },
     "JB143": {
+        "authorityID": "CA0005834",
         "vol": "J24",
         "type": "textbody",
         "alt": "T1999",
@@ -2519,6 +2847,7 @@
         "juans": "2"
     },
     "JB144": {
+        "authorityID": "CA0005835",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1342+X68n1315_p0272b20",
@@ -2526,6 +2855,7 @@
         "juans": "6"
     },
     "JB145": {
+        "authorityID": "CA0005836",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1397",
@@ -2533,6 +2863,7 @@
         "juans": "2"
     },
     "JB146": {
+        "authorityID": "CA0005837",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1400",
@@ -2540,6 +2871,7 @@
         "juans": "1"
     },
     "JB147": {
+        "authorityID": "CA0005838",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1394",
@@ -2547,6 +2879,7 @@
         "juans": "1"
     },
     "JB148": {
+        "authorityID": "CA0005839",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1395",
@@ -2554,6 +2887,7 @@
         "juans": "1"
     },
     "JB149": {
+        "authorityID": "CA0005840",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1419",
@@ -2561,6 +2895,7 @@
         "juans": "8"
     },
     "JB150": {
+        "authorityID": "CA0005841",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1449",
@@ -2568,6 +2903,7 @@
         "juans": "2"
     },
     "JB151": {
+        "authorityID": "CA0005842",
         "vol": "J24",
         "type": "textbody",
         "alt": "X1577",
@@ -2575,6 +2911,7 @@
         "juans": "2"
     },
     "JB152": {
+        "authorityID": "CA0005843",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1396",
@@ -2582,6 +2919,7 @@
         "juans": "2"
     },
     "JB153": {
+        "authorityID": "CA0005844",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1399",
@@ -2589,11 +2927,13 @@
         "juans": "2"
     },
     "JB154": {
+        "authorityID": "CA0005845",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "松隱唯菴然和尚語錄",
         "juans": "3",
+        "cjk_chars": "14265",
         "byline": "明 德然說　慧省編次",
         "dynasty": "明",
         "time_from": 1368,
@@ -2610,11 +2950,13 @@
         ]
     },
     "JB155": {
+        "authorityID": "CA0005846",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "無趣老人語錄",
         "juans": "1",
+        "cjk_chars": "11104",
         "byline": "明 如空說　性沖編",
         "dynasty": "明",
         "time_from": 1368,
@@ -2631,11 +2973,13 @@
         ]
     },
     "JB156": {
+        "authorityID": "CA0003398",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "無幻禪師語錄",
         "juans": "2",
+        "cjk_chars": "17110",
         "byline": "明 性沖說　慧廣編集",
         "dynasty": "明",
         "time_from": 1368,
@@ -2652,6 +2996,7 @@
         ]
     },
     "JB157": {
+        "authorityID": "CA0005847",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1421",
@@ -2659,6 +3004,7 @@
         "juans": "10"
     },
     "JB158": {
+        "authorityID": "CA0005848",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1416",
@@ -2666,11 +3012,13 @@
         "juans": "6"
     },
     "JB159": {
+        "authorityID": "CA0005849",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天真毒峰善禪師要語",
         "juans": "1",
+        "cjk_chars": "11594",
         "byline": "明 本善記　悟深編",
         "dynasty": "明",
         "time_from": 1368,
@@ -2687,6 +3035,7 @@
         ]
     },
     "JB160": {
+        "authorityID": "CA0005850",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1422",
@@ -2694,6 +3043,7 @@
         "juans": "4"
     },
     "JB161": {
+        "authorityID": "CA0005851",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1418",
@@ -2701,6 +3051,7 @@
         "juans": "8"
     },
     "JB162": {
+        "authorityID": "CA0005852",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1367",
@@ -2708,11 +3059,13 @@
         "juans": "4"
     },
     "JB163": {
+        "authorityID": "CA0005853",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "古庭禪師語錄輯略",
         "juans": "4",
+        "cjk_chars": "55869",
         "byline": "明 善堅說　各卷首皆題曹溪一滴古庭禪師語錄",
         "dynasty": "明",
         "time_from": 1368,
@@ -2725,11 +3078,13 @@
         ]
     },
     "JB164": {
+        "authorityID": "CA0004948",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "曹溪一滴",
         "juans": "1",
+        "cjk_chars": "21150",
         "byline": "明 周理編　附夢語摘要",
         "dynasty": "明",
         "time_from": 1368,
@@ -2742,11 +3097,13 @@
         ]
     },
     "JB165": {
+        "authorityID": "CA0004949",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大巍禪師竹室集",
         "juans": "1",
+        "cjk_chars": "12364",
         "byline": "明 淨倫撰　周理輯　內題曹溪一滴卷六",
         "dynasty": "明",
         "time_from": 1368,
@@ -2763,11 +3120,13 @@
         ]
     },
     "JB166": {
+        "authorityID": "CA0004950",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "浮山法句",
         "juans": "1",
+        "cjk_chars": "6894",
         "byline": "明 本智撰　周理輯　內題曹溪一滴卷七　前有明 吳應賓塔銘及王舜鼎夢禪語",
         "dynasty": "明",
         "time_from": 1368,
@@ -2784,11 +3143,13 @@
         ]
     },
     "JB167": {
+        "authorityID": "CA0004951",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "徹庸和尚谷響集",
         "juans": "1",
+        "cjk_chars": "11561",
         "byline": "明 徹庸撰　洪如錄　內題曹溪一滴卷八　後附淨土偈一卷",
         "dynasty": "明",
         "time_from": 1368,
@@ -2805,6 +3166,7 @@
         ]
     },
     "JB168": {
+        "authorityID": "CA0005854",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1414",
@@ -2812,6 +3174,7 @@
         "juans": "22"
     },
     "JB169": {
+        "authorityID": "CA0005855",
         "vol": "J25",
         "type": "textbody",
         "alt": "L1637",
@@ -2819,6 +3182,7 @@
         "juans": "12"
     },
     "JB170": {
+        "authorityID": "CA0005856",
         "vol": "J25",
         "type": "textbody",
         "alt": "L1638",
@@ -2826,11 +3190,13 @@
         "juans": "6"
     },
     "JB171": {
+        "authorityID": "CA0005857",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天隱和尚語錄",
         "juans": "15",
+        "cjk_chars": "145094",
         "byline": "明 圓修說　通問等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -2847,6 +3213,7 @@
         ]
     },
     "JB172": {
+        "authorityID": "CA0005858",
         "vol": "J25",
         "type": "textbody",
         "alt": "X1444",
@@ -2854,11 +3221,13 @@
         "juans": "8"
     },
     "JB173": {
+        "authorityID": "CA0005859",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "壽昌無明和尚語錄",
         "juans": "2",
+        "cjk_chars": "24648",
         "byline": "明 慧經說　元來集",
         "dynasty": "明",
         "time_from": 1368,
@@ -2875,11 +3244,13 @@
         ]
     },
     "JB174": {
+        "authorityID": "CA0005860",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天界覺浪盛禪師語錄",
         "juans": "12",
+        "cjk_chars": "106205",
         "byline": "明 道盛說　大成．大奇等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -2900,11 +3271,13 @@
         ]
     },
     "JB175": {
+        "authorityID": "CA0005861",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大溈五峰學禪師語錄",
         "juans": "1",
+        "cjk_chars": "6351",
         "byline": "明 如學說　清 智海重刻　周堪賡序　有行實　明 陶汝鼐塔銘",
         "dynasty": "明",
         "time_from": 1368,
@@ -2929,11 +3302,13 @@
         ]
     },
     "JB176": {
+        "authorityID": "CA0004952",
         "vol": "J25",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大溈密印寺養拙明禪師語錄",
         "juans": "1",
+        "cjk_chars": "14642",
         "byline": "清 正明說　智海編　通雲序　陶之典序　有行實　周堪賡塔銘　附大溈四記一卷",
         "dynasty": "清",
         "time_from": 1644,
@@ -2962,11 +3337,13 @@
         ]
     },
     "JB177": {
+        "authorityID": "CA0002419",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "破山禪師語錄",
         "juans": "20",
+        "cjk_chars": "138706",
         "byline": "清 海明說　印正等編　附年譜　印巒等輯　印綬等編　原書缺依駒本印",
         "dynasty": "清",
         "time_from": 1644,
@@ -2991,11 +3368,13 @@
         ]
     },
     "JB178": {
+        "authorityID": "CA0001014",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "費隱禪師語錄",
         "juans": "14",
+        "cjk_chars": "144077",
         "byline": "明 通容說　隆琦等編　附紀年錄　行觀．王谷同集　徐昌治．董行證較　行宗．行古重訂刻",
         "dynasty": "明",
         "time_from": 1368,
@@ -3036,6 +3415,7 @@
         ]
     },
     "JB179": {
+        "authorityID": "CA0005862",
         "vol": "J26",
         "type": "textbody",
         "alt": "L1643",
@@ -3043,11 +3423,13 @@
         "juans": "20"
     },
     "JB180": {
+        "authorityID": "CA0004953",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天童弘覺忞禪師北遊集",
         "juans": "6",
+        "cjk_chars": "32553",
         "byline": "清 道忞說　真樸編次",
         "dynasty": "清",
         "time_from": 1644,
@@ -3064,11 +3446,13 @@
         ]
     },
     "JB181": {
+        "authorityID": "CA0004954",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "布水臺集",
         "juans": "32",
+        "cjk_chars": "198625",
         "byline": "明 道忞著（中央圖書館善本書目編在集部別集類）",
         "dynasty": "明",
         "time_from": 1368,
@@ -3081,11 +3465,13 @@
         ]
     },
     "JB182": {
+        "authorityID": "CA0003284",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "萬如禪師語錄",
         "juans": "10",
+        "cjk_chars": "63082",
         "byline": "清 通微說　行猷等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3102,11 +3488,13 @@
         ]
     },
     "JB183": {
+        "authorityID": "CA0005863",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雪竇石奇禪師語錄",
         "juans": "15",
+        "cjk_chars": "82739",
         "byline": "清 通雲說　行正等編錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3123,11 +3511,13 @@
         ]
     },
     "JB184": {
+        "authorityID": "CA0005864",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "牧雲和尚七會語錄",
         "juans": "6",
+        "cjk_chars": "38818",
         "byline": "清 通門說　行瑋等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3144,11 +3534,13 @@
         ]
     },
     "JB185": {
+        "authorityID": "CA0001114",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "浮石禪師語錄",
         "juans": "10",
+        "cjk_chars": "73698",
         "byline": "明 通賢說　行浚等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3165,11 +3557,13 @@
         ]
     },
     "JB186": {
+        "authorityID": "CA0005865",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "林野奇禪師語錄",
         "juans": "8",
+        "cjk_chars": "48971",
         "byline": "明 通奇說　行謐等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3186,11 +3580,13 @@
         ]
     },
     "JB187": {
+        "authorityID": "CA0005866",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天岸昇禪師語錄",
         "juans": "20",
+        "cjk_chars": "138295",
         "byline": "清 昇說　元玉等記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3207,11 +3603,13 @@
         ]
     },
     "JB188": {
+        "authorityID": "CA0005867",
         "vol": "J26",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "入就瑞白禪師語錄",
         "juans": "18",
+        "cjk_chars": "110286",
         "byline": "明 明雪說　寂蘊編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3228,11 +3626,13 @@
         ]
     },
     "JB189": {
+        "authorityID": "CA0005868",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "三宜盂禪師語錄",
         "juans": "11",
+        "cjk_chars": "114241",
         "byline": "明 明盂說　淨範等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3249,11 +3649,13 @@
         ]
     },
     "JB190": {
+        "authorityID": "CA0003096",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "石雨禪師法檀",
         "juans": "20",
+        "cjk_chars": "118330",
         "byline": "明 明方說　淨柱編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3270,11 +3672,13 @@
         ]
     },
     "JB191": {
+        "authorityID": "CA0005869",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "象田即念禪師語錄",
         "juans": "4",
+        "cjk_chars": "32315",
         "byline": "明 淨現說　淨癡等錄",
         "dynasty": "明",
         "time_from": 1368,
@@ -3291,11 +3695,13 @@
         ]
     },
     "JB192": {
+        "authorityID": "CA0005870",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大休珠禪師語錄",
         "juans": "12",
+        "cjk_chars": "54890",
         "byline": "清 珠說　廣熙等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3312,11 +3718,13 @@
         ]
     },
     "JB193": {
+        "authorityID": "CA0003787",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "隱元禪師語錄",
         "juans": "16",
+        "cjk_chars": "123358",
         "byline": "清 隆琦說　海寧等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3333,11 +3741,13 @@
         ]
     },
     "JB194": {
+        "authorityID": "CA0005871",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "昭覺丈雪醉禪師語錄",
         "juans": "10",
+        "cjk_chars": "58433",
         "byline": "清 通醉說　徹綱等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3354,6 +3764,7 @@
         ]
     },
     "JB195": {
+        "authorityID": "CA0005872",
         "vol": "J27",
         "type": "textbody",
         "alt": "L1649",
@@ -3361,11 +3772,13 @@
         "juans": "4"
     },
     "JB196": {
+        "authorityID": "CA0005873",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鴛湖用禪師語錄",
         "juans": "2",
+        "cjk_chars": "20623",
         "byline": "清 妙用說　悟進．悟元等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3386,11 +3799,13 @@
         ]
     },
     "JB197": {
+        "authorityID": "CA0005874",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "博山無異大師語錄集要",
         "juans": "6",
+        "cjk_chars": "64545",
         "byline": "明 元來說　成正錄　元賢集",
         "dynasty": "明",
         "time_from": 1368,
@@ -3411,11 +3826,13 @@
         ]
     },
     "JB198": {
+        "authorityID": "CA0003667",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雪關禪師語錄",
         "juans": "13",
+        "cjk_chars": "140998",
         "byline": "明 智誾說　成巒等錄　開詗編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3436,11 +3853,13 @@
         ]
     },
     "JB199": {
+        "authorityID": "CA0005875",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雪關和尚語錄",
         "juans": "6",
+        "cjk_chars": "35010",
         "byline": "明 智誾說　傳善輯",
         "dynasty": "明",
         "time_from": 1368,
@@ -3457,11 +3876,13 @@
         ]
     },
     "JB200": {
+        "authorityID": "CA0005876",
         "vol": "J27",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "石霜爾瞻尊禪師語錄",
         "juans": "2",
+        "cjk_chars": "25889",
         "byline": "清 達尊說　本開等記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3478,6 +3899,7 @@
         ]
     },
     "JB201": {
+        "authorityID": "CA0005877",
         "vol": "J27",
         "type": "textbody",
         "alt": "X1437",
@@ -3485,11 +3907,13 @@
         "juans": "30"
     },
     "JB202": {
+        "authorityID": "CA0000136",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "百癡禪師語錄",
         "juans": "30",
+        "cjk_chars": "249830",
         "byline": "清 元說　超宣等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3506,11 +3930,13 @@
         ]
     },
     "JB203": {
+        "authorityID": "CA0005878",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲峨喜禪師語錄",
         "juans": "2",
+        "cjk_chars": "57782",
         "byline": "清 喜說　智恒等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3527,11 +3953,13 @@
         ]
     },
     "JB204": {
+        "authorityID": "CA0005879",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "斌雅禪師語錄",
         "juans": "2",
+        "cjk_chars": "27779",
         "byline": "清 鑑說　海岳記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3548,11 +3976,13 @@
         ]
     },
     "JB205": {
+        "authorityID": "CA0005880",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "介為舟禪師語錄",
         "juans": "10",
+        "cjk_chars": "74196",
         "byline": "清 行舟說　海鹽．益證等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3573,11 +4003,13 @@
         ]
     },
     "JB206": {
+        "authorityID": "CA0005881",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "笑堂和尚語錄",
         "juans": "1",
+        "cjk_chars": "14562",
         "byline": "清 說　超源等記錄　超晙等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3598,11 +4030,13 @@
         ]
     },
     "JB207": {
+        "authorityID": "CA0005882",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "古瓶山牧道者究心錄",
         "juans": "3",
+        "cjk_chars": "27844",
         "byline": "明 真本說　機峻等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3619,11 +4053,13 @@
         ]
     },
     "JB208": {
+        "authorityID": "CA0005883",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "古雪哲禪師語錄",
         "juans": "20",
+        "cjk_chars": "153305",
         "byline": "明 真哲說　傳我等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -3640,11 +4076,13 @@
         ]
     },
     "JB209": {
+        "authorityID": "CA0005884",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "永濟融禪師語錄",
         "juans": "2",
+        "cjk_chars": "15000",
         "byline": "清 融說　師住．妙印等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3665,11 +4103,13 @@
         ]
     },
     "JB210": {
+        "authorityID": "CA0005885",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "伏獅祇園禪師語錄",
         "juans": "2",
+        "cjk_chars": "24924",
         "byline": "清 行剛（尼）說　授遠．超宿等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3690,11 +4130,13 @@
         ]
     },
     "JB211": {
+        "authorityID": "CA0005886",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "季總徹禪師語錄",
         "juans": "4",
+        "cjk_chars": "40954",
         "byline": "清 徹（尼）說　超祥記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3711,11 +4153,13 @@
         ]
     },
     "JB212": {
+        "authorityID": "CA0005887",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "二隱謐禪師語錄",
         "juans": "10",
+        "cjk_chars": "57916",
         "byline": "清 謐說　超巨．超秀等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3736,11 +4180,13 @@
         ]
     },
     "JB213": {
+        "authorityID": "CA0005888",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "芝巖秀禪師語錄",
         "juans": "2",
+        "cjk_chars": "10628",
         "byline": "清 秀說　明一等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3757,6 +4203,7 @@
         ]
     },
     "JB214": {
+        "authorityID": "CA0005889",
         "vol": "J28",
         "type": "textbody",
         "alt": "X0615+T1939+X0974+X1137+X60n1123_p0540a16+X1124+X0703+T1500+JB214",
@@ -3775,11 +4222,13 @@
         ]
     },
     "JB215": {
+        "authorityID": "CA0005891",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "頌古合響集",
         "juans": "1",
+        "cjk_chars": "8670",
         "byline": "明 徹（尼）．符（尼）合頌　張有譽輯並序",
         "dynasty": "明",
         "time_from": 1368,
@@ -3800,11 +4249,13 @@
         ]
     },
     "JB216": {
+        "authorityID": "CA0001906",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "絕餘編",
         "juans": "4",
+        "cjk_chars": "34395",
         "byline": "明 智旭著　圓果錄",
         "dynasty": "明",
         "time_from": 1368,
@@ -3821,6 +4272,7 @@
         ]
     },
     "JB217": {
+        "authorityID": "CA0005892",
         "vol": "J28",
         "type": "textbody",
         "alt": "X1263",
@@ -3828,11 +4280,13 @@
         "juans": "4"
     },
     "JB218": {
+        "authorityID": "CA0005893",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "懶石聆禪師語錄",
         "juans": "4",
+        "cjk_chars": "24235",
         "byline": "清 聆說　海瑞等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3849,11 +4303,13 @@
         ]
     },
     "JB219": {
+        "authorityID": "CA0005894",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "紫竹林顓愚衡和尚語錄",
         "juans": "20",
+        "cjk_chars": "184847",
         "byline": "清 觀衡說　正印重編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3870,11 +4326,13 @@
         ]
     },
     "JB220": {
+        "authorityID": "CA0005895",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "法璽印禪師語錄",
         "juans": "12",
+        "cjk_chars": "72899",
         "byline": "清 印說　性圓等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3891,11 +4349,13 @@
         ]
     },
     "JB221": {
+        "authorityID": "CA0005896",
         "vol": "J28",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "楞嚴法璽印禪師語錄",
         "juans": "2",
+        "cjk_chars": "17233",
         "byline": "清 印說　旋性記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -3912,11 +4372,13 @@
         ]
     },
     "JB222": {
+        "authorityID": "CA0005897",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "夔州臥龍字水禪師語錄",
         "juans": "3",
+        "cjk_chars": "27001",
         "byline": "明 圓䂐說　觀誰等錄",
         "dynasty": "明",
         "time_from": 1368,
@@ -3933,11 +4395,13 @@
         ]
     },
     "JB223": {
+        "authorityID": "CA0002894",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "山暉禪師語錄",
         "juans": "12",
+        "cjk_chars": "104021",
         "byline": "清 璧說　如崇等錄　宗上編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3958,11 +4422,13 @@
         ]
     },
     "JB224": {
+        "authorityID": "CA0005898",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "嵩山野竹禪師錄",
         "juans": "14",
+        "cjk_chars": "85755",
         "byline": "清 福慧說　宗宏錄　宗上．宗堅仝編",
         "dynasty": "清",
         "time_from": 1644,
@@ -3987,11 +4453,13 @@
         ]
     },
     "JB225": {
+        "authorityID": "CA0005899",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鄂州龍光達夫禪師雞肋集",
         "juans": "1",
+        "cjk_chars": "23253",
         "byline": "清 蘊上說　道汜．道沖等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4012,11 +4480,13 @@
         ]
     },
     "JB226": {
+        "authorityID": "CA0005900",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "頌古鉤鉅",
         "juans": "1",
+        "cjk_chars": "20489",
         "byline": "清 蘊上頌并跋　蘊宏著語（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4033,11 +4503,13 @@
         ]
     },
     "JB227": {
+        "authorityID": "CA0005901",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "集文字禪",
         "juans": "1",
+        "cjk_chars": "7154",
         "byline": "清 蘊上著　舒峻極序　杜國柱序（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4058,6 +4530,7 @@
         ]
     },
     "JB228": {
+        "authorityID": "CA0005902",
         "vol": "J29",
         "type": "textbody",
         "alt": "X0513",
@@ -4065,11 +4538,13 @@
         "juans": "3"
     },
     "JB229": {
+        "authorityID": "CA0005903",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "法瀾澂禪師語錄",
         "juans": "2",
+        "cjk_chars": "11937",
         "byline": "清 原澂說　清杲編次（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4086,11 +4561,13 @@
         ]
     },
     "JB230": {
+        "authorityID": "CA0005904",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天王水鑑海和尚六會錄",
         "juans": "10",
+        "cjk_chars": "60412",
         "byline": "清 慧海說　原澂等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4107,11 +4584,13 @@
         ]
     },
     "JB231": {
+        "authorityID": "CA0004955",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天王水鑑海和尚五會錄",
         "juans": "6",
+        "cjk_chars": "34976",
         "byline": "清 慧海說　原澂等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -4128,11 +4607,13 @@
         ]
     },
     "JB232": {
+        "authorityID": "CA0004956",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天王水鑑海和尚住金粟語錄",
         "juans": "3",
+        "cjk_chars": "21624",
         "byline": "清 慧海說　原澂．原上等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -4153,11 +4634,13 @@
         ]
     },
     "JB233": {
+        "authorityID": "CA0005905",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "介菴進禪師語錄",
         "juans": "10",
+        "cjk_chars": "75624",
         "byline": "清 悟進說　真理等編　附源流頌",
         "dynasty": "清",
         "time_from": 1644,
@@ -4174,11 +4657,13 @@
         ]
     },
     "JB234": {
+        "authorityID": "CA0005906",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "一初元禪師語錄",
         "juans": "2",
+        "cjk_chars": "25415",
         "byline": "清 元說　真開．真智等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -4199,11 +4684,13 @@
         ]
     },
     "JB235": {
+        "authorityID": "CA0002054",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "蓮月禪師語錄",
         "juans": "6",
+        "cjk_chars": "47639",
         "byline": "清 道正說　性容等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -4220,11 +4707,13 @@
         ]
     },
     "JB236": {
+        "authorityID": "CA0004957",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "玉泉蓮月正禪師語錄",
         "juans": "2",
+        "cjk_chars": "15657",
         "byline": "清 道正說　發慧等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -4241,11 +4730,13 @@
         ]
     },
     "JB237": {
+        "authorityID": "CA0005907",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "月幢了禪師語錄",
         "juans": "4",
+        "cjk_chars": "20350",
         "byline": "清 了說　達最等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -4262,11 +4753,13 @@
         ]
     },
     "JB238": {
+        "authorityID": "CA0005908",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "聚雲吹萬真禪師語錄",
         "juans": "3",
+        "cjk_chars": "18500",
         "byline": "明 廣真說　燈來編",
         "dynasty": "明",
         "time_from": 1368,
@@ -4283,11 +4776,13 @@
         ]
     },
     "JB239": {
+        "authorityID": "CA0004958",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "吹萬禪師語錄",
         "juans": "20",
+        "cjk_chars": "122336",
         "byline": "明 廣真說　燈來重編（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -4304,11 +4799,13 @@
         ]
     },
     "JB240": {
+        "authorityID": "CA0005909",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "慶忠鐵壁機禪師語錄",
         "juans": "3",
+        "cjk_chars": "17354",
         "byline": "明 慧機說　燈來編",
         "dynasty": "明",
         "time_from": 1368,
@@ -4325,11 +4822,13 @@
         ]
     },
     "JB241": {
+        "authorityID": "CA0004959",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "慶忠鐵壁機禪師語錄",
         "juans": "20",
+        "cjk_chars": "161816",
         "byline": "明 慧機說　幻敏重編（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -4346,11 +4845,13 @@
         ]
     },
     "JB242": {
+        "authorityID": "CA0005910",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鐵眉三巴掌禪師語錄",
         "juans": "1",
+        "cjk_chars": "5659",
         "byline": "明 鐵眉號三巴掌說　性養．性亮同編",
         "dynasty": "明",
         "time_from": 1368,
@@ -4371,11 +4872,13 @@
         ]
     },
     "JB243": {
+        "authorityID": "CA0005911",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "耳庵嵩禪師語錄",
         "juans": "1",
+        "cjk_chars": "6436",
         "byline": "清 嵩說　性愷編　徐善序　有附記",
         "dynasty": "清",
         "time_from": 1644,
@@ -4396,11 +4899,13 @@
         ]
     },
     "JB244": {
+        "authorityID": "CA0005912",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "三山來禪師語錄",
         "juans": "16",
+        "cjk_chars": "96543",
         "byline": "清 燈來說　普定編（原目二十八卷　卷十七下註有「嗣刻」二字　此為初刻本）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4417,11 +4922,13 @@
         ]
     },
     "JB245": {
+        "authorityID": "CA0005913",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "高峰三山來禪師年譜",
         "juans": "1",
+        "cjk_chars": "25794",
         "byline": "清 性統編　至善序（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4438,11 +4945,13 @@
         ]
     },
     "JB246": {
+        "authorityID": "CA0005914",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "嘉興退菴斷愚智禪師語錄",
         "juans": "2",
+        "cjk_chars": "18049",
         "byline": "清 智說　機輪等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -4459,11 +4968,13 @@
         ]
     },
     "JB247": {
+        "authorityID": "CA0005915",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "普光坦菴禪師語錄",
         "juans": "1",
+        "cjk_chars": "3479",
         "byline": "清 機峻說　全弘錄　羅開麟序（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4484,11 +4995,13 @@
         ]
     },
     "JB248": {
+        "authorityID": "CA0005916",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "達變權禪師語錄",
         "juans": "5",
+        "cjk_chars": "32173",
         "byline": "清 顯權說　海澂錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -4505,11 +5018,13 @@
         ]
     },
     "JB249": {
+        "authorityID": "CA0005917",
         "vol": "J29",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "方融璽禪師語錄",
         "juans": "3",
+        "cjk_chars": "39936",
         "byline": "清 如璽說　興林等編　附淨土詩",
         "dynasty": "清",
         "time_from": 1644,
@@ -4526,6 +5041,7 @@
         ]
     },
     "JB250": {
+        "authorityID": "CA0005918",
         "vol": "J29",
         "type": "textbody",
         "alt": "X1126",
@@ -4533,6 +5049,7 @@
         "juans": "2"
     },
     "JB251": {
+        "authorityID": "CA0005919",
         "vol": "J30",
         "type": "textbody",
         "alt": "X0623",
@@ -4540,6 +5057,7 @@
         "juans": "10"
     },
     "JB252": {
+        "authorityID": "CA0005920",
         "vol": "J30",
         "type": "textbody",
         "alt": "X1578",
@@ -4547,6 +5065,7 @@
         "juans": "32"
     },
     "JB253": {
+        "authorityID": "CA0005921",
         "vol": "J30",
         "type": "textbody",
         "alt": "X0709",
@@ -4554,6 +5073,7 @@
         "juans": "16"
     },
     "JB254": {
+        "authorityID": "CA0005922",
         "vol": "J30",
         "type": "textbody",
         "alt": "X0730",
@@ -4561,6 +5081,7 @@
         "juans": "15"
     },
     "JB255": {
+        "authorityID": "CA0005923",
         "vol": "J30",
         "type": "textbody",
         "alt": "X0700",
@@ -4568,6 +5089,7 @@
         "juans": "8"
     },
     "JB256": {
+        "authorityID": "CA0005924",
         "vol": "J30",
         "type": "textbody",
         "alt": "X1135",
@@ -4575,6 +5097,7 @@
         "juans": "2"
     },
     "JB257": {
+        "authorityID": "CA0005925",
         "vol": "J30",
         "type": "textbody",
         "alt": "X1116",
@@ -4582,6 +5105,7 @@
         "juans": "2"
     },
     "JB258": {
+        "authorityID": "CA0005926",
         "vol": "J30",
         "type": "textbody",
         "alt": "X1119",
@@ -4589,11 +5113,13 @@
         "juans": "2"
     },
     "JB259": {
+        "authorityID": "CA0004961",
         "vol": "J30",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "怡山禮佛發願文略釋",
         "juans": "1",
+        "cjk_chars": "17340",
         "byline": "清 書玉略釋並序跋　有事義（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4606,11 +5132,13 @@
         ]
     },
     "JB260": {
+        "authorityID": "CA0005927",
         "vol": "J30",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大懺悔文略解",
         "juans": "2",
+        "cjk_chars": "21327",
         "byline": "清 書玉略解（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4623,6 +5151,7 @@
         ]
     },
     "JB261": {
+        "authorityID": "CA0005928",
         "vol": "J30",
         "type": "textbody",
         "alt": "X1134",
@@ -4630,6 +5159,7 @@
         "juans": "2"
     },
     "JB262": {
+        "authorityID": "CA0005929",
         "vol": "J31",
         "type": "textbody",
         "alt": "X0306",
@@ -4637,6 +5167,7 @@
         "juans": "10"
     },
     "JB263": {
+        "authorityID": "CA0005930",
         "vol": "J31",
         "type": "textbody",
         "alt": "X0303",
@@ -4644,6 +5175,7 @@
         "juans": "10"
     },
     "JB264": {
+        "authorityID": "CA0005931",
         "vol": "J31",
         "type": "textbody",
         "alt": "X1608",
@@ -4651,6 +5183,7 @@
         "juans": "4"
     },
     "JB265": {
+        "authorityID": "CA0005932",
         "vol": "J31",
         "type": "textbody",
         "alt": "T1976",
@@ -4658,6 +5191,7 @@
         "juans": "10"
     },
     "JB266": {
+        "authorityID": "CA0005933",
         "vol": "J31",
         "type": "textbody",
         "alt": "L1636",
@@ -4665,11 +5199,13 @@
         "juans": "4"
     },
     "JB267": {
+        "authorityID": "CA0005934",
         "vol": "J31",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "牧雲和尚嬾齋別集",
         "juans": "14",
+        "cjk_chars": "151935",
         "byline": "明 通明撰　毛晉編",
         "dynasty": "明",
         "time_from": 1368,
@@ -4686,11 +5222,13 @@
         ]
     },
     "JB268": {
+        "authorityID": "CA0004964",
         "vol": "J31",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "牧雲和尚宗本投機頌",
         "juans": "1",
+        "cjk_chars": "41596",
         "byline": "明 通明撰　附病遊遊刃．病遊初草．病遊後草",
         "dynasty": "明",
         "time_from": 1368,
@@ -4703,11 +5241,13 @@
         ]
     },
     "JB269": {
+        "authorityID": "CA0005935",
         "vol": "J31",
         "type": "textbody",
         "category": "般若部類",
         "title": "金剛般若經疏論纂要刊定記會編",
         "juans": "10",
+        "cjk_chars": "114048",
         "byline": "唐 宗密述疏　宋 子璿錄記　清 行策會編",
         "dynasty": "唐",
         "time_from": 618,
@@ -4728,6 +5268,7 @@
         ]
     },
     "JB270": {
+        "authorityID": "CA0005936",
         "vol": "J31",
         "type": "textbody",
         "alt": "X0280",
@@ -4735,11 +5276,13 @@
         "juans": "4"
     },
     "JB271": {
+        "authorityID": "CA0004965",
         "vol": "J31..J32",
         "type": "textbody",
         "category": "事彙部類",
         "title": "閱藏知津",
         "juans": "44",
+        "cjk_chars": "289520",
         "byline": "明 智旭彙輯　總目四卷",
         "dynasty": "明",
         "time_from": 1368,
@@ -4752,11 +5295,13 @@
         ]
     },
     "JB272": {
+        "authorityID": "CA0005937",
         "vol": "J32",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "明州天童景德禪寺宏智覺禪師語錄",
         "juans": "4",
+        "cjk_chars": "31077",
         "byline": "宋 正覺說　淨啟重編",
         "dynasty": "宋",
         "time_from": 960,
@@ -4773,11 +5318,13 @@
         ]
     },
     "JB273": {
+        "authorityID": "CA0005938",
         "vol": "J32",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "千巖和尚語錄",
         "juans": "1",
+        "cjk_chars": "46622",
         "byline": "元 元長說　嗣詔錄",
         "dynasty": "元",
         "time_from": 1271,
@@ -4794,6 +5341,7 @@
         ]
     },
     "JB274": {
+        "authorityID": "CA0002262",
         "vol": "J32",
         "type": "textbody",
         "alt": "L1652",
@@ -4801,11 +5349,13 @@
         "juans": "16"
     },
     "JB275": {
+        "authorityID": "CA0005939",
         "vol": "J32",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "興善南明廣禪師語錄",
         "juans": "1",
+        "cjk_chars": "6071",
         "byline": "明 慧廣說　妙用集　悟進重輯並跋　明方序　黃承昊序　有行狀",
         "dynasty": "明",
         "time_from": 1368,
@@ -4834,11 +5384,13 @@
         ]
     },
     "JB276": {
+        "authorityID": "CA0000346",
         "vol": "J32",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "不會禪師語錄",
         "juans": "10",
+        "cjk_chars": "54097",
         "byline": "清 法通說　性靈等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4855,6 +5407,7 @@
         ]
     },
     "JB277": {
+        "authorityID": "CA0005940",
         "vol": "J32..J33",
         "type": "textbody",
         "alt": "X0276+JB277",
@@ -4873,6 +5426,7 @@
         ]
     },
     "JB278": {
+        "authorityID": "CA0005942",
         "vol": "J33",
         "type": "textbody",
         "alt": "X1574",
@@ -4880,11 +5434,13 @@
         "juans": "4"
     },
     "JB279": {
+        "authorityID": "CA0005943",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "虛舟禪師註八識規矩頌",
         "juans": "1",
+        "cjk_chars": "13650",
         "byline": "清 行省撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -4897,11 +5453,13 @@
         ]
     },
     "JB280": {
+        "authorityID": "CA0004967",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "神鼎雲外澤禪師語錄",
         "juans": "15",
+        "cjk_chars": "118874",
         "byline": "清 行澤說　宏怤等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4918,11 +5476,13 @@
         ]
     },
     "JB281": {
+        "authorityID": "CA0005944",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "壇溪梓舟船禪師語錄",
         "juans": "3",
+        "cjk_chars": "39090",
         "byline": "明 船說　明法等編（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -4939,11 +5499,13 @@
         ]
     },
     "JB282": {
+        "authorityID": "CA0004968",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "虛舟省禪師語錄",
         "juans": "4",
+        "cjk_chars": "43328",
         "byline": "清 行省說　超直等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -4960,11 +5522,13 @@
         ]
     },
     "JB283": {
+        "authorityID": "CA0005945",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天台三聖詩集和韻",
         "juans": "1",
+        "cjk_chars": "47709",
         "byline": "元 梵琦首和　清 福慧重和",
         "dynasty": "清",
         "time_from": 1644,
@@ -4981,11 +5545,13 @@
         ]
     },
     "JB284": {
+        "authorityID": "CA0005946",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "益州嵩山野竹禪師後錄",
         "juans": "8",
+        "cjk_chars": "58721",
         "byline": "清 福慧說　洪希等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5002,11 +5568,13 @@
         ]
     },
     "JB285": {
+        "authorityID": "CA0005947",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "兜率不磷堅禪師語錄",
         "juans": "3",
+        "cjk_chars": "25784",
         "byline": "清 宗堅說　妙聖等記",
         "dynasty": "清",
         "time_from": 1644,
@@ -5023,11 +5591,13 @@
         ]
     },
     "JB286": {
+        "authorityID": "CA0005948",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "攖寧靜禪師語錄",
         "juans": "6",
+        "cjk_chars": "76238",
         "byline": "清 智靜說　德亮等編　德莪等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -5048,11 +5618,13 @@
         ]
     },
     "JB287": {
+        "authorityID": "CA0005949",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "自閒覺禪師語錄",
         "juans": "8",
+        "cjk_chars": "39140",
         "byline": "清 覺說　洪暹等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5069,11 +5641,13 @@
         ]
     },
     "JB288": {
+        "authorityID": "CA0001315",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "憨予暹禪師語錄",
         "juans": "6",
+        "cjk_chars": "30256",
         "byline": "清 洪暹說　法雲等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5090,6 +5664,7 @@
         ]
     },
     "JB289": {
+        "authorityID": "CA0007959",
         "vol": "J33",
         "type": "textbody",
         "alt": "X0488",
@@ -5097,6 +5672,7 @@
         "juans": "1"
     },
     "JB290": {
+        "authorityID": "CA0007960",
         "vol": "J33",
         "type": "textbody",
         "alt": "X0489",
@@ -5104,6 +5680,7 @@
         "juans": "1"
     },
     "JB291": {
+        "authorityID": "CA0005950",
         "vol": "J33",
         "type": "textbody",
         "alt": "X1176",
@@ -5111,6 +5688,7 @@
         "juans": "2"
     },
     "JB292": {
+        "authorityID": "CA0007966",
         "vol": "J33",
         "type": "textbody",
         "alt": "X0870",
@@ -5118,11 +5696,13 @@
         "juans": "6"
     },
     "JB293": {
+        "authorityID": "CA0005051",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "擬寒山詩",
         "juans": "1",
+        "cjk_chars": "12018",
         "byline": "明 張守約追擬並序　唐守禮序　蔡善繼序（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -5143,11 +5723,13 @@
         ]
     },
     "JB294": {
+        "authorityID": "CA0005951",
         "vol": "J33",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲溪俍亭挺禪師語錄",
         "juans": "18",
+        "cjk_chars": "120462",
         "byline": "清 淨挺說　智淙等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5164,11 +5746,13 @@
         ]
     },
     "JB295": {
+        "authorityID": "CA0003663",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "學佛考訓",
         "juans": "10",
+        "cjk_chars": "36110",
         "byline": "清 淨挺輯",
         "dynasty": "清",
         "time_from": 1644,
@@ -5181,11 +5765,13 @@
         ]
     },
     "JB296": {
+        "authorityID": "CA0002527",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "漆園指通",
         "juans": "3",
+        "cjk_chars": "36797",
         "byline": "清 淨挺著",
         "dynasty": "清",
         "time_from": 1644,
@@ -5198,6 +5784,7 @@
         ]
     },
     "JB297": {
+        "authorityID": "CA0007965",
         "vol": "J34",
         "type": "textbody",
         "alt": "X0674",
@@ -5205,11 +5792,13 @@
         "juans": "14"
     },
     "JB298": {
+        "authorityID": "CA0005952",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "屾峰憲禪師語錄",
         "juans": "10",
+        "cjk_chars": "43592",
         "byline": "清 憲說　智質．智原同編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -5230,11 +5819,13 @@
         ]
     },
     "JB299": {
+        "authorityID": "CA0005953",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "三峰藏和尚語錄",
         "juans": "16",
+        "cjk_chars": "145696",
         "byline": "明 法藏說　弘儲記　後附年譜一卷．南嶽勒古一卷",
         "dynasty": "明",
         "time_from": 1368,
@@ -5251,11 +5842,13 @@
         ]
     },
     "JB300": {
+        "authorityID": "CA0000441",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "朝宗禪師語錄",
         "juans": "10",
+        "cjk_chars": "96742",
         "byline": "明 通忍說　行導編（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -5272,11 +5865,13 @@
         ]
     },
     "JB301": {
+        "authorityID": "CA0005954",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "南嶽繼起和尚語錄",
         "juans": "10",
+        "cjk_chars": "76466",
         "byline": "清 弘儲說　濟機等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5293,6 +5888,7 @@
         ]
     },
     "JB302": {
+        "authorityID": "CA0007971",
         "vol": "J34",
         "type": "textbody",
         "alt": "X1596",
@@ -5300,11 +5896,13 @@
         "juans": "1"
     },
     "JB303": {
+        "authorityID": "CA0005955",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "燮雲璣禪師國清無畏堂語錄",
         "juans": "1",
+        "cjk_chars": "31938",
         "byline": "清 濟璣說　玄杲錄　張有譽序",
         "dynasty": "清",
         "time_from": 1644,
@@ -5325,11 +5923,13 @@
         ]
     },
     "JB304": {
+        "authorityID": "CA0005956",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "靈樹遠禪師雲嵒集",
         "juans": "2",
+        "cjk_chars": "29376",
         "byline": "清 僧遠說　廣仍記　附雲嵒頌古　附雲嵒九頌　余懷製",
         "dynasty": "清",
         "time_from": 1644,
@@ -5350,11 +5950,13 @@
         ]
     },
     "JB305": {
+        "authorityID": "CA0004970",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "國清大庾韜禪師語錄",
         "juans": "1",
+        "cjk_chars": "13294",
         "byline": "清 行韜說　顯裕等錄　有塔銘　行略（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -5371,11 +5973,13 @@
         ]
     },
     "JB306": {
+        "authorityID": "CA0005957",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "內紹種禪師語錄",
         "juans": "2",
+        "cjk_chars": "30465",
         "byline": "清 種說　照維等記　附頌古",
         "dynasty": "清",
         "time_from": 1644,
@@ -5392,6 +5996,7 @@
         ]
     },
     "JB307": {
+        "authorityID": "CA0005958",
         "vol": "J34",
         "type": "textbody",
         "alt": "X0286",
@@ -5399,11 +6004,13 @@
         "juans": "10"
     },
     "JB308": {
+        "authorityID": "CA0005959",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "象崖珽禪師語錄",
         "juans": "4",
+        "cjk_chars": "23949",
         "byline": "清 性珽說　益聞重刊",
         "dynasty": "清",
         "time_from": 1644,
@@ -5420,11 +6027,13 @@
         ]
     },
     "JB309": {
+        "authorityID": "CA0005960",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲腹智禪師語錄",
         "juans": "2",
+        "cjk_chars": "15933",
         "byline": "清 道智說　嶽賢．聯昇記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -5445,11 +6054,13 @@
         ]
     },
     "JB310": {
+        "authorityID": "CA0005961",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲叟住禪師語錄",
         "juans": "2",
+        "cjk_chars": "31250",
         "byline": "清 住說　元一記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -5466,11 +6077,13 @@
         ]
     },
     "JB311": {
+        "authorityID": "CA0005962",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天界覺浪盛禪師全錄",
         "juans": "33",
+        "cjk_chars": "351940",
         "byline": "明 道盛說　大成．大然等較　後附杖門隨集",
         "dynasty": "明",
         "time_from": 1368,
@@ -5491,11 +6104,13 @@
         ]
     },
     "JB312": {
+        "authorityID": "CA0004971",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天界覺浪盛禪師嘉禾語錄",
         "juans": "1",
+        "cjk_chars": "15441",
         "byline": "明 道盛說　大樞．大英錄　譚貞默序",
         "dynasty": "明",
         "time_from": 1368,
@@ -5520,11 +6135,13 @@
         ]
     },
     "JB313": {
+        "authorityID": "CA0005963",
         "vol": "J34",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "青原愚者智禪師語錄",
         "juans": "4",
+        "cjk_chars": "27385",
         "byline": "清 智說　興磬．興斧編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5545,6 +6162,7 @@
         ]
     },
     "JB314": {
+        "authorityID": "CA0007970",
         "vol": "J35",
         "type": "textbody",
         "alt": "X0744",
@@ -5552,6 +6170,7 @@
         "juans": "40"
     },
     "JB315": {
+        "authorityID": "CA0007961",
         "vol": "J35",
         "type": "textbody",
         "alt": "X0717",
@@ -5559,6 +6178,7 @@
         "juans": "12"
     },
     "JB316": {
+        "authorityID": "CA0005964",
         "vol": "J35",
         "type": "textbody",
         "alt": "X0695",
@@ -5566,6 +6186,7 @@
         "juans": "8"
     },
     "JB317": {
+        "authorityID": "CA0007977",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1118",
@@ -5573,6 +6194,7 @@
         "juans": "2"
     },
     "JB318": {
+        "authorityID": "CA0007979",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1133",
@@ -5580,6 +6202,7 @@
         "juans": "1"
     },
     "JB319": {
+        "authorityID": "CA0007972",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1492",
@@ -5587,6 +6210,7 @@
         "juans": "1"
     },
     "JB320": {
+        "authorityID": "CA0007962",
         "vol": "J35",
         "type": "textbody",
         "alt": "X0725",
@@ -5594,6 +6218,7 @@
         "juans": "1"
     },
     "JB321": {
+        "authorityID": "CA0005965",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1132",
@@ -5601,6 +6226,7 @@
         "juans": "1"
     },
     "JB322": {
+        "authorityID": "CA0007975",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1117",
@@ -5608,6 +6234,7 @@
         "juans": "2"
     },
     "JB323": {
+        "authorityID": "CA0007973",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1493",
@@ -5615,6 +6242,7 @@
         "juans": "1"
     },
     "JB324": {
+        "authorityID": "CA0007974",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1491",
@@ -5622,11 +6250,13 @@
         "juans": "1"
     },
     "JB325": {
+        "authorityID": "CA0001576",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "解惑篇",
         "juans": "2",
+        "cjk_chars": "76751",
         "byline": "清 弘贊編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -5639,11 +6269,13 @@
         ]
     },
     "JB326": {
+        "authorityID": "CA0002308",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "木人剩稿",
         "juans": "5",
+        "cjk_chars": "53206",
         "byline": "清 弘贊編　開溈錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -5660,6 +6292,7 @@
         ]
     },
     "JB327": {
+        "authorityID": "CA0007967",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1645",
@@ -5667,6 +6300,7 @@
         "juans": "5"
     },
     "JB328": {
+        "authorityID": "CA0007963",
         "vol": "J35",
         "type": "textbody",
         "alt": "X0446",
@@ -5674,6 +6308,7 @@
         "juans": "3"
     },
     "JB329": {
+        "authorityID": "CA0007964",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1240",
@@ -5681,6 +6316,7 @@
         "juans": "2"
     },
     "JB330": {
+        "authorityID": "CA0007976",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1129",
@@ -5688,6 +6324,7 @@
         "juans": "3"
     },
     "JB331": {
+        "authorityID": "CA0007969",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1643",
@@ -5695,6 +6332,7 @@
         "juans": "3"
     },
     "JB332": {
+        "authorityID": "CA0007968",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1644",
@@ -5702,6 +6340,7 @@
         "juans": "3"
     },
     "JB333": {
+        "authorityID": "CA0005966",
         "vol": "J35",
         "type": "textbody",
         "alt": "X0553",
@@ -5709,6 +6348,7 @@
         "juans": "1"
     },
     "JB334": {
+        "authorityID": "CA0007980",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1079",
@@ -5716,6 +6356,7 @@
         "juans": "1"
     },
     "JB335": {
+        "authorityID": "CA0007978",
         "vol": "J35",
         "type": "textbody",
         "alt": "X1130",
@@ -5723,11 +6364,13 @@
         "juans": "1"
     },
     "JB336": {
+        "authorityID": "CA0005967",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "南海寶象林慧弓詗禪師語錄",
         "juans": "6",
+        "cjk_chars": "51725",
         "byline": "清 開詗說　傳一等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -5744,11 +6387,13 @@
         ]
     },
     "JB337": {
+        "authorityID": "CA0005968",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "寶持總禪師語錄",
         "juans": "2",
+        "cjk_chars": "11558",
         "byline": "清 玄總（尼）說　明英等記",
         "dynasty": "清",
         "time_from": 1644,
@@ -5765,11 +6410,13 @@
         ]
     },
     "JB338": {
+        "authorityID": "CA0005969",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "靈瑞尼祖揆符禪師妙湛錄",
         "juans": "5",
+        "cjk_chars": "38088",
         "byline": "清 符（尼）說　師炤等記",
         "dynasty": "清",
         "time_from": 1644,
@@ -5786,11 +6433,13 @@
         ]
     },
     "JB339": {
+        "authorityID": "CA0005970",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "靈瑞禪師嵒華集",
         "juans": "5",
+        "cjk_chars": "26193",
         "byline": "清 符（尼）說　振澂等記",
         "dynasty": "清",
         "time_from": 1644,
@@ -5807,11 +6456,13 @@
         ]
     },
     "JB340": {
+        "authorityID": "CA0005971",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "慧覺衣禪師語錄",
         "juans": "3",
+        "cjk_chars": "24303",
         "byline": "清 照衣說　徹御等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5828,11 +6479,13 @@
         ]
     },
     "JB341": {
+        "authorityID": "CA0004973",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "佛語御禪師語錄",
         "juans": "1",
+        "cjk_chars": "2890",
         "byline": "清 徹御說　法傑．法秀等編　聖可序",
         "dynasty": "清",
         "time_from": 1644,
@@ -5857,11 +6510,13 @@
         ]
     },
     "JB342": {
+        "authorityID": "CA0005972",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "華嚴聖可禪師語錄",
         "juans": "5",
+        "cjk_chars": "37413",
         "byline": "清 德玉說　光佛等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5878,11 +6533,13 @@
         ]
     },
     "JB343": {
+        "authorityID": "CA0005973",
         "vol": "J35",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "廣福山勝覺寺密印禪師語錄",
         "juans": "12",
+        "cjk_chars": "85634",
         "byline": "清 真傳說　如暐等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5899,6 +6556,7 @@
         ]
     },
     "JB344": {
+        "authorityID": "CA0005974",
         "vol": "J36",
         "type": "textbody",
         "alt": "X0694+X0693",
@@ -5906,11 +6564,13 @@
         "juans": "8"
     },
     "JB345": {
+        "authorityID": "CA0005975",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "蘇州竹庵衍禪師語錄",
         "juans": "2",
+        "cjk_chars": "14838",
         "byline": "清 真衍說　機如編",
         "dynasty": "清",
         "time_from": 1644,
@@ -5927,11 +6587,13 @@
         ]
     },
     "JB346": {
+        "authorityID": "CA0004974",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "古林如禪師語錄",
         "juans": "4",
+        "cjk_chars": "18094",
         "byline": "清 機如說　全威等記錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -5948,6 +6610,7 @@
         ]
     },
     "JB347": {
+        "authorityID": "CA0005976",
         "vol": "J36",
         "type": "textbody",
         "alt": "X0824",
@@ -5955,11 +6618,13 @@
         "juans": "10"
     },
     "JB348": {
+        "authorityID": "CA0002077",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "靈峰蕅益大師宗論",
         "juans": "10",
+        "cjk_chars": "292563",
         "byline": "明 智旭著",
         "dynasty": "明",
         "time_from": 1368,
@@ -5972,6 +6637,7 @@
         ]
     },
     "JB349": {
+        "authorityID": "CA0005977",
         "vol": "J36",
         "type": "textbody",
         "alt": "X0699",
@@ -5979,6 +6645,7 @@
         "juans": "2"
     },
     "JB350": {
+        "authorityID": "CA0005978",
         "vol": "J36",
         "type": "textbody",
         "alt": "X1265",
@@ -5986,11 +6653,13 @@
         "juans": "4"
     },
     "JB351": {
+        "authorityID": "CA0000733",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "道德經順硃",
         "juans": "2",
+        "cjk_chars": "30571",
         "byline": "清 德玉順硃",
         "dynasty": "清",
         "time_from": 1644,
@@ -6003,11 +6672,13 @@
         ]
     },
     "JB352": {
+        "authorityID": "CA0005979",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "東山破峰重禪師語錄",
         "juans": "2",
+        "cjk_chars": "15804",
         "byline": "清 普重說　傳慧等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6024,11 +6695,13 @@
         ]
     },
     "JB353": {
+        "authorityID": "CA0005980",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲幻宸禪師語錄",
         "juans": "1",
+        "cjk_chars": "7705",
         "byline": "清 印宸說　發林等編　王民皞序　李道泰塔記",
         "dynasty": "清",
         "time_from": 1644,
@@ -6053,11 +6726,13 @@
         ]
     },
     "JB354": {
+        "authorityID": "CA0004975",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "錦屏破石卓禪師雜著",
         "juans": "1",
+        "cjk_chars": "1528",
         "byline": "明 悟卓說　超常記錄　發林行狀",
         "dynasty": "明",
         "time_from": 1368,
@@ -6078,11 +6753,13 @@
         ]
     },
     "JB355": {
+        "authorityID": "CA0005981",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "綠蘿恒秀林禪師語錄",
         "juans": "2",
+        "cjk_chars": "16500",
         "byline": "清 發林說　光悠等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6099,11 +6776,13 @@
         ]
     },
     "JB356": {
+        "authorityID": "CA0005982",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "奇然智禪師語錄",
         "juans": "2",
+        "cjk_chars": "27843",
         "byline": "清 超智說　明林．明燦等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6124,11 +6803,13 @@
         ]
     },
     "JB357": {
+        "authorityID": "CA0005983",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "秀野林禪師語錄",
         "juans": "3",
+        "cjk_chars": "43655",
         "byline": "清 明林說　最正等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6145,11 +6826,13 @@
         ]
     },
     "JB358": {
+        "authorityID": "CA0005984",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "智覃正禪師語錄",
         "juans": "1",
+        "cjk_chars": "7835",
         "byline": "清 最正說　尚能．尚瑩等編　末附助緣耆德",
         "dynasty": "清",
         "time_from": 1644,
@@ -6170,11 +6853,13 @@
         ]
     },
     "JB359": {
+        "authorityID": "CA0000155",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "百愚禪師語錄",
         "juans": "20",
+        "cjk_chars": "165417",
         "byline": "清 淨斯說　智操．智海等編語錄　智朴．方拱乾等編蔓堂集　附蔓堂集",
         "dynasty": "清",
         "time_from": 1644,
@@ -6203,6 +6888,7 @@
         ]
     },
     "JB360": {
+        "authorityID": "CA0005985",
         "vol": "J36",
         "type": "textbody",
         "alt": "X1433",
@@ -6210,6 +6896,7 @@
         "juans": "1"
     },
     "JB361": {
+        "authorityID": "CA0005986",
         "vol": "J36",
         "type": "textbody",
         "alt": "X1434",
@@ -6217,11 +6904,13 @@
         "juans": "1"
     },
     "JB362": {
+        "authorityID": "CA0005987",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "觀濤奇禪師語錄",
         "juans": "6",
+        "cjk_chars": "53187",
         "byline": "清 大奇說　興舒等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6238,11 +6927,13 @@
         ]
     },
     "JB363": {
+        "authorityID": "CA0005988",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "文穆念禪師語錄",
         "juans": "5",
+        "cjk_chars": "28486",
         "byline": "清 念說　真慧等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6259,11 +6950,13 @@
         ]
     },
     "JB364": {
+        "authorityID": "CA0005989",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "佛古聞禪師語錄",
         "juans": "4",
+        "cjk_chars": "21190",
         "byline": "清 行聞說　超質等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6280,11 +6973,13 @@
         ]
     },
     "JB365": {
+        "authorityID": "CA0005990",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "石璞質禪師語錄",
         "juans": "2",
+        "cjk_chars": "14041",
         "byline": "清 超質說　明嵩等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6301,11 +6996,13 @@
         ]
     },
     "JB366": {
+        "authorityID": "CA0000581",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大方禪師語錄",
         "juans": "6",
+        "cjk_chars": "37044",
         "byline": "明 行海說　超鳴編",
         "dynasty": "明",
         "time_from": 1368,
@@ -6322,11 +7019,13 @@
         ]
     },
     "JB367": {
+        "authorityID": "CA0005991",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "寂光豁禪師語錄",
         "juans": "6",
+        "cjk_chars": "36984",
         "byline": "清 豁說　發育等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6343,11 +7042,13 @@
         ]
     },
     "JB368": {
+        "authorityID": "CA0005992",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天台通玄寺獨朗禪師語錄",
         "juans": "2",
+        "cjk_chars": "12966",
         "byline": "清 行曰說　超心．超香等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -6368,11 +7069,13 @@
         ]
     },
     "JB369": {
+        "authorityID": "CA0005993",
         "vol": "J36",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "蔗菴範禪師語錄",
         "juans": "30",
+        "cjk_chars": "226481",
         "byline": "清 淨範說　智璋等錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -6389,11 +7092,13 @@
         ]
     },
     "JB370": {
+        "authorityID": "CA0005994",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "草堂耨雲實禪師語錄",
         "juans": "2",
+        "cjk_chars": "12304",
         "byline": "清 真實說　寂訥等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6410,11 +7115,13 @@
         ]
     },
     "JB371": {
+        "authorityID": "CA0001098",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "佛冤禪師語錄",
         "juans": "12",
+        "cjk_chars": "82649",
         "byline": "清 徹綱說　性純等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6431,11 +7138,13 @@
         ]
     },
     "JB372": {
+        "authorityID": "CA0005995",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "印心佛敏訥禪師語錄",
         "juans": "2",
+        "cjk_chars": "14062",
         "byline": "清 寂納說　法棟等錄　法通等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6456,6 +7165,7 @@
         ]
     },
     "JB373": {
+        "authorityID": "CA0005996",
         "vol": "J37",
         "type": "textbody",
         "alt": "X1483",
@@ -6463,6 +7173,7 @@
         "juans": "1"
     },
     "JB374": {
+        "authorityID": "CA0005997",
         "vol": "J37",
         "type": "textbody",
         "alt": "X1481",
@@ -6470,6 +7181,7 @@
         "juans": "1"
     },
     "JB375": {
+        "authorityID": "CA0005998",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0493",
@@ -6477,6 +7189,7 @@
         "juans": "2"
     },
     "JB376": {
+        "authorityID": "CA0005999",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0381",
@@ -6484,6 +7197,7 @@
         "juans": "1"
     },
     "JB377": {
+        "authorityID": "CA0006000",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0647",
@@ -6491,6 +7205,7 @@
         "juans": "1"
     },
     "JB378": {
+        "authorityID": "CA0006001",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0378",
@@ -6498,6 +7213,7 @@
         "juans": "1"
     },
     "JB379": {
+        "authorityID": "CA0006002",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0969",
@@ -6505,6 +7221,7 @@
         "juans": "1"
     },
     "JB380": {
+        "authorityID": "CA0006003",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0979",
@@ -6512,6 +7229,7 @@
         "juans": "1"
     },
     "JB381": {
+        "authorityID": "CA0006004",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0591",
@@ -6519,6 +7237,7 @@
         "juans": "1"
     },
     "JB382": {
+        "authorityID": "CA0006005",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0924",
@@ -6526,11 +7245,13 @@
         "juans": "2"
     },
     "JB383": {
+        "authorityID": "CA0001314",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "憨休禪師語錄",
         "juans": "12",
+        "cjk_chars": "65823",
         "byline": "繼堯等編",
         "contributors": [
             {
@@ -6540,11 +7261,13 @@
         ]
     },
     "JB384": {
+        "authorityID": "CA0001313",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "憨休禪師敲空遺響",
         "juans": "12",
+        "cjk_chars": "108520",
         "byline": "清 如乾說　張恂編閱　繼堯校訂（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6565,6 +7288,7 @@
         ]
     },
     "JB385": {
+        "authorityID": "CA0006006",
         "vol": "J37",
         "type": "textbody",
         "alt": "X1595",
@@ -6572,11 +7296,13 @@
         "juans": "1"
     },
     "JB386": {
+        "authorityID": "CA0006007",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "遠菴僼禪師語錄",
         "juans": "16",
+        "cjk_chars": "117308",
         "byline": "清 本僼說　元視等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6593,11 +7319,13 @@
         ]
     },
     "JB387": {
+        "authorityID": "CA0006008",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "古宿尊禪師語錄",
         "juans": "6",
+        "cjk_chars": "50817",
         "byline": "清 尊說　明圓等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6614,11 +7342,13 @@
         ]
     },
     "JB388": {
+        "authorityID": "CA0006009",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "神鼎一揆禪師語錄",
         "juans": "12",
+        "cjk_chars": "90620",
         "byline": "清 元揆說　成炯等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6635,11 +7365,13 @@
         ]
     },
     "JB389": {
+        "authorityID": "CA0006010",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "洪山俞昭允汾禪師語錄",
         "juans": "6",
+        "cjk_chars": "35934",
         "byline": "清 允汾說　上睿等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6656,11 +7388,13 @@
         ]
     },
     "JB390": {
+        "authorityID": "CA0006011",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "北京楚林禪師語錄",
         "juans": "6",
+        "cjk_chars": "32155",
         "byline": "清 上睿說　照琮等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6677,11 +7411,13 @@
         ]
     },
     "JB391": {
+        "authorityID": "CA0006012",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "長目電禪師語錄",
         "juans": "2",
+        "cjk_chars": "10283",
         "byline": "清 光電說　悟本編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6698,11 +7434,13 @@
         ]
     },
     "JB392": {
+        "authorityID": "CA0006013",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "寒松操禪師語錄",
         "juans": "20",
+        "cjk_chars": "138451",
         "byline": "清 智操說　德昊編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6719,11 +7457,13 @@
         ]
     },
     "JB393": {
+        "authorityID": "CA0006014",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "華巖還初佛禪師語錄",
         "juans": "2",
+        "cjk_chars": "16931",
         "byline": "清 佛說　通量等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6740,11 +7480,13 @@
         ]
     },
     "JB394": {
+        "authorityID": "CA0006015",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "翼菴禪師語錄",
         "juans": "8",
+        "cjk_chars": "63533",
         "byline": "清 善酇說　分為國清語錄二卷　序燈等記　真如語錄三卷　序璋等記　通玄語錄一卷　力端等錄　和寒山詩二卷（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6769,11 +7511,13 @@
         ]
     },
     "JB395": {
+        "authorityID": "CA0006016",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "荊南內護國寺啟真誠禪師語錄",
         "juans": "4",
+        "cjk_chars": "17654",
         "byline": "清 誠說　振聞編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6790,11 +7534,13 @@
         ]
     },
     "JB396": {
+        "authorityID": "CA0006017",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "終南山蟠龍子肅禪師語錄",
         "juans": "1",
+        "cjk_chars": "16987",
         "byline": "清 超遠說　性明編　海闊等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6815,6 +7561,7 @@
         ]
     },
     "JB397": {
+        "authorityID": "CA0006018",
         "vol": "J37",
         "type": "textbody",
         "alt": "X1127",
@@ -6822,6 +7569,7 @@
         "juans": "1"
     },
     "JB398": {
+        "authorityID": "CA0006019",
         "vol": "J37",
         "type": "textbody",
         "alt": "X1603",
@@ -6829,11 +7577,13 @@
         "juans": "1"
     },
     "JB399": {
+        "authorityID": "CA0006020",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鶴林天樹植禪師語錄",
         "juans": "1",
+        "cjk_chars": "14940",
         "byline": "清 行植說　湛祐編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6850,11 +7600,13 @@
         ]
     },
     "JB400": {
+        "authorityID": "CA0004068",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "知空蘊禪師語錄",
         "juans": "2",
+        "cjk_chars": "15641",
         "byline": "清 學蘊說　通來等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6871,11 +7623,13 @@
         ]
     },
     "JB401": {
+        "authorityID": "CA0006021",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "浦峰長明炅禪師語錄",
         "juans": "1",
+        "cjk_chars": "13801",
         "byline": "清 性炅說　海棟編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6892,11 +7646,13 @@
         ]
     },
     "JB402": {
+        "authorityID": "CA0006022",
         "vol": "J37",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "浦峰法柱棟禪師語錄",
         "juans": "2",
+        "cjk_chars": "12982",
         "byline": "清 海棟說　慧昇集　慧渠編　慧岱錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -6921,6 +7677,7 @@
         ]
     },
     "JB403": {
+        "authorityID": "CA0006023",
         "vol": "J37",
         "type": "textbody",
         "alt": "X0291",
@@ -6928,6 +7685,7 @@
         "juans": "10"
     },
     "JB404": {
+        "authorityID": "CA0006024",
         "vol": "J38",
         "type": "textbody",
         "alt": "X0334",
@@ -6935,6 +7693,7 @@
         "juans": "8"
     },
     "JB405": {
+        "authorityID": "CA0006025",
         "vol": "J38",
         "type": "textbody",
         "alt": "X1443",
@@ -6942,11 +7701,13 @@
         "juans": "2"
     },
     "JB406": {
+        "authorityID": "CA0006026",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "廬山天然禪師語錄",
         "juans": "12",
+        "cjk_chars": "128456",
         "byline": "明 函昰說　今辯重編（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -6963,11 +7724,13 @@
         ]
     },
     "JB407": {
+        "authorityID": "CA0006027",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "千山剩人禪師語錄",
         "juans": "6",
+        "cjk_chars": "66477",
         "byline": "明 函可說　元賦等編　今羞等錄　今盧．今又重梓（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -6996,11 +7759,13 @@
         ]
     },
     "JB408": {
+        "authorityID": "CA0006028",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "海幢阿字無禪師語錄",
         "juans": "2",
+        "cjk_chars": "47464",
         "byline": "清 今無說　今辯重編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7017,11 +7782,13 @@
         ]
     },
     "JB409": {
+        "authorityID": "CA0006029",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "丹霞澹歸禪師語錄",
         "juans": "3",
+        "cjk_chars": "48362",
         "byline": "明 今釋說　今辯重編（依駒本印）",
         "dynasty": "明",
         "time_from": 1368,
@@ -7038,11 +7805,13 @@
         ]
     },
     "JB410": {
+        "authorityID": "CA0002046",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "蓮峰禪師語錄",
         "juans": "10",
+        "cjk_chars": "100888",
         "byline": "清 素說　性深等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7059,11 +7828,13 @@
         ]
     },
     "JB411": {
+        "authorityID": "CA0006030",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "德風禪師般若語錄",
         "juans": "6",
+        "cjk_chars": "12336",
         "byline": "清 說　如惺等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7080,11 +7851,13 @@
         ]
     },
     "JB412": {
+        "authorityID": "CA0006031",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "三塔主峰禪師語錄",
         "juans": "1",
+        "cjk_chars": "12274",
         "byline": "清 說　覺海錄　譚貞默等請啟（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7105,11 +7878,13 @@
         ]
     },
     "JB413": {
+        "authorityID": "CA0006032",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "黃蓮東巖禪師語錄",
         "juans": "1",
+        "cjk_chars": "14292",
         "byline": "清 說　機琇記錄　黎元寬序　文德翼序　內分黃蓮語錄　蘄州語錄　有行實　末附懷淨土偈（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7134,11 +7909,13 @@
         ]
     },
     "JB414": {
+        "authorityID": "CA0006033",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "山鐸真在禪師語錄",
         "juans": "1",
+        "cjk_chars": "29907",
         "byline": "清 真在說　機雲．智旭等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7159,11 +7936,13 @@
         ]
     },
     "JB415": {
+        "authorityID": "CA0004976",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大悲妙雲禪師語錄",
         "juans": "6",
+        "cjk_chars": "52620",
         "byline": "清 真雄說　機德等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7180,11 +7959,13 @@
         ]
     },
     "JB416": {
+        "authorityID": "CA0003267",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "調實居士證源錄",
         "juans": "1",
+        "cjk_chars": "11382",
         "byline": "清 陸瑛說　羅機徹編　羅開驎序　佚名序（末頁缺）　有行略（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7205,11 +7986,13 @@
         ]
     },
     "JB417": {
+        "authorityID": "CA0006034",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天則能禪師語錄",
         "juans": "1",
+        "cjk_chars": "11260",
         "byline": "清 機能說　道崇．續彌同錄　羅開驎序　機雲序　有行略（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7238,11 +8021,13 @@
         ]
     },
     "JB418": {
+        "authorityID": "CA0006035",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "晦嶽旭禪師語錄",
         "juans": "8",
+        "cjk_chars": "70086",
         "byline": "清 旭說　全琳等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7259,11 +8044,13 @@
         ]
     },
     "JB419": {
+        "authorityID": "CA0006036",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "華嚴不厭樂禪師語錄",
         "juans": "3",
+        "cjk_chars": "16364",
         "byline": "清 道樂說　德普記錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7280,11 +8067,13 @@
         ]
     },
     "JB420": {
+        "authorityID": "CA0006037",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "三峰半水元禪師語錄",
         "juans": "1",
+        "cjk_chars": "3376",
         "byline": "清 元說　光深等錄　華嚴玉序（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7305,11 +8094,13 @@
         ]
     },
     "JB421": {
+        "authorityID": "CA0001325",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鶴峰禪師語錄",
         "juans": "2",
+        "cjk_chars": "14915",
         "byline": "清 濟悟說　上震等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7326,11 +8117,13 @@
         ]
     },
     "JB422": {
+        "authorityID": "CA0002075",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "林我禪師語錄",
         "juans": "4",
+        "cjk_chars": "24592",
         "byline": "清 鑑說　海錱．海茲等編錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7351,11 +8144,13 @@
         ]
     },
     "JB423": {
+        "authorityID": "CA0003087",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "石關禪師語錄",
         "juans": "1",
+        "cjk_chars": "20692",
         "byline": "清 說　芳桂等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7372,11 +8167,13 @@
         ]
     },
     "JB424": {
+        "authorityID": "CA0006038",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "香嚴禪師語錄",
         "juans": "1",
+        "cjk_chars": "34806",
         "byline": "清 說　明耀等編錄　葉燮序　有行實（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7397,11 +8194,13 @@
         ]
     },
     "JB425": {
+        "authorityID": "CA0001511",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "即非禪師全錄",
         "juans": "25",
+        "cjk_chars": "179899",
         "byline": "清 如一說　明洞等編（依駒本印）　附佛祖圖",
         "dynasty": "清",
         "time_from": 1644,
@@ -7418,6 +8217,7 @@
         ]
     },
     "JB426": {
+        "authorityID": "CA0006039",
         "vol": "J38",
         "type": "textbody",
         "alt": "X1590",
@@ -7425,11 +8225,13 @@
         "juans": "20"
     },
     "JB427": {
+        "authorityID": "CA0006040",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "青城竹浪生禪師語錄",
         "juans": "7",
+        "cjk_chars": "54630",
         "byline": "清 徹生說　如鵬等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7446,11 +8248,13 @@
         ]
     },
     "JB428": {
+        "authorityID": "CA0006041",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "密行忍禪師語錄",
         "juans": "3",
+        "cjk_chars": "20666",
         "byline": "清 寂忍說　明廣．明珍等編（依駒本印）　附嗣燈錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -7471,11 +8275,13 @@
         ]
     },
     "JB429": {
+        "authorityID": "CA0001180",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "盛京奉天般若古林禪師語錄",
         "juans": "6",
+        "cjk_chars": "42876",
         "byline": "清 智說　正繼等錄　正燈等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7496,11 +8302,13 @@
         ]
     },
     "JB430": {
+        "authorityID": "CA0006042",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "玉泉其白富禪師語錄",
         "juans": "3",
+        "cjk_chars": "31127",
         "byline": "清 德富說　圓頂等編（依駒本印）　附融徹錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -7517,11 +8325,13 @@
         ]
     },
     "JB431": {
+        "authorityID": "CA0006043",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲峰體宗寧禪師語錄",
         "juans": "1",
+        "cjk_chars": "9205",
         "byline": "清 寧說　續清等編　德玉序　徹生序　有行實（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7546,11 +8356,13 @@
         ]
     },
     "JB432": {
+        "authorityID": "CA0001478",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "幻住明禪師語錄",
         "juans": "2",
+        "cjk_chars": "14058",
         "byline": "清 明說　清尚等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7567,11 +8379,13 @@
         ]
     },
     "JB433": {
+        "authorityID": "CA0000521",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "純備德禪師語錄",
         "juans": "2",
+        "cjk_chars": "15369",
         "byline": "清 廣德說　智遠等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7588,11 +8402,13 @@
         ]
     },
     "JB434": {
+        "authorityID": "CA0000831",
         "vol": "J38",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "法幢遠禪師語錄",
         "juans": "1",
+        "cjk_chars": "4540",
         "byline": "清 智遠說　通慧等編　弘源序（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7613,11 +8429,13 @@
         ]
     },
     "JB435": {
+        "authorityID": "CA0006044",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "伏獅義公禪師語錄",
         "juans": "1",
+        "cjk_chars": "7072",
         "byline": "清 （尼）說　明元記錄　高以永序　超琛跋　有行狀（依駒本印　原書第十七　十八兩頁缺）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7642,11 +8460,13 @@
         ]
     },
     "JB436": {
+        "authorityID": "CA0006045",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "參同一揆禪師語錄",
         "juans": "1",
+        "cjk_chars": "15266",
         "byline": "清 超琛（尼）說　普明編　明俊錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7667,6 +8487,7 @@
         ]
     },
     "JB437": {
+        "authorityID": "CA0006046",
         "vol": "J39",
         "type": "textbody",
         "alt": "X1582+X1583",
@@ -7674,11 +8495,13 @@
         "juans": "42"
     },
     "JB438": {
+        "authorityID": "CA0001332",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "衡山禪師語錄",
         "juans": "1",
+        "cjk_chars": "9175",
         "byline": "清 燈炳說　宗位編　超源序　藍理序　有塔銘（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7703,11 +8526,13 @@
         ]
     },
     "JB439": {
+        "authorityID": "CA0006047",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "高峰三山來禪師疏語",
         "juans": "3",
+        "cjk_chars": "18081",
         "byline": "清 燈來撰　性統編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7724,11 +8549,13 @@
         ]
     },
     "JB440": {
+        "authorityID": "CA0006048",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "高峰喬松億禪師語錄",
         "juans": "2",
+        "cjk_chars": "21733",
         "byline": "清 玄億說　燈洪編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7745,11 +8572,13 @@
         ]
     },
     "JB441": {
+        "authorityID": "CA0006049",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "萬峰童真禪師語錄",
         "juans": "6",
+        "cjk_chars": "50025",
         "byline": "清 至善說　德林記（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7766,11 +8595,13 @@
         ]
     },
     "JB442": {
+        "authorityID": "CA0006050",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大笑崇禪師語錄",
         "juans": "3",
+        "cjk_chars": "16318",
         "byline": "清 崇說　空情錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7787,11 +8618,13 @@
         ]
     },
     "JB443": {
+        "authorityID": "CA0006051",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "玉眉亮禪師語錄",
         "juans": "1",
+        "cjk_chars": "5710",
         "byline": "清 亮說　空謐編　張廷勱序（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7812,11 +8645,13 @@
         ]
     },
     "JB444": {
+        "authorityID": "CA0006052",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "卓峰玨禪師語錄",
         "juans": "1",
+        "cjk_chars": "6773",
         "byline": "清 性玨說　宗位編　超原序　藍理序　有塔銘　附冰玄法師語錄（依駒本印　塔銘有缺頁）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7841,11 +8676,13 @@
         ]
     },
     "JB445": {
+        "authorityID": "CA0006053",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "別菴禪師同門錄",
         "juans": "3",
+        "cjk_chars": "24462",
         "byline": "清 性統錄　弘秀編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7862,11 +8699,13 @@
         ]
     },
     "JB446": {
+        "authorityID": "CA0002082",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "靈隱文禪師語錄",
         "juans": "3",
+        "cjk_chars": "18832",
         "byline": "清 印文說　福度復編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7883,11 +8722,13 @@
         ]
     },
     "JB447": {
+        "authorityID": "CA0006054",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "東山梅溪度禪師語錄",
         "juans": "10",
+        "cjk_chars": "68412",
         "byline": "清 福度說　慶緒等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7904,11 +8745,13 @@
         ]
     },
     "JB448": {
+        "authorityID": "CA0002078",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "靈機禪師語錄",
         "juans": "6",
+        "cjk_chars": "51068",
         "byline": "清 行觀說　寂方等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7925,11 +8768,13 @@
         ]
     },
     "JB449": {
+        "authorityID": "CA0006055",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "祖亮啟禪師語錄",
         "juans": "2",
+        "cjk_chars": "15615",
         "byline": "清 超啟說　廣和記錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7946,11 +8791,13 @@
         ]
     },
     "JB450": {
+        "authorityID": "CA0002251",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "敏樹禪師語錄",
         "juans": "10",
+        "cjk_chars": "53165",
         "byline": "清 如相說　道崇編　道領錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7971,11 +8818,13 @@
         ]
     },
     "JB451": {
+        "authorityID": "CA0006056",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "赤松領禪師語錄",
         "juans": "5",
+        "cjk_chars": "29832",
         "byline": "清 道領說　寂源錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -7992,11 +8841,13 @@
         ]
     },
     "JB452": {
+        "authorityID": "CA0006057",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "侶巖荷禪師語錄",
         "juans": "7",
+        "cjk_chars": "35049",
         "byline": "清 荷說　成純等記錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8013,11 +8864,13 @@
         ]
     },
     "JB453": {
+        "authorityID": "CA0006058",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "元潔瑩禪師語錄",
         "juans": "10",
+        "cjk_chars": "65170",
         "byline": "清 淨瑩說　智祥編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8034,11 +8887,13 @@
         ]
     },
     "JB454": {
+        "authorityID": "CA0006059",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "頻吉祥禪師語錄",
         "juans": "15",
+        "cjk_chars": "129086",
         "byline": "清 智祥說　德能等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8055,11 +8910,13 @@
         ]
     },
     "JB455": {
+        "authorityID": "CA0006060",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "通天逸叟高禪師語錄",
         "juans": "1",
+        "cjk_chars": "4553",
         "byline": "清 行高說　明德重梓　超原行略（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8080,11 +8937,13 @@
         ]
     },
     "JB456": {
+        "authorityID": "CA0006061",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "通天澹崖原禪師語錄",
         "juans": "2",
+        "cjk_chars": "9797",
         "byline": "清 超原說　明德等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8101,11 +8960,13 @@
         ]
     },
     "JB457": {
+        "authorityID": "CA0006062",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "白雲象林本真禪師語錄",
         "juans": "1",
+        "cjk_chars": "6691",
         "byline": "清 本真說　照水重梓　妙心序　有行實（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8126,11 +8987,13 @@
         ]
     },
     "JB458": {
+        "authorityID": "CA0006063",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "正覺潤光澤禪師澡雪集",
         "juans": "1",
+        "cjk_chars": "9490",
         "byline": "清 澤著　照水重編　陳聞道序　有自狀（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8151,11 +9014,13 @@
         ]
     },
     "JB459": {
+        "authorityID": "CA0006064",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "香巖洗心水禪師語錄",
         "juans": "2",
+        "cjk_chars": "16677",
         "byline": "清 照水說　實雲．海清等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -8176,11 +9041,13 @@
         ]
     },
     "JB460": {
+        "authorityID": "CA0006065",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "灤州萬善暉州昊禪師語錄",
         "juans": "6",
+        "cjk_chars": "27091",
         "byline": "清 昊說　性珍．寂寶等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8201,11 +9068,13 @@
         ]
     },
     "JB461": {
+        "authorityID": "CA0006066",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "性空臻禪師語錄",
         "juans": "6",
+        "cjk_chars": "29947",
         "byline": "清 行臻說　超自等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8222,11 +9091,13 @@
         ]
     },
     "JB462": {
+        "authorityID": "CA0006067",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "何一自禪師語錄",
         "juans": "2",
+        "cjk_chars": "21112",
         "byline": "清 超自說　明修．明惠．明智等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8251,11 +9122,13 @@
         ]
     },
     "JB463": {
+        "authorityID": "CA0006068",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "溈山古梅冽禪師語錄",
         "juans": "2",
+        "cjk_chars": "38414",
         "byline": "清 定冽說　真謙記錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8272,11 +9145,13 @@
         ]
     },
     "JB464": {
+        "authorityID": "CA0006069",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "華嚴起宗真禪師語錄",
         "juans": "2",
+        "cjk_chars": "8186",
         "byline": "清 真說　力廣等錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8293,11 +9168,13 @@
         ]
     },
     "JB465": {
+        "authorityID": "CA0006070",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "子雍如禪師語錄",
         "juans": "4",
+        "cjk_chars": "16657",
         "byline": "清 成如尼說　祖圓記錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8314,11 +9191,13 @@
         ]
     },
     "JB466": {
+        "authorityID": "CA0006071",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "山西柏山楷禪師語錄",
         "juans": "5",
+        "cjk_chars": "43139",
         "byline": "清 德楷說　行悟等編次（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8335,6 +9214,7 @@
         ]
     },
     "JB467": {
+        "authorityID": "CA0006072",
         "vol": "J39",
         "type": "textbody",
         "alt": "X1591",
@@ -8342,11 +9222,13 @@
         "juans": "8"
     },
     "JB468": {
+        "authorityID": "CA0006073",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "善一純禪師語錄",
         "juans": "3",
+        "cjk_chars": "26979",
         "byline": "清 如純說　學正錄　附續錄（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8363,11 +9245,13 @@
         ]
     },
     "JB469": {
+        "authorityID": "CA0002910",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "善權位禪師語錄",
         "juans": "2",
+        "cjk_chars": "10319",
         "byline": "清 達位說　大悅等編（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8384,11 +9268,13 @@
         ]
     },
     "JB470": {
+        "authorityID": "CA0003262",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天一悅禪師語錄",
         "juans": "1",
+        "cjk_chars": "5016",
         "byline": "清 大悅說　學愚錄　有塔銘（依駒本印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8405,11 +9291,13 @@
         ]
     },
     "JB471": {
+        "authorityID": "CA0004978",
         "vol": "J39",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "空谷道澄禪師語錄",
         "juans": "20",
+        "cjk_chars": "116083",
         "byline": "清 道澄說　德儒編（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8426,11 +9314,13 @@
         ]
     },
     "JB472": {
+        "authorityID": "CA0006074",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "大博乾禪師語錄",
         "juans": "5",
+        "cjk_chars": "26834",
         "byline": "清 乾說　超宗等錄（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8447,11 +9337,13 @@
         ]
     },
     "JB473": {
+        "authorityID": "CA0004980",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "盤山朗空順禪師語錄",
         "juans": "1",
+        "cjk_chars": "7462",
         "byline": "清 順說　實性記錄　附了宗見禪師法嗣　瑞亭晟法嗣（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8468,11 +9360,13 @@
         ]
     },
     "JB474": {
+        "authorityID": "CA0004981",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "盤山了宗禪師語錄",
         "juans": "4",
+        "cjk_chars": "19986",
         "byline": "清 超見說　徹凡．心月等錄（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8493,11 +9387,13 @@
         ]
     },
     "JB475": {
+        "authorityID": "CA0004982",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "逕庭宗禪師語錄",
         "juans": "2",
+        "cjk_chars": "23932",
         "byline": "清 德宗說　行謙等編（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8514,11 +9410,13 @@
         ]
     },
     "JB476": {
+        "authorityID": "CA0004983",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "別牧純禪師語錄",
         "juans": "1",
+        "cjk_chars": "12528",
         "byline": "清 純說　福月等編　慧輅序　有行實（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8539,11 +9437,13 @@
         ]
     },
     "JB477": {
+        "authorityID": "CA0004984",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天翼翔禪師語錄",
         "juans": "2",
+        "cjk_chars": "17207",
         "byline": "清 巨翔說　寂乾錄　際鋒等編（駒本附於前目四七六之後　今分出增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8564,11 +9464,13 @@
         ]
     },
     "JB478": {
+        "authorityID": "CA0006075",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雲山燕居申禪師語錄",
         "juans": "8",
+        "cjk_chars": "48512",
         "byline": "清 德申說　合哲等編（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8585,11 +9487,13 @@
         ]
     },
     "JB479": {
+        "authorityID": "CA0006076",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "昭覺竹峰續禪師語錄",
         "juans": "6",
+        "cjk_chars": "48022",
         "byline": "清 真續說　實悟等編（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8606,11 +9510,13 @@
         ]
     },
     "JB480": {
+        "authorityID": "CA0004987",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "一貫別傳",
         "juans": "5",
+        "cjk_chars": "55196",
         "byline": "清 廣真著（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8623,11 +9529,13 @@
         ]
     },
     "JB481": {
+        "authorityID": "CA0004988",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "古音王傳",
         "juans": "1",
+        "cjk_chars": "12691",
         "byline": "清 廣真著並序　古心評并引　凡則　黃毓英評　元善評　前有船子曲　燈輝集　慧澤序（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8660,6 +9568,7 @@
         ]
     },
     "JB482": {
+        "authorityID": "CA0006077",
         "vol": "J40",
         "type": "textbody",
         "alt": "X1282",
@@ -8667,11 +9576,13 @@
         "juans": "3"
     },
     "JB483": {
+        "authorityID": "CA0006078",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "竺峰敏禪師語錄",
         "juans": "6",
+        "cjk_chars": "74155",
         "byline": "清 幻敏說　性鉅．性湛．性珩．性濟等編　附後錄（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8700,11 +9611,13 @@
         ]
     },
     "JB484": {
+        "authorityID": "CA0004990",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "野雲映禪師宗統頌",
         "juans": "1",
+        "cjk_chars": "7510",
         "byline": "清 燈映頌　性燦錄　有塔銘　行狀（依駒本增入並印　原書第二十三頁起至末頁缺）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8721,11 +9634,13 @@
         ]
     },
     "JB485": {
+        "authorityID": "CA0004991",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "普門顯禪師語錄",
         "juans": "2",
+        "cjk_chars": "11587",
         "byline": "清 燈顯說　性胤錄（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8742,11 +9657,13 @@
         ]
     },
     "JB486": {
+        "authorityID": "CA0004992",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鑑堂一禪師語錄",
         "juans": "1",
+        "cjk_chars": "4911",
         "byline": "清 一說　明滿．明慧等錄　杜允貞序（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8771,11 +9688,13 @@
         ]
     },
     "JB487": {
+        "authorityID": "CA0004993",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "翠崖必禪師語錄",
         "juans": "3",
+        "cjk_chars": "15833",
         "byline": "清 必說　道通錄（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8792,11 +9711,13 @@
         ]
     },
     "JB488": {
+        "authorityID": "CA0004994",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "斗南暐禪師語錄",
         "juans": "3",
+        "cjk_chars": "15421",
         "byline": "清 暐說　普潤等錄（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8813,6 +9734,7 @@
         ]
     },
     "JB489": {
+        "authorityID": "CA0006079",
         "vol": "J40",
         "type": "textbody",
         "alt": "X1435",
@@ -8820,11 +9742,13 @@
         "juans": "35"
     },
     "JB490": {
+        "authorityID": "CA0006080",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "博山粟如瀚禪師語錄",
         "juans": "6",
+        "cjk_chars": "37246",
         "byline": "清 弘瀚說　傅鵬編（依駒本增入並印）",
         "dynasty": "清",
         "time_from": 1644,
@@ -8841,11 +9765,13 @@
         ]
     },
     "JB491": {
+        "authorityID": "CA0004996",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天寧法舟濟禪師剩語",
         "juans": "1",
+        "cjk_chars": "12290",
         "byline": "明 道濟撰　如淵等編",
         "dynasty": "明",
         "time_from": 1368,
@@ -8862,11 +9788,13 @@
         ]
     },
     "JB492": {
+        "authorityID": "CA0006081",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "萬峰和尚語錄",
         "juans": "1",
+        "cjk_chars": "17139",
         "byline": "明 時蔚說　普壽集",
         "dynasty": "明",
         "time_from": 1368,
@@ -8883,11 +9811,13 @@
         ]
     },
     "JB493": {
+        "authorityID": "CA0006082",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "磬山牧亭樸夫拙禪師語錄",
         "juans": "6",
+        "cjk_chars": "42512",
         "byline": "清 拙說　光模等編",
         "dynasty": "清",
         "time_from": 1644,
@@ -8904,11 +9834,13 @@
         ]
     },
     "JB494": {
+        "authorityID": "CA0004999",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "雨山和尚語錄",
         "juans": "20",
+        "cjk_chars": "142128",
         "byline": "清 上思說",
         "dynasty": "清",
         "time_from": 1644,
@@ -8921,11 +9853,13 @@
         ]
     },
     "JB495": {
+        "authorityID": "CA0006083",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "天然居士懷淨土詩",
         "juans": "1",
+        "cjk_chars": "7465",
         "byline": "清 朱道則撰　明康錄",
         "dynasty": "清",
         "time_from": 1644,
@@ -8942,6 +9876,7 @@
         ]
     },
     "JB496": {
+        "authorityID": "CA0006084",
         "vol": "J40",
         "type": "textbody",
         "alt": "X0826",
@@ -8949,11 +9884,13 @@
         "juans": "10"
     },
     "JB497": {
+        "authorityID": "CA0005001",
         "vol": "J40",
         "type": "textbody",
         "category": "禪宗部類",
         "title": "鶴山禪師執帚集",
         "juans": "2",
+        "cjk_chars": "25454",
         "byline": "清 鶴山撰　德敷錄",
         "dynasty": "清",
         "time_from": 1644,

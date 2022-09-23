@@ -1,10 +1,12 @@
 {
     "U1368": {
+        "authorityID": "CA0008318",
         "vol": "U205",
         "type": "textbody",
         "category": "瑜伽部類",
         "title": "大乘百法明門論疏",
         "juans": "2",
+        "cjk_chars": "26111",
         "byline": "唐 義忠述",
         "dynasty": "唐",
         "time_from": 618,
@@ -17,11 +19,13 @@
         ]
     },
     "U1418": {
+        "authorityID": "CA0008319",
         "vol": "U222..U223",
         "type": "textbody",
         "category": "華嚴部類",
         "title": "華嚴經疏科",
         "juans": "19",
+        "cjk_chars": "103692",
         "byline": "唐 澄觀述　宋 淨源重刊",
         "dynasty": "唐",
         "time_from": 618,

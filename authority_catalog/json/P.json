@@ -1,10 +1,12 @@
 {
     "P1519": {
+        "authorityID": "CA0008303",
         "vol": "P154..P155",
         "type": "textbody",
         "category": "史傳部類",
         "title": "宗門統要正續集",
         "juans": "20",
+        "cjk_chars": "195015",
         "byline": "宋 宗永集　元 清茂續集",
         "dynasty": "宋",
         "time_from": 960,
@@ -21,11 +23,13 @@
         ]
     },
     "P1573": {
+        "authorityID": "CA0008304",
         "vol": "P167",
         "type": "textbody",
         "category": "法華部類",
         "title": "修懺要旨",
         "juans": "1",
+        "cjk_chars": "3590",
         "byline": "宋 知禮述",
         "dynasty": "宋",
         "time_from": 960,
@@ -38,11 +42,13 @@
         ]
     },
     "P1581": {
+        "authorityID": "CA0008305",
         "vol": "P168",
         "type": "textbody",
         "category": "密教部類",
         "title": "首楞嚴經義海",
         "juans": "30",
+        "cjk_chars": "272328",
         "byline": "唐 懷迪證譯　宋 咸輝排經入注",
         "dynasty": "唐",
         "time_from": 618,
@@ -59,11 +65,13 @@
         ]
     },
     "P1590": {
+        "authorityID": "CA0008306",
         "vol": "P174",
         "type": "textbody",
         "category": "涅槃部類",
         "title": "佛遺教經論疏節要",
         "juans": "1",
+        "cjk_chars": "12652",
         "byline": "宋 淨源述",
         "dynasty": "宋",
         "time_from": 960,
@@ -76,11 +84,13 @@
         ]
     },
     "P1610": {
+        "authorityID": "CA0008307",
         "vol": "P178",
         "type": "textbody",
         "category": "事彙部類",
         "title": "大明太宗文皇帝御製序讚文",
         "juans": "1",
+        "cjk_chars": "3401",
         "byline": "明 太宗朱棣撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -93,11 +103,13 @@
         ]
     },
     "P1611": {
+        "authorityID": "CA0008308",
         "vol": "P178..P179",
         "type": "textbody",
         "category": "事彙部類",
         "title": "諸佛世尊如來菩薩尊者神僧名經",
         "juans": "40",
+        "cjk_chars": "331293",
         "byline": "明 太宗朱棣制",
         "dynasty": "明",
         "time_from": 1368,
@@ -110,11 +122,13 @@
         ]
     },
     "P1612": {
+        "authorityID": "CA0008309",
         "vol": "P179..P181",
         "type": "textbody",
         "category": "事彙部類",
         "title": "諸佛世尊如來菩薩尊者名稱歌曲",
         "juans": "51",
+        "cjk_chars": "370372",
         "byline": "明 太宗朱棣制",
         "dynasty": "明",
         "time_from": 1368,
@@ -127,11 +141,14 @@
         ]
     },
     "P1615": {
+        "authorityID": "CA0008310",
         "vol": "P181..P183",
         "type": "textbody",
         "category": "事彙部類",
         "title": "大明三藏法數",
         "juans": "38",
+        "cjk_chars": "517327",
+        "en_words": "1",
         "byline": "明 一如等編集",
         "dynasty": "明",
         "time_from": 1368,
@@ -144,11 +161,13 @@
         ]
     },
     "P1617": {
+        "authorityID": "CA0008311",
         "vol": "P184..P185",
         "type": "textbody",
         "category": "法華部類",
         "title": "妙法蓮華經要解（選錄「要解」本文）",
         "juans": "19",
+        "cjk_chars": "135465",
         "byline": "宋 戒環解",
         "dynasty": "宋",
         "time_from": 960,
@@ -161,11 +180,13 @@
         ]
     },
     "P1618": {
+        "authorityID": "CA0008312",
         "vol": "P185",
         "type": "textbody",
         "category": "密教部類",
         "title": "大佛頂萬行首楞嚴經會解",
         "juans": "20",
+        "cjk_chars": "154869",
         "byline": "唐宋 九師釋　元 惟則會解",
         "dynasty": "唐宋",
         "contributors": [
@@ -180,11 +201,13 @@
         ]
     },
     "P1624": {
+        "authorityID": "CA0008313",
         "vol": "P187",
         "type": "textbody",
         "category": "般若部類",
         "title": "金剛經疏論纂要（選錄「釋金剛經纂要疏科」）",
         "juans": "1",
+        "cjk_chars": "4394",
         "byline": "宋 子璿錄",
         "dynasty": "宋",
         "time_from": 960,
@@ -197,11 +220,13 @@
         ]
     },
     "P1629": {
+        "authorityID": "CA0008314",
         "vol": "P189",
         "type": "textbody",
         "category": "法華部類",
         "title": "天台四教儀集註（選錄「集註」本文）",
         "juans": "9",
+        "cjk_chars": "79925",
         "byline": "元 蒙潤集",
         "dynasty": "元",
         "time_from": 1271,
@@ -214,11 +239,13 @@
         ]
     },
     "P1630": {
+        "authorityID": "CA0008315",
         "vol": "P189",
         "type": "textbody",
         "category": "事彙部類",
         "title": "教乘法數（選錄序文）",
         "juans": "1",
+        "cjk_chars": "641",
         "byline": "明 圓瀞集",
         "dynasty": "明",
         "time_from": 1368,

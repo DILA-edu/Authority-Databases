@@ -1,9 +1,11 @@
 {
     "GA0002": {
+        "authorityID": "CA0008098",
         "vol": "GA001",
         "type": "textbody",
         "title": "洛陽伽藍記集證",
         "juans": "6",
+        "cjk_chars": "44784",
         "byline": "清 吳若準集證",
         "dynasty": "清",
         "time_from": 1644,
@@ -16,10 +18,12 @@
         ]
     },
     "GA0003": {
+        "authorityID": "CA0008099",
         "vol": "GA001",
         "type": "textbody",
         "title": "洛陽伽藍記鉤沈",
         "juans": "5",
+        "cjk_chars": "35174",
         "byline": "民國 唐晏鉤沈",
         "dynasty": "民國",
         "time_from": 1912,
@@ -31,11 +35,13 @@
         ]
     },
     "GA0004": {
+        "authorityID": "CA0008100",
         "vol": "GA001",
         "type": "textbody",
         "category": "新編部類",
         "title": "洛陽伽藍記合校本",
         "juans": "8",
+        "cjk_chars": "60463",
         "byline": "民國 張宗祥合校",
         "dynasty": "民國",
         "time_from": 1912,
@@ -47,11 +53,13 @@
         ]
     },
     "GA0005": {
+        "authorityID": "CA0008101",
         "vol": "GA002",
         "type": "textbody",
         "category": "新編部類",
         "title": "南朝佛寺志",
         "juans": "2",
+        "cjk_chars": "53211",
         "byline": "清 孫文川撰　陳作霖編",
         "dynasty": "清",
         "time_from": 1644,
@@ -68,11 +76,13 @@
         ]
     },
     "GA0008": {
+        "authorityID": "CA0008102",
         "vol": "GA009",
         "type": "textbody",
         "category": "新編部類",
         "title": "重修普陀山志",
         "juans": "6",
+        "cjk_chars": "56765",
         "byline": "明 周應賓撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -85,11 +95,13 @@
         ]
     },
     "GA0009": {
+        "authorityID": "CA0008103",
         "vol": "GA010",
         "type": "textbody",
         "category": "新編部類",
         "title": "普陀洛迦新志",
         "juans": "12",
+        "cjk_chars": "210070",
         "byline": "民國 王亨彥撰",
         "dynasty": "民國",
         "time_from": 1912,
@@ -101,11 +113,13 @@
         ]
     },
     "GA0010": {
+        "authorityID": "CA0008104",
         "vol": "GA011..GA012",
         "type": "textbody",
         "category": "新編部類",
         "title": "明州阿育王山志",
         "juans": "10",
+        "cjk_chars": "94733",
         "byline": "明 郭子章撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -118,11 +132,13 @@
         ]
     },
     "GA0011": {
+        "authorityID": "CA0008105",
         "vol": "GA012",
         "type": "textbody",
         "category": "新編部類",
         "title": "明州阿育王山續志",
         "juans": "6",
+        "cjk_chars": "46502",
         "byline": "清 釋畹荃撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -135,11 +151,13 @@
         ]
     },
     "GA0012": {
+        "authorityID": "CA0008106",
         "vol": "GA013..GA014",
         "type": "textbody",
         "category": "新編部類",
         "title": "天童寺志",
         "juans": "10",
+        "cjk_chars": "154376",
         "byline": "清 聞性道．釋德介撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -156,11 +174,14 @@
         ]
     },
     "GA0013": {
+        "authorityID": "CA0008107",
         "vol": "GA015",
         "type": "textbody",
         "category": "新編部類",
         "title": "七塔寺志",
         "juans": "8",
+        "cjk_chars": "60605",
+        "en_words": "19",
         "byline": "民國 陳寥士撰",
         "dynasty": "民國",
         "time_from": 1912,
@@ -172,11 +193,13 @@
         ]
     },
     "GA0014": {
+        "authorityID": "CA0008108",
         "vol": "GA015",
         "type": "textbody",
         "category": "新編部類",
         "title": "明州岳林寺志",
         "juans": "6",
+        "cjk_chars": "25281",
         "byline": "清 戴明琮撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -189,11 +212,13 @@
         ]
     },
     "GA0015": {
+        "authorityID": "CA0008109",
         "vol": "GA016",
         "type": "textbody",
         "category": "新編部類",
         "title": "大昭慶律寺志",
         "juans": "10",
+        "cjk_chars": "65880",
         "byline": "清 吳樹虛撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -206,11 +231,13 @@
         ]
     },
     "GA0017": {
+        "authorityID": "CA0008110",
         "vol": "GA020",
         "type": "textbody",
         "category": "新編部類",
         "title": "玉岑山慧因高麗華嚴教寺志",
         "juans": "12",
+        "cjk_chars": "44494",
         "byline": "明 李翥撰　清 丁丙補",
         "dynasty": "明",
         "time_from": 1368,
@@ -227,11 +254,13 @@
         ]
     },
     "GA0018": {
+        "authorityID": "CA0008111",
         "vol": "GA020",
         "type": "textbody",
         "category": "新編部類",
         "title": "鳳凰山聖果寺志",
         "juans": "1",
+        "cjk_chars": "12665",
         "byline": "清 釋超乾撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -244,11 +273,13 @@
         ]
     },
     "GA0019": {
+        "authorityID": "CA0008112",
         "vol": "GA021",
         "type": "textbody",
         "category": "新編部類",
         "title": "武林理安寺志",
         "juans": "8",
+        "cjk_chars": "100272",
         "byline": "清 杭世駿撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -261,11 +292,13 @@
         ]
     },
     "GA0020": {
+        "authorityID": "CA0008113",
         "vol": "GA022",
         "type": "textbody",
         "category": "新編部類",
         "title": "龍井見聞錄",
         "juans": "12",
+        "cjk_chars": "70323",
         "byline": "清 汪孟鋗撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -278,11 +311,13 @@
         ]
     },
     "GA0021": {
+        "authorityID": "CA0008114",
         "vol": "GA023",
         "type": "textbody",
         "category": "新編部類",
         "title": "武林靈隱寺志",
         "juans": "8",
+        "cjk_chars": "105158",
         "byline": "清 孫治撰　徐增重編",
         "dynasty": "清",
         "time_from": 1644,
@@ -299,11 +334,13 @@
         ]
     },
     "GA0022": {
+        "authorityID": "CA0008115",
         "vol": "GA024",
         "type": "textbody",
         "category": "新編部類",
         "title": "增修雲林寺志",
         "juans": "8",
+        "cjk_chars": "58881",
         "byline": "清 厲鶚．張熷撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -320,11 +357,13 @@
         ]
     },
     "GA0023": {
+        "authorityID": "CA0008116",
         "vol": "GA025",
         "type": "textbody",
         "category": "新編部類",
         "title": "雲林寺續志",
         "juans": "8",
+        "cjk_chars": "89370",
         "byline": "清 沈鑅彪撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -337,11 +376,13 @@
         ]
     },
     "GA0024": {
+        "authorityID": "CA0008117",
         "vol": "GA026",
         "type": "textbody",
         "category": "新編部類",
         "title": "杭州上天竺講寺志",
         "juans": "15",
+        "cjk_chars": "107915",
         "byline": "明 釋廣賓撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -354,11 +395,13 @@
         ]
     },
     "GA0025": {
+        "authorityID": "CA0008118",
         "vol": "GA027",
         "type": "textbody",
         "category": "新編部類",
         "title": "雲居聖水寺志",
         "juans": "7",
+        "cjk_chars": "61257",
         "byline": "清 釋𧧌湛．釋明倫原輯　釋通淵．釋實懿重纂",
         "dynasty": "清",
         "time_from": 1644,
@@ -383,11 +426,13 @@
         ]
     },
     "GA0028": {
+        "authorityID": "CA0008119",
         "vol": "GA029",
         "type": "textbody",
         "category": "新編部類",
         "title": "龍興祥符戒壇寺志",
         "juans": "12",
+        "cjk_chars": "83522",
         "byline": "清 張大昌撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -400,11 +445,13 @@
         ]
     },
     "GA0029": {
+        "authorityID": "CA0008120",
         "vol": "GA030",
         "type": "textbody",
         "category": "新編部類",
         "title": "西谿梵隱志",
         "juans": "4",
+        "cjk_chars": "41775",
         "byline": "清 吳本泰撰　釋智一編",
         "dynasty": "清",
         "time_from": 1644,
@@ -421,11 +468,13 @@
         ]
     },
     "GA0030": {
+        "authorityID": "CA0008121",
         "vol": "GA030",
         "type": "textbody",
         "category": "新編部類",
         "title": "崇福寺志",
         "juans": "4",
+        "cjk_chars": "16274",
         "byline": "清 朱文藻撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -438,11 +487,13 @@
         ]
     },
     "GA0031": {
+        "authorityID": "CA0008122",
         "vol": "GA030",
         "type": "textbody",
         "category": "新編部類",
         "title": "續崇福寺志",
         "juans": "2",
+        "cjk_chars": "3785",
         "byline": "清 章庭棫撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -455,11 +506,13 @@
         ]
     },
     "GA0032": {
+        "authorityID": "CA0008123",
         "vol": "GA031..GA032",
         "type": "textbody",
         "category": "新編部類",
         "title": "徑山志",
         "juans": "14",
+        "cjk_chars": "165075",
         "byline": "明 宋奎光撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -472,11 +525,13 @@
         ]
     },
     "GA0036": {
+        "authorityID": "CA0008124",
         "vol": "GA035",
         "type": "textbody",
         "category": "新編部類",
         "title": "破山興福寺志",
         "juans": "5",
+        "cjk_chars": "14853",
         "byline": "明 程嘉燧撰　蘇先繪圖",
         "dynasty": "明",
         "time_from": 1368,
@@ -493,11 +548,13 @@
         ]
     },
     "GA0043": {
+        "authorityID": "CA0008125",
         "vol": "GA043",
         "type": "textbody",
         "category": "新編部類",
         "title": "寒山寺志",
         "juans": "3",
+        "cjk_chars": "45903",
         "byline": "清 葉昌熾纂",
         "dynasty": "清",
         "time_from": 1644,
@@ -510,11 +567,13 @@
         ]
     },
     "GA0049": {
+        "authorityID": "CA0008126",
         "vol": "GA045",
         "type": "textbody",
         "category": "新編部類",
         "title": "峨眉山志",
         "juans": "8",
+        "cjk_chars": "131006",
         "byline": "清 蔣超撰　民國 釋印光重修",
         "dynasty": "清",
         "time_from": 1644,
@@ -531,11 +590,13 @@
         ]
     },
     "GA0062": {
+        "authorityID": "CA0008127",
         "vol": "GA058",
         "type": "textbody",
         "category": "新編部類",
         "title": "泉州開元寺志",
         "juans": "1",
+        "cjk_chars": "25307",
         "byline": "明 釋元賢撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -548,11 +609,13 @@
         ]
     },
     "GA0077": {
+        "authorityID": "CA0008128",
         "vol": "GA072",
         "type": "textbody",
         "category": "新編部類",
         "title": "九華山志",
         "juans": "8",
+        "cjk_chars": "123404",
         "byline": "民國 釋印光重修",
         "dynasty": "民國",
         "time_from": 1912,
@@ -564,11 +627,13 @@
         ]
     },
     "GA0081": {
+        "authorityID": "CA0008129",
         "vol": "GA079",
         "type": "textbody",
         "category": "新編部類",
         "title": "清涼山志",
         "juans": "8",
+        "cjk_chars": "110014",
         "byline": "民國 釋印光重修",
         "dynasty": "民國",
         "time_from": 1912,
@@ -580,11 +645,13 @@
         ]
     },
     "GA0084": {
+        "authorityID": "CA0008130",
         "vol": "GA081..GA082",
         "type": "textbody",
         "category": "新編部類",
         "title": "雞足山寺志",
         "juans": "10",
+        "cjk_chars": "108584",
         "byline": "明 錢邦纂　清 茫承勳增修",
         "dynasty": "明",
         "time_from": 1368,
@@ -601,11 +668,13 @@
         ]
     },
     "GA0086": {
+        "authorityID": "CA0008131",
         "vol": "GA084",
         "type": "textbody",
         "category": "新編部類",
         "title": "黃檗山寺志",
         "juans": "8",
+        "cjk_chars": "81615",
         "byline": "清 性幽獨往等編訂續修",
         "dynasty": "清",
         "time_from": 1644,
@@ -618,11 +687,13 @@
         ]
     },
     "GA0089": {
+        "authorityID": "CA0008132",
         "vol": "GA088..GA090",
         "type": "textbody",
         "category": "新編部類",
         "title": "天台山方外志",
         "juans": "30",
+        "cjk_chars": "239764",
         "byline": "清 釋傳燈編撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -635,10 +706,13 @@
         ]
     },
     "GAa001": {
+        "authorityID": "CA0008097",
         "vol": "GA000",
         "type": "textbody",
         "title": "編輯說明",
         "juans": "1",
+        "cjk_chars": "323",
+        "en_words": "48",
         "byline": "中華電子佛典協會"
     }
 }

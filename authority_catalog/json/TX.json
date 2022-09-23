@@ -1,10 +1,13 @@
 {
     "TX0001": {
+        "authorityID": "CA0008566",
         "vol": "TX01..TX02",
         "type": "textbody",
         "category": "新編部類",
         "title": "第一編　佛法總學",
         "juans": "34",
+        "cjk_chars": "291219",
+        "en_words": "153",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -17,11 +20,14 @@
         ]
     },
     "TX0002": {
+        "authorityID": "CA0008567",
         "vol": "TX03",
         "type": "textbody",
         "category": "新編部類",
         "title": "第二編　五乘共學",
         "juans": "22",
+        "cjk_chars": "73349",
+        "en_words": "18",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -34,11 +40,14 @@
         ]
     },
     "TX0003": {
+        "authorityID": "CA0008568",
         "vol": "TX03",
         "type": "textbody",
         "category": "新編部類",
         "title": "第三編　三乘共學",
         "juans": "12",
+        "cjk_chars": "83168",
+        "en_words": "5",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -51,11 +60,14 @@
         ]
     },
     "TX0004": {
+        "authorityID": "CA0008569",
         "vol": "TX04..TX05",
         "type": "textbody",
         "category": "新編部類",
         "title": "第四編　大乘通學",
         "juans": "22",
+        "cjk_chars": "149364",
+        "en_words": "45",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -68,11 +80,14 @@
         ]
     },
     "TX0005": {
+        "authorityID": "CA0008570",
         "vol": "TX06..TX07",
         "type": "textbody",
         "category": "新編部類",
         "title": "第五編　法性空慧學",
         "juans": "16",
+        "cjk_chars": "262831",
+        "en_words": "58",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -85,11 +100,14 @@
         ]
     },
     "TX0006": {
+        "authorityID": "CA0008571",
         "vol": "TX07..TX09",
         "type": "textbody",
         "category": "新編部類",
         "title": "第六編　法相唯識學",
         "juans": "49",
+        "cjk_chars": "432261",
+        "en_words": "547",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -102,11 +120,14 @@
         ]
     },
     "TX0007": {
+        "authorityID": "CA0008572",
         "vol": "TX10..TX15",
         "type": "textbody",
         "category": "新編部類",
         "title": "第七編　法界圓覺學",
         "juans": "51",
+        "cjk_chars": "885382",
+        "en_words": "100",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -119,11 +140,13 @@
         ]
     },
     "TX0008": {
+        "authorityID": "CA0008610",
         "vol": "TX16",
         "type": "textbody",
         "category": "新編部類",
         "title": "第八編　律釋",
         "juans": "3",
+        "cjk_chars": "127977",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -136,11 +159,14 @@
         ]
     },
     "TX0009": {
+        "authorityID": "CA0008611",
         "vol": "TX17",
         "type": "textbody",
         "category": "新編部類",
         "title": "第九編　制議",
         "juans": "67",
+        "cjk_chars": "196279",
+        "en_words": "86",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -153,11 +179,14 @@
         ]
     },
     "TX0010": {
+        "authorityID": "CA0008612",
         "vol": "TX18",
         "type": "textbody",
         "category": "新編部類",
         "title": "第十編　學行",
         "juans": "45",
+        "cjk_chars": "97589",
+        "en_words": "38",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -170,11 +199,14 @@
         ]
     },
     "TX0011": {
+        "authorityID": "CA0008613",
         "vol": "TX18..TX19",
         "type": "textbody",
         "category": "新編部類",
         "title": "第十一編　宗依論",
         "juans": "5",
+        "cjk_chars": "205246",
+        "en_words": "24",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -187,11 +219,14 @@
         ]
     },
     "TX0012": {
+        "authorityID": "CA0008614",
         "vol": "TX20",
         "type": "textbody",
         "category": "新編部類",
         "title": "第十二編　宗體論",
         "juans": "1",
+        "cjk_chars": "89396",
+        "en_words": "31",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -204,11 +239,14 @@
         ]
     },
     "TX0013": {
+        "authorityID": "CA0008615",
         "vol": "TX20..TX23",
         "type": "textbody",
         "category": "新編部類",
         "title": "第十三編　宗用論",
         "juans": "139",
+        "cjk_chars": "511134",
+        "en_words": "66",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -221,11 +259,14 @@
         ]
     },
     "TX0014": {
+        "authorityID": "CA0008616",
         "vol": "TX23..TX24",
         "type": "textbody",
         "category": "新編部類",
         "title": "第十四編　支論",
         "juans": "8",
+        "cjk_chars": "159157",
+        "en_words": "34",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -238,11 +279,14 @@
         ]
     },
     "TX0015": {
+        "authorityID": "CA0008617",
         "vol": "TX24",
         "type": "textbody",
         "category": "新編部類",
         "title": "第十五編　時論",
         "juans": "71",
+        "cjk_chars": "109188",
+        "en_words": "7",
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
@@ -255,10 +299,13 @@
         ]
     },
     "TXa001": {
+        "authorityID": "CA0008565",
         "vol": "TX00",
         "type": "non-textbody",
         "category": "新編部類",
         "title": "編纂說明",
-        "juans": "2"
+        "juans": "2",
+        "cjk_chars": "10906",
+        "en_words": "7"
     }
 }
