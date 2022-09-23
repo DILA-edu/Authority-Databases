@@ -5,8 +5,8 @@
         "type": "textbody",
         "category": "經集部類",
         "title": "上生經會古通今新抄",
-        "juans": "2",
-        "cjk_chars": "33021",
+        "juans": 2,
+        "cjk_chars": 33021,
         "byline": "唐 詮明集",
         "dynasty": "唐",
         "time_from": 618,
@@ -24,7 +24,7 @@
         "type": "textbody",
         "category": "經集部類",
         "title": "上生經疏隨新抄科文",
-        "juans": "1",
-        "cjk_chars": "7380"
+        "juans": 1,
+        "cjk_chars": 7380
     }
 }

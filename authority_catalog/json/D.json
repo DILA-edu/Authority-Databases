@@ -5,8 +5,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "佛說佛名經（存卷四）",
-        "juans": "1",
-        "cjk_chars": "4398"
+        "juans": 1,
+        "cjk_chars": 4398
     },
     "D8680": {
         "authorityID": "CA0008001",
@@ -14,8 +14,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "佛說佛名經（存卷七）",
-        "juans": "1",
-        "cjk_chars": "9385"
+        "juans": 1,
+        "cjk_chars": 9385
     },
     "D8701": {
         "authorityID": "CA0008002",
@@ -23,8 +23,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "盂蘭盆經講經文（前殘）",
-        "juans": "1",
-        "cjk_chars": "1417"
+        "juans": 1,
+        "cjk_chars": 1417
     },
     "D8724": {
         "authorityID": "CA0008003",
@@ -32,8 +32,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "報恩金剛經文十二段",
-        "juans": "1",
-        "cjk_chars": "2933",
+        "juans": 1,
+        "cjk_chars": 2933,
         "byline": "唐 楊仙鸖撰",
         "dynasty": "唐",
         "time_from": 618,
@@ -51,8 +51,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "羯磨文（前殘）",
-        "juans": "1",
-        "cjk_chars": "14943"
+        "juans": 1,
+        "cjk_chars": 14943
     },
     "D8775": {
         "authorityID": "CA0008005",
@@ -60,8 +60,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "式叉摩那尼六法",
-        "juans": "1",
-        "cjk_chars": "2347"
+        "juans": 1,
+        "cjk_chars": 2347
     },
     "D8779": {
         "authorityID": "CA0008006",
@@ -69,8 +69,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "鳩摩羅什法師誦法（後殘）",
-        "juans": "1",
-        "cjk_chars": "1355",
+        "juans": 1,
+        "cjk_chars": 1355,
         "byline": "東晉 釋慧融等集",
         "dynasty": "東晉",
         "time_from": 317,
@@ -88,8 +88,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "小鈔",
-        "juans": "1",
-        "cjk_chars": "3864"
+        "juans": 1,
+        "cjk_chars": 3864
     },
     "D8790": {
         "authorityID": "CA0008008",
@@ -97,8 +97,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "佛性觀（前殘）",
-        "juans": "1",
-        "cjk_chars": "2727"
+        "juans": 1,
+        "cjk_chars": 2727
     },
     "D8814": {
         "authorityID": "CA0008009",
@@ -106,8 +106,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "佛頂尊勝陀羅尼等靈異神咒二十道",
-        "juans": "1",
-        "cjk_chars": "3845"
+        "juans": 1,
+        "cjk_chars": 3845
     },
     "D8817": {
         "authorityID": "CA0008010",
@@ -115,8 +115,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "佛說觀世音三昧經",
-        "juans": "1",
-        "cjk_chars": "3357"
+        "juans": 1,
+        "cjk_chars": 3357
     },
     "D8820": {
         "authorityID": "CA0008011",
@@ -124,8 +124,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "新菩薩經",
-        "juans": "1",
-        "cjk_chars": "154"
+        "juans": 1,
+        "cjk_chars": 154
     },
     "D8838": {
         "authorityID": "CA0008012",
@@ -133,8 +133,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "金剛般若波羅蜜經（註解）",
-        "juans": "1",
-        "cjk_chars": "23948",
+        "juans": 1,
+        "cjk_chars": 23948,
         "byline": "元 釋思聰註解",
         "dynasty": "元",
         "time_from": 1271,
@@ -152,8 +152,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "般若心經註解",
-        "juans": "1",
-        "cjk_chars": "4783",
+        "juans": 1,
+        "cjk_chars": 4783,
         "byline": "日本 釋圓耳撰",
         "contributors": [
             {
@@ -168,8 +168,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "梵網古跡抄",
-        "juans": "8",
-        "cjk_chars": "162279"
+        "juans": 8,
+        "cjk_chars": 162279
     },
     "D8859": {
         "authorityID": "CA0008015",
@@ -177,8 +177,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "楞嚴妙指",
-        "juans": "10",
-        "cjk_chars": "220598",
+        "juans": 10,
+        "cjk_chars": 220598,
         "byline": "明 釋弘演撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -196,8 +196,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "楞嚴經四依解",
-        "juans": "10",
-        "cjk_chars": "360247",
+        "juans": 10,
+        "cjk_chars": 360247,
         "byline": "明 釋觀衡述",
         "dynasty": "明",
         "time_from": 1368,
@@ -215,9 +215,9 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "大日經疏指心鈔",
-        "juans": "16",
-        "cjk_chars": "317960",
-        "en_words": "1",
+        "juans": 16,
+        "cjk_chars": 317960,
+        "en_words": 1,
         "byline": "唐 釋一行撰",
         "dynasty": "唐",
         "time_from": 618,
@@ -235,8 +235,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "大日經劫心義章",
-        "juans": "3",
-        "cjk_chars": "34865",
+        "juans": 3,
+        "cjk_chars": 34865,
         "byline": "日本 釋運敞撰",
         "contributors": [
             {
@@ -251,8 +251,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "惟教三昧（存卷下　前殘）",
-        "juans": "1",
-        "cjk_chars": "6815"
+        "juans": 1,
+        "cjk_chars": 6815
     },
     "D8871": {
         "authorityID": "CA0008020",
@@ -260,8 +260,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "□者眷屬",
-        "juans": "1",
-        "cjk_chars": "4948"
+        "juans": 1,
+        "cjk_chars": 4948
     },
     "D8874": {
         "authorityID": "CA0008021",
@@ -269,8 +269,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "成實論義記（存卷中　前殘）",
-        "juans": "1",
-        "cjk_chars": "10116",
+        "juans": 1,
+        "cjk_chars": 10116,
         "byline": "唐 釋其甲撰",
         "dynasty": "唐",
         "time_from": 618,
@@ -288,8 +288,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "成唯識論訂正",
-        "juans": "10",
-        "cjk_chars": "344010",
+        "juans": 10,
+        "cjk_chars": 344010,
         "byline": "明 釋廣伸撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -307,8 +307,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "成唯識論述記序釋",
-        "juans": "1",
-        "cjk_chars": "11423",
+        "juans": 1,
+        "cjk_chars": 11423,
         "byline": "日本 釋善珠撰",
         "contributors": [
             {
@@ -323,8 +323,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "菩提心論問題",
-        "juans": "2",
-        "cjk_chars": "17574",
+        "juans": 2,
+        "cjk_chars": 17574,
         "byline": "日本 釋善珠撰",
         "contributors": [
             {
@@ -339,8 +339,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "菩提心論口筆",
-        "juans": "1",
-        "cjk_chars": "14129",
+        "juans": 1,
+        "cjk_chars": 14129,
         "byline": "日本 釋實順撰",
         "contributors": [
             {
@@ -355,8 +355,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "百法問答聞書抄",
-        "juans": "6",
-        "cjk_chars": "75551"
+        "juans": 6,
+        "cjk_chars": 75551
     },
     "D8885": {
         "authorityID": "CA0008027",
@@ -364,8 +364,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "因明入正理論後記",
-        "juans": "6",
-        "cjk_chars": "45607",
+        "juans": 6,
+        "cjk_chars": 45607,
         "byline": "清 吳樹虛撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -383,8 +383,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "表無表章詮要鈔",
-        "juans": "6",
-        "cjk_chars": "118169",
+        "juans": 6,
+        "cjk_chars": 118169,
         "byline": "唐 釋窺基撰",
         "dynasty": "唐",
         "time_from": 618,
@@ -402,8 +402,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "教相樞要鈔",
-        "juans": "2",
-        "cjk_chars": "35164",
+        "juans": 2,
+        "cjk_chars": 35164,
         "byline": "日本 釋高範撰",
         "contributors": [
             {
@@ -418,8 +418,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "唐三藏法師唯識量質疑錄",
-        "juans": "2",
-        "cjk_chars": "9480",
+        "juans": 2,
+        "cjk_chars": 9480,
         "byline": "清 吳樹虛撰",
         "dynasty": "清",
         "time_from": 1644,
@@ -437,8 +437,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "表無表章詳體文集",
-        "juans": "3",
-        "cjk_chars": "69830",
+        "juans": 3,
+        "cjk_chars": 69830,
         "byline": "日本 釋叡尊撰",
         "contributors": [
             {
@@ -453,8 +453,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "略述法相義依釋",
-        "juans": "3",
-        "cjk_chars": "54941",
+        "juans": 3,
+        "cjk_chars": 54941,
         "byline": "日本 釋高範撰",
         "contributors": [
             {
@@ -469,8 +469,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "法宗原私記",
-        "juans": "2",
-        "cjk_chars": "51484",
+        "juans": 2,
+        "cjk_chars": 51484,
         "byline": "日本 釋龍謙撰",
         "contributors": [
             {
@@ -485,8 +485,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "頌義八拔萃",
-        "juans": "5",
-        "cjk_chars": "116788"
+        "juans": 5,
+        "cjk_chars": 116788
     },
     "D8895": {
         "authorityID": "CA0008035",
@@ -494,8 +494,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "略述法相義",
-        "juans": "3",
-        "cjk_chars": "39351",
+        "juans": 3,
+        "cjk_chars": 39351,
         "byline": "日本 釋良光撰",
         "contributors": [
             {
@@ -510,8 +510,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "唯識義",
-        "juans": "6",
-        "cjk_chars": "161428",
+        "juans": 6,
+        "cjk_chars": 161428,
         "byline": "日本 釋真興撰",
         "contributors": [
             {
@@ -526,8 +526,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "脩大方廣佛華嚴法界觀",
-        "juans": "1",
-        "cjk_chars": "39522",
+        "juans": 1,
+        "cjk_chars": 39522,
         "byline": "唐 釋杜順編",
         "dynasty": "唐",
         "time_from": 618,
@@ -545,8 +545,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "圭峰禪師原人論發微錄",
-        "juans": "1",
-        "cjk_chars": "21635",
+        "juans": 1,
+        "cjk_chars": 21635,
         "byline": "宋 釋淨源撰",
         "dynasty": "宋",
         "time_from": 960,
@@ -564,8 +564,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "天台名目類聚鈔",
-        "juans": "7",
-        "cjk_chars": "313026",
+        "juans": 7,
+        "cjk_chars": 313026,
         "byline": "日本 釋貞舜撰",
         "contributors": [
             {
@@ -580,8 +580,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "西谷名目句解",
-        "juans": "7",
-        "cjk_chars": "248693"
+        "juans": 7,
+        "cjk_chars": 248693
     },
     "D8905": {
         "authorityID": "CA0008041",
@@ -589,8 +589,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "選擇傳弘決疑鈔",
-        "juans": "5",
-        "cjk_chars": "72614",
+        "juans": 5,
+        "cjk_chars": 72614,
         "byline": "日本 釋良忠撰",
         "contributors": [
             {
@@ -605,8 +605,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "識知淨土論",
-        "juans": "1",
-        "cjk_chars": "8172",
+        "juans": 1,
+        "cjk_chars": 8172,
         "byline": "日本 弁阿撰",
         "contributors": [
             {
@@ -621,8 +621,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "釋淨土群疑論探要記",
-        "juans": "14",
-        "cjk_chars": "306964"
+        "juans": 14,
+        "cjk_chars": 306964
     },
     "D8915": {
         "authorityID": "CA0008044",
@@ -630,8 +630,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "禪門偈（前殘）",
-        "juans": "1",
-        "cjk_chars": "2173"
+        "juans": 1,
+        "cjk_chars": 2173
     },
     "D8930": {
         "authorityID": "CA0008045",
@@ -639,8 +639,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "特賜興禪大燈國師參詳語要",
-        "juans": "2",
-        "cjk_chars": "41453",
+        "juans": 2,
+        "cjk_chars": 41453,
         "byline": "日本 釋妙超撰",
         "contributors": [
             {
@@ -655,8 +655,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "正信念佛偈私見聞",
-        "juans": "5",
-        "cjk_chars": "69226",
+        "juans": 5,
+        "cjk_chars": 69226,
         "byline": "日本 釋空誓撰",
         "contributors": [
             {
@@ -671,8 +671,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "古尊宿語錄",
-        "juans": "33",
-        "cjk_chars": "353373"
+        "juans": 33,
+        "cjk_chars": 353373
     },
     "D8942": {
         "authorityID": "CA0008048",
@@ -680,8 +680,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "四家錄",
-        "juans": "4",
-        "cjk_chars": "36058",
+        "juans": 4,
+        "cjk_chars": 36058,
         "byline": "元 釋海島編",
         "dynasty": "元",
         "time_from": 1271,
@@ -699,8 +699,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "雪峰空和尚外集",
-        "juans": "1",
-        "cjk_chars": "26670",
+        "juans": 1,
+        "cjk_chars": 26670,
         "byline": "宋 釋慧空撰　釋惠然編",
         "dynasty": "宋",
         "time_from": 960,
@@ -722,8 +722,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "佛國禪師語錄",
-        "juans": "2",
-        "cjk_chars": "28582",
+        "juans": 2,
+        "cjk_chars": 28582,
         "byline": "元 釋無學撰　釋妙環等編",
         "dynasty": "元",
         "time_from": 1271,
@@ -745,8 +745,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "如來香",
-        "juans": "14",
-        "cjk_chars": "416195",
+        "juans": 14,
+        "cjk_chars": 416195,
         "byline": "清 唐時編",
         "dynasty": "清",
         "time_from": 1644,
@@ -764,8 +764,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "為二太子中元盂蘭薦福文",
-        "juans": "1",
-        "cjk_chars": "557"
+        "juans": 1,
+        "cjk_chars": 557
     },
     "D8953": {
         "authorityID": "CA0008053",
@@ -773,8 +773,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "結壇散食迴向發願文（首尾殘缺）",
-        "juans": "1",
-        "cjk_chars": "2018"
+        "juans": 1,
+        "cjk_chars": 2018
     },
     "D8954": {
         "authorityID": "CA0008054",
@@ -782,8 +782,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "儀註備簡",
-        "juans": "10",
-        "cjk_chars": "82772",
+        "juans": 10,
+        "cjk_chars": 82772,
         "byline": "明 釋大惠撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -801,8 +801,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "冥樞會要",
-        "juans": "3",
-        "cjk_chars": "90566",
+        "juans": 3,
+        "cjk_chars": 90566,
         "byline": "宋 釋祖心編",
         "dynasty": "宋",
         "time_from": 960,
@@ -820,8 +820,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "空谷集",
-        "juans": "3",
-        "cjk_chars": "33352",
+        "juans": 3,
+        "cjk_chars": 33352,
         "byline": "明 釋景隆撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -839,8 +839,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "閱藏隨錄",
-        "juans": "1",
-        "cjk_chars": "40205",
+        "juans": 1,
+        "cjk_chars": 40205,
         "byline": "明 王芥庵撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -858,8 +858,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "藏經值畫一目錄",
-        "juans": "1",
-        "cjk_chars": "21451"
+        "juans": 1,
+        "cjk_chars": 21451
     },
     "D9021": {
         "authorityID": "CA0008059",
@@ -867,8 +867,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "知儒編",
-        "juans": "1",
-        "cjk_chars": "31390",
+        "juans": 1,
+        "cjk_chars": 31390,
         "byline": "明 周夢秀撰",
         "dynasty": "明",
         "time_from": 1368,
@@ -886,8 +886,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "淨土三部經音義集",
-        "juans": "4",
-        "cjk_chars": "68622",
+        "juans": 4,
+        "cjk_chars": 68622,
         "byline": "日本 釋信瑞撰",
         "contributors": [
             {
@@ -902,8 +902,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "大悲觀世音菩薩至道禮文",
-        "juans": "1",
-        "cjk_chars": "647"
+        "juans": 1,
+        "cjk_chars": 647
     },
     "D9027": {
         "authorityID": "CA0008062",
@@ -911,8 +911,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "道安法師念佛讚文附入山讚文",
-        "juans": "1",
-        "cjk_chars": "548"
+        "juans": 1,
+        "cjk_chars": 548
     },
     "D9031": {
         "authorityID": "CA0008063",
@@ -920,8 +920,8 @@
         "type": "textbody",
         "category": "國圖善本部類",
         "title": "僧家禮儀文",
-        "juans": "1",
-        "cjk_chars": "6075",
+        "juans": 1,
+        "cjk_chars": 6075,
         "byline": "朝鮮 釋冲絢撰",
         "dynasty": "朝鮮",
         "time_from": 1392,

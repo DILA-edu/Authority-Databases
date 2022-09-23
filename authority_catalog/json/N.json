@@ -5,9 +5,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "經分別",
-        "juans": "15",
-        "cjk_chars": "236841",
-        "en_words": "296",
+        "juans": 15,
+        "cjk_chars": 236841,
+        "en_words": 296,
         "byline": "通妙譯",
         "contributors": [
             {
@@ -22,9 +22,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "犍度",
-        "juans": "22",
-        "cjk_chars": "274438",
-        "en_words": "5",
+        "juans": 22,
+        "cjk_chars": 274438,
+        "en_words": 5,
         "byline": "通妙譯",
         "contributors": [
             {
@@ -39,9 +39,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "附隨",
-        "juans": "19",
-        "cjk_chars": "92230",
-        "en_words": "2",
+        "juans": 19,
+        "cjk_chars": 92230,
+        "en_words": 2,
         "byline": "通妙譯",
         "contributors": [
             {
@@ -56,8 +56,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "長部經典",
-        "juans": "34",
-        "cjk_chars": "270825",
+        "juans": 34,
+        "cjk_chars": 270825,
         "byline": "通妙譯",
         "contributors": [
             {
@@ -72,9 +72,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "中部經典",
-        "juans": "16",
-        "cjk_chars": "453652",
-        "en_words": "3",
+        "juans": 16,
+        "cjk_chars": 453652,
+        "en_words": 3,
         "byline": "通妙譯",
         "contributors": [
             {
@@ -89,9 +89,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "相應部經典",
-        "juans": "56",
-        "cjk_chars": "507955",
-        "en_words": "8",
+        "juans": 56,
+        "cjk_chars": 507955,
+        "en_words": 8,
         "byline": "雲庵譯",
         "contributors": [
             {
@@ -106,9 +106,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "增支部經典",
-        "juans": "12",
-        "cjk_chars": "637658",
-        "en_words": "1",
+        "juans": 12,
+        "cjk_chars": 637658,
+        "en_words": 1,
         "byline": "第1卷-第3卷：葉慶春譯；第4卷：關世謙譯；第5卷-第12卷：郭哲彰譯",
         "contributors": [
             {
@@ -131,8 +131,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "小誦經",
-        "juans": "1",
-        "cjk_chars": "2508",
+        "juans": 1,
+        "cjk_chars": 2508,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -147,8 +147,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "法句經",
-        "juans": "1",
-        "cjk_chars": "10763",
+        "juans": 1,
+        "cjk_chars": 10763,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -163,8 +163,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "自說經",
-        "juans": "1",
-        "cjk_chars": "33922",
+        "juans": 1,
+        "cjk_chars": 33922,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -179,8 +179,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "如是語經",
-        "juans": "1",
-        "cjk_chars": "21570",
+        "juans": 1,
+        "cjk_chars": 21570,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -195,9 +195,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "經集",
-        "juans": "1",
-        "cjk_chars": "49927",
-        "en_words": "1",
+        "juans": 1,
+        "cjk_chars": 49927,
+        "en_words": 1,
         "byline": "雲庵譯",
         "contributors": [
             {
@@ -212,8 +212,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "天宮事經",
-        "juans": "1",
-        "cjk_chars": "27379",
+        "juans": 1,
+        "cjk_chars": 27379,
         "byline": "雲庵譯",
         "contributors": [
             {
@@ -228,8 +228,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "餓鬼事經",
-        "juans": "1",
-        "cjk_chars": "17906",
+        "juans": 1,
+        "cjk_chars": 17906,
         "byline": "雲庵譯",
         "contributors": [
             {
@@ -244,8 +244,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "長老偈經",
-        "juans": "1",
-        "cjk_chars": "34887",
+        "juans": 1,
+        "cjk_chars": 34887,
         "byline": "雲庵譯",
         "contributors": [
             {
@@ -260,8 +260,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "長老尼偈經",
-        "juans": "1",
-        "cjk_chars": "14220",
+        "juans": 1,
+        "cjk_chars": 14220,
         "byline": "雲庵譯",
         "contributors": [
             {
@@ -276,8 +276,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "譬喻經",
-        "juans": "59",
-        "cjk_chars": "170949",
+        "juans": 59,
+        "cjk_chars": 170949,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -292,9 +292,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "本生經",
-        "juans": "26",
-        "cjk_chars": "994223",
-        "en_words": "25",
+        "juans": 26,
+        "cjk_chars": 994223,
+        "en_words": 25,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -309,8 +309,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "無礙解道",
-        "juans": "4",
-        "cjk_chars": "157897",
+        "juans": 4,
+        "cjk_chars": 157897,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -325,8 +325,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "佛種姓經",
-        "juans": "1",
-        "cjk_chars": "30422",
+        "juans": 1,
+        "cjk_chars": 30422,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -341,8 +341,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "所行藏經",
-        "juans": "1",
-        "cjk_chars": "9814",
+        "juans": 1,
+        "cjk_chars": 9814,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -357,9 +357,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "大義釋",
-        "juans": "16",
-        "cjk_chars": "182356",
-        "en_words": "40",
+        "juans": 16,
+        "cjk_chars": 182356,
+        "en_words": 40,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -374,8 +374,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "小義釋",
-        "juans": "19",
-        "cjk_chars": "122452",
+        "juans": 19,
+        "cjk_chars": 122452,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -390,9 +390,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "法集論",
-        "juans": "5",
-        "cjk_chars": "98333",
-        "en_words": "12",
+        "juans": 5,
+        "cjk_chars": 98333,
+        "en_words": 12,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -407,9 +407,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "分別論",
-        "juans": "18",
-        "cjk_chars": "152738",
-        "en_words": "11",
+        "juans": 18,
+        "cjk_chars": 152738,
+        "en_words": 11,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -424,9 +424,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "界論",
-        "juans": "2",
-        "cjk_chars": "36108",
-        "en_words": "3",
+        "juans": 2,
+        "cjk_chars": 36108,
+        "en_words": 3,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -441,8 +441,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "人施設論",
-        "juans": "1",
-        "cjk_chars": "29239",
+        "juans": 1,
+        "cjk_chars": 29239,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -457,8 +457,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "雙論",
-        "juans": "10",
-        "cjk_chars": "400616",
+        "juans": 10,
+        "cjk_chars": 400616,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -473,9 +473,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "發趣論",
-        "juans": "12",
-        "cjk_chars": "893798",
-        "en_words": "13",
+        "juans": 12,
+        "cjk_chars": 893798,
+        "en_words": 13,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -490,9 +490,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "論事",
-        "juans": "23",
-        "cjk_chars": "191256",
-        "en_words": "4",
+        "juans": 23,
+        "cjk_chars": 191256,
+        "en_words": 4,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -507,8 +507,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "彌蘭王問經",
-        "juans": "25",
-        "cjk_chars": "159841",
+        "juans": 25,
+        "cjk_chars": 159841,
         "byline": "郭哲彰譯",
         "contributors": [
             {
@@ -523,8 +523,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "島王統史",
-        "juans": "22",
-        "cjk_chars": "39124",
+        "juans": 22,
+        "cjk_chars": 39124,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -539,8 +539,8 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "大王統史",
-        "juans": "37",
-        "cjk_chars": "77810",
+        "juans": 37,
+        "cjk_chars": 77810,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -555,9 +555,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "小王統史",
-        "juans": "65",
-        "cjk_chars": "166114",
-        "en_words": "5",
+        "juans": 65,
+        "cjk_chars": 166114,
+        "en_words": 5,
         "byline": "悟醒譯",
         "contributors": [
             {
@@ -572,9 +572,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "清淨道論",
-        "juans": "23",
-        "cjk_chars": "324987",
-        "en_words": "80",
+        "juans": 23,
+        "cjk_chars": 324987,
+        "en_words": 80,
         "byline": "佛音撰　悟醒譯",
         "contributors": [
             {
@@ -593,9 +593,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "一切善見律註序",
-        "juans": "1",
-        "cjk_chars": "31566",
-        "en_words": "13",
+        "juans": 1,
+        "cjk_chars": 31566,
+        "en_words": 13,
         "byline": "佛音譯述　悟醒譯",
         "contributors": [
             {
@@ -614,9 +614,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "攝阿毘達磨義論",
-        "juans": "1",
-        "cjk_chars": "18651",
-        "en_words": "6",
+        "juans": 1,
+        "cjk_chars": 18651,
+        "en_words": 6,
         "byline": "阿那律陀著　悟醒譯",
         "contributors": [
             {
@@ -635,9 +635,9 @@
         "type": "textbody",
         "category": "南傳大藏經部類",
         "title": "阿育王刻文",
-        "juans": "1",
-        "cjk_chars": "9367",
-        "en_words": "13",
+        "juans": 1,
+        "cjk_chars": 9367,
+        "en_words": 13,
         "byline": "悟醒譯",
         "contributors": [
             {

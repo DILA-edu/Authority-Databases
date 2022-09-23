@@ -5,9 +5,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天竺國菩提達摩禪師論",
-        "juans": "1",
-        "cjk_chars": "2999",
-        "en_words": "17",
+        "juans": 1,
+        "cjk_chars": 2999,
+        "en_words": 17,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -22,9 +22,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "禪策問答",
-        "juans": "1",
-        "cjk_chars": "2343",
-        "en_words": "5",
+        "juans": 1,
+        "cjk_chars": 2343,
+        "en_words": 5,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -39,9 +39,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "息諍論",
-        "juans": "1",
-        "cjk_chars": "2441",
-        "en_words": "9",
+        "juans": 1,
+        "cjk_chars": 2441,
+        "en_words": 9,
         "byline": "達摩禪師作　方廣錩整理",
         "contributors": [
             {
@@ -60,9 +60,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "八種粗重犯墮",
-        "juans": "1",
-        "cjk_chars": "1321",
-        "en_words": "2",
+        "juans": 1,
+        "cjk_chars": 1321,
+        "en_words": 2,
         "byline": "馬鳴菩薩造　方廣錩整理",
         "contributors": [
             {
@@ -81,9 +81,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天請問經疏",
-        "juans": "1",
-        "cjk_chars": "13649",
-        "en_words": "36",
+        "juans": 1,
+        "cjk_chars": 13649,
+        "en_words": 36,
         "byline": "沙門文軌撰　李際寧整理",
         "contributors": [
             {
@@ -102,9 +102,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "《行事鈔》中分門圖錄",
-        "juans": "1",
-        "cjk_chars": "11862",
-        "en_words": "1",
+        "juans": 1,
+        "cjk_chars": 11862,
+        "en_words": 1,
         "byline": "沙門道宣述　蘇軍整理",
         "contributors": [
             {
@@ -123,9 +123,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "《阿毗達磨俱舍論實義疏》",
-        "juans": "1",
-        "cjk_chars": "32799",
-        "en_words": "10",
+        "juans": 1,
+        "cjk_chars": 32799,
+        "en_words": 10,
         "byline": "尊者安惠造　蘇軍整理",
         "contributors": [
             {
@@ -144,9 +144,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛為心王菩薩說頭陀經（附註疏）",
-        "juans": "1",
-        "cjk_chars": "22726",
-        "en_words": "170",
+        "juans": 1,
+        "cjk_chars": 22726,
+        "en_words": 170,
         "byline": "惠辯禪師註　方廣錩整理",
         "contributors": [
             {
@@ -165,9 +165,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說孝順子修行成佛經",
-        "juans": "1",
-        "cjk_chars": "3563",
-        "en_words": "4",
+        "juans": 1,
+        "cjk_chars": 3563,
+        "en_words": 4,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -182,9 +182,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "最妙勝定經",
-        "juans": "1",
-        "cjk_chars": "4432",
-        "en_words": "5",
+        "juans": 1,
+        "cjk_chars": 4432,
+        "en_words": 5,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -199,9 +199,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說水月光觀音菩薩經",
-        "juans": "1",
-        "cjk_chars": "1959",
-        "en_words": "6",
+        "juans": 1,
+        "cjk_chars": 1959,
+        "en_words": 6,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -216,9 +216,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說金剛經纂",
-        "juans": "1",
-        "cjk_chars": "1643",
-        "en_words": "5",
+        "juans": 1,
+        "cjk_chars": 1643,
+        "en_words": 5,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -233,9 +233,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大方廣華嚴十惡品經",
-        "juans": "1",
-        "cjk_chars": "2822",
-        "en_words": "15",
+        "juans": 1,
+        "cjk_chars": 2822,
+        "en_words": 15,
         "byline": "徐紹強整理",
         "contributors": [
             {
@@ -250,9 +250,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天公經",
-        "juans": "1",
-        "cjk_chars": "928",
-        "en_words": "13",
+        "juans": 1,
+        "cjk_chars": 928,
+        "en_words": 13,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -267,8 +267,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說天公經",
-        "juans": "1",
-        "cjk_chars": "255",
+        "juans": 1,
+        "cjk_chars": 255,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -283,8 +283,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天公經",
-        "juans": "1",
-        "cjk_chars": "351",
+        "juans": 1,
+        "cjk_chars": 351,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -299,9 +299,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大般涅槃摩耶夫人品經",
-        "juans": "1",
-        "cjk_chars": "2024",
-        "en_words": "36",
+        "juans": 1,
+        "cjk_chars": 2024,
+        "en_words": 36,
         "byline": "大德安法師譯　李際寧整理",
         "contributors": [
             {
@@ -320,8 +320,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大般涅槃經佛母品",
-        "juans": "1",
-        "cjk_chars": "765",
+        "juans": 1,
+        "cjk_chars": 765,
         "byline": "李際寧整理",
         "contributors": [
             {
@@ -336,8 +336,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大般涅槃經佛母品",
-        "juans": "1",
-        "cjk_chars": "774",
+        "juans": 1,
+        "cjk_chars": 774,
         "byline": "李際寧整理",
         "contributors": [
             {
@@ -352,8 +352,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大般涅槃經佛為摩耶夫人說偈品經",
-        "juans": "1",
-        "cjk_chars": "589",
+        "juans": 1,
+        "cjk_chars": 589,
         "byline": "李際寧整理",
         "contributors": [
             {
@@ -368,9 +368,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "關於《禪藏》與敦煌禪籍的若干問題",
-        "juans": "1",
-        "cjk_chars": "15714",
-        "en_words": "74",
+        "juans": 1,
+        "cjk_chars": 15714,
+        "en_words": 74,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -385,9 +385,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "七祖法寶記下卷",
-        "juans": "1",
-        "cjk_chars": "7371",
-        "en_words": "4",
+        "juans": 1,
+        "cjk_chars": 7371,
+        "en_words": 4,
         "byline": "華方田整理",
         "contributors": [
             {
@@ -402,9 +402,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天竺國菩提達摩禪師論",
-        "juans": "1",
-        "cjk_chars": "1508",
-        "en_words": "6",
+        "juans": 1,
+        "cjk_chars": 1508,
+        "en_words": 6,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -419,8 +419,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天竺國菩提達摩禪師論",
-        "juans": "1",
-        "cjk_chars": "1529",
+        "juans": 1,
+        "cjk_chars": 1529,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -435,9 +435,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "淨名經集解關中疏卷上",
-        "juans": "1",
-        "cjk_chars": "42753",
-        "en_words": "10",
+        "juans": 1,
+        "cjk_chars": 42753,
+        "en_words": 10,
         "byline": "沙門道液集　黎明整理",
         "contributors": [
             {
@@ -456,9 +456,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "法華經文外義",
-        "juans": "1",
-        "cjk_chars": "30925",
-        "en_words": "1",
+        "juans": 1,
+        "cjk_chars": 30925,
+        "en_words": 1,
         "byline": "李際寧．張曉娟整理",
         "contributors": [
             {
@@ -477,9 +477,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "諦義證得經",
-        "juans": "1",
-        "cjk_chars": "38120",
-        "en_words": "3051",
+        "juans": 1,
+        "cjk_chars": 38120,
+        "en_words": 3051,
         "byline": "古印度 烏瑪斯伐蒂著　方廣錩譯註",
         "contributors": [
             {
@@ -498,9 +498,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "《瑜伽師地論》披尋記敘",
-        "juans": "1",
-        "cjk_chars": "2161",
-        "en_words": "9",
+        "juans": 1,
+        "cjk_chars": 2161,
+        "en_words": 9,
         "byline": "韓清淨著　程恭讓整理",
         "contributors": [
             {
@@ -519,9 +519,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "菩薩總持法",
-        "juans": "1",
-        "cjk_chars": "8779",
-        "en_words": "16",
+        "juans": 1,
+        "cjk_chars": 8779,
+        "en_words": 16,
         "byline": "上山大峻．袁德領整理",
         "contributors": [
             {
@@ -540,9 +540,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大乘起世論",
-        "juans": "1",
-        "cjk_chars": "4416",
-        "en_words": "2",
+        "juans": 1,
+        "cjk_chars": 4416,
+        "en_words": 2,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -557,9 +557,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "淨名經集解關中疏卷下",
-        "juans": "1",
-        "cjk_chars": "45957",
-        "en_words": "7",
+        "juans": 1,
+        "cjk_chars": 45957,
+        "en_words": 7,
         "byline": "沙門道液述　黎明整理",
         "contributors": [
             {
@@ -578,9 +578,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "因緣心論頌",
-        "juans": "1",
-        "cjk_chars": "551",
-        "en_words": "15",
+        "juans": 1,
+        "cjk_chars": 551,
+        "en_words": 15,
         "byline": "龍猛菩薩作　華方田整理",
         "contributors": [
             {
@@ -599,9 +599,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "因緣心論釋",
-        "juans": "1",
-        "cjk_chars": "1488",
-        "en_words": "14",
+        "juans": 1,
+        "cjk_chars": 1488,
+        "en_words": 14,
         "byline": "龍猛菩薩造　華方田整理",
         "contributors": [
             {
@@ -620,9 +620,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "因緣心釋論開決記",
-        "juans": "1",
-        "cjk_chars": "8427",
-        "en_words": "11",
+        "juans": 1,
+        "cjk_chars": 8427,
+        "en_words": 11,
         "byline": "華方田整理",
         "contributors": [
             {
@@ -637,9 +637,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛般若經疏",
-        "juans": "1",
-        "cjk_chars": "34963",
-        "en_words": "41",
+        "juans": 1,
+        "cjk_chars": 34963,
+        "en_words": 41,
         "byline": "華方田整理",
         "contributors": [
             {
@@ -654,9 +654,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "瑜伽論卷第十四手記",
-        "juans": "1",
-        "cjk_chars": "15359",
-        "en_words": "14",
+        "juans": 1,
+        "cjk_chars": 15359,
+        "en_words": 14,
         "byline": "徐紹強整理",
         "contributors": [
             {
@@ -671,9 +671,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說觀佛三昧海經本行品第八",
-        "juans": "1",
-        "cjk_chars": "3209",
-        "en_words": "12",
+        "juans": 1,
+        "cjk_chars": 3209,
+        "en_words": 12,
         "byline": "黃霞整理",
         "contributors": [
             {
@@ -688,8 +688,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說相好經",
-        "juans": "1",
-        "cjk_chars": "2385",
+        "juans": 1,
+        "cjk_chars": 2385,
         "byline": "黃霞整理",
         "contributors": [
             {
@@ -704,8 +704,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說觀佛三昧海藏經本行品第八",
-        "juans": "1",
-        "cjk_chars": "2899",
+        "juans": 1,
+        "cjk_chars": 2899,
         "byline": "黃霞整理",
         "contributors": [
             {
@@ -720,8 +720,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說相好經",
-        "juans": "1",
-        "cjk_chars": "2681",
+        "juans": 1,
+        "cjk_chars": 2681,
         "byline": "黃霞整理",
         "contributors": [
             {
@@ -736,8 +736,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "觀佛三昧海經本行品第八",
-        "juans": "1",
-        "cjk_chars": "2778",
+        "juans": 1,
+        "cjk_chars": 2778,
         "byline": "黃霞整理",
         "contributors": [
             {
@@ -752,9 +752,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "《金藏》新資料考",
-        "juans": "1",
-        "cjk_chars": "8930",
-        "en_words": "75",
+        "juans": 1,
+        "cjk_chars": 8930,
+        "en_words": 75,
         "byline": "李際寧",
         "contributors": [
             {
@@ -769,9 +769,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "入菩薩行論廣解",
-        "juans": "10",
-        "cjk_chars": "119858",
-        "en_words": "2",
+        "juans": 10,
+        "cjk_chars": 119858,
+        "en_words": 2,
         "byline": "寂天菩薩造頌　傑操大師註解　隆蓮法師譯",
         "contributors": [
             {
@@ -794,9 +794,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大藏佛說守護大千國土經",
-        "juans": "1",
-        "cjk_chars": "453",
-        "en_words": "10",
+        "juans": 1,
+        "cjk_chars": 453,
+        "en_words": 10,
         "byline": "陳明光整理",
         "contributors": [
             {
@@ -811,8 +811,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "六道輪迴圖偈頌",
-        "juans": "1",
-        "cjk_chars": "142",
+        "juans": 1,
+        "cjk_chars": 142,
         "byline": "陳明光整理",
         "contributors": [
             {
@@ -827,8 +827,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "父母恩重經變經文偈頌",
-        "juans": "1",
-        "cjk_chars": "1346",
+        "juans": 1,
+        "cjk_chars": 1346,
         "byline": "陳明光整理",
         "contributors": [
             {
@@ -843,8 +843,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大方便佛報恩經變經文偈頌",
-        "juans": "1",
-        "cjk_chars": "3145",
+        "juans": 1,
+        "cjk_chars": 3145,
         "byline": "陳明光整理",
         "contributors": [
             {
@@ -859,9 +859,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "三聖御制佛牙贊",
-        "juans": "1",
-        "cjk_chars": "464",
-        "en_words": "2",
+        "juans": 1,
+        "cjk_chars": 464,
+        "en_words": 2,
         "byline": "北宋 太宗．真宗．仁宗撰　陳明光整理",
         "dynasty": "北宋",
         "time_from": 960,
@@ -891,8 +891,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "觀經變像經文偈頌",
-        "juans": "1",
-        "cjk_chars": "2738",
+        "juans": 1,
+        "cjk_chars": 2738,
         "byline": "陳明光整理",
         "contributors": [
             {
@@ -907,9 +907,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地獄變經文偈頌",
-        "juans": "1",
-        "cjk_chars": "5414",
-        "en_words": "11",
+        "juans": 1,
+        "cjk_chars": 5414,
+        "en_words": 11,
         "byline": "陳明光整理",
         "contributors": [
             {
@@ -924,9 +924,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛性問答",
-        "juans": "1",
-        "cjk_chars": "11737",
-        "en_words": "1",
+        "juans": 1,
+        "cjk_chars": 11737,
+        "en_words": 1,
         "byline": "業露華整理",
         "contributors": [
             {
@@ -941,9 +941,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大乘無盡藏法",
-        "juans": "1",
-        "cjk_chars": "2782",
-        "en_words": "6",
+        "juans": 1,
+        "cjk_chars": 2782,
+        "en_words": 6,
         "byline": "信行撰　方廣錩整理",
         "contributors": [
             {
@@ -962,9 +962,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛在金棺上囑累經",
-        "juans": "1",
-        "cjk_chars": "1676",
-        "en_words": "19",
+        "juans": 1,
+        "cjk_chars": 1676,
+        "en_words": 19,
         "byline": "侯旭東整理",
         "contributors": [
             {
@@ -979,9 +979,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "如來在金棺囑累清淨莊嚴敬福經",
-        "juans": "1",
-        "cjk_chars": "6011",
-        "en_words": "17",
+        "juans": 1,
+        "cjk_chars": 6011,
+        "en_words": 17,
         "byline": "侯旭東整理",
         "contributors": [
             {
@@ -996,9 +996,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "傳善無畏所譯三部密教儀軌出處及年代考",
-        "juans": "1",
-        "cjk_chars": "15016",
-        "en_words": "576",
+        "juans": 1,
+        "cjk_chars": 15016,
+        "en_words": 576,
         "byline": "陳金華",
         "contributors": [
             {
@@ -1013,9 +1013,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "小誦",
-        "juans": "1",
-        "cjk_chars": "2471",
-        "en_words": "67",
+        "juans": 1,
+        "cjk_chars": 2471,
+        "en_words": 67,
         "byline": "鄧殿臣譯",
         "contributors": [
             {
@@ -1030,9 +1030,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "即興自說",
-        "juans": "1",
-        "cjk_chars": "31192",
-        "en_words": "1",
+        "juans": 1,
+        "cjk_chars": 31192,
+        "en_words": 1,
         "byline": "鄧殿臣譯",
         "contributors": [
             {
@@ -1047,9 +1047,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大隧道本生",
-        "juans": "1",
-        "cjk_chars": "8666",
-        "en_words": "308",
+        "juans": 1,
+        "cjk_chars": 8666,
+        "en_words": 308,
         "byline": "鄧殿臣譯",
         "contributors": [
             {
@@ -1064,9 +1064,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大念處經",
-        "juans": "1",
-        "cjk_chars": "9745",
-        "en_words": "32",
+        "juans": 1,
+        "cjk_chars": 9745,
+        "en_words": 32,
         "byline": "鄧殿臣．趙桐譯",
         "contributors": [
             {
@@ -1085,9 +1085,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "瑜伽師地開釋分門記",
-        "juans": "1",
-        "cjk_chars": "29043",
-        "en_words": "8",
+        "juans": 1,
+        "cjk_chars": 29043,
+        "en_words": 8,
         "byline": "徐紹強整理",
         "contributors": [
             {
@@ -1102,9 +1102,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "天台教典入藏考",
-        "juans": "1",
-        "cjk_chars": "7412",
-        "en_words": "149",
+        "juans": 1,
+        "cjk_chars": 7412,
+        "en_words": 149,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -1119,8 +1119,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "楞嚴解冤釋結道場儀",
-        "juans": "8",
-        "cjk_chars": "51468",
+        "juans": 8,
+        "cjk_chars": 51468,
         "byline": "宋 釋祖照集　趙文煥．侯沖整理",
         "dynasty": "宋",
         "time_from": 960,
@@ -1146,8 +1146,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏慈悲救苦薦福利生道場儀",
-        "juans": "4",
-        "cjk_chars": "26880",
+        "juans": 4,
+        "cjk_chars": 26880,
         "byline": "宋 釋元照集　趙文煥．侯沖整理",
         "dynasty": "宋",
         "time_from": 960,
@@ -1173,8 +1173,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "銷釋金剛經科儀",
-        "juans": "1",
-        "cjk_chars": "12042",
+        "juans": 1,
+        "cjk_chars": 12042,
         "byline": "宋 釋宗鏡述　侯沖整理",
         "dynasty": "宋",
         "time_from": 960,
@@ -1196,9 +1196,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "廣施無遮道場儀",
-        "juans": "1",
-        "cjk_chars": "3808",
-        "en_words": "24",
+        "juans": 1,
+        "cjk_chars": 3808,
+        "en_words": 24,
         "byline": "侯沖整理",
         "contributors": [
             {
@@ -1213,9 +1213,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "大黑天神道場儀",
-        "juans": "1",
-        "cjk_chars": "3450",
-        "en_words": "7",
+        "juans": 1,
+        "cjk_chars": 3450,
+        "en_words": 7,
         "byline": "侯沖整理",
         "contributors": [
             {
@@ -1230,9 +1230,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "進新譯大方廣佛花嚴經表",
-        "juans": "1",
-        "cjk_chars": "2330",
-        "en_words": "11",
+        "juans": 1,
+        "cjk_chars": 2330,
+        "en_words": 11,
         "byline": "弘景撰　方廣錩整理",
         "contributors": [
             {
@@ -1251,9 +1251,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "雲南阿吒力教經典及其在中國佛教研究中的價值",
-        "juans": "1",
-        "cjk_chars": "6050",
-        "en_words": "60",
+        "juans": 1,
+        "cjk_chars": 6050,
+        "en_words": 60,
         "byline": "侯沖",
         "contributors": [
             {
@@ -1268,9 +1268,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "注心要法門",
-        "juans": "1",
-        "cjk_chars": "4021",
-        "en_words": "48",
+        "juans": 1,
+        "cjk_chars": 4021,
+        "en_words": 48,
         "byline": "唐 宗密注　方廣錩整理",
         "dynasty": "唐",
         "time_from": 618,
@@ -1292,9 +1292,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "姚和上金剛五禮一本",
-        "juans": "1",
-        "cjk_chars": "1898",
-        "en_words": "36",
+        "juans": 1,
+        "cjk_chars": 1898,
+        "en_words": 36,
         "byline": "姚和尚撰　達照整理",
         "contributors": [
             {
@@ -1313,8 +1313,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛五禮",
-        "juans": "1",
-        "cjk_chars": "274",
+        "juans": 1,
+        "cjk_chars": 274,
         "byline": "姚和尚撰　達照整理",
         "contributors": [
             {
@@ -1333,9 +1333,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛禮",
-        "juans": "1",
-        "cjk_chars": "1691",
-        "en_words": "10",
+        "juans": 1,
+        "cjk_chars": 1691,
+        "en_words": 10,
         "byline": "遼 通理大師集　達照整理",
         "dynasty": "遼",
         "time_from": 907,
@@ -1357,9 +1357,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "護國司南抄",
-        "juans": "1",
-        "cjk_chars": "15874",
-        "en_words": "6",
+        "juans": 1,
+        "cjk_chars": 15874,
+        "en_words": 6,
         "byline": "沙門玄鑒集　侯沖整理",
         "contributors": [
             {
@@ -1378,8 +1378,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說消災延壽藥師灌頂章句儀",
-        "juans": "6",
-        "cjk_chars": "27044",
+        "juans": 6,
+        "cjk_chars": 27044,
         "byline": "沙門若愚述　侯沖整理",
         "contributors": [
             {
@@ -1398,9 +1398,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "淨度三昧經",
-        "juans": "3",
-        "cjk_chars": "33582",
-        "en_words": "99",
+        "juans": 3,
+        "cjk_chars": 33582,
+        "en_words": 99,
         "byline": "大內文雄．齊藤隆信整理",
         "contributors": [
             {
@@ -1419,9 +1419,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "1153",
-        "en_words": "33",
+        "juans": 1,
+        "cjk_chars": 1153,
+        "en_words": 33,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1436,8 +1436,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "136",
+        "juans": 1,
+        "cjk_chars": 136,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1452,8 +1452,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "169",
+        "juans": 1,
+        "cjk_chars": 169,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1468,8 +1468,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "183",
+        "juans": 1,
+        "cjk_chars": 183,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1484,8 +1484,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "326",
+        "juans": 1,
+        "cjk_chars": 326,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1500,8 +1500,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "272",
+        "juans": 1,
+        "cjk_chars": 272,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1516,8 +1516,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "401",
+        "juans": 1,
+        "cjk_chars": 401,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1532,9 +1532,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "地藏菩薩十齋日",
-        "juans": "1",
-        "cjk_chars": "4679",
-        "en_words": "46",
+        "juans": 1,
+        "cjk_chars": 4679,
+        "en_words": 46,
         "byline": "張總整理",
         "contributors": [
             {
@@ -1549,9 +1549,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "寧夏西夏方塔出土漢文佛典敘錄",
-        "juans": "1",
-        "cjk_chars": "17081",
-        "en_words": "950",
+        "juans": 1,
+        "cjk_chars": 17081,
+        "en_words": 950,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -1566,9 +1566,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "日本佛教目錄學的形成——以《東域傳燈錄》為中心",
-        "juans": "1",
-        "cjk_chars": "8890",
-        "en_words": "215",
+        "juans": 1,
+        "cjk_chars": 8890,
+        "en_words": 215,
         "byline": "末木文美士",
         "contributors": [
             {
@@ -1583,9 +1583,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "華嚴略疏卷第一",
-        "juans": "1",
-        "cjk_chars": "12947",
-        "en_words": "19",
+        "juans": 1,
+        "cjk_chars": 12947,
+        "en_words": 19,
         "byline": "悟緣　整理",
         "contributors": [
             {
@@ -1600,9 +1600,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "如來廣孝十種報恩道場儀",
-        "juans": "8",
-        "cjk_chars": "73992",
-        "en_words": "2",
+        "juans": 8,
+        "cjk_chars": 73992,
+        "en_words": 2,
         "byline": "南宋 思覺集　趙文煥．侯沖整理",
         "dynasty": "南宋",
         "time_from": 1127,
@@ -1628,9 +1628,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "二曜金剛合璧",
-        "juans": "1",
-        "cjk_chars": "2929",
-        "en_words": "1",
+        "juans": 1,
+        "cjk_chars": 2929,
+        "en_words": 1,
         "byline": "通源整理",
         "contributors": [
             {
@@ -1645,9 +1645,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "敦煌寺院所藏大藏經概貌",
-        "juans": "1",
-        "cjk_chars": "13946",
-        "en_words": "230",
+        "juans": 1,
+        "cjk_chars": 13946,
+        "en_words": 230,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -1662,9 +1662,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "《慧琳音義》與唐代大藏經",
-        "juans": "1",
-        "cjk_chars": "7700",
-        "en_words": "468",
+        "juans": 1,
+        "cjk_chars": 7700,
+        "en_words": 468,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -1679,9 +1679,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛性觀修善法",
-        "juans": "1",
-        "cjk_chars": "7915",
-        "en_words": "17",
+        "juans": 1,
+        "cjk_chars": 7915,
+        "en_words": 17,
         "byline": "信行撰　西本照真整理",
         "contributors": [
             {
@@ -1700,9 +1700,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛經讚集",
-        "juans": "1",
-        "cjk_chars": "4852",
-        "en_words": "111",
+        "juans": 1,
+        "cjk_chars": 4852,
+        "en_words": 111,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1717,8 +1717,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛經讚集（擬）",
-        "juans": "1",
-        "cjk_chars": "2196",
+        "juans": 1,
+        "cjk_chars": 2196,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1733,8 +1733,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛經讚集（擬）",
-        "juans": "1",
-        "cjk_chars": "456",
+        "juans": 1,
+        "cjk_chars": 456,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1749,8 +1749,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛經注頌釋",
-        "juans": "1",
-        "cjk_chars": "5879",
+        "juans": 1,
+        "cjk_chars": 5879,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1765,8 +1765,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛經頌（擬）",
-        "juans": "1",
-        "cjk_chars": "2229",
+        "juans": 1,
+        "cjk_chars": 2229,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1781,8 +1781,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "梁朝傅大士頌金剛經",
-        "juans": "1",
-        "cjk_chars": "7790",
+        "juans": 1,
+        "cjk_chars": 7790,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1797,8 +1797,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "梁朝傅大士頌金剛經",
-        "juans": "1",
-        "cjk_chars": "8564",
+        "juans": 1,
+        "cjk_chars": 8564,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1813,8 +1813,8 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "梁朝傅大士夾頌金剛經",
-        "juans": "1",
-        "cjk_chars": "8657",
+        "juans": 1,
+        "cjk_chars": 8657,
         "byline": "達照整理",
         "contributors": [
             {
@@ -1829,9 +1829,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "寶髻大王菩薩本緣",
-        "juans": "1",
-        "cjk_chars": "38260",
-        "en_words": "1150",
+        "juans": 1,
+        "cjk_chars": 38260,
+        "en_words": 1150,
         "byline": "任遠譯",
         "contributors": [
             {
@@ -1846,9 +1846,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "寶髻本緣",
-        "juans": "1",
-        "cjk_chars": "8601",
-        "en_words": "206",
+        "juans": 1,
+        "cjk_chars": 8601,
+        "en_words": 206,
         "byline": "克什曼德拉原著　任遠譯",
         "contributors": [
             {
@@ -1867,9 +1867,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "三階教文獻綜述",
-        "juans": "1",
-        "cjk_chars": "6079",
-        "en_words": "325",
+        "juans": 1,
+        "cjk_chars": 6079,
+        "en_words": 325,
         "byline": "西本照真",
         "contributors": [
             {
@@ -1884,9 +1884,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "關於江泌女子僧法誦出經",
-        "juans": "1",
-        "cjk_chars": "16926",
-        "en_words": "80",
+        "juans": 1,
+        "cjk_chars": 16926,
+        "en_words": 80,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -1901,9 +1901,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "三自性論",
-        "juans": "1",
-        "cjk_chars": "3235",
-        "en_words": "30",
+        "juans": 1,
+        "cjk_chars": 3235,
+        "en_words": 30,
         "byline": "印度 世親著　金克木譯",
         "contributors": [
             {
@@ -1922,9 +1922,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "因相輪抉擇",
-        "juans": "1",
-        "cjk_chars": "1034",
-        "en_words": "16",
+        "juans": 1,
+        "cjk_chars": 1034,
+        "en_words": 16,
         "byline": "印度 陳那著　韓鏡清初譯　釋剛曉校訂註釋",
         "contributors": [
             {
@@ -1947,9 +1947,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "諸經佛名卷上",
-        "juans": "1",
-        "cjk_chars": "3304",
-        "en_words": "13",
+        "juans": 1,
+        "cjk_chars": 3304,
+        "en_words": 13,
         "byline": "章光池整理",
         "contributors": [
             {
@@ -1964,9 +1964,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "御注金剛般若經",
-        "juans": "1",
-        "cjk_chars": "14559",
-        "en_words": "50",
+        "juans": 1,
+        "cjk_chars": 14559,
+        "en_words": 50,
         "byline": "唐 李隆基著　衣川賢次整理",
         "dynasty": "唐",
         "time_from": 618,
@@ -1988,9 +1988,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "文殊師利所說般若波羅蜜經序偈釋",
-        "juans": "1",
-        "cjk_chars": "14048",
-        "en_words": "28",
+        "juans": 1,
+        "cjk_chars": 14048,
+        "en_words": 28,
         "byline": "曹淩整理",
         "contributors": [
             {
@@ -2005,9 +2005,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "法華七禮文",
-        "juans": "1",
-        "cjk_chars": "6045",
-        "en_words": "4",
+        "juans": 1,
+        "cjk_chars": 6045,
+        "en_words": 4,
         "byline": "汪娟整理",
         "contributors": [
             {
@@ -2022,9 +2022,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "照明菩薩經",
-        "juans": "1",
-        "cjk_chars": "4031",
-        "en_words": "8",
+        "juans": 1,
+        "cjk_chars": 4031,
+        "en_words": 8,
         "byline": "林敏整理",
         "contributors": [
             {
@@ -2039,9 +2039,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說佛名經（二十卷本——卷第一～卷第四）",
-        "juans": "1",
-        "cjk_chars": "28694",
-        "en_words": "14",
+        "juans": 1,
+        "cjk_chars": 28694,
+        "en_words": 14,
         "byline": "張麗．張磊整理",
         "contributors": [
             {
@@ -2060,9 +2060,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "敦煌本《壇經》校釋疏義（標題章、第一章、第二章）",
-        "juans": "1",
-        "cjk_chars": "31832",
-        "en_words": "476",
+        "juans": 1,
+        "cjk_chars": 31832,
+        "en_words": 476,
         "byline": "方廣錩．侯沖執筆　研讀班集體討論",
         "contributors": [
             {
@@ -2081,9 +2081,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "敦煌本《壇經》錄校三題",
-        "juans": "1",
-        "cjk_chars": "8941",
-        "en_words": "94",
+        "juans": 1,
+        "cjk_chars": 8941,
+        "en_words": 94,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2098,9 +2098,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "明初的兩部南藏",
-        "juans": "1",
-        "cjk_chars": "6037",
-        "en_words": "44",
+        "juans": 1,
+        "cjk_chars": 6037,
+        "en_words": 44,
         "byline": "日 立正大學教授 野澤佳美",
         "contributors": [
             {
@@ -2115,9 +2115,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "讚禮地藏菩薩懺悔發願法",
-        "juans": "1",
-        "cjk_chars": "1766",
-        "en_words": "3",
+        "juans": 1,
+        "cjk_chars": 1766,
+        "en_words": 3,
         "byline": "張曉麗整理",
         "contributors": [
             {
@@ -2132,9 +2132,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "如來九觀（擬）",
-        "juans": "1",
-        "cjk_chars": "739",
-        "en_words": "2",
+        "juans": 1,
+        "cjk_chars": 739,
+        "en_words": 2,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -2149,9 +2149,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十二種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則",
-        "juans": "4",
-        "cjk_chars": "34436",
-        "en_words": "49",
+        "juans": 4,
+        "cjk_chars": 34436,
+        "en_words": 49,
         "byline": "侯沖整理",
         "contributors": [
             {
@@ -2166,9 +2166,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十九種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則",
-        "juans": "1",
-        "cjk_chars": "23186",
-        "en_words": "9",
+        "juans": 1,
+        "cjk_chars": 23186,
+        "en_words": 9,
         "byline": "侯沖整理",
         "contributors": [
             {
@@ -2183,9 +2183,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說佛名經（二十卷本——卷第五～卷第七）",
-        "juans": "3",
-        "cjk_chars": "17346",
-        "en_words": "8",
+        "juans": 3,
+        "cjk_chars": 17346,
+        "en_words": 8,
         "byline": "張麗．張磊整理",
         "contributors": [
             {
@@ -2204,9 +2204,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "敦煌本《壇經》校釋疏義（第三章～第五章）",
-        "juans": "3",
-        "cjk_chars": "22189",
-        "en_words": "695",
+        "juans": 3,
+        "cjk_chars": 22189,
+        "en_words": 695,
         "byline": "張磊．王侃．李鐵華執筆　研讀班集體討論",
         "contributors": [
             {
@@ -2229,9 +2229,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "日本的漢文大藏經收藏及其特色——以刻本大藏經為中心",
-        "juans": "1",
-        "cjk_chars": "11815",
-        "en_words": "283",
+        "juans": 1,
+        "cjk_chars": 11815,
+        "en_words": 283,
         "byline": "日本 京都大學人文所 梶浦晉",
         "contributors": [
             {
@@ -2246,9 +2246,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "論《高麗再雕藏》中所見的《契丹藏》",
-        "juans": "1",
-        "cjk_chars": "7278",
-        "en_words": "497",
+        "juans": 1,
+        "cjk_chars": 7278,
+        "en_words": 497,
         "byline": "韓國 大真大學校教授 柳富鉉",
         "contributors": [
             {
@@ -2263,9 +2263,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "金剛般若經義疏卷二",
-        "juans": "1",
-        "cjk_chars": "17822",
-        "en_words": "20",
+        "juans": 1,
+        "cjk_chars": 17822,
+        "en_words": 20,
         "byline": "方廣錩整理",
         "contributors": [
             {
@@ -2280,9 +2280,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "圓通三慧大齋道場儀",
-        "juans": "9",
-        "cjk_chars": "56556",
-        "en_words": "14",
+        "juans": 9,
+        "cjk_chars": 56556,
+        "en_words": 14,
         "byline": "宋 侯溥作　侯沖整理",
         "contributors": [
             {
@@ -2301,9 +2301,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "佛說佛名經（二十卷本——卷第八～卷第十）",
-        "juans": "3",
-        "cjk_chars": "19758",
-        "en_words": "8",
+        "juans": 3,
+        "cjk_chars": 19758,
+        "en_words": 8,
         "byline": "張麗．張磊整理",
         "contributors": [
             {
@@ -2322,9 +2322,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "敦煌本《壇經》校釋疏義（第六章～第八章）",
-        "juans": "3",
-        "cjk_chars": "19919",
-        "en_words": "671",
+        "juans": 3,
+        "cjk_chars": 19919,
+        "en_words": 671,
         "byline": "曹淩．周芳．曾曉紅執筆　研讀班集體討論",
         "contributors": [
             {
@@ -2347,9 +2347,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "關於《佛說孝順子修行成佛經》的若干新資料",
-        "juans": "1",
-        "cjk_chars": "9817",
-        "en_words": "73",
+        "juans": 1,
+        "cjk_chars": 9817,
+        "en_words": 73,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2364,9 +2364,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "關於宮內廳書陵部所藏福州版大藏經中的混合冊與印章",
-        "juans": "1",
-        "cjk_chars": "2290",
-        "en_words": "65",
+        "juans": 1,
+        "cjk_chars": 2290,
+        "en_words": 65,
         "byline": "日本 宮內廳書陵部 中村一紀",
         "contributors": [
             {
@@ -2381,9 +2381,9 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "漢文大藏經研究要重視文獻價值的判別",
-        "juans": "1",
-        "cjk_chars": "2185",
-        "en_words": "2",
+        "juans": 1,
+        "cjk_chars": 2185,
+        "en_words": 2,
         "byline": "熊國禎",
         "contributors": [
             {
@@ -2397,9 +2397,9 @@
         "vol": "ZW01",
         "type": "non-textbody",
         "title": "緣起",
-        "juans": "1",
-        "cjk_chars": "2356",
-        "en_words": "3",
+        "juans": 1,
+        "cjk_chars": 2356,
+        "en_words": 3,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2413,9 +2413,9 @@
         "vol": "ZW01",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "6331",
-        "en_words": "2238",
+        "juans": 1,
+        "cjk_chars": 6331,
+        "en_words": 2238,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2429,45 +2429,45 @@
         "vol": "ZW01",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "193",
-        "en_words": "28"
+        "juans": 1,
+        "cjk_chars": 193,
+        "en_words": 28
     },
     "ZWa004": {
         "authorityID": "CA0008387",
         "vol": "ZW01",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1388",
-        "en_words": "2"
+        "juans": 1,
+        "cjk_chars": 1388,
+        "en_words": 2
     },
     "ZWa005": {
         "authorityID": "CA0008388",
         "vol": "ZW01",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "653",
-        "en_words": "5"
+        "juans": 1,
+        "cjk_chars": 653,
+        "en_words": 5
     },
     "ZWa006": {
         "authorityID": "CA0008389",
         "vol": "ZW01",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》編委會啟事",
-        "juans": "1",
-        "cjk_chars": "1012",
-        "en_words": "48"
+        "juans": 1,
+        "cjk_chars": 1012,
+        "en_words": 48
     },
     "ZWa007": {
         "authorityID": "CA0008397",
         "vol": "ZW02",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "4532",
-        "en_words": "1842",
+        "juans": 1,
+        "cjk_chars": 4532,
+        "en_words": 1842,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2481,54 +2481,54 @@
         "vol": "ZW02",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "361",
-        "en_words": "27"
+        "juans": 1,
+        "cjk_chars": 361,
+        "en_words": 27
     },
     "ZWa009": {
         "authorityID": "CA0008399",
         "vol": "ZW02",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1388",
-        "en_words": "2"
+        "juans": 1,
+        "cjk_chars": 1388,
+        "en_words": 2
     },
     "ZWa010": {
         "authorityID": "CA0008400",
         "vol": "ZW02",
         "type": "non-textbody",
         "title": "大藏經編纂及電腦化研討會論文特集",
-        "juans": "13",
-        "cjk_chars": "65658",
-        "en_words": "648"
+        "juans": 13,
+        "cjk_chars": 65658,
+        "en_words": 648
     },
     "ZWa011": {
         "authorityID": "CA0008401",
         "vol": "ZW02",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "652",
-        "en_words": "5"
+        "juans": 1,
+        "cjk_chars": 652,
+        "en_words": 5
     },
     "ZWa012": {
         "authorityID": "CA0008402",
         "vol": "ZW02",
         "type": "non-textbody",
         "title": "徵訂啟事",
-        "juans": "1",
-        "cjk_chars": "551",
-        "en_words": "43"
+        "juans": 1,
+        "cjk_chars": 551,
+        "en_words": 43
     },
     "ZWa013": {
         "authorityID": "CA0008417",
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "8283",
-        "en_words": "3051",
+        "juans": 1,
+        "cjk_chars": 8283,
+        "en_words": 3051,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2542,62 +2542,62 @@
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "113",
-        "en_words": "18"
+        "juans": 1,
+        "cjk_chars": 113,
+        "en_words": 18
     },
     "ZWa015": {
         "authorityID": "CA0008419",
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1388",
-        "en_words": "2"
+        "juans": 1,
+        "cjk_chars": 1388,
+        "en_words": 2
     },
     "ZWa016": {
         "authorityID": "CA0008420",
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》第一輯、第二輯要目",
-        "juans": "1",
-        "cjk_chars": "263"
+        "juans": 1,
+        "cjk_chars": 263
     },
     "ZWa017": {
         "authorityID": "CA0008421",
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "635",
-        "en_words": "5"
+        "juans": 1,
+        "cjk_chars": 635,
+        "en_words": 5
     },
     "ZWa018": {
         "authorityID": "CA0008422",
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "編委會名單",
-        "juans": "1",
-        "cjk_chars": "159",
-        "en_words": "213"
+        "juans": 1,
+        "cjk_chars": 159,
+        "en_words": 213
     },
     "ZWa019": {
         "authorityID": "CA0008423",
         "vol": "ZW03",
         "type": "non-textbody",
         "title": "鳴謝",
-        "juans": "1",
-        "cjk_chars": "62",
-        "en_words": "3"
+        "juans": 1,
+        "cjk_chars": 62,
+        "en_words": 3
     },
     "ZWa020": {
         "authorityID": "CA0008437",
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "7815",
-        "en_words": "2960",
+        "juans": 1,
+        "cjk_chars": 7815,
+        "en_words": 2960,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2611,62 +2611,62 @@
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "290",
-        "en_words": "21"
+        "juans": 1,
+        "cjk_chars": 290,
+        "en_words": 21
     },
     "ZWa022": {
         "authorityID": "CA0008439",
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1388",
-        "en_words": "2"
+        "juans": 1,
+        "cjk_chars": 1388,
+        "en_words": 2
     },
     "ZWa023": {
         "authorityID": "CA0008440",
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "「中國社會科學院佛教研究中心成立暨佛教研究與新時期的文化建設研討會」紀要",
-        "juans": "1",
-        "cjk_chars": "3316",
-        "en_words": "3"
+        "juans": 1,
+        "cjk_chars": 3316,
+        "en_words": 3
     },
     "ZWa024": {
         "authorityID": "CA0008441",
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》第一～六輯要目",
-        "juans": "1",
-        "cjk_chars": "690"
+        "juans": 1,
+        "cjk_chars": 690
     },
     "ZWa025": {
         "authorityID": "CA0008442",
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "626",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 626,
+        "en_words": 4
     },
     "ZWa026": {
         "authorityID": "CA0008443",
         "vol": "ZW04",
         "type": "non-textbody",
         "title": "編委會名單",
-        "juans": "1",
-        "cjk_chars": "133",
-        "en_words": "210"
+        "juans": 1,
+        "cjk_chars": 133,
+        "en_words": 210
     },
     "ZWa027": {
         "authorityID": "CA0008450",
         "vol": "ZW05",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "7816",
-        "en_words": "2960",
+        "juans": 1,
+        "cjk_chars": 7816,
+        "en_words": 2960,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2680,53 +2680,53 @@
         "vol": "ZW05",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "152",
-        "en_words": "29"
+        "juans": 1,
+        "cjk_chars": 152,
+        "en_words": 29
     },
     "ZWa029": {
         "authorityID": "CA0008452",
         "vol": "ZW05",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1388",
-        "en_words": "2"
+        "juans": 1,
+        "cjk_chars": 1388,
+        "en_words": 2
     },
     "ZWa030": {
         "authorityID": "CA0008453",
         "vol": "ZW05",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》第一～六輯要目",
-        "juans": "1",
-        "cjk_chars": "690"
+        "juans": 1,
+        "cjk_chars": 690
     },
     "ZWa031": {
         "authorityID": "CA0008454",
         "vol": "ZW05",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "626",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 626,
+        "en_words": 4
     },
     "ZWa032": {
         "authorityID": "CA0008455",
         "vol": "ZW05",
         "type": "non-textbody",
         "title": "編委會名單",
-        "juans": "1",
-        "cjk_chars": "133",
-        "en_words": "210"
+        "juans": 1,
+        "cjk_chars": 133,
+        "en_words": 210
     },
     "ZWa033": {
         "authorityID": "CA0008463",
         "vol": "ZW06",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "7819",
-        "en_words": "2959",
+        "juans": 1,
+        "cjk_chars": 7819,
+        "en_words": 2959,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2740,53 +2740,53 @@
         "vol": "ZW06",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "262",
-        "en_words": "25"
+        "juans": 1,
+        "cjk_chars": 262,
+        "en_words": 25
     },
     "ZWa035": {
         "authorityID": "CA0008465",
         "vol": "ZW06",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1388",
-        "en_words": "2"
+        "juans": 1,
+        "cjk_chars": 1388,
+        "en_words": 2
     },
     "ZWa036": {
         "authorityID": "CA0008466",
         "vol": "ZW06",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》第一～六輯要目",
-        "juans": "1",
-        "cjk_chars": "690"
+        "juans": 1,
+        "cjk_chars": 690
     },
     "ZWa037": {
         "authorityID": "CA0008467",
         "vol": "ZW06",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "626",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 626,
+        "en_words": 4
     },
     "ZWa038": {
         "authorityID": "CA0008468",
         "vol": "ZW06",
         "type": "non-textbody",
         "title": "編委會名單",
-        "juans": "1",
-        "cjk_chars": "133",
-        "en_words": "210"
+        "juans": 1,
+        "cjk_chars": 133,
+        "en_words": 210
     },
     "ZWa039": {
         "authorityID": "CA0008486",
         "vol": "ZW07",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "9255",
-        "en_words": "3229",
+        "juans": 1,
+        "cjk_chars": 9255,
+        "en_words": 3229,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2800,44 +2800,44 @@
         "vol": "ZW07",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "258",
-        "en_words": "27"
+        "juans": 1,
+        "cjk_chars": 258,
+        "en_words": 27
     },
     "ZWa041": {
         "authorityID": "CA0008488",
         "vol": "ZW07",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1407",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 1407,
+        "en_words": 4
     },
     "ZWa042": {
         "authorityID": "CA0008489",
         "vol": "ZW07",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》要目",
-        "juans": "1",
-        "cjk_chars": "761"
+        "juans": 1,
+        "cjk_chars": 761
     },
     "ZWa043": {
         "authorityID": "CA0008490",
         "vol": "ZW07",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "664",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 664,
+        "en_words": 4
     },
     "ZWa044": {
         "authorityID": "CA0008496",
         "vol": "ZW08",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "4419",
-        "en_words": "26",
+        "juans": 1,
+        "cjk_chars": 4419,
+        "en_words": 26,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2851,52 +2851,52 @@
         "vol": "ZW08",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "253",
-        "en_words": "24"
+        "juans": 1,
+        "cjk_chars": 253,
+        "en_words": 24
     },
     "ZWa046": {
         "authorityID": "CA0008498",
         "vol": "ZW08",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1642",
-        "en_words": "6"
+        "juans": 1,
+        "cjk_chars": 1642,
+        "en_words": 6
     },
     "ZWa047": {
         "authorityID": "CA0008499",
         "vol": "ZW08",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》要目",
-        "juans": "1",
-        "cjk_chars": "1062"
+        "juans": 1,
+        "cjk_chars": 1062
     },
     "ZWa048": {
         "authorityID": "CA0008500",
         "vol": "ZW08",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "654",
-        "en_words": "6"
+        "juans": 1,
+        "cjk_chars": 654,
+        "en_words": 6
     },
     "ZWa049": {
         "authorityID": "CA0008501",
         "vol": "ZW08",
         "type": "non-textbody",
         "title": "鳴謝",
-        "juans": "1",
-        "cjk_chars": "20"
+        "juans": 1,
+        "cjk_chars": 20
     },
     "ZWa050": {
         "authorityID": "CA0008515",
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "4419",
-        "en_words": "26",
+        "juans": 1,
+        "cjk_chars": 4419,
+        "en_words": 26,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2910,70 +2910,70 @@
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "159",
-        "en_words": "18"
+        "juans": 1,
+        "cjk_chars": 159,
+        "en_words": 18
     },
     "ZWa052": {
         "authorityID": "CA0008517",
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1642",
-        "en_words": "6"
+        "juans": 1,
+        "cjk_chars": 1642,
+        "en_words": 6
     },
     "ZWa053": {
         "authorityID": "CA0008518",
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "談當前數字圖書館的幾個問題",
-        "juans": "1",
-        "cjk_chars": "3871",
-        "en_words": "36"
+        "juans": 1,
+        "cjk_chars": 3871,
+        "en_words": 36
     },
     "ZWa054": {
         "authorityID": "CA0008519",
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》要目",
-        "juans": "1",
-        "cjk_chars": "1062"
+        "juans": 1,
+        "cjk_chars": 1062
     },
     "ZWa055": {
         "authorityID": "CA0008520",
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "654",
-        "en_words": "6"
+        "juans": 1,
+        "cjk_chars": 654,
+        "en_words": 6
     },
     "ZWa056": {
         "authorityID": "CA0008521",
         "vol": "ZW09",
         "type": "non-textbody",
         "title": "鳴謝",
-        "juans": "1",
-        "cjk_chars": "17"
+        "juans": 1,
+        "cjk_chars": 17
     },
     "ZWa057": {
         "authorityID": "CA0008533",
         "vol": "ZW10",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "214",
-        "en_words": "25"
+        "juans": 1,
+        "cjk_chars": 214,
+        "en_words": 25
     },
     "ZWa058": {
         "authorityID": "CA0008534",
         "vol": "ZW10",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "2738",
-        "en_words": "3",
+        "juans": 1,
+        "cjk_chars": 2738,
+        "en_words": 3,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -2987,52 +2987,52 @@
         "vol": "ZW10",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1656",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 1656,
+        "en_words": 4
     },
     "ZWa060": {
         "authorityID": "CA0008536",
         "vol": "ZW10",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "664",
-        "en_words": "11"
+        "juans": 1,
+        "cjk_chars": 664,
+        "en_words": 11
     },
     "ZWa061": {
         "authorityID": "CA0008537",
         "vol": "ZW10",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》總目錄（第一輯～第十二輯）",
-        "juans": "1",
-        "cjk_chars": "2326"
+        "juans": 1,
+        "cjk_chars": 2326
     },
     "ZWa062": {
         "authorityID": "CA0008538",
         "vol": "ZW10",
         "type": "non-textbody",
         "title": "鳴謝",
-        "juans": "1",
-        "cjk_chars": "17"
+        "juans": 1,
+        "cjk_chars": 17
     },
     "ZWa063": {
         "authorityID": "CA0008547",
         "vol": "ZW11",
         "type": "non-textbody",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "278",
-        "en_words": "22"
+        "juans": 1,
+        "cjk_chars": 278,
+        "en_words": 22
     },
     "ZWa064": {
         "authorityID": "CA0008548",
         "vol": "ZW11",
         "type": "non-textbody",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "2738",
-        "en_words": "3",
+        "juans": 1,
+        "cjk_chars": 2738,
+        "en_words": 3,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -3046,34 +3046,34 @@
         "vol": "ZW11",
         "type": "non-textbody",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1647",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 1647,
+        "en_words": 4
     },
     "ZWa066": {
         "authorityID": "CA0008550",
         "vol": "ZW11",
         "type": "non-textbody",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "664",
-        "en_words": "11"
+        "juans": 1,
+        "cjk_chars": 664,
+        "en_words": 11
     },
     "ZWa067": {
         "authorityID": "CA0008551",
         "vol": "ZW11",
         "type": "non-textbody",
         "title": "《藏外佛教文獻》總目錄（第一輯～第十二輯）",
-        "juans": "1",
-        "cjk_chars": "2325"
+        "juans": 1,
+        "cjk_chars": 2325
     },
     "ZWa068": {
         "authorityID": "CA0008552",
         "vol": "ZW11",
         "type": "non-textbody",
         "title": "鳴謝",
-        "juans": "1",
-        "cjk_chars": "16"
+        "juans": 1,
+        "cjk_chars": 16
     },
     "ZWa069": {
         "authorityID": "CA0008560",
@@ -3081,9 +3081,9 @@
         "type": "non-textbody",
         "category": "新編部類",
         "title": "目錄",
-        "juans": "1",
-        "cjk_chars": "285",
-        "en_words": "26"
+        "juans": 1,
+        "cjk_chars": 285,
+        "en_words": 26
     },
     "ZWa070": {
         "authorityID": "CA0008561",
@@ -3091,9 +3091,9 @@
         "type": "non-textbody",
         "category": "新編部類",
         "title": "卷首語",
-        "juans": "1",
-        "cjk_chars": "2738",
-        "en_words": "3",
+        "juans": 1,
+        "cjk_chars": 2738,
+        "en_words": 3,
         "byline": "方廣錩",
         "contributors": [
             {
@@ -3108,9 +3108,9 @@
         "type": "non-textbody",
         "category": "新編部類",
         "title": "錄文校勘體例",
-        "juans": "1",
-        "cjk_chars": "1650",
-        "en_words": "4"
+        "juans": 1,
+        "cjk_chars": 1650,
+        "en_words": 4
     },
     "ZWa072": {
         "authorityID": "CA0008563",
@@ -3118,9 +3118,9 @@
         "type": "non-textbody",
         "category": "新編部類",
         "title": "徵稿啟事",
-        "juans": "1",
-        "cjk_chars": "654",
-        "en_words": "6"
+        "juans": 1,
+        "cjk_chars": 654,
+        "en_words": 6
     },
     "ZWa073": {
         "authorityID": "CA0008564",
@@ -3128,7 +3128,7 @@
         "type": "non-textbody",
         "category": "新編部類",
         "title": "《藏外佛教文獻》總目錄（第一輯～第十二輯）",
-        "juans": "1",
-        "cjk_chars": "2326"
+        "juans": 1,
+        "cjk_chars": 2326
     }
 }
