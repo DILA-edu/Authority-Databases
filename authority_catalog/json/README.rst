@@ -12,7 +12,7 @@
    * `Data type：String`
    * `textbody：本文`
    * `non-textbody: 非本文`
-      * `例如佛典編號 TXa001 編纂說明 不是佛典本文`
+      例如佛典編號 TXa001 編纂說明 不是佛典本文
 * `orig_category：原書分類`
    * `Data type：String`
    * `例如 T0001 大正藏 原書分類為：阿含部`
