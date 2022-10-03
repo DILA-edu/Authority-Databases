@@ -1607,6 +1607,11 @@
         "juans": 1,
         "cjk_chars": 777,
         "en_words": 38,
-        "byline": "中華電子佛典協會"
+        "byline": "中華電子佛典協會",
+        "contributors": [
+            {
+                "name": "中華電子佛典協會"
+            }
+        ]
     }
 }

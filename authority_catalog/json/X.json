@@ -22278,7 +22278,12 @@
         "byline": "清 集雲堂編",
         "dynasty": "清",
         "time_from": 1644,
-        "time_to": 1911
+        "time_to": 1911,
+        "contributors": [
+            {
+                "name": "集雲堂"
+            }
+        ]
     },
     "X1298": {
         "authorityID": "CA0000408",
