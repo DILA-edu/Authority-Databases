@@ -184,7 +184,7 @@
         "type": "textbody",
         "category": "新編部類",
         "title": "第十編　學行",
-        "juans": 45,
+        "juans": 54,
         "cjk_chars": 97589,
         "en_words": 38,
         "byline": "民國 釋太虛著",
@@ -287,6 +287,96 @@
         "juans": 71,
         "cjk_chars": 109188,
         "en_words": 7,
+        "byline": "民國 釋太虛著",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947,
+        "contributors": [
+            {
+                "name": "釋太虛",
+                "id": "A004819"
+            }
+        ]
+    },
+    "TX0016": {
+        "authorityID": "CA0008619",
+        "vol": "TX25",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "第十六編　書評",
+        "juans": 76,
+        "byline": "民國 釋太虛著",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947,
+        "contributors": [
+            {
+                "name": "釋太虛",
+                "id": "A004819"
+            }
+        ]
+    },
+    "TX0017": {
+        "authorityID": "CA0008620",
+        "vol": "TX26..TX27",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "第十七編　酬對",
+        "juans": 320,
+        "byline": "民國 釋太虛著",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947,
+        "contributors": [
+            {
+                "name": "釋太虛",
+                "id": "A004819"
+            }
+        ]
+    },
+    "TX0018": {
+        "authorityID": "CA0008621",
+        "vol": "TX27..TX28",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "第十八編　講演",
+        "juans": 180,
+        "byline": "民國 釋太虛著",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947,
+        "contributors": [
+            {
+                "name": "釋太虛",
+                "id": "A004819"
+            }
+        ]
+    },
+    "TX0019": {
+        "authorityID": "CA0008622",
+        "vol": "TX29..TX31",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "第十九編　文叢",
+        "juans": 321,
+        "byline": "民國 釋太虛著",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947,
+        "contributors": [
+            {
+                "name": "釋太虛",
+                "id": "A004819"
+            }
+        ]
+    },
+    "TX0020": {
+        "authorityID": "CA0008623",
+        "vol": "TX32",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "第二十編　詩存",
+        "juans": 5,
         "byline": "民國 釋太虛著",
         "dynasty": "民國",
         "time_from": 1912,
