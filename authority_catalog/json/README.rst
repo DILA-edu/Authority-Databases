@@ -52,6 +52,8 @@
    * `Data type：Array`
    * `name：翻譯地點之地名`
    * `id：地名 Authority ID`
+   * `lat：地名之緯度`
+   * `long：地名之經度`
    
 Maintainer
 ==========
