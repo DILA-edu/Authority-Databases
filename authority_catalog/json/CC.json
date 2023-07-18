@@ -1,0 +1,19 @@
+{
+    "CC0001": {
+        "authorityID": "CA0008624",
+        "vol": "CC001",
+        "type": "textbody",
+        "category": "史傳部類",
+        "title": "續比丘尼傳",
+        "juans": 6,
+        "byline": "民國 釋震華編述",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "釋震華",
+                "id": "A046728"
+            }
+        ]
+    }
+}
