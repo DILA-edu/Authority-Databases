@@ -16,5 +16,22 @@
                 "id": "A046728"
             }
         ]
+    },
+    "CC0002": {
+        "authorityID": "CA0008625",
+        "vol": "CC002",
+        "type": "textbody",
+        "category": "禪宗部類",
+        "title": "敦博本六祖壇經校訂全文",
+        "juans": 1,
+        "byline": "民國 黃連忠校訂",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "黃連忠",
+                "id": "A035436"
+            }
+        ]
     }
 }

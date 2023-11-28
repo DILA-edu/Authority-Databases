@@ -106,5 +106,437 @@
                 "id": "A001758"
             }
         ]
+    },
+    "G2250": {
+        "authorityID": "CA0008626",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "南山律在家備覽略編",
+        "juans": 4,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2251": {
+        "authorityID": "CA0008627",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "四分律含註戒本隨講別錄",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2252": {
+        "authorityID": "CA0008628",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "四分律含註戒本科",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2253": {
+        "authorityID": "CA0008629",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "四分律含註戒本疏略科",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2254": {
+        "authorityID": "CA0008630",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "四分律含註戒本略釋",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2256": {
+        "authorityID": "CA0008631",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "四分律刪補隨機羯磨疏略科",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2257": {
+        "authorityID": "CA0008632",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "事鈔持犯方軌篇表記",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2268": {
+        "authorityID": "CA0008633",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "授三歸依大意",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2269": {
+        "authorityID": "CA0008634",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "釋門歸敬儀科",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2270": {
+        "authorityID": "CA0008635",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "律學要略",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2271": {
+        "authorityID": "CA0008636",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "菩薩瓔珞經自誓受菩薩五重戒法",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2272": {
+        "authorityID": "CA0008637",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "僧尼十種受法料簡圖",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2273": {
+        "authorityID": "CA0008638",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "剃髮儀式",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2274": {
+        "authorityID": "CA0008639",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "表無表章科",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2275": {
+        "authorityID": "CA0008640",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "盜戒釋相概略問答",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2276": {
+        "authorityID": "CA0008641",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "南山律苑雜錄",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2277": {
+        "authorityID": "CA0008642",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "毗柰耶質疑編",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2278": {
+        "authorityID": "CA0008643",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "青年佛徒應注意的四項",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2279": {
+        "authorityID": "CA0008644",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "人生之最後",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2280": {
+        "authorityID": "CA0008645",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "根本說一切有部毗柰耶犯相摘記",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2281": {
+        "authorityID": "CA0008646",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "根本說一切有部毗柰耶自行抄",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2282": {
+        "authorityID": "CA0008647",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "學根本說一切有部律入門次第",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2283": {
+        "authorityID": "CA0008648",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "四分律比丘戒相表記校註",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
+    },
+    "G2284": {
+        "authorityID": "CA0008649",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "律部類",
+        "title": "榑桑國藏古袈裟圖",
+        "juans": 1,
+        "byline": "民國 弘一撰",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1942,
+        "contributors": [
+            {
+                "name": "弘一",
+                "id": "A000236"
+            }
+        ]
     }
 }
