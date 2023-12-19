@@ -6,9 +6,9 @@ Buddhist Studies Authority Databases
 .. contents::
 
 
-:Contact: da@ddbc.edu.tw
-:Web site: http://authority.ddbc.edu.tw/
-:Date: 2014-09-26
+:Contact: winxd@dila.edu.tw
+:Web site: http://authority.dila.edu.tw/
+:Date: 2020-09-26
 
 
 Description
@@ -43,10 +43,10 @@ This repository contains the following files:
    Complete license information.
 
 * `authority_person/`
-   Person Authority Database
+   The Person Authority Database provided here includes the data of the person authority database in XML/TEI. 
 
 * `authority_place/`
-   Place Authority Database
+   The Place Authority Database provided here includes those entries of the place authority database that were created by DILA (c.19.000). The archive is distributed as XML/TEI file. The complete database is accessible through the online interface and API. It contains 38.000 more entries that were provided by the Center of Geographic Information Science at Academia Sinica, Taipei. 
 
 * `authority_time/`
-   Time Authority Database
+   Here you may download the raw data for the DILA Time Authority Database.
