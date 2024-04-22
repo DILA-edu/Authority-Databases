@@ -708,15 +708,17 @@
     "GAa001": {
         "authorityID": "CA0008097",
         "vol": "GA000",
-        "type": "textbody",
+        "type": "non-textbody",
         "title": "編輯說明",
         "juans": 1,
         "cjk_chars": 323,
         "en_words": 48,
-        "byline": "中華電子佛典協會",
+        "byline": "財團法人佛教電子佛典基金會",
+        "dynasty": "民國",
+        "time_from": 1912,
         "contributors": [
             {
-                "name": "中華電子佛典協會"
+                "name": "財團法人佛教電子佛典基金會"
             }
         ]
     }
