@@ -3161,7 +3161,7 @@
     "Ba001": {
         "authorityID": "CA0008573",
         "vol": "B00",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "出版說明",
         "juans": 1,
@@ -3177,7 +3177,7 @@
     "Ba002": {
         "authorityID": "CA0008574",
         "vol": "B00",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "全書內容簡介",
         "juans": 1,
@@ -3194,7 +3194,7 @@
     "Ba003": {
         "authorityID": "CA0008575",
         "vol": "B03",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3210,7 +3210,7 @@
     "Ba004": {
         "authorityID": "CA0008576",
         "vol": "B06",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3226,7 +3226,7 @@
     "Ba005": {
         "authorityID": "CA0008577",
         "vol": "B07",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3242,7 +3242,7 @@
     "Ba006": {
         "authorityID": "CA0008578",
         "vol": "B08",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3258,7 +3258,7 @@
     "Ba007": {
         "authorityID": "CA0008579",
         "vol": "B09",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3275,7 +3275,7 @@
     "Ba008": {
         "authorityID": "CA0008580",
         "vol": "B10",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3291,7 +3291,7 @@
     "Ba009": {
         "authorityID": "CA0008581",
         "vol": "B11",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3307,7 +3307,7 @@
     "Ba010": {
         "authorityID": "CA0008582",
         "vol": "B12",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "洛陽伽藍記解題",
         "juans": 1,
@@ -3324,7 +3324,7 @@
     "Ba011": {
         "authorityID": "CA0008583",
         "vol": "B13",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "釋氏六帖解題",
         "juans": 1,
@@ -3340,7 +3340,7 @@
     "Ba012": {
         "authorityID": "CA0008584",
         "vol": "B13",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "大唐西域記解題",
         "juans": 1,
@@ -3357,7 +3357,7 @@
     "Ba013": {
         "authorityID": "CA0008585",
         "vol": "B14",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3373,7 +3373,7 @@
     "Ba014": {
         "authorityID": "CA0008586",
         "vol": "B15",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明（上）",
         "juans": 1,
@@ -3389,7 +3389,7 @@
     "Ba015": {
         "authorityID": "CA0008587",
         "vol": "B16",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3405,7 +3405,7 @@
     "Ba016": {
         "authorityID": "CA0008588",
         "vol": "B17",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3421,7 +3421,7 @@
     "Ba017": {
         "authorityID": "CA0008589",
         "vol": "B18",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3437,7 +3437,7 @@
     "Ba018": {
         "authorityID": "CA0008590",
         "vol": "B19",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3454,7 +3454,7 @@
     "Ba019": {
         "authorityID": "CA0008592",
         "vol": "B20",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3470,7 +3470,7 @@
     "Ba020": {
         "authorityID": "CA0008593",
         "vol": "B21",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3486,7 +3486,7 @@
     "Ba021": {
         "authorityID": "CA0008594",
         "vol": "B22",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3502,7 +3502,7 @@
     "Ba022": {
         "authorityID": "CA0008595",
         "vol": "B23",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3519,7 +3519,7 @@
     "Ba023": {
         "authorityID": "CA0008596",
         "vol": "B24",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3536,7 +3536,7 @@
     "Ba024": {
         "authorityID": "CA0008597",
         "vol": "B25",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3553,7 +3553,7 @@
     "Ba025": {
         "authorityID": "CA0008598",
         "vol": "B26",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3569,7 +3569,7 @@
     "Ba026": {
         "authorityID": "CA0008599",
         "vol": "B27",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3585,7 +3585,7 @@
     "Ba027": {
         "authorityID": "CA0008600",
         "vol": "B28",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3602,7 +3602,7 @@
     "Ba028": {
         "authorityID": "CA0008601",
         "vol": "B29",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3618,7 +3618,7 @@
     "Ba029": {
         "authorityID": "CA0008602",
         "vol": "B30",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3634,7 +3634,7 @@
     "Ba030": {
         "authorityID": "CA0008603",
         "vol": "B31",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3650,7 +3650,7 @@
     "Ba031": {
         "authorityID": "CA0008604",
         "vol": "B32",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3666,7 +3666,7 @@
     "Ba032": {
         "authorityID": "CA0008605",
         "vol": "B33",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3683,7 +3683,7 @@
     "Ba033": {
         "authorityID": "CA0008606",
         "vol": "B34",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3700,7 +3700,7 @@
     "Ba034": {
         "authorityID": "CA0008607",
         "vol": "B34",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "吳都法乘簡介",
         "juans": 1,
@@ -3716,7 +3716,7 @@
     "Ba035": {
         "authorityID": "CA0008608",
         "vol": "B35",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
@@ -3733,7 +3733,7 @@
     "Ba036": {
         "authorityID": "CA0008609",
         "vol": "B36",
-        "type": "textbody",
+        "type": "non-textbody",
         "category": "新編部類",
         "title": "編輯說明",
         "juans": 1,
