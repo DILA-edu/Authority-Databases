@@ -1,4 +1,22 @@
 {
+    "C1159": {
+        "authorityID": "CA0008661",
+        "vol": "C056",
+        "type": "non-textbody",
+        "category": "事彙部類",
+        "title": "大藏經綱目指要錄",
+        "juans": 8,
+        "byline": "宋 惟白集",
+        "dynasty": "宋",
+        "time_from": 1103,
+        "time_to": 1104,
+        "contributors": [
+            {
+                "name": "惟白",
+                "id": "A001061"
+            }
+        ]
+    },
     "C1163": {
         "authorityID": "CA0007990",
         "vol": "C056..C057",
