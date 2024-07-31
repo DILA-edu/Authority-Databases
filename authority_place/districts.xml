@@ -142,7 +142,7 @@
         
     </place>		
     <place type="country" xml:id="PLA000028">
-        <placeName>臺灣</placeName>
+        <placeName>台灣</placeName>
         
     </place>		
     <place type="country" xml:id="PLA000029">
@@ -1807,19 +1807,19 @@
     </place>		
     <place  xml:id="PLB000402">
         <placeName>北區</placeName>
-        <location><country key="PLA000028">臺灣</country></location>
+        <location><country key="PLA000028">台灣</country></location>
     </place>		
     <place  xml:id="PLB000403">
         <placeName>中區</placeName>
-        <location><country key="PLA000028">臺灣</country></location>
+        <location><country key="PLA000028">台灣</country></location>
     </place>		
     <place  xml:id="PLB000404">
         <placeName>南區</placeName>
-        <location><country key="PLA000028">臺灣</country></location>
+        <location><country key="PLA000028">台灣</country></location>
     </place>		
     <place  xml:id="PLB000405">
         <placeName>東區</placeName>
-        <location><country key="PLA000028">臺灣</country></location>
+        <location><country key="PLA000028">台灣</country></location>
     </place>		
     <place  xml:id="PLB000406">
         <placeName>(BarisalDivision)</placeName>
@@ -20166,11 +20166,11 @@
         <location><place key="PLB000401">(Zhambyl)</place></location>
     </place>		
     <place  xml:id="PLC004521">
-        <placeName>臺北市</placeName>
+        <placeName>台北市</placeName>
         <location><place key="PLB000402">北區</place></location>
     </place>		
     <place  xml:id="PLC004522">
-        <placeName>臺北縣</placeName>
+        <placeName>新北市</placeName>
         <location><place key="PLB000402">北區</place></location>
     </place>		
     <place  xml:id="PLC004523">
@@ -20202,7 +20202,7 @@
         <location><place key="PLB000403">中區</place></location>
     </place>		
     <place  xml:id="PLC004530">
-        <placeName>臺中市</placeName>
+        <placeName>台中市</placeName>
         <location><place key="PLB000403">中區</place></location>
     </place>		
     <place  xml:id="PLC004531">
@@ -66123,167 +66123,167 @@
     </place>		
     <place  xml:id="PLD011375">
         <placeName>中正區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011376">
         <placeName>大同區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011377">
         <placeName>中山區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011378">
         <placeName>松山區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011379">
         <placeName>大安區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011380">
         <placeName>萬華區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011381">
         <placeName>信義區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011382">
         <placeName>士林區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011383">
         <placeName>北投區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011384">
         <placeName>內湖區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011385">
         <placeName>南港區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011386">
         <placeName>文山區</placeName>
-        <location><place key="PLC004521">臺北市</place></location>
+        <location><place key="PLC004521">台北市</place></location>
     </place>		
     <place  xml:id="PLD011387">
         <placeName>萬里</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011388">
         <placeName>金山</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011389">
         <placeName>板橋</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011390">
         <placeName>汐止</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011391">
         <placeName>深坑</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011392">
         <placeName>石碇</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011393">
         <placeName>瑞芳</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011394">
         <placeName>平溪</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011395">
         <placeName>雙溪</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011396">
         <placeName>貢寮</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011397">
         <placeName>新店</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011398">
         <placeName>坪林</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011399">
         <placeName>烏來</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011400">
         <placeName>永和</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011401">
         <placeName>中和</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011402">
         <placeName>土城</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011403">
         <placeName>三峽</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011404">
         <placeName>樹林</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011405">
         <placeName>鶯歌</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011406">
         <placeName>三重</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011407">
         <placeName>新莊</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011408">
         <placeName>泰山</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011409">
         <placeName>林口</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011410">
         <placeName>蘆洲</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011411">
         <placeName>五股</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011412">
         <placeName>八里</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011413">
         <placeName>淡水</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011414">
         <placeName>三芝</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011415">
         <placeName>石門</placeName>
-        <location><place key="PLC004522">臺北縣</place></location>
+        <location><place key="PLC004522">新北市</place></location>
     </place>		
     <place  xml:id="PLD011416">
         <placeName>仁愛區</placeName>
@@ -66555,35 +66555,35 @@
     </place>		
     <place  xml:id="PLD011483">
         <placeName>中區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011484">
         <placeName>東區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011485">
         <placeName>南區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011486">
         <placeName>西區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011487">
         <placeName>北區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011488">
         <placeName>北屯區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011489">
         <placeName>西屯區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011490">
         <placeName>南屯區</placeName>
-        <location><place key="PLC004530">臺中市</place></location>
+        <location><place key="PLC004530">台中市</place></location>
     </place>		
     <place  xml:id="PLD011491">
         <placeName>太平</placeName>
