@@ -20206,7 +20206,7 @@
         <location><place key="PLB000403">中區</place></location>
     </place>		
     <place  xml:id="PLC004531">
-        <placeName>臺中縣</placeName>
+        <placeName>台中縣</placeName>
         <location><place key="PLB000403">中區</place></location>
     </place>		
     <place  xml:id="PLC004532">
@@ -20222,11 +20222,11 @@
         <location><place key="PLB000403">中區</place></location>
     </place>		
     <place  xml:id="PLC004535">
-        <placeName>臺南市</placeName>
+        <placeName>台南市</placeName>
         <location><place key="PLB000404">南區</place></location>
     </place>		
     <place  xml:id="PLC004536">
-        <placeName>臺南縣</placeName>
+        <placeName>台南縣</placeName>
         <location><place key="PLB000404">南區</place></location>
     </place>		
     <place  xml:id="PLC004537">
@@ -66587,87 +66587,87 @@
     </place>		
     <place  xml:id="PLD011491">
         <placeName>太平</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011492">
         <placeName>大里</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011493">
         <placeName>霧峰</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011494">
         <placeName>烏日</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011495">
         <placeName>豐原</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011496">
         <placeName>后里</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011497">
         <placeName>石岡</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011498">
         <placeName>東勢</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011499">
         <placeName>和平</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011500">
         <placeName>新社</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011501">
         <placeName>潭子</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011502">
         <placeName>大雅</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011503">
         <placeName>神岡</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011504">
         <placeName>大肚</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011505">
         <placeName>沙鹿</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011506">
         <placeName>龍井</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011507">
         <placeName>梧棲</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011508">
         <placeName>清水</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011509">
         <placeName>大甲</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011510">
         <placeName>外埔</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011511">
         <placeName>大安</placeName>
-        <location><place key="PLC004531">臺中縣</place></location>
+        <location><place key="PLC004531">台中縣</place></location>
     </place>		
     <place  xml:id="PLD011512">
         <placeName>彰化</placeName>
@@ -66927,151 +66927,151 @@
     </place>		
     <place  xml:id="PLD011576">
         <placeName>中西區</placeName>
-        <location><place key="PLC004535">臺南市</place></location>
+        <location><place key="PLC004535">台南市</place></location>
     </place>		
     <place  xml:id="PLD011577">
         <placeName>東區</placeName>
-        <location><place key="PLC004535">臺南市</place></location>
+        <location><place key="PLC004535">台南市</place></location>
     </place>		
     <place  xml:id="PLD011578">
         <placeName>南區</placeName>
-        <location><place key="PLC004535">臺南市</place></location>
+        <location><place key="PLC004535">台南市</place></location>
     </place>		
     <place  xml:id="PLD011579">
         <placeName>北區</placeName>
-        <location><place key="PLC004535">臺南市</place></location>
+        <location><place key="PLC004535">台南市</place></location>
     </place>		
     <place  xml:id="PLD011580">
         <placeName>安平區</placeName>
-        <location><place key="PLC004535">臺南市</place></location>
+        <location><place key="PLC004535">台南市</place></location>
     </place>		
     <place  xml:id="PLD011581">
         <placeName>安南區</placeName>
-        <location><place key="PLC004535">臺南市</place></location>
+        <location><place key="PLC004535">台南市</place></location>
     </place>		
     <place  xml:id="PLD011582">
         <placeName>永康</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011583">
         <placeName>歸仁</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011584">
         <placeName>新化</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011585">
         <placeName>左鎮</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011586">
         <placeName>玉井</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011587">
         <placeName>楠西</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011588">
         <placeName>南化</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011589">
         <placeName>仁德</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011590">
         <placeName>關廟</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011591">
         <placeName>龍崎</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011592">
         <placeName>官田</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011593">
         <placeName>麻豆</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011594">
         <placeName>佳里</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011595">
         <placeName>西港</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011596">
         <placeName>七股</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011597">
         <placeName>將軍</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011598">
         <placeName>學甲</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011599">
         <placeName>北門</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011600">
         <placeName>新營</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011601">
         <placeName>後壁</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011602">
         <placeName>白河</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011603">
         <placeName>東山</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011604">
         <placeName>六甲</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011605">
         <placeName>下營</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011606">
         <placeName>柳營</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011607">
         <placeName>鹽水</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011608">
         <placeName>善化</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011609">
         <placeName>大內</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011610">
         <placeName>山上</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011611">
         <placeName>新市</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011612">
         <placeName>安定</placeName>
-        <location><place key="PLC004536">臺南縣</place></location>
+        <location><place key="PLC004536">台南縣</place></location>
     </place>		
     <place  xml:id="PLD011613">
         <placeName>嘉義市全區</placeName>
