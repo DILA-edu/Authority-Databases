@@ -547,6 +547,60 @@
             }
         ]
     },
+    "GA0037": {
+        "authorityID": "CA0008669",
+        "vol": "GA036..GA037",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "金山龍游禪寺志略",
+        "juans": 4,
+        "byline": "清 釋行海撰",
+        "dynasty": "清",
+        "time_from": 1610,
+        "time_to": 1683,
+        "contributors": [
+            {
+                "name": "釋行海",
+                "id": "A014641"
+            }
+        ]
+    },
+    "GA0040": {
+        "authorityID": "CA0008671",
+        "vol": "GA040",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "平山堂圖志",
+        "juans": 10,
+        "byline": "清 趙之璧撰",
+        "dynasty": "清",
+        "time_from": 1765,
+        "time_to": 1765,
+        "contributors": [
+            {
+                "name": "趙之璧",
+                "id": "A045586"
+            }
+        ]
+    },
+    "GA0042": {
+        "authorityID": "CA0008672",
+        "vol": "GA042",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "鄧尉山聖恩寺志",
+        "juans": 18,
+        "byline": "明 周永年撰",
+        "dynasty": "明",
+        "time_from": 1582,
+        "time_to": 1647,
+        "contributors": [
+            {
+                "name": "周永年",
+                "id": "A018586"
+            }
+        ]
+    },
     "GA0043": {
         "authorityID": "CA0008125",
         "vol": "GA043",
@@ -563,6 +617,112 @@
             {
                 "name": "葉昌熾",
                 "id": "A018138"
+            }
+        ]
+    },
+    "GA0044": {
+        "authorityID": "CA0008673",
+        "vol": "GA043",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "鹿泉寺志",
+        "juans": 1,
+        "byline": "明 許國誠．高一福撰",
+        "dynasty": "明",
+        "time_from": 1573,
+        "time_to": 1620,
+        "contributors": [
+            {
+                "name": "許國誠",
+                "id": "A045591"
+            },
+            {
+                "name": "高一福",
+                "id": "A045592"
+            }
+        ]
+    },
+    "GA0045": {
+        "authorityID": "CA0008674",
+        "vol": "GA043",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "鶴林寺志（京口三山全志）",
+        "juans": 1,
+        "byline": "明 許國誠．高一福撰",
+        "dynasty": "明",
+        "time_from": 1573,
+        "time_to": 1620,
+        "contributors": [
+            {
+                "name": "許國誠",
+                "id": "A045591"
+            },
+            {
+                "name": "高一福",
+                "id": "A045592"
+            }
+        ]
+    },
+    "GA0046": {
+        "authorityID": "CA0008675",
+        "vol": "GA043",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "鶴林寺志（釋明賢本）",
+        "juans": 1,
+        "byline": "明 釋明賢撰",
+        "dynasty": "明",
+        "time_from": 1573,
+        "time_to": 1619,
+        "contributors": [
+            {
+                "name": "釋明賢",
+                "id": "A021782"
+            }
+        ]
+    },
+    "GA0047": {
+        "authorityID": "CA0008676",
+        "vol": "GA044",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "潭柘山岫雲寺志",
+        "juans": 2,
+        "byline": "清 神穆德撰　釋義菴續撰",
+        "dynasty": "清",
+        "time_from": 1739,
+        "time_to": 1883,
+        "contributors": [
+            {
+                "name": "神穆德",
+                "id": "A045593"
+            },
+            {
+                "name": "釋義菴",
+                "id": "A004055"
+            }
+        ]
+    },
+    "GA0048": {
+        "authorityID": "CA0008677",
+        "vol": "GA044",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "弘慈廣濟寺新志",
+        "juans": 3,
+        "byline": "清 釋湛祐撰　釋然叢輯",
+        "dynasty": "清",
+        "time_from": 1704,
+        "time_to": 1704,
+        "contributors": [
+            {
+                "name": "釋湛祐",
+                "id": "A016623"
+            },
+            {
+                "name": "釋然叢",
+                "id": "A045594"
             }
         ]
     },
@@ -589,6 +749,78 @@
             }
         ]
     },
+    "GA0055": {
+        "authorityID": "CA0008678",
+        "vol": "GA052",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "重刊洛陽伽藍記",
+        "juans": 5,
+        "byline": "民國 徐高阮撰",
+        "dynasty": "民國",
+        "time_from": 1940,
+        "time_to": 1940,
+        "contributors": [
+            {
+                "name": "徐高阮",
+                "id": "A045598"
+            }
+        ]
+    },
+    "GA0057": {
+        "authorityID": "CA0008679",
+        "vol": "GA053",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "江南梵剎志",
+        "juans": 6,
+        "byline": "清 黃之雋等修",
+        "dynasty": "清",
+        "time_from": 1668,
+        "time_to": 1748,
+        "contributors": [
+            {
+                "name": "黃之雋",
+                "id": "A045599"
+            }
+        ]
+    },
+    "GA0059": {
+        "authorityID": "CA0008680",
+        "vol": "GA056",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "雲門山志",
+        "juans": 9,
+        "byline": "民國 岑學呂編",
+        "dynasty": "民國",
+        "time_from": 1882,
+        "time_to": 1963,
+        "contributors": [
+            {
+                "name": "岑學呂",
+                "id": "A006923"
+            }
+        ]
+    },
+    "GA0060": {
+        "authorityID": "CA0008681",
+        "vol": "GA056",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "大嶼山志",
+        "juans": 7,
+        "byline": "民國 釋明慧編",
+        "dynasty": "民國",
+        "time_from": 1907,
+        "time_to": 1972,
+        "contributors": [
+            {
+                "name": "釋明慧",
+                "id": "A045600"
+            }
+        ]
+    },
     "GA0062": {
         "authorityID": "CA0008127",
         "vol": "GA058",
@@ -605,6 +837,64 @@
             {
                 "name": "釋元賢",
                 "id": "A000135"
+            }
+        ]
+    },
+    "GA0063": {
+        "authorityID": "CA0008682",
+        "vol": "GA058",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "厦門南普陀寺志",
+        "juans": 7,
+        "byline": "民國 釋寄塵撰",
+        "dynasty": "民國",
+        "time_from": 1931,
+        "time_to": 1931,
+        "contributors": [
+            {
+                "name": "釋寄塵",
+                "id": "A024004"
+            }
+        ]
+    },
+    "GA0064": {
+        "authorityID": "CA0008683",
+        "vol": "GA059",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "天台勝跡錄",
+        "juans": 4,
+        "byline": "明 潘瑊編",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644,
+        "contributors": [
+            {
+                "name": "潘瑊",
+                "id": "A018215"
+            }
+        ]
+    },
+    "GA0065": {
+        "authorityID": "CA0008684",
+        "vol": "GA060",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "鴈山志",
+        "juans": 4,
+        "byline": "明 朱諫撰　胡汝寧重編",
+        "dynasty": "明",
+        "time_from": 1601,
+        "time_to": 1601,
+        "contributors": [
+            {
+                "name": "朱諫",
+                "id": "A045601"
+            },
+            {
+                "name": "胡汝寧",
+                "id": "A045602"
             }
         ]
     },

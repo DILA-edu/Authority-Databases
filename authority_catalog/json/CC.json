@@ -34,5 +34,67 @@
                 "id": "A035436"
             }
         ]
+    },
+    "CC0003": {
+        "authorityID": "CA0008662",
+        "vol": "CC003",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "解深密經疏（補篇）",
+        "juans": 6,
+        "byline": "唐 圓測撰 法成譯藏　民國 觀空還譯",
+        "dynasty": "民國",
+        "time_from": 1919,
+        "time_to": 1989,
+        "contributors": [
+            {
+                "name": "圓測",
+                "id": "A001414"
+            },
+            {
+                "name": "法成",
+                "id": "A000696"
+            },
+            {
+                "name": "觀空",
+                "id": "A023405"
+            }
+        ]
+    },
+    "CC0004": {
+        "authorityID": "CA0008663",
+        "vol": "CC004",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "成唯識論測疏",
+        "juans": 10,
+        "byline": "唐 圓測撰",
+        "dynasty": "唐",
+        "time_from": 613,
+        "time_to": 696,
+        "contributors": [
+            {
+                "name": "圓測",
+                "id": "A001414"
+            }
+        ]
+    },
+    "CC0005": {
+        "authorityID": "CA0008664",
+        "vol": "CC005",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "般若融心論",
+        "juans": 1,
+        "byline": "明 傳燈撰",
+        "dynasty": "明",
+        "time_from": 1554,
+        "time_to": 1628,
+        "contributors": [
+            {
+                "name": "傳燈",
+                "id": "A007274"
+            }
+        ]
     }
 }

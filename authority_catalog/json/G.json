@@ -773,5 +773,93 @@
                 "id": "A000236"
             }
         ]
+    },
+    "G2517": {
+        "authorityID": "CA0008665",
+        "vol": "G148",
+        "type": "textbody",
+        "category": "論集部類",
+        "title": "菩提道次第論攝頌",
+        "juans": 1,
+        "byline": "宗喀巴大士造　民國 法尊譯",
+        "dynasty": "民國",
+        "time_from": 1903,
+        "time_to": 1980,
+        "contributors": [
+            {
+                "name": "宗喀巴大士",
+                "id": "A023413"
+            },
+            {
+                "name": "法尊",
+                "id": "A004774"
+            }
+        ]
+    },
+    "G2518": {
+        "authorityID": "CA0008666",
+        "vol": "G148",
+        "type": "textbody",
+        "category": "論集部類",
+        "title": "菩提道燈論",
+        "juans": 1,
+        "byline": "阿底峽尊者造　民國 法尊譯",
+        "dynasty": "民國",
+        "time_from": 1903,
+        "time_to": 1980,
+        "contributors": [
+            {
+                "name": "阿底峽尊者",
+                "id": "A015038"
+            },
+            {
+                "name": "法尊",
+                "id": "A004774"
+            }
+        ]
+    },
+    "G2550": {
+        "authorityID": "CA0008667",
+        "vol": "G150",
+        "type": "textbody",
+        "category": "論集部類",
+        "title": "集量論頌",
+        "juans": 1,
+        "byline": "陳那論師造　民國 法尊譯",
+        "dynasty": "民國",
+        "time_from": 1903,
+        "time_to": 1980,
+        "contributors": [
+            {
+                "name": "陳那論師",
+                "id": "A001162"
+            },
+            {
+                "name": "法尊",
+                "id": "A004774"
+            }
+        ]
+    },
+    "G2551": {
+        "authorityID": "CA0008668",
+        "vol": "G150",
+        "type": "textbody",
+        "category": "論集部類",
+        "title": "釋量論",
+        "juans": 4,
+        "byline": "法稱論師造　民國 法尊譯",
+        "dynasty": "民國",
+        "time_from": 1903,
+        "time_to": 1980,
+        "contributors": [
+            {
+                "name": "法稱論師",
+                "id": "A000734"
+            },
+            {
+                "name": "法尊",
+                "id": "A004774"
+            }
+        ]
     }
 }
