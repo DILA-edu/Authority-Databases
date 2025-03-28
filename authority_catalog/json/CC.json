@@ -100,5 +100,23 @@
                 "id": "A007274"
             }
         ]
+    },
+    "CC0006": {
+        "authorityID": "CA0008685",
+        "vol": "CC006",
+        "type": "textbody",
+        "category": "淨土宗部類,新編部類",
+        "title": "佛說大乘無量壽莊嚴清淨平等覺經會集",
+        "juans": 1,
+        "byline": "民國 夏蓮居集",
+        "dynasty": "民國",
+        "time_from": 1932,
+        "time_to": 1946,
+        "contributors": [
+            {
+                "name": "夏蓮居",
+                "id": "A048439"
+            }
+        ]
     }
 }
