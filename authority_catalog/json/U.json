@@ -16,7 +16,8 @@
                 "name": "義忠",
                 "id": "A001464"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "U1418": {
         "authorityID": "CA0008319",
@@ -39,6 +40,7 @@
                 "name": "淨源",
                 "id": "A001113"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

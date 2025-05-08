@@ -17,7 +17,8 @@
                 "name": "釋宗淨",
                 "id": "A000589"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "GBa001": {
         "authorityID": "CA0008133",
@@ -34,6 +35,7 @@
             {
                 "name": "財團法人佛教電子佛典基金會"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

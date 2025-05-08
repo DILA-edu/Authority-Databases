@@ -5,7 +5,8 @@
         "type": "textbody",
         "alt": "T0293",
         "title": "大方廣佛華嚴經",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JA002": {
         "authorityID": "CA0005539",
@@ -13,7 +14,8 @@
         "type": "textbody",
         "alt": "T0663",
         "title": "金光明經",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA003": {
         "authorityID": "CA0005540",
@@ -21,7 +23,8 @@
         "type": "textbody",
         "alt": "T09n0262_p0056c02",
         "title": "妙法蓮花經觀世音菩薩普門品經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA004": {
         "authorityID": "CA0005541",
@@ -29,7 +32,8 @@
         "type": "textbody",
         "alt": "T0364",
         "title": "佛說大阿彌陀經",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA005": {
         "authorityID": "CA0005542",
@@ -37,7 +41,8 @@
         "type": "textbody",
         "alt": "T1057b",
         "title": "千眼千臂觀世音菩薩陀羅尼神咒經",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA006": {
         "authorityID": "CA0005543",
@@ -45,7 +50,8 @@
         "type": "textbody",
         "alt": "T1063",
         "title": "番大悲神咒",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA007": {
         "authorityID": "CA0005544",
@@ -53,7 +59,8 @@
         "type": "textbody",
         "alt": "T0446b",
         "title": "過去莊嚴劫千佛名經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA008": {
         "authorityID": "CA0005545",
@@ -61,7 +68,8 @@
         "type": "textbody",
         "alt": "T0447b",
         "title": "現在賢劫千佛名經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA009": {
         "authorityID": "CA0005546",
@@ -69,7 +77,8 @@
         "type": "textbody",
         "alt": "T0448b",
         "title": "未來星宿劫千佛名經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA010": {
         "authorityID": "CA0005547",
@@ -77,7 +86,8 @@
         "type": "textbody",
         "alt": "T1154",
         "title": "佛說隨求即得大自在陀羅尼神咒經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA011": {
         "authorityID": "CA0005548",
@@ -85,7 +95,8 @@
         "type": "textbody",
         "alt": "T1316",
         "title": "佛說甘露經陀羅尼",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA012": {
         "authorityID": "CA0005549",
@@ -93,7 +104,8 @@
         "type": "textbody",
         "alt": "T1794",
         "title": "佛說四十二章經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA013": {
         "authorityID": "CA0005550",
@@ -101,7 +113,8 @@
         "type": "textbody",
         "alt": "T1256",
         "title": "佛說摩利支天陀羅尼咒經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA014": {
         "authorityID": "CA0005551",
@@ -109,7 +122,8 @@
         "type": "textbody",
         "alt": "T0412",
         "title": "地藏菩薩本願經",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA015": {
         "authorityID": "CA0005552",
@@ -117,7 +131,8 @@
         "type": "textbody",
         "alt": "T1108A",
         "title": "勝救度佛母二十一種禮讚經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA016": {
         "authorityID": "CA0005553",
@@ -125,7 +140,8 @@
         "type": "textbody",
         "alt": "T1688",
         "title": "密跡力士大權神王經偈頌",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA017": {
         "authorityID": "CA0005554",
@@ -133,7 +149,8 @@
         "type": "textbody",
         "alt": "T0931",
         "title": "金剛頂經觀自在王如來修行法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA018": {
         "authorityID": "CA0005555",
@@ -141,7 +158,8 @@
         "type": "textbody",
         "alt": "T1319+T1320",
         "title": "瑜伽集要焰口施食儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA019": {
         "authorityID": "CA0005556",
@@ -149,7 +167,8 @@
         "type": "textbody",
         "alt": "T1956",
         "title": "密咒圓因往生集",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA020": {
         "authorityID": "CA0005557",
@@ -157,7 +176,8 @@
         "type": "textbody",
         "alt": "T2114",
         "title": "護法論",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA021": {
         "authorityID": "CA0005558",
@@ -165,7 +185,8 @@
         "type": "textbody",
         "alt": "T1909",
         "title": "慈悲道場懺法",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA022": {
         "authorityID": "CA0005559",
@@ -173,7 +194,8 @@
         "type": "textbody",
         "alt": "T1941",
         "title": "法華三昧懺儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA023": {
         "authorityID": "CA0005560",
@@ -181,7 +203,8 @@
         "type": "textbody",
         "alt": "T1942",
         "title": "法華三昧行事運想補助儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA024": {
         "authorityID": "CA0005561",
@@ -189,7 +212,8 @@
         "type": "textbody",
         "alt": "T1945",
         "title": "金光明懺法補助儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA025": {
         "authorityID": "CA0005562",
@@ -197,7 +221,8 @@
         "type": "textbody",
         "alt": "T1984",
         "title": "往生淨土懺願儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA026": {
         "authorityID": "CA0005563",
@@ -205,7 +230,8 @@
         "type": "textbody",
         "alt": "T1968",
         "title": "往生淨土決疑行願二門",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA027": {
         "authorityID": "CA0005564",
@@ -213,7 +239,8 @@
         "type": "textbody",
         "alt": "T1949",
         "title": "請觀世音菩薩消伏毒害陀羅尼三昧儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA028": {
         "authorityID": "CA0005565",
@@ -221,7 +248,8 @@
         "type": "textbody",
         "alt": "T1946",
         "title": "金光明最勝懺儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA029": {
         "authorityID": "CA0005566",
@@ -229,7 +257,8 @@
         "type": "textbody",
         "alt": "T1950",
         "title": "千手眼大悲心咒行法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA030": {
         "authorityID": "CA0005567",
@@ -237,7 +266,8 @@
         "type": "textbody",
         "alt": "T1944",
         "title": "禮法華經儀式",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA031": {
         "authorityID": "CA0005568",
@@ -245,7 +275,8 @@
         "type": "textbody",
         "alt": "T1951",
         "title": "熾盛光道場念誦儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA032": {
         "authorityID": "CA0005569",
@@ -253,7 +284,8 @@
         "type": "textbody",
         "alt": "T1947",
         "title": "釋家如來涅槃禮讚文",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA033": {
         "authorityID": "CA0005570",
@@ -261,7 +293,8 @@
         "type": "textbody",
         "alt": "T1948",
         "title": "天台智者大師齋忌禮讚文",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA034": {
         "authorityID": "CA0005571",
@@ -269,7 +302,8 @@
         "type": "textbody",
         "alt": "T1952",
         "title": "觀自在菩薩如意輪咒課法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA035": {
         "authorityID": "CA0005572",
@@ -277,7 +311,8 @@
         "type": "textbody",
         "alt": "T1910",
         "title": "慈悲水懺法",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JA036": {
         "authorityID": "CA0005573",
@@ -285,7 +320,8 @@
         "type": "textbody",
         "alt": "T2008",
         "title": "六祖大師法寶壇經",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA037": {
         "authorityID": "CA0005574",
@@ -293,7 +329,8 @@
         "type": "textbody",
         "alt": "P1519",
         "title": "宗門統要續集",
-        "juans": 22
+        "juans": 22,
+        "fulltext": false
     },
     "JA038": {
         "authorityID": "CA0005575",
@@ -301,7 +338,8 @@
         "type": "textbody",
         "alt": "T1996",
         "title": "明覺禪師語錄",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA039": {
         "authorityID": "CA0005576",
@@ -309,7 +347,8 @@
         "type": "textbody",
         "alt": "T1997",
         "title": "圓悟佛果禪師語錄",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA040": {
         "authorityID": "CA0005577",
@@ -317,7 +356,8 @@
         "type": "textbody",
         "alt": "T1998A",
         "title": "大慧普覺禪師語錄",
-        "juans": 30
+        "juans": 30,
+        "fulltext": false
     },
     "JA041": {
         "authorityID": "CA0005578",
@@ -325,7 +365,8 @@
         "type": "textbody",
         "alt": "T1998B",
         "title": "大慧普覺禪師宗門武庫",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA042": {
         "authorityID": "CA0000599",
@@ -352,7 +393,8 @@
                 "name": "宗演",
                 "id": "A008055"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JA043": {
         "authorityID": "CA0005579",
@@ -360,7 +402,8 @@
         "type": "textbody",
         "alt": "T1716",
         "title": "妙法蓮華經玄義",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA044": {
         "authorityID": "CA0005580",
@@ -368,7 +411,8 @@
         "type": "textbody",
         "alt": "T1717",
         "title": "法華玄義釋籤",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA045": {
         "authorityID": "CA0005581",
@@ -376,7 +420,8 @@
         "type": "textbody",
         "alt": "T1718",
         "title": "妙法蓮華經文句",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA046": {
         "authorityID": "CA0005582",
@@ -384,7 +429,8 @@
         "type": "textbody",
         "alt": "T1719",
         "title": "法華文句記",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA047": {
         "authorityID": "CA0005583",
@@ -392,7 +438,8 @@
         "type": "textbody",
         "alt": "T1911",
         "title": "摩訶止觀",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA048": {
         "authorityID": "CA0005584",
@@ -400,7 +447,8 @@
         "type": "textbody",
         "alt": "T1912",
         "title": "止觀輔行傳弘決",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JA049": {
         "authorityID": "CA0005585",
@@ -408,7 +456,8 @@
         "type": "textbody",
         "alt": "T1915",
         "title": "修習止觀坐禪法要",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA050": {
         "authorityID": "CA0005586",
@@ -416,7 +465,8 @@
         "type": "textbody",
         "alt": "T1913",
         "title": "止觀義例",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA051": {
         "authorityID": "CA0005587",
@@ -424,7 +474,8 @@
         "type": "textbody",
         "alt": "T1924",
         "title": "大乘止觀法門",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA052": {
         "authorityID": "CA0005588",
@@ -432,7 +483,8 @@
         "type": "textbody",
         "alt": "T1923",
         "title": "諸法無諍三昧法門",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA053": {
         "authorityID": "CA0005589",
@@ -440,7 +492,8 @@
         "type": "textbody",
         "alt": "T1767",
         "title": "大般涅槃經疏",
-        "juans": 33
+        "juans": 33,
+        "fulltext": false
     },
     "JA054": {
         "authorityID": "CA0005590",
@@ -448,7 +501,8 @@
         "type": "textbody",
         "alt": "T1765",
         "title": "大般涅槃經玄義",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA055": {
         "authorityID": "CA0005591",
@@ -456,7 +510,8 @@
         "type": "textbody",
         "alt": "T1926",
         "title": "法華經安樂行義",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA056": {
         "authorityID": "CA0005592",
@@ -464,7 +519,8 @@
         "type": "textbody",
         "alt": "T1766",
         "title": "涅槃經玄義發源機要",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA057": {
         "authorityID": "CA0005593",
@@ -472,7 +528,8 @@
         "type": "textbody",
         "alt": "T1783",
         "title": "金光明經玄義",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA058": {
         "authorityID": "CA0005594",
@@ -480,7 +537,8 @@
         "type": "textbody",
         "alt": "T1784",
         "title": "金光明經玄義拾遺記",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA059": {
         "authorityID": "CA0005595",
@@ -488,7 +546,8 @@
         "type": "textbody",
         "alt": "T1698",
         "title": "金剛般若經疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA060": {
         "authorityID": "CA0005596",
@@ -496,7 +555,8 @@
         "type": "textbody",
         "alt": "T1931",
         "title": "天台四教儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA061": {
         "authorityID": "CA0005597",
@@ -504,7 +564,8 @@
         "type": "textbody",
         "alt": "T1785",
         "title": "金光明經文句",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA062": {
         "authorityID": "CA0005598",
@@ -512,7 +573,8 @@
         "type": "textbody",
         "alt": "T1786",
         "title": "金光明經文句記",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA063": {
         "authorityID": "CA0005599",
@@ -520,7 +582,8 @@
         "type": "textbody",
         "alt": "T1811",
         "title": "菩薩戒義疏",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA064": {
         "authorityID": "CA0005600",
@@ -528,7 +591,8 @@
         "type": "textbody",
         "alt": "T1726",
         "title": "觀音玄義",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA065": {
         "authorityID": "CA0005601",
@@ -536,7 +600,8 @@
         "type": "textbody",
         "alt": "T1727",
         "title": "觀音玄義記",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA066": {
         "authorityID": "CA0005602",
@@ -544,7 +609,8 @@
         "type": "textbody",
         "alt": "T1728",
         "title": "觀音義疏",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA067": {
         "authorityID": "CA0005603",
@@ -552,7 +618,8 @@
         "type": "textbody",
         "alt": "T1729",
         "title": "觀音義疏記",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA068": {
         "authorityID": "CA0005604",
@@ -560,7 +627,8 @@
         "type": "textbody",
         "alt": "T1750",
         "title": "佛說觀無量壽佛經疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA069": {
         "authorityID": "CA0005605",
@@ -568,7 +636,8 @@
         "type": "textbody",
         "alt": "T1751",
         "title": "觀無量壽佛經疏妙宗鈔",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA070": {
         "authorityID": "CA0005606",
@@ -576,7 +645,8 @@
         "type": "textbody",
         "alt": "T1919",
         "title": "天台智者大師禪門口訣",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA071": {
         "authorityID": "CA0005607",
@@ -584,7 +654,8 @@
         "type": "textbody",
         "alt": "T1800",
         "title": "請觀音經疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA072": {
         "authorityID": "CA0005608",
@@ -592,7 +663,8 @@
         "type": "textbody",
         "alt": "T1801",
         "title": "請觀音經疏闡義鈔",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA073": {
         "authorityID": "CA0005609",
@@ -600,7 +672,8 @@
         "type": "textbody",
         "alt": "T1922",
         "title": "釋摩訶般若波羅蜜經覺意三昧",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA074": {
         "authorityID": "CA0005610",
@@ -608,7 +681,8 @@
         "type": "textbody",
         "alt": "T1918",
         "title": "四念處",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA075": {
         "authorityID": "CA0005611",
@@ -616,7 +690,8 @@
         "type": "textbody",
         "alt": "T1705",
         "title": "仁王護國般若經疏",
-        "juans": 5
+        "juans": 5,
+        "fulltext": false
     },
     "JA076": {
         "authorityID": "CA0005612",
@@ -624,7 +699,8 @@
         "type": "textbody",
         "alt": "T1706",
         "title": "佛說仁王護國般若波羅蜜經疏神寶記",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA077": {
         "authorityID": "CA0005613",
@@ -632,7 +708,8 @@
         "type": "textbody",
         "alt": "T1930",
         "title": "天台八教大意",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA078": {
         "authorityID": "CA0005614",
@@ -640,7 +717,8 @@
         "type": "textbody",
         "alt": "T1929",
         "title": "四教義",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA079": {
         "authorityID": "CA0005615",
@@ -648,7 +726,8 @@
         "type": "textbody",
         "alt": "T1934",
         "title": "國清百錄",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA080": {
         "authorityID": "CA0005616",
@@ -656,7 +735,8 @@
         "type": "textbody",
         "alt": "T1916",
         "title": "釋禪波羅蜜次第法門",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA081": {
         "authorityID": "CA0005617",
@@ -664,7 +744,8 @@
         "type": "textbody",
         "alt": "T1925",
         "title": "法界次第初門",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JA082": {
         "authorityID": "CA0005618",
@@ -672,7 +753,8 @@
         "type": "textbody",
         "alt": "T1940",
         "title": "方等三昧行法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA083": {
         "authorityID": "CA0005619",
@@ -680,7 +762,8 @@
         "type": "textbody",
         "alt": "T1961",
         "title": "淨土十疑論",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA084": {
         "authorityID": "CA0005620",
@@ -688,7 +771,8 @@
         "type": "textbody",
         "alt": "T1921",
         "title": "觀心論疏",
-        "juans": 5
+        "juans": 5,
+        "fulltext": false
     },
     "JA085": {
         "authorityID": "CA0005621",
@@ -696,7 +780,8 @@
         "type": "textbody",
         "alt": "T1933",
         "title": "南嶽思大禪師立誓願文",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA086": {
         "authorityID": "CA0005622",
@@ -704,7 +789,8 @@
         "type": "textbody",
         "alt": "T2050",
         "title": "隋天台智者大師別傳",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA087": {
         "authorityID": "CA0005623",
@@ -712,7 +798,8 @@
         "type": "textbody",
         "alt": "T1914",
         "title": "止觀大意",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA088": {
         "authorityID": "CA0005624",
@@ -720,7 +807,8 @@
         "type": "textbody",
         "alt": "T46n1915_p0473b11",
         "title": "始終心要",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA089": {
         "authorityID": "CA0005625",
@@ -728,7 +816,8 @@
         "type": "textbody",
         "alt": "T46n1937_p0868a23",
         "title": "修懺要旨",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA090": {
         "authorityID": "CA0005626",
@@ -736,7 +825,8 @@
         "type": "textbody",
         "alt": "T1927",
         "title": "十不二門",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA091": {
         "authorityID": "CA0005627",
@@ -744,7 +834,8 @@
         "type": "textbody",
         "alt": "T1928",
         "title": "十不二門指要鈔",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA092": {
         "authorityID": "CA0005628",
@@ -752,7 +843,8 @@
         "type": "textbody",
         "alt": "T1932",
         "title": "科金剛錍",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA093": {
         "authorityID": "CA0005629",
@@ -760,7 +852,8 @@
         "type": "textbody",
         "alt": "T1935",
         "title": "法智遺編觀心二百問",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA094": {
         "authorityID": "CA0005630",
@@ -768,7 +861,8 @@
         "type": "textbody",
         "alt": "T1938",
         "title": "天台傳佛心印記",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA095": {
         "authorityID": "CA0005631",
@@ -776,7 +870,8 @@
         "type": "textbody",
         "alt": "T1971",
         "title": "淨土境觀要門",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA096": {
         "authorityID": "CA0005632",
@@ -784,7 +879,8 @@
         "type": "textbody",
         "alt": "T2013+T2014",
         "title": "禪宗永嘉集　證道歌",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA097": {
         "authorityID": "CA0005633",
@@ -792,7 +888,8 @@
         "type": "textbody",
         "alt": "P1581",
         "title": "首楞嚴經義海",
-        "juans": 30
+        "juans": 30,
+        "fulltext": false
     },
     "JA098": {
         "authorityID": "CA0005634",
@@ -800,7 +897,8 @@
         "type": "textbody",
         "alt": "T1735",
         "title": "大方廣佛華嚴經疏",
-        "juans": 60
+        "juans": 60,
+        "fulltext": false
     },
     "JA099": {
         "authorityID": "CA0005635",
@@ -808,7 +906,8 @@
         "type": "textbody",
         "alt": "T1736",
         "title": "大方廣佛華嚴經隨疏演義鈔",
-        "juans": 90
+        "juans": 90,
+        "fulltext": false
     },
     "JA100": {
         "authorityID": "CA0005636",
@@ -816,7 +915,8 @@
         "type": "textbody",
         "alt": "T1866",
         "title": "華嚴一乘教義分齊章",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA101": {
         "authorityID": "CA0005637",
@@ -824,7 +924,8 @@
         "type": "textbody",
         "alt": "T1874",
         "title": "華嚴經明法品內立三寶章",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA102": {
         "authorityID": "CA0005638",
@@ -832,7 +933,8 @@
         "type": "textbody",
         "alt": "T1876",
         "title": "修華嚴奧止妄盡還源觀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA103": {
         "authorityID": "CA0005639",
@@ -840,7 +942,8 @@
         "type": "textbody",
         "alt": "T1886",
         "title": "原人論",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA104": {
         "authorityID": "CA0005640",
@@ -848,7 +951,8 @@
         "type": "textbody",
         "alt": "T1871",
         "title": "華嚴經旨歸",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA105": {
         "authorityID": "CA0005641",
@@ -856,7 +960,8 @@
         "type": "textbody",
         "alt": "T1884",
         "title": "註華嚴法界觀門",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA106": {
         "authorityID": "CA0005642",
@@ -864,7 +969,8 @@
         "type": "textbody",
         "alt": "T1883",
         "title": "華嚴法界玄鏡",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA107": {
         "authorityID": "CA0005643",
@@ -872,7 +978,8 @@
         "type": "textbody",
         "alt": "T1712",
         "title": "般若波羅蜜多心經略疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA108": {
         "authorityID": "CA0005644",
@@ -880,7 +987,8 @@
         "type": "textbody",
         "alt": "T1713",
         "title": "般若心經略疏連珠記",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA109": {
         "authorityID": "CA0005645",
@@ -888,7 +996,8 @@
         "type": "textbody",
         "alt": "T1792",
         "title": "佛說盂蘭盆經疏",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA110": {
         "authorityID": "CA0005646",
@@ -896,7 +1005,8 @@
         "type": "textbody",
         "alt": "T1880",
         "title": "金師子章雲間類解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA111": {
         "authorityID": "CA0005647",
@@ -904,7 +1014,8 @@
         "type": "textbody",
         "alt": "T1759",
         "title": "佛說阿彌陀經疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA112": {
         "authorityID": "CA0005648",
@@ -912,7 +1023,8 @@
         "type": "textbody",
         "alt": "T1789",
         "title": "楞伽阿跋多羅寶經註解",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA113": {
         "authorityID": "CA0005649",
@@ -920,7 +1032,8 @@
         "type": "textbody",
         "alt": "T1714",
         "title": "般若波羅蜜多心經註解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA114": {
         "authorityID": "CA0005650",
@@ -928,7 +1041,8 @@
         "type": "textbody",
         "alt": "T1703",
         "title": "金剛般若波羅蜜經註解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA115": {
         "authorityID": "CA0005651",
@@ -936,7 +1050,8 @@
         "type": "textbody",
         "alt": "P1610",
         "title": "大明太宗文皇帝御製序讚文",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA116": {
         "authorityID": "CA0005652",
@@ -944,7 +1059,8 @@
         "type": "textbody",
         "alt": "P1611",
         "title": "諸佛世尊如來菩薩尊者神僧名經",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JA117": {
         "authorityID": "CA0005653",
@@ -952,7 +1068,8 @@
         "type": "textbody",
         "alt": "P1612",
         "title": "諸佛世尊如來菩薩尊者名稱歌曲",
-        "juans": 51
+        "juans": 51,
+        "fulltext": false
     },
     "JA118": {
         "authorityID": "CA0005654",
@@ -960,7 +1077,8 @@
         "type": "textbody",
         "alt": "T2064",
         "title": "神僧傳",
-        "juans": 9
+        "juans": 9,
+        "fulltext": false
     },
     "JA119": {
         "authorityID": "CA0005655",
@@ -968,7 +1086,8 @@
         "type": "textbody",
         "alt": "P1615",
         "title": "大明三藏法數",
-        "juans": 50
+        "juans": 50,
+        "fulltext": false
     },
     "JA120": {
         "authorityID": "CA0005656",
@@ -976,7 +1095,8 @@
         "type": "textbody",
         "alt": "X0236",
         "title": "華嚴懸談會玄記",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JA121": {
         "authorityID": "CA0005657",
@@ -984,7 +1104,8 @@
         "type": "textbody",
         "alt": "P1617",
         "title": "妙法蓮華經要解",
-        "juans": 7
+        "juans": 7,
+        "fulltext": false
     },
     "JA122": {
         "authorityID": "CA0005658",
@@ -992,7 +1113,8 @@
         "type": "textbody",
         "alt": "P1618",
         "title": "大佛頂首楞嚴經會解",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA123": {
         "authorityID": "CA0005659",
@@ -1011,7 +1133,8 @@
                 "name": "子璿",
                 "id": "A000085"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JA124": {
         "authorityID": "CA0005661",
@@ -1019,7 +1142,8 @@
         "type": "textbody",
         "alt": "T1848",
         "title": "起信論疏筆削記",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA125": {
         "authorityID": "CA0005662",
@@ -1027,7 +1151,8 @@
         "type": "textbody",
         "alt": "T1860",
         "title": "肇論新疏",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JA126": {
         "authorityID": "CA0005663",
@@ -1035,7 +1160,8 @@
         "type": "textbody",
         "alt": "X0872",
         "title": "肇論新疏游刃",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JA127": {
         "authorityID": "CA0005664",
@@ -1043,7 +1169,8 @@
         "type": "textbody",
         "alt": "X0248",
         "title": "圓覺略疏之鈔",
-        "juans": 29
+        "juans": 29,
+        "fulltext": false
     },
     "JA128": {
         "authorityID": "CA0005665",
@@ -1051,7 +1178,8 @@
         "type": "textbody",
         "alt": "T1701",
         "title": "金剛般若經疏論纂要",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA129": {
         "authorityID": "CA0005666",
@@ -1059,7 +1187,8 @@
         "type": "textbody",
         "alt": "T1702",
         "title": "金剛經纂要刊定記",
-        "juans": 7
+        "juans": 7,
+        "fulltext": false
     },
     "JA130": {
         "authorityID": "CA0005667",
@@ -1067,7 +1196,8 @@
         "type": "textbody",
         "alt": "T1775",
         "title": "維摩詰所說經註",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA131": {
         "authorityID": "CA0005668",
@@ -1075,7 +1205,8 @@
         "type": "textbody",
         "alt": "X1032",
         "title": "華嚴原人論解",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA132": {
         "authorityID": "CA0005669",
@@ -1083,7 +1214,8 @@
         "type": "textbody",
         "alt": "T2118",
         "title": "折疑論",
-        "juans": 5
+        "juans": 5,
+        "fulltext": false
     },
     "JA133": {
         "authorityID": "CA0005670",
@@ -1091,7 +1223,8 @@
         "type": "textbody",
         "alt": "X0978+P1629",
         "title": "天台四教儀集註",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA134": {
         "authorityID": "CA0005671",
@@ -1099,7 +1232,8 @@
         "type": "textbody",
         "alt": "P1630",
         "title": "教乘法數",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JA135": {
         "authorityID": "CA0005672",
@@ -1107,7 +1241,8 @@
         "type": "textbody",
         "alt": "T2036",
         "title": "佛祖歷代通載",
-        "juans": 36
+        "juans": 36,
+        "fulltext": false
     },
     "JA136": {
         "authorityID": "CA0005673",
@@ -1115,7 +1250,8 @@
         "type": "textbody",
         "alt": "T2022",
         "title": "禪林寶訓",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA137": {
         "authorityID": "CA0005674",
@@ -1123,7 +1259,8 @@
         "type": "textbody",
         "alt": "X0232",
         "title": "大方廣佛華嚴經疏演義鈔",
-        "juans": 29
+        "juans": 29,
+        "fulltext": false
     },
     "JA138": {
         "authorityID": "CA0005675",
@@ -1131,7 +1268,8 @@
         "type": "textbody",
         "alt": "T2131",
         "title": "翻譯名義集",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA139": {
         "authorityID": "CA0005676",
@@ -1139,7 +1277,8 @@
         "type": "textbody",
         "alt": "X1593",
         "title": "禪宗正脈",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JA140": {
         "authorityID": "CA0005677",
@@ -1147,7 +1286,8 @@
         "type": "textbody",
         "alt": "T2025",
         "title": "百丈清規",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JA141": {
         "authorityID": "CA0005678",
@@ -1155,7 +1295,8 @@
         "type": "textbody",
         "alt": "T2117",
         "title": "三教平心論",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA142": {
         "authorityID": "CA0005679",
@@ -1163,7 +1304,8 @@
         "type": "textbody",
         "alt": "T2023",
         "title": "緇門警訓",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA143": {
         "authorityID": "CA0005680",
@@ -1171,7 +1313,8 @@
         "type": "textbody",
         "alt": "T2115",
         "title": "鐔津文集",
-        "juans": 19
+        "juans": 19,
+        "fulltext": false
     },
     "JA144": {
         "authorityID": "CA0005681",
@@ -1179,7 +1322,8 @@
         "type": "textbody",
         "alt": "T2015",
         "title": "禪源諸詮集都序",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JA145": {
         "authorityID": "CA0005682",
@@ -1187,7 +1331,8 @@
         "type": "textbody",
         "alt": "T1865",
         "title": "八識規矩補註",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA146": {
         "authorityID": "CA0005683",
@@ -1195,7 +1340,8 @@
         "type": "textbody",
         "alt": "T1836",
         "title": "大乘百法明門論解",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA147": {
         "authorityID": "CA0005684",
@@ -1203,7 +1349,8 @@
         "type": "textbody",
         "alt": "T2020",
         "title": "高麗國普照禪師修心訣",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA148": {
         "authorityID": "CA0005685",
@@ -1211,7 +1358,8 @@
         "type": "textbody",
         "alt": "T2019A",
         "title": "真心直說",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA149": {
         "authorityID": "CA0005686",
@@ -1219,7 +1367,8 @@
         "type": "textbody",
         "alt": "T1857",
         "title": "寶藏論",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA150": {
         "authorityID": "CA0005687",
@@ -1227,7 +1376,8 @@
         "type": "textbody",
         "alt": "T1973",
         "title": "廬山蓮宗寶鑑",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JA151": {
         "authorityID": "CA0005688",
@@ -1235,7 +1385,8 @@
         "type": "textbody",
         "alt": "T2018",
         "title": "永明智覺禪師唯心訣",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA152": {
         "authorityID": "CA0005689",
@@ -1243,7 +1394,8 @@
         "type": "textbody",
         "alt": "T2021",
         "title": "禪宗決疑集",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JA153": {
         "authorityID": "CA0005690",
@@ -1251,7 +1403,8 @@
         "type": "textbody",
         "alt": "T2012A+T2012B",
         "title": "斷際禪師傳心法要",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA154": {
         "authorityID": "CA0005691",
@@ -1259,7 +1412,8 @@
         "type": "textbody",
         "alt": "T2017",
         "title": "萬善同歸集",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JA155": {
         "authorityID": "CA0005692",
@@ -1267,7 +1421,8 @@
         "type": "textbody",
         "alt": "T1885",
         "title": "華嚴七字經題法界觀三十門頌",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA156": {
         "authorityID": "CA0005693",
@@ -1275,7 +1430,8 @@
         "type": "textbody",
         "alt": "X0010",
         "title": "大明仁孝皇后夢感佛說第一希有大功德經",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JA157": {
         "authorityID": "CA0005694",
@@ -1283,7 +1439,8 @@
         "type": "textbody",
         "alt": "T2077",
         "title": "續傳燈錄",
-        "juans": 36
+        "juans": 36,
+        "fulltext": false
     },
     "JA158": {
         "authorityID": "CA0005695",
@@ -1306,7 +1463,8 @@
                 "name": "如瑩",
                 "id": "A003855"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JA159": {
         "authorityID": "CA0005696",
@@ -1314,7 +1472,8 @@
         "type": "textbody",
         "alt": "X1315",
         "title": "古尊宿語錄",
-        "juans": 48
+        "juans": 48,
+        "fulltext": false
     },
     "JA160": {
         "authorityID": "CA0005697",
@@ -1322,7 +1481,8 @@
         "type": "textbody",
         "alt": "X1295",
         "title": "禪宗頌古聯珠通集",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JA161": {
         "authorityID": "CA0005698",
@@ -1330,7 +1490,8 @@
         "type": "textbody",
         "alt": "T2035",
         "title": "佛祖統紀",
-        "juans": 54
+        "juans": 54,
+        "fulltext": false
     },
     "JB001": {
         "authorityID": "CA0005699",
@@ -1338,7 +1499,8 @@
         "type": "textbody",
         "alt": "L1557+X0227",
         "title": "大方廣佛華嚴經疏鈔",
-        "juans": 99
+        "juans": 99,
+        "fulltext": false
     },
     "JB002": {
         "authorityID": "CA0005700",
@@ -1346,7 +1508,8 @@
         "type": "textbody",
         "alt": "X0223",
         "title": "大方廣佛新華嚴經合論",
-        "juans": 120
+        "juans": 120,
+        "fulltext": false
     },
     "JB003": {
         "authorityID": "CA0005701",
@@ -1354,7 +1517,8 @@
         "type": "textbody",
         "alt": "X0240",
         "title": "大方廣佛華嚴經綱要",
-        "juans": 80
+        "juans": 80,
+        "fulltext": false
     },
     "JB004": {
         "authorityID": "CA0005702",
@@ -1362,7 +1526,8 @@
         "type": "textbody",
         "alt": "X1469+X1470",
         "title": "大方廣佛華嚴經海印道場十重行願常遍禮懺儀　九會請佛儀",
-        "juans": 43
+        "juans": 43,
+        "fulltext": false
     },
     "JB005": {
         "authorityID": "CA0005703",
@@ -1385,7 +1550,8 @@
                 "name": "宗密",
                 "id": "A000587"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB006": {
         "authorityID": "CA0005705",
@@ -1393,7 +1559,8 @@
         "type": "textbody",
         "alt": "T1741",
         "title": "略釋新華嚴經修行次第決疑論",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB007": {
         "authorityID": "CA0005706",
@@ -1401,7 +1568,8 @@
         "type": "textbody",
         "alt": "T1888",
         "title": "解迷顯智成悲十明論",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB008": {
         "authorityID": "CA0005707",
@@ -1409,7 +1577,8 @@
         "type": "textbody",
         "alt": "X0239",
         "title": "大方廣佛華嚴經吞海集",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB009": {
         "authorityID": "CA0005708",
@@ -1417,7 +1586,8 @@
         "type": "textbody",
         "alt": "X1014",
         "title": "法界觀披雲集",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB010": {
         "authorityID": "CA0005709",
@@ -1425,7 +1595,8 @@
         "type": "textbody",
         "alt": "X0616",
         "title": "妙法蓮華經台宗會義",
-        "juans": 16
+        "juans": 16,
+        "fulltext": false
     },
     "JB011": {
         "authorityID": "CA0005710",
@@ -1433,7 +1604,8 @@
         "type": "textbody",
         "alt": "X0611",
         "title": "妙法蓮華經通義",
-        "juans": 7
+        "juans": 7,
+        "fulltext": false
     },
     "JB012": {
         "authorityID": "CA0005711",
@@ -1441,7 +1613,8 @@
         "type": "textbody",
         "alt": "X0603",
         "title": "妙法蓮華經合論",
-        "juans": 7
+        "juans": 7,
+        "fulltext": false
     },
     "JB013": {
         "authorityID": "CA0005712",
@@ -1449,7 +1622,8 @@
         "type": "textbody",
         "alt": "X0609",
         "title": "法華大意",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB014": {
         "authorityID": "CA0005713",
@@ -1457,7 +1631,8 @@
         "type": "textbody",
         "alt": "X0613",
         "title": "妙法蓮華經意語",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB015": {
         "authorityID": "CA0005714",
@@ -1465,7 +1640,8 @@
         "type": "textbody",
         "alt": "X0589",
         "title": "妙法蓮華經玄義節要",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB016": {
         "authorityID": "CA0005715",
@@ -1473,7 +1649,8 @@
         "type": "textbody",
         "alt": "X0617",
         "title": "妙法蓮華經卓解",
-        "juans": 7
+        "juans": 7,
+        "fulltext": false
     },
     "JB017": {
         "authorityID": "CA0005716",
@@ -1481,7 +1658,8 @@
         "type": "textbody",
         "alt": "X0275+X0273+X0274",
         "title": "大佛頂首楞嚴經正脈疏．科．懸示",
-        "juans": 12
+        "juans": 12,
+        "fulltext": false
     },
     "JB018": {
         "authorityID": "CA0005717",
@@ -1489,7 +1667,8 @@
         "type": "textbody",
         "alt": "X0281",
         "title": "大佛頂首楞嚴經圓通疏",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB019": {
         "authorityID": "CA0005718",
@@ -1497,7 +1676,8 @@
         "type": "textbody",
         "alt": "X0285+X0284",
         "title": "大佛頂首楞嚴經文句．玄義",
-        "juans": 12
+        "juans": 12,
+        "fulltext": false
     },
     "JB020": {
         "authorityID": "CA0005719",
@@ -1505,7 +1685,8 @@
         "type": "textbody",
         "alt": "X0270",
         "title": "大佛頂首楞嚴經要解",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB021": {
         "authorityID": "CA0005720",
@@ -1513,7 +1694,8 @@
         "type": "textbody",
         "alt": "T1799",
         "title": "首楞嚴義疏注經",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB022": {
         "authorityID": "CA0005721",
@@ -1521,7 +1703,8 @@
         "type": "textbody",
         "alt": "X0282",
         "title": "大佛頂首楞嚴經玄義",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB023": {
         "authorityID": "CA0005722",
@@ -1529,7 +1712,8 @@
         "type": "textbody",
         "alt": "X0272",
         "title": "大佛頂首楞嚴經合論",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB024": {
         "authorityID": "CA0005723",
@@ -1537,7 +1721,8 @@
         "type": "textbody",
         "alt": "X0287",
         "title": "大佛頂首楞嚴經疏解蒙鈔　佛頂五錄",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB025": {
         "authorityID": "CA0005724",
@@ -1545,7 +1730,8 @@
         "type": "textbody",
         "alt": "X0008",
         "title": "楞伽阿跋多羅寶經會譯",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB026": {
         "authorityID": "CA0005725",
@@ -1553,7 +1739,8 @@
         "type": "textbody",
         "alt": "X0329+X0328",
         "title": "楞伽阿跋多羅寶經義疏．玄義",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB027": {
         "authorityID": "CA0005726",
@@ -1561,7 +1748,8 @@
         "type": "textbody",
         "alt": "X0243",
         "title": "大方廣圓覺經大疏",
-        "juans": 12
+        "juans": 12,
+        "fulltext": false
     },
     "JB028": {
         "authorityID": "CA0005727",
@@ -1569,7 +1757,8 @@
         "type": "textbody",
         "alt": "X0258",
         "title": "大方廣圓覺修多羅了義經直解",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB029": {
         "authorityID": "CA0005728",
@@ -1577,7 +1766,8 @@
         "type": "textbody",
         "alt": "X0260",
         "title": "大方廣圓覺修多羅了義經要解",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB030": {
         "authorityID": "CA0005729",
@@ -1585,7 +1775,8 @@
         "type": "textbody",
         "alt": "X0262",
         "title": "大方廣圓覺修多羅了義經句釋正白",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB031": {
         "authorityID": "CA0005730",
@@ -1593,7 +1784,8 @@
         "type": "textbody",
         "alt": "X0478",
         "title": "金剛經筆記",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB032": {
         "authorityID": "CA0005731",
@@ -1601,7 +1793,8 @@
         "type": "textbody",
         "alt": "X0484+X0561",
         "title": "金剛經大意心經大意附撮概",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB033": {
         "authorityID": "CA0005732",
@@ -1609,7 +1802,8 @@
         "type": "textbody",
         "alt": "X0562",
         "title": "心經解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB034": {
         "authorityID": "CA0005733",
@@ -1617,7 +1811,8 @@
         "type": "textbody",
         "alt": "X0486",
         "title": "金剛經會解了義",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB035": {
         "authorityID": "CA0005734",
@@ -1625,7 +1820,8 @@
         "type": "textbody",
         "alt": "X0479",
         "title": "金剛破空論",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB036": {
         "authorityID": "CA0005735",
@@ -1633,7 +1829,8 @@
         "type": "textbody",
         "alt": "X0555",
         "title": "心經釋要",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB037": {
         "authorityID": "CA0005736",
@@ -1641,7 +1838,8 @@
         "type": "textbody",
         "alt": "X0480",
         "title": "金剛經觀心釋",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB038": {
         "authorityID": "CA0005737",
@@ -1649,7 +1847,8 @@
         "type": "textbody",
         "alt": "X0485",
         "title": "金剛經如是解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB039": {
         "authorityID": "CA0005738",
@@ -1657,7 +1856,8 @@
         "type": "textbody",
         "alt": "X1630+X1631",
         "title": "金剛經受持感應錄",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB040": {
         "authorityID": "CA0005739",
@@ -1665,7 +1865,8 @@
         "type": "textbody",
         "alt": "X1633",
         "title": "金剛經新異錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB041": {
         "authorityID": "CA0005740",
@@ -1673,7 +1874,8 @@
         "type": "textbody",
         "alt": "X0494",
         "title": "金剛經註釋",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB042": {
         "authorityID": "CA0005741",
@@ -1681,7 +1883,8 @@
         "type": "textbody",
         "alt": "X0546",
         "title": "心經說",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB043": {
         "authorityID": "CA0005742",
@@ -1689,7 +1892,8 @@
         "type": "textbody",
         "alt": "X0550",
         "title": "心經開度",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB044": {
         "authorityID": "CA0005743",
@@ -1699,7 +1903,8 @@
         "title": "諸經日誦集要",
         "juans": 3,
         "cjk_chars": 59800,
-        "byline": "佚名"
+        "byline": "佚名",
+        "fulltext": true
     },
     "JB045": {
         "authorityID": "CA0005744",
@@ -1707,7 +1912,8 @@
         "type": "textbody",
         "alt": "X0665",
         "title": "佛遺教經註",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB046": {
         "authorityID": "CA0005745",
@@ -1715,7 +1921,8 @@
         "type": "textbody",
         "alt": "X0669",
         "title": "佛說四十二章經註",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB047": {
         "authorityID": "CA0005746",
@@ -1742,7 +1949,8 @@
                 "name": "受登",
                 "id": "A000555"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB048": {
         "authorityID": "CA0005747",
@@ -1761,7 +1969,8 @@
                 "name": "久隱",
                 "id": "A022511"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB049": {
         "authorityID": "CA0005748",
@@ -1769,7 +1978,8 @@
         "type": "textbody",
         "alt": "X1534",
         "title": "歷朝華嚴持驗紀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB050": {
         "authorityID": "CA0005749",
@@ -1777,7 +1987,8 @@
         "type": "textbody",
         "alt": "X1541",
         "title": "歷朝法華持驗紀",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB051": {
         "authorityID": "CA0005750",
@@ -1785,7 +1996,8 @@
         "type": "textbody",
         "alt": "X1635",
         "title": "歷朝金剛持驗紀",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB052": {
         "authorityID": "CA0005751",
@@ -1793,7 +2005,8 @@
         "type": "textbody",
         "alt": "X1542",
         "title": "觀世音持驗紀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB053": {
         "authorityID": "CA0005752",
@@ -1801,7 +2014,8 @@
         "type": "textbody",
         "alt": "X1172",
         "title": "淨土晨鍾",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB054": {
         "authorityID": "CA0005753",
@@ -1809,7 +2023,8 @@
         "type": "textbody",
         "alt": "X0765",
         "title": "大乘起信論疏略",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB055": {
         "authorityID": "CA0005754",
@@ -1817,7 +2032,8 @@
         "type": "textbody",
         "alt": "X1478",
         "title": "依楞嚴究竟事懺",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB056": {
         "authorityID": "CA0005755",
@@ -1825,7 +2041,8 @@
         "type": "textbody",
         "alt": "X1489",
         "title": "禮吳中石佛起止儀式",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB057": {
         "authorityID": "CA0005756",
@@ -1833,7 +2050,8 @@
         "type": "textbody",
         "alt": "X1480",
         "title": "千手千眼大悲心咒行法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB058": {
         "authorityID": "CA0005757",
@@ -1841,7 +2059,8 @@
         "type": "textbody",
         "alt": "X1482",
         "title": "大准提菩薩焚修悉地懺悔玄文",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB059": {
         "authorityID": "CA0005758",
@@ -1849,7 +2068,8 @@
         "type": "textbody",
         "alt": "X1488",
         "title": "得遇龍華修證懺儀",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB060": {
         "authorityID": "CA0005759",
@@ -1857,7 +2077,8 @@
         "type": "textbody",
         "alt": "X1490",
         "title": "舍利懺法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB061": {
         "authorityID": "CA0005760",
@@ -1865,7 +2086,8 @@
         "type": "textbody",
         "alt": "T1945+T16n0663_p0340a07",
         "title": "金光明懺法補助儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB062": {
         "authorityID": "CA0005761",
@@ -1873,7 +2095,8 @@
         "type": "textbody",
         "alt": "T0839+X1485",
         "title": "占察善惡業報經行法",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB063": {
         "authorityID": "CA0005762",
@@ -1881,7 +2104,8 @@
         "type": "textbody",
         "alt": "X1486",
         "title": "讚禮地藏菩薩懺願儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB064": {
         "authorityID": "CA0005763",
@@ -1889,7 +2113,8 @@
         "type": "textbody",
         "alt": "T24n1488_p1047a25+X0702",
         "title": "菩薩戒本經箋要",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB065": {
         "authorityID": "CA0005764",
@@ -1897,7 +2122,8 @@
         "type": "textbody",
         "alt": "X1121",
         "title": "沙彌十戒威儀錄要",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB066": {
         "authorityID": "CA0005765",
@@ -1905,7 +2131,8 @@
         "type": "textbody",
         "alt": "X0745",
         "title": "四分律藏大小持戒犍度略釋",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB067": {
         "authorityID": "CA0005766",
@@ -1913,7 +2140,8 @@
         "type": "textbody",
         "alt": "X0905",
         "title": "大乘止觀法門釋要",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB068": {
         "authorityID": "CA0005767",
@@ -1921,7 +2149,8 @@
         "type": "textbody",
         "alt": "X0370+X0371",
         "title": "占察善惡業報經義疏",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB069": {
         "authorityID": "CA0005768",
@@ -1929,7 +2158,8 @@
         "type": "textbody",
         "alt": "X1077",
         "title": "准提淨業",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB070": {
         "authorityID": "CA0005769",
@@ -1937,7 +2167,8 @@
         "type": "textbody",
         "alt": "X0666+X0670+X0672",
         "title": "三經解",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB071": {
         "authorityID": "CA0005770",
@@ -1945,7 +2176,8 @@
         "type": "textbody",
         "alt": "X0749",
         "title": "佛說齋經科註",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB072": {
         "authorityID": "CA0005771",
@@ -1953,7 +2185,8 @@
         "type": "textbody",
         "alt": "X0856",
         "title": "因明入正理論解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB073": {
         "authorityID": "CA0005772",
@@ -1961,7 +2194,8 @@
         "type": "textbody",
         "alt": "X0894+X0803",
         "title": "八識規矩百法明門纂釋",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB074": {
         "authorityID": "CA0005773",
@@ -1969,7 +2203,8 @@
         "type": "textbody",
         "alt": "X0899",
         "title": "相宗八要",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB075": {
         "authorityID": "CA0005774",
@@ -1977,7 +2212,8 @@
         "type": "textbody",
         "alt": "X0891",
         "title": "八識規矩頌略說",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB076": {
         "authorityID": "CA0005775",
@@ -1985,7 +2221,8 @@
         "type": "textbody",
         "alt": "X0804+X0827+X0830+X0900+X0832+X0856+X0861+X0890",
         "title": "相宗八要解",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB077": {
         "authorityID": "CA0005776",
@@ -1993,7 +2230,8 @@
         "type": "textbody",
         "alt": "X0859+X0805+X0828+X0831+X0833+X0862+X0895+X0901",
         "title": "相宗八要直解",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB078": {
         "authorityID": "CA0005777",
@@ -2001,7 +2239,8 @@
         "type": "textbody",
         "alt": "X1162",
         "title": "淨土資糧全集",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB079": {
         "authorityID": "CA0005778",
@@ -2009,7 +2248,8 @@
         "type": "textbody",
         "alt": "T1762",
         "title": "彌陀要解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB080": {
         "authorityID": "CA0005779",
@@ -2017,7 +2257,8 @@
         "type": "textbody",
         "alt": "X0421",
         "title": "彌陀句解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB081": {
         "authorityID": "CA0005780",
@@ -2025,7 +2266,8 @@
         "type": "textbody",
         "alt": "T1974",
         "title": "念佛直指",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB082": {
         "authorityID": "CA0005781",
@@ -2033,7 +2275,8 @@
         "type": "textbody",
         "alt": "X1163",
         "title": "西方直指",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB083": {
         "authorityID": "CA0005782",
@@ -2041,7 +2284,8 @@
         "type": "textbody",
         "alt": "T1961+T1967+T1975+X61n1164_p0745b07",
         "title": "淨土三論",
-        "juans": 5
+        "juans": 5,
+        "fulltext": false
     },
     "JB084": {
         "authorityID": "CA0005783",
@@ -2049,7 +2293,8 @@
         "type": "textbody",
         "alt": "X1154",
         "title": "淨土指歸集",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB085": {
         "authorityID": "CA0005784",
@@ -2057,7 +2302,8 @@
         "type": "textbody",
         "alt": "T1972",
         "title": "天如和尚淨土或問",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB086": {
         "authorityID": "CA0005785",
@@ -2065,7 +2311,8 @@
         "type": "textbody",
         "alt": "T1970",
         "title": "龍舒淨土文",
-        "juans": 12
+        "juans": 12,
+        "fulltext": false
     },
     "JB087": {
         "authorityID": "CA0005786",
@@ -2073,7 +2320,8 @@
         "type": "textbody",
         "alt": "X1464",
         "title": "三時繫念",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB088": {
         "authorityID": "CA0005787",
@@ -2081,7 +2329,8 @@
         "type": "textbody",
         "alt": "T1858",
         "title": "肇論",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB089": {
         "authorityID": "CA0005788",
@@ -2089,7 +2338,8 @@
         "type": "textbody",
         "alt": "T1850",
         "title": "大乘起信論裂網疏",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB090": {
         "authorityID": "CA0003652",
@@ -2108,7 +2358,8 @@
                 "name": "沈士榮",
                 "id": "A022492"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB091": {
         "authorityID": "CA0000739",
@@ -2127,7 +2378,8 @@
                 "name": "姚廣孝",
                 "id": "A001522"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB092": {
         "authorityID": "CA0005789",
@@ -2135,7 +2387,8 @@
         "type": "textbody",
         "alt": "X1231",
         "title": "註心賦",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB093": {
         "authorityID": "CA0005790",
@@ -2143,7 +2396,8 @@
         "type": "textbody",
         "alt": "X0377",
         "title": "佛說盂蘭盆經新疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB094": {
         "authorityID": "CA0005791",
@@ -2151,7 +2405,8 @@
         "type": "textbody",
         "alt": "X0954",
         "title": "三千有門頌略解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB095": {
         "authorityID": "CA0005792",
@@ -2170,7 +2425,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB096": {
         "authorityID": "CA0004113",
@@ -2189,7 +2445,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB097": {
         "authorityID": "CA0005793",
@@ -2212,7 +2469,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB098": {
         "authorityID": "CA0005794",
@@ -2235,7 +2493,8 @@
                 "name": "明聞",
                 "id": "A037256"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB099": {
         "authorityID": "CA0005795",
@@ -2243,7 +2502,8 @@
         "type": "textbody",
         "alt": "L1651",
         "title": "南宋江陰軍乾明院羅漢尊號碑",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB100": {
         "authorityID": "CA0005796",
@@ -2251,7 +2511,8 @@
         "type": "textbody",
         "alt": "X1235",
         "title": "寂音尊者智證傳",
-        "juans": 11
+        "juans": 11,
+        "fulltext": false
     },
     "JB101": {
         "authorityID": "CA0005797",
@@ -2259,7 +2520,8 @@
         "type": "textbody",
         "alt": "X1560+X1234",
         "title": "禪林僧寶傳",
-        "juans": 32
+        "juans": 32,
+        "fulltext": false
     },
     "JB102": {
         "authorityID": "CA0005798",
@@ -2267,7 +2529,8 @@
         "type": "textbody",
         "alt": "T2062",
         "title": "大明高僧傳",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB103": {
         "authorityID": "CA0005799",
@@ -2290,7 +2553,8 @@
                 "name": "王宗沐",
                 "id": "A019240"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB104": {
         "authorityID": "CA0005800",
@@ -2298,7 +2562,8 @@
         "type": "textbody",
         "alt": "X1580",
         "title": "教外別傳",
-        "juans": 16
+        "juans": 16,
+        "fulltext": false
     },
     "JB105": {
         "authorityID": "CA0005801",
@@ -2306,7 +2571,8 @@
         "type": "textbody",
         "alt": "X0820",
         "title": "成唯識論俗詮",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB106": {
         "authorityID": "CA0005802",
@@ -2314,7 +2580,8 @@
         "type": "textbody",
         "alt": "X1594",
         "title": "佛祖綱目",
-        "juans": 41
+        "juans": 41,
+        "fulltext": false
     },
     "JB107": {
         "authorityID": "CA0005803",
@@ -2322,7 +2589,8 @@
         "type": "textbody",
         "alt": "X1602",
         "title": "佛祖宗派世譜",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB108": {
         "authorityID": "CA0005804",
@@ -2330,7 +2598,8 @@
         "type": "textbody",
         "alt": "X1607",
         "title": "居士分燈錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB109": {
         "authorityID": "CA0005805",
@@ -2353,7 +2622,8 @@
                 "name": "姚舜漁",
                 "id": "A037257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB110": {
         "authorityID": "CA0001342",
@@ -2380,7 +2650,8 @@
                 "name": "錢謙益",
                 "id": "A001834"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB111": {
         "authorityID": "CA0005806",
@@ -2388,7 +2659,8 @@
         "type": "textbody",
         "alt": "X1628",
         "title": "佛法金湯編",
-        "juans": 16
+        "juans": 16,
+        "fulltext": false
     },
     "JB112": {
         "authorityID": "CA0005807",
@@ -2396,7 +2668,8 @@
         "type": "textbody",
         "alt": "X1156",
         "title": "歸元直指集",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB113": {
         "authorityID": "CA0005808",
@@ -2404,7 +2677,8 @@
         "type": "textbody",
         "alt": "T2003",
         "title": "佛果圓悟禪師碧巖集",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB114": {
         "authorityID": "CA0005809",
@@ -2412,7 +2686,8 @@
         "type": "textbody",
         "alt": "X1452",
         "title": "紫栢老人集",
-        "juans": 15
+        "juans": 15,
+        "fulltext": false
     },
     "JB115": {
         "authorityID": "CA0005810",
@@ -2420,7 +2695,8 @@
         "type": "textbody",
         "alt": "X1456",
         "title": "憨山大師全集",
-        "juans": 41
+        "juans": 41,
+        "fulltext": false
     },
     "JB116": {
         "authorityID": "CA0004944",
@@ -2443,7 +2719,8 @@
                 "name": "福善",
                 "id": "A001631"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB117": {
         "authorityID": "CA0005811",
@@ -2451,7 +2728,8 @@
         "type": "textbody",
         "alt": "B0085",
         "title": "憨山老人年譜自敘實錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB118": {
         "authorityID": "CA0005812",
@@ -2470,7 +2748,8 @@
                 "name": "道開",
                 "id": "A009414"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB119": {
         "authorityID": "CA0005813",
@@ -2478,7 +2757,8 @@
         "type": "textbody",
         "alt": "X1641",
         "title": "見聞錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB120": {
         "authorityID": "CA0004945",
@@ -2505,7 +2785,8 @@
                 "name": "程啟用",
                 "id": "A037641"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB121": {
         "authorityID": "CA0005814",
@@ -2513,7 +2794,8 @@
         "type": "textbody",
         "alt": "X1453",
         "title": "紫柏尊者別集",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB122": {
         "authorityID": "CA0003597",
@@ -2532,7 +2814,8 @@
                 "name": "徐昌治",
                 "id": "A000922"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB123": {
         "authorityID": "CA0005815",
@@ -2540,7 +2823,8 @@
         "type": "textbody",
         "alt": "X1618",
         "title": "祖庭嫡傳指南",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB124": {
         "authorityID": "CA0005816",
@@ -2548,7 +2832,8 @@
         "type": "textbody",
         "alt": "X1626",
         "title": "高僧摘要",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB125": {
         "authorityID": "CA0005817",
@@ -2567,7 +2852,8 @@
                 "name": "郭凝之",
                 "id": "A001771"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB126": {
         "authorityID": "CA0005819",
@@ -2575,7 +2861,8 @@
         "type": "textbody",
         "alt": "X1287",
         "title": "千松筆記",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB127": {
         "authorityID": "CA0003449",
@@ -2602,7 +2889,8 @@
                 "name": "僧鑑",
                 "id": "A016559"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB128": {
         "authorityID": "CA0005820",
@@ -2629,7 +2917,8 @@
                 "name": "如念",
                 "id": "A037258"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB129": {
         "authorityID": "CA0004946",
@@ -2668,7 +2957,8 @@
                 "name": "了彙",
                 "id": "A011343"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB130": {
         "authorityID": "CA0005821",
@@ -2676,7 +2966,8 @@
         "type": "textbody",
         "alt": "X1223+X1224",
         "title": "頓悟入道要門論諸方門人參問語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB131": {
         "authorityID": "CA0005822",
@@ -2684,7 +2975,8 @@
         "type": "textbody",
         "alt": "X1309",
         "title": "正法眼藏",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB132": {
         "authorityID": "CA0005823",
@@ -2692,7 +2984,8 @@
         "type": "textbody",
         "alt": "T2006",
         "title": "人天眼目",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB133": {
         "authorityID": "CA0005824",
@@ -2700,7 +2993,8 @@
         "type": "textbody",
         "alt": "X1624+X1625",
         "title": "林間錄　後集",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB134": {
         "authorityID": "CA0005825",
@@ -2723,7 +3017,8 @@
                 "name": "郭凝之",
                 "id": "A001771"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB135": {
         "authorityID": "CA0003088",
@@ -2742,7 +3037,8 @@
                 "name": "德洪",
                 "id": "A001673"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB136": {
         "authorityID": "CA0005827",
@@ -2750,7 +3046,8 @@
         "type": "textbody",
         "alt": "X1565",
         "title": "五燈會元",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB137": {
         "authorityID": "CA0005828",
@@ -2781,7 +3078,8 @@
                 "name": "明聲",
                 "id": "A037260"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB138": {
         "authorityID": "CA0005829",
@@ -2804,7 +3102,8 @@
                 "name": "守堅",
                 "id": "A000360"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB139": {
         "authorityID": "CA0005830",
@@ -2812,7 +3111,8 @@
         "type": "textbody",
         "alt": "X1420",
         "title": "楚石禪師語錄",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB140": {
         "authorityID": "CA0005831",
@@ -2820,7 +3120,8 @@
         "type": "textbody",
         "alt": "X1351",
         "title": "白雲守端禪師語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB141": {
         "authorityID": "CA0005832",
@@ -2828,7 +3129,8 @@
         "type": "textbody",
         "alt": "X1358",
         "title": "虎丘隆和尚語錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB142": {
         "authorityID": "CA0005833",
@@ -2836,7 +3138,8 @@
         "type": "textbody",
         "alt": "X1359",
         "title": "應菴和尚語錄",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB143": {
         "authorityID": "CA0005834",
@@ -2844,7 +3147,8 @@
         "type": "textbody",
         "alt": "T1999",
         "title": "密菴傑禪師語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB144": {
         "authorityID": "CA0005835",
@@ -2852,7 +3156,8 @@
         "type": "textbody",
         "alt": "X1342+X68n1315_p0272b20",
         "title": "雲菴真淨禪師語錄",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB145": {
         "authorityID": "CA0005836",
@@ -2860,7 +3165,8 @@
         "type": "textbody",
         "alt": "X1397",
         "title": "雪巖和尚語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB146": {
         "authorityID": "CA0005837",
@@ -2868,7 +3174,8 @@
         "type": "textbody",
         "alt": "X1400",
         "title": "高峰大師語錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB147": {
         "authorityID": "CA0005838",
@@ -2876,7 +3183,8 @@
         "type": "textbody",
         "alt": "X1394",
         "title": "斷橋妙倫禪師語錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB148": {
         "authorityID": "CA0005839",
@@ -2884,7 +3192,8 @@
         "type": "textbody",
         "alt": "X1395",
         "title": "瑞巖方山寶禪師語錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB149": {
         "authorityID": "CA0005840",
@@ -2892,7 +3201,8 @@
         "type": "textbody",
         "alt": "X1419",
         "title": "元叟端禪師語錄",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB150": {
         "authorityID": "CA0005841",
@@ -2900,7 +3210,8 @@
         "type": "textbody",
         "alt": "X1449",
         "title": "湖州吳山端禪師語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB151": {
         "authorityID": "CA0005842",
@@ -2908,7 +3219,8 @@
         "type": "textbody",
         "alt": "X1577",
         "title": "羅湖野錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB152": {
         "authorityID": "CA0005843",
@@ -2916,7 +3228,8 @@
         "type": "textbody",
         "alt": "X1396",
         "title": "天台無見覩禪師語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB153": {
         "authorityID": "CA0005844",
@@ -2924,7 +3237,8 @@
         "type": "textbody",
         "alt": "X1399",
         "title": "福源石屋珙禪師語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB154": {
         "authorityID": "CA0005845",
@@ -2947,7 +3261,8 @@
                 "name": "慧省",
                 "id": "A037261"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB155": {
         "authorityID": "CA0005846",
@@ -2970,7 +3285,8 @@
                 "name": "性沖",
                 "id": "A007841"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB156": {
         "authorityID": "CA0003398",
@@ -2993,7 +3309,8 @@
                 "name": "慧廣",
                 "id": "A010707"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB157": {
         "authorityID": "CA0005847",
@@ -3001,7 +3318,8 @@
         "type": "textbody",
         "alt": "X1421",
         "title": "愚菴及禪師語錄",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB158": {
         "authorityID": "CA0005848",
@@ -3009,7 +3327,8 @@
         "type": "textbody",
         "alt": "X1416",
         "title": "恕中和尚語錄",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB159": {
         "authorityID": "CA0005849",
@@ -3032,7 +3351,8 @@
                 "name": "悟深",
                 "id": "A037262"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB160": {
         "authorityID": "CA0005850",
@@ -3040,7 +3360,8 @@
         "type": "textbody",
         "alt": "X1422",
         "title": "南石和尚語錄",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB161": {
         "authorityID": "CA0005851",
@@ -3048,7 +3369,8 @@
         "type": "textbody",
         "alt": "X1418",
         "title": "呆菴莊禪師語錄",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB162": {
         "authorityID": "CA0005852",
@@ -3056,7 +3378,8 @@
         "type": "textbody",
         "alt": "X1367",
         "title": "笑隱訢禪師語錄",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB163": {
         "authorityID": "CA0005853",
@@ -3075,7 +3398,8 @@
                 "name": "善堅",
                 "id": "A001339"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB164": {
         "authorityID": "CA0004948",
@@ -3094,7 +3418,8 @@
                 "name": "周理",
                 "id": "A000560"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB165": {
         "authorityID": "CA0004949",
@@ -3117,7 +3442,8 @@
                 "name": "周理",
                 "id": "A000560"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB166": {
         "authorityID": "CA0004950",
@@ -3140,7 +3466,8 @@
                 "name": "周理",
                 "id": "A000560"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB167": {
         "authorityID": "CA0004951",
@@ -3163,7 +3490,8 @@
                 "name": "洪如",
                 "id": "A000854"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB168": {
         "authorityID": "CA0005854",
@@ -3171,7 +3499,8 @@
         "type": "textbody",
         "alt": "X1414",
         "title": "南堂了菴禪師語錄",
-        "juans": 22
+        "juans": 22,
+        "fulltext": false
     },
     "JB169": {
         "authorityID": "CA0005855",
@@ -3179,7 +3508,8 @@
         "type": "textbody",
         "alt": "L1637",
         "title": "龍池幻有禪師語錄",
-        "juans": 12
+        "juans": 12,
+        "fulltext": false
     },
     "JB170": {
         "authorityID": "CA0005856",
@@ -3187,7 +3517,8 @@
         "type": "textbody",
         "alt": "L1638",
         "title": "雪嶠禪師語錄",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB171": {
         "authorityID": "CA0005857",
@@ -3210,7 +3541,8 @@
                 "name": "通問",
                 "id": "A013268"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB172": {
         "authorityID": "CA0005858",
@@ -3218,7 +3550,8 @@
         "type": "textbody",
         "alt": "X1444",
         "title": "會稽雲門湛然澄禪師語錄",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB173": {
         "authorityID": "CA0005859",
@@ -3241,7 +3574,8 @@
                 "name": "元來",
                 "id": "A000114"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB174": {
         "authorityID": "CA0005860",
@@ -3268,7 +3602,8 @@
                 "name": "大奇",
                 "id": "A016501"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB175": {
         "authorityID": "CA0005861",
@@ -3299,7 +3634,8 @@
                 "name": "陶汝鼐",
                 "id": "A037264"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB176": {
         "authorityID": "CA0004952",
@@ -3334,7 +3670,8 @@
                 "name": "周堪賡",
                 "id": "A037263"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB177": {
         "authorityID": "CA0002419",
@@ -3365,7 +3702,8 @@
                 "name": "印綬",
                 "id": "A026177"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB178": {
         "authorityID": "CA0001014",
@@ -3412,7 +3750,8 @@
                 "name": "行古",
                 "id": "A037268"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB179": {
         "authorityID": "CA0005862",
@@ -3420,7 +3759,8 @@
         "type": "textbody",
         "alt": "L1643",
         "title": "天童弘覺忞禪師語錄",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB180": {
         "authorityID": "CA0004953",
@@ -3443,7 +3783,8 @@
                 "name": "真樸",
                 "id": "A000960"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB181": {
         "authorityID": "CA0004954",
@@ -3462,7 +3803,8 @@
                 "name": "道忞",
                 "id": "A001513"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB182": {
         "authorityID": "CA0003284",
@@ -3485,7 +3827,8 @@
                 "name": "行猷",
                 "id": "A037269"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB183": {
         "authorityID": "CA0005863",
@@ -3508,7 +3851,8 @@
                 "name": "行正",
                 "id": "A018988"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB184": {
         "authorityID": "CA0005864",
@@ -3531,7 +3875,8 @@
                 "name": "行瑋",
                 "id": "A016290"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB185": {
         "authorityID": "CA0001114",
@@ -3554,7 +3899,8 @@
                 "name": "行浚",
                 "id": "A026449"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB186": {
         "authorityID": "CA0005865",
@@ -3577,7 +3923,8 @@
                 "name": "行謐",
                 "id": "A016193"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB187": {
         "authorityID": "CA0005866",
@@ -3600,7 +3947,8 @@
                 "name": "元玉",
                 "id": "A018989"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB188": {
         "authorityID": "CA0005867",
@@ -3623,7 +3971,8 @@
                 "name": "寂蘊",
                 "id": "A014950"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB189": {
         "authorityID": "CA0005868",
@@ -3646,7 +3995,8 @@
                 "name": "淨範",
                 "id": "A016471"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB190": {
         "authorityID": "CA0003096",
@@ -3669,7 +4019,8 @@
                 "name": "淨柱",
                 "id": "A001103"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB191": {
         "authorityID": "CA0005869",
@@ -3692,7 +4043,8 @@
                 "name": "淨癡",
                 "id": "A037270"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB192": {
         "authorityID": "CA0005870",
@@ -3715,7 +4067,8 @@
                 "name": "廣熙",
                 "id": "A037271"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB193": {
         "authorityID": "CA0003787",
@@ -3738,7 +4091,8 @@
                 "name": "海寧",
                 "id": "A031145"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB194": {
         "authorityID": "CA0005871",
@@ -3761,7 +4115,8 @@
                 "name": "徹綱",
                 "id": "A016519"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB195": {
         "authorityID": "CA0005872",
@@ -3769,7 +4124,8 @@
         "type": "textbody",
         "alt": "L1649",
         "title": "南嶽山茨際禪師語錄",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB196": {
         "authorityID": "CA0005873",
@@ -3796,7 +4152,8 @@
                 "name": "悟元",
                 "id": "A010711"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB197": {
         "authorityID": "CA0005874",
@@ -3823,7 +4180,8 @@
                 "name": "元賢",
                 "id": "A000135"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB198": {
         "authorityID": "CA0003667",
@@ -3850,7 +4208,8 @@
                 "name": "開詗",
                 "id": "A001382"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB199": {
         "authorityID": "CA0005875",
@@ -3873,7 +4232,8 @@
                 "name": "傳善",
                 "id": "A037272"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB200": {
         "authorityID": "CA0005876",
@@ -3896,7 +4256,8 @@
                 "name": "本開",
                 "id": "A016505"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB201": {
         "authorityID": "CA0005877",
@@ -3904,7 +4265,8 @@
         "type": "textbody",
         "alt": "X1437",
         "title": "鼓山永覺和尚廣錄",
-        "juans": 30
+        "juans": 30,
+        "fulltext": false
     },
     "JB202": {
         "authorityID": "CA0000136",
@@ -3927,7 +4289,8 @@
                 "name": "超宣",
                 "id": "A037273"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB203": {
         "authorityID": "CA0005878",
@@ -3950,7 +4313,8 @@
                 "name": "智恒",
                 "id": "A037274"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB204": {
         "authorityID": "CA0005879",
@@ -3973,7 +4337,8 @@
                 "name": "海岳",
                 "id": "A037275"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB205": {
         "authorityID": "CA0005880",
@@ -4000,7 +4365,8 @@
                 "name": "益證",
                 "id": "A037643"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB206": {
         "authorityID": "CA0005881",
@@ -4027,7 +4393,8 @@
                 "name": "超晙",
                 "id": "A037277"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB207": {
         "authorityID": "CA0005882",
@@ -4050,7 +4417,8 @@
                 "name": "機峻",
                 "id": "A019255"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB208": {
         "authorityID": "CA0005883",
@@ -4073,7 +4441,8 @@
                 "name": "傳我",
                 "id": "A037466"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB209": {
         "authorityID": "CA0005884",
@@ -4100,7 +4469,8 @@
                 "name": "妙印",
                 "id": "A037468"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB210": {
         "authorityID": "CA0005885",
@@ -4127,7 +4497,8 @@
                 "name": "超宿",
                 "id": "A037470"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB211": {
         "authorityID": "CA0005886",
@@ -4150,7 +4521,8 @@
                 "name": "超祥",
                 "id": "A037471"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB212": {
         "authorityID": "CA0005887",
@@ -4177,7 +4549,8 @@
                 "name": "超秀",
                 "id": "A019011"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB213": {
         "authorityID": "CA0005888",
@@ -4200,7 +4573,8 @@
                 "name": "明一",
                 "id": "A037473"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB214": {
         "authorityID": "CA0005889",
@@ -4219,7 +4593,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB215": {
         "authorityID": "CA0005891",
@@ -4246,7 +4621,8 @@
                 "name": "張有譽",
                 "id": "A026588"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB216": {
         "authorityID": "CA0001906",
@@ -4269,7 +4645,8 @@
                 "name": "圓果",
                 "id": "A037474"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB217": {
         "authorityID": "CA0005892",
@@ -4277,7 +4654,8 @@
         "type": "textbody",
         "alt": "X1263",
         "title": "禪林寶訓合註",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB218": {
         "authorityID": "CA0005893",
@@ -4300,7 +4678,8 @@
                 "name": "海瑞",
                 "id": "A037475"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB219": {
         "authorityID": "CA0005894",
@@ -4323,7 +4702,8 @@
                 "name": "正印",
                 "id": "A019187"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB220": {
         "authorityID": "CA0005895",
@@ -4346,7 +4726,8 @@
                 "name": "性圓",
                 "id": "A037476"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB221": {
         "authorityID": "CA0005896",
@@ -4369,7 +4750,8 @@
                 "name": "旋性",
                 "id": "A037477"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB222": {
         "authorityID": "CA0005897",
@@ -4392,7 +4774,8 @@
                 "name": "觀誰",
                 "id": "A026198"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB223": {
         "authorityID": "CA0002894",
@@ -4419,7 +4802,8 @@
                 "name": "宗上",
                 "id": "A016610"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB224": {
         "authorityID": "CA0005898",
@@ -4450,7 +4834,8 @@
                 "name": "宗堅",
                 "id": "A019253"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB225": {
         "authorityID": "CA0005899",
@@ -4477,7 +4862,8 @@
                 "name": "道沖",
                 "id": "A037480"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB226": {
         "authorityID": "CA0005900",
@@ -4500,7 +4886,8 @@
                 "name": "蘊宏",
                 "id": "A016535"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB227": {
         "authorityID": "CA0005901",
@@ -4527,7 +4914,8 @@
                 "name": "杜國柱",
                 "id": "A037482"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB228": {
         "authorityID": "CA0005902",
@@ -4535,7 +4923,8 @@
         "type": "textbody",
         "alt": "X0513",
         "title": "佛說仁王護國般若波羅蜜經疏",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB229": {
         "authorityID": "CA0005903",
@@ -4558,7 +4947,8 @@
                 "name": "清杲",
                 "id": "A037483"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB230": {
         "authorityID": "CA0005904",
@@ -4581,7 +4971,8 @@
                 "name": "原澂",
                 "id": "A000898"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB231": {
         "authorityID": "CA0004955",
@@ -4604,7 +4995,8 @@
                 "name": "原澂",
                 "id": "A000898"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB232": {
         "authorityID": "CA0004956",
@@ -4631,7 +5023,8 @@
                 "name": "原上",
                 "id": "A037484"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB233": {
         "authorityID": "CA0005905",
@@ -4654,7 +5047,8 @@
                 "name": "真理",
                 "id": "A016230"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB234": {
         "authorityID": "CA0005906",
@@ -4681,7 +5075,8 @@
                 "name": "真智",
                 "id": "A016482"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB235": {
         "authorityID": "CA0002054",
@@ -4704,7 +5099,8 @@
                 "name": "性容",
                 "id": "A037486"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB236": {
         "authorityID": "CA0004957",
@@ -4727,7 +5123,8 @@
                 "name": "發慧",
                 "id": "A001325"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB237": {
         "authorityID": "CA0005907",
@@ -4750,7 +5147,8 @@
                 "name": "達最",
                 "id": "A026325"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB238": {
         "authorityID": "CA0005908",
@@ -4773,7 +5171,8 @@
                 "name": "燈來",
                 "id": "A001808"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB239": {
         "authorityID": "CA0004958",
@@ -4796,7 +5195,8 @@
                 "name": "燈來",
                 "id": "A001808"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB240": {
         "authorityID": "CA0005909",
@@ -4819,7 +5219,8 @@
                 "name": "燈來",
                 "id": "A001808"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB241": {
         "authorityID": "CA0004959",
@@ -4842,7 +5243,8 @@
                 "name": "幻敏",
                 "id": "A000153"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB242": {
         "authorityID": "CA0005910",
@@ -4869,7 +5271,8 @@
                 "name": "性亮",
                 "id": "A000629"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB243": {
         "authorityID": "CA0005911",
@@ -4896,7 +5299,8 @@
                 "name": "徐善",
                 "id": "A037488"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB244": {
         "authorityID": "CA0005912",
@@ -4919,7 +5323,8 @@
                 "name": "普定",
                 "id": "A037489"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB245": {
         "authorityID": "CA0005913",
@@ -4942,7 +5347,8 @@
                 "name": "至善",
                 "id": "A037490"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB246": {
         "authorityID": "CA0005914",
@@ -4965,7 +5371,8 @@
                 "name": "機輪",
                 "id": "A037491"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB247": {
         "authorityID": "CA0005915",
@@ -4992,7 +5399,8 @@
                 "name": "羅開麟",
                 "id": "A037493"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB248": {
         "authorityID": "CA0005916",
@@ -5015,7 +5423,8 @@
                 "name": "海澂",
                 "id": "A037494"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB249": {
         "authorityID": "CA0005917",
@@ -5038,7 +5447,8 @@
                 "name": "興林",
                 "id": "A037495"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB250": {
         "authorityID": "CA0005918",
@@ -5046,7 +5456,8 @@
         "type": "textbody",
         "alt": "X1126",
         "title": "弘戒法儀",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB251": {
         "authorityID": "CA0005919",
@@ -5054,7 +5465,8 @@
         "type": "textbody",
         "alt": "X0623",
         "title": "法華授手",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB252": {
         "authorityID": "CA0005920",
@@ -5062,7 +5474,8 @@
         "type": "textbody",
         "alt": "X1578",
         "title": "指月錄",
-        "juans": 32
+        "juans": 32,
+        "fulltext": false
     },
     "JB253": {
         "authorityID": "CA0005921",
@@ -5070,7 +5483,8 @@
         "type": "textbody",
         "alt": "X0709",
         "title": "毘尼止持會集",
-        "juans": 16
+        "juans": 16,
+        "fulltext": false
     },
     "JB254": {
         "authorityID": "CA0005922",
@@ -5078,7 +5492,8 @@
         "type": "textbody",
         "alt": "X0730",
         "title": "毘尼作持續釋",
-        "juans": 15
+        "juans": 15,
+        "fulltext": false
     },
     "JB255": {
         "authorityID": "CA0005923",
@@ -5086,7 +5501,8 @@
         "type": "textbody",
         "alt": "X0700",
         "title": "梵網初津",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB256": {
         "authorityID": "CA0005924",
@@ -5094,7 +5510,8 @@
         "type": "textbody",
         "alt": "X1135",
         "title": "羯磨儀式",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB257": {
         "authorityID": "CA0005925",
@@ -5102,7 +5519,8 @@
         "type": "textbody",
         "alt": "X1116",
         "title": "毘尼日用切要香乳集",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB258": {
         "authorityID": "CA0005926",
@@ -5110,7 +5528,8 @@
         "type": "textbody",
         "alt": "X1119",
         "title": "沙彌律儀要略述義",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB259": {
         "authorityID": "CA0004961",
@@ -5129,7 +5548,8 @@
                 "name": "書玉",
                 "id": "A000935"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB260": {
         "authorityID": "CA0005927",
@@ -5148,7 +5568,8 @@
                 "name": "書玉",
                 "id": "A000935"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB261": {
         "authorityID": "CA0005928",
@@ -5156,7 +5577,8 @@
         "type": "textbody",
         "alt": "X1134",
         "title": "二部僧授戒軌範",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB262": {
         "authorityID": "CA0005929",
@@ -5164,7 +5586,8 @@
         "type": "textbody",
         "alt": "X0306",
         "title": "首楞嚴經觀心定解",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB263": {
         "authorityID": "CA0005930",
@@ -5172,7 +5595,8 @@
         "type": "textbody",
         "alt": "X0303",
         "title": "楞嚴經貫攝",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB264": {
         "authorityID": "CA0005931",
@@ -5180,7 +5604,8 @@
         "type": "textbody",
         "alt": "X1608",
         "title": "八十八祖道影傳贊",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB265": {
         "authorityID": "CA0005932",
@@ -5188,7 +5613,8 @@
         "type": "textbody",
         "alt": "T1976",
         "title": "西方合論",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB266": {
         "authorityID": "CA0005933",
@@ -5196,7 +5622,8 @@
         "type": "textbody",
         "alt": "L1636",
         "title": "莊子內篇註",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB267": {
         "authorityID": "CA0005934",
@@ -5219,7 +5646,8 @@
                 "name": "毛晉",
                 "id": "A018719"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB268": {
         "authorityID": "CA0004964",
@@ -5238,7 +5666,8 @@
                 "name": "通明",
                 "id": "A001148"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB269": {
         "authorityID": "CA0005935",
@@ -5265,7 +5694,8 @@
                 "name": "行策",
                 "id": "A000421"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB270": {
         "authorityID": "CA0005936",
@@ -5273,7 +5703,8 @@
         "type": "textbody",
         "alt": "X0280",
         "title": "大佛頂首楞嚴經臆說",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB271": {
         "authorityID": "CA0004965",
@@ -5292,7 +5723,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB272": {
         "authorityID": "CA0005937",
@@ -5315,7 +5747,8 @@
                 "name": "淨啟",
                 "id": "A037496"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB273": {
         "authorityID": "CA0005938",
@@ -5338,7 +5771,8 @@
                 "name": "嗣詔",
                 "id": "A037497"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB274": {
         "authorityID": "CA0002262",
@@ -5346,7 +5780,8 @@
         "type": "textbody",
         "alt": "L1652",
         "title": "明覺聰禪師語錄",
-        "juans": 16
+        "juans": 16,
+        "fulltext": false
     },
     "JB275": {
         "authorityID": "CA0005939",
@@ -5381,7 +5816,8 @@
                 "name": "黃承昊",
                 "id": "A037498"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB276": {
         "authorityID": "CA0000346",
@@ -5404,7 +5840,8 @@
                 "name": "性靈",
                 "id": "A037499"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB277": {
         "authorityID": "CA0005940",
@@ -5423,7 +5860,8 @@
                 "name": "袾宏",
                 "id": "A001394"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB278": {
         "authorityID": "CA0005942",
@@ -5431,7 +5869,8 @@
         "type": "textbody",
         "alt": "X1574",
         "title": "增集續傳燈錄",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB279": {
         "authorityID": "CA0005943",
@@ -5450,7 +5889,8 @@
                 "name": "行省",
                 "id": "A000411"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB280": {
         "authorityID": "CA0004967",
@@ -5473,7 +5913,8 @@
                 "name": "宏怤",
                 "id": "A037500"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB281": {
         "authorityID": "CA0005944",
@@ -5496,7 +5937,8 @@
                 "name": "明法",
                 "id": "A037501"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB282": {
         "authorityID": "CA0004968",
@@ -5519,7 +5961,8 @@
                 "name": "超直",
                 "id": "A001369"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB283": {
         "authorityID": "CA0005945",
@@ -5542,7 +5985,8 @@
                 "name": "福慧",
                 "id": "A016491"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB284": {
         "authorityID": "CA0005946",
@@ -5565,7 +6009,8 @@
                 "name": "洪希",
                 "id": "A012696"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB285": {
         "authorityID": "CA0005947",
@@ -5588,7 +6033,8 @@
                 "name": "妙聖",
                 "id": "A037502"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB286": {
         "authorityID": "CA0005948",
@@ -5615,7 +6061,8 @@
                 "name": "德峨",
                 "id": "A037504"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB287": {
         "authorityID": "CA0005949",
@@ -5638,7 +6085,8 @@
                 "name": "洪暹",
                 "id": "A019267"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB288": {
         "authorityID": "CA0001315",
@@ -5661,7 +6109,8 @@
                 "name": "法雲",
                 "id": "A037505"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB289": {
         "authorityID": "CA0007959",
@@ -5669,7 +6118,8 @@
         "type": "textbody",
         "alt": "X0488",
         "title": "金剛經郢說",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB290": {
         "authorityID": "CA0007960",
@@ -5677,7 +6127,8 @@
         "type": "textbody",
         "alt": "X0489",
         "title": "金剛經註正訛",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB291": {
         "authorityID": "CA0005950",
@@ -5685,7 +6136,8 @@
         "type": "textbody",
         "alt": "X1176",
         "title": "寶蓮淨土全書",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB292": {
         "authorityID": "CA0007966",
@@ -5693,7 +6145,8 @@
         "type": "textbody",
         "alt": "X0870",
         "title": "注肇論疏",
-        "juans": 6
+        "juans": 6,
+        "fulltext": false
     },
     "JB293": {
         "authorityID": "CA0005051",
@@ -5720,7 +6173,8 @@
                 "name": "蔡善繼",
                 "id": "A037507"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB294": {
         "authorityID": "CA0005951",
@@ -5743,7 +6197,8 @@
                 "name": "智淙",
                 "id": "A037508"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB295": {
         "authorityID": "CA0003663",
@@ -5762,7 +6217,8 @@
                 "name": "淨挺",
                 "id": "A001106"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB296": {
         "authorityID": "CA0002527",
@@ -5781,7 +6237,8 @@
                 "name": "淨挺",
                 "id": "A001106"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB297": {
         "authorityID": "CA0007965",
@@ -5789,7 +6246,8 @@
         "type": "textbody",
         "alt": "X0674",
         "title": "閱經十二種",
-        "juans": 14
+        "juans": 14,
+        "fulltext": false
     },
     "JB298": {
         "authorityID": "CA0005952",
@@ -5816,7 +6274,8 @@
                 "name": "智原",
                 "id": "A037509"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB299": {
         "authorityID": "CA0005953",
@@ -5839,7 +6298,8 @@
                 "name": "弘儲",
                 "id": "A000241"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB300": {
         "authorityID": "CA0000441",
@@ -5862,7 +6322,8 @@
                 "name": "行導",
                 "id": "A013482"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB301": {
         "authorityID": "CA0005954",
@@ -5885,7 +6346,8 @@
                 "name": "濟璣",
                 "id": "A015946"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB302": {
         "authorityID": "CA0007971",
@@ -5893,7 +6355,8 @@
         "type": "textbody",
         "alt": "X1596",
         "title": "南嶽單傳記",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB303": {
         "authorityID": "CA0005955",
@@ -5920,7 +6383,8 @@
                 "name": "張有譽",
                 "id": "A026588"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB304": {
         "authorityID": "CA0005956",
@@ -5947,7 +6411,8 @@
                 "name": "余懷",
                 "id": "A037512"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB305": {
         "authorityID": "CA0004970",
@@ -5970,7 +6435,8 @@
                 "name": "顯裕",
                 "id": "A001977"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB306": {
         "authorityID": "CA0005957",
@@ -5993,7 +6459,8 @@
                 "name": "照維",
                 "id": "A037513"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB307": {
         "authorityID": "CA0005958",
@@ -6001,7 +6468,8 @@
         "type": "textbody",
         "alt": "X0286",
         "title": "首楞嚴經如說",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB308": {
         "authorityID": "CA0005959",
@@ -6024,7 +6492,8 @@
                 "name": "益聞",
                 "id": "A037514"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB309": {
         "authorityID": "CA0005960",
@@ -6051,7 +6520,8 @@
                 "name": "聯昇",
                 "id": "A037516"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB310": {
         "authorityID": "CA0005961",
@@ -6074,7 +6544,8 @@
                 "name": "元一",
                 "id": "A037517"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB311": {
         "authorityID": "CA0005962",
@@ -6101,7 +6572,8 @@
                 "name": "大然",
                 "id": "A015972"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB312": {
         "authorityID": "CA0004971",
@@ -6132,7 +6604,8 @@
                 "name": "譚貞默",
                 "id": "A037518"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB313": {
         "authorityID": "CA0005963",
@@ -6159,7 +6632,8 @@
                 "name": "興斧",
                 "id": "A007130"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB314": {
         "authorityID": "CA0007970",
@@ -6167,7 +6641,8 @@
         "type": "textbody",
         "alt": "X0744",
         "title": "四分律名義標釋",
-        "juans": 40
+        "juans": 40,
+        "fulltext": false
     },
     "JB315": {
         "authorityID": "CA0007961",
@@ -6175,7 +6650,8 @@
         "type": "textbody",
         "alt": "X0717",
         "title": "四分戒本如釋",
-        "juans": 12
+        "juans": 12,
+        "fulltext": false
     },
     "JB316": {
         "authorityID": "CA0005964",
@@ -6183,7 +6659,8 @@
         "type": "textbody",
         "alt": "X0695",
         "title": "佛說梵網經菩薩心地品下略疏",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB317": {
         "authorityID": "CA0007977",
@@ -6191,7 +6668,8 @@
         "type": "textbody",
         "alt": "X1118",
         "title": "沙彌律儀要略增註",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB318": {
         "authorityID": "CA0007979",
@@ -6199,7 +6677,8 @@
         "type": "textbody",
         "alt": "X1133",
         "title": "沙彌學戒儀軌頌註",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB319": {
         "authorityID": "CA0007972",
@@ -6207,7 +6686,8 @@
         "type": "textbody",
         "alt": "X1492",
         "title": "禮佛儀式",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB320": {
         "authorityID": "CA0007962",
@@ -6215,7 +6695,8 @@
         "type": "textbody",
         "alt": "X0725",
         "title": "式叉摩那尼戒本",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB321": {
         "authorityID": "CA0005965",
@@ -6223,7 +6704,8 @@
         "type": "textbody",
         "alt": "X1132",
         "title": "比丘尼戒錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB322": {
         "authorityID": "CA0007975",
@@ -6231,7 +6713,8 @@
         "type": "textbody",
         "alt": "X1117",
         "title": "沙門日用",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB323": {
         "authorityID": "CA0007973",
@@ -6239,7 +6722,8 @@
         "type": "textbody",
         "alt": "X1493",
         "title": "供諸天科儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB324": {
         "authorityID": "CA0007974",
@@ -6247,7 +6731,8 @@
         "type": "textbody",
         "alt": "X1491",
         "title": "禮舍利塔儀式",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB325": {
         "authorityID": "CA0001576",
@@ -6266,7 +6751,8 @@
                 "name": "弘贊",
                 "id": "A000244"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB326": {
         "authorityID": "CA0002308",
@@ -6289,7 +6775,8 @@
                 "name": "開溈",
                 "id": "A037520"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB327": {
         "authorityID": "CA0007967",
@@ -6297,7 +6784,8 @@
         "type": "textbody",
         "alt": "X1645",
         "title": "六道集",
-        "juans": 5
+        "juans": 5,
+        "fulltext": false
     },
     "JB328": {
         "authorityID": "CA0007963",
@@ -6305,7 +6793,8 @@
         "type": "textbody",
         "alt": "X0446",
         "title": "七俱胝佛母所說準提陀羅尼經會釋",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB329": {
         "authorityID": "CA0007964",
@@ -6313,7 +6802,8 @@
         "type": "textbody",
         "alt": "X1240",
         "title": "溈山警策句釋記",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB330": {
         "authorityID": "CA0007976",
@@ -6321,7 +6811,8 @@
         "type": "textbody",
         "alt": "X1129",
         "title": "歸戒要集",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB331": {
         "authorityID": "CA0007969",
@@ -6329,7 +6820,8 @@
         "type": "textbody",
         "alt": "X1643",
         "title": "兜率龜鏡集",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB332": {
         "authorityID": "CA0007968",
@@ -6337,7 +6829,8 @@
         "type": "textbody",
         "alt": "X1644",
         "title": "觀音慈林集",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB333": {
         "authorityID": "CA0005966",
@@ -6345,7 +6838,8 @@
         "type": "textbody",
         "alt": "X0553",
         "title": "般若波羅蜜多心經添足",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB334": {
         "authorityID": "CA0007980",
@@ -6353,7 +6847,8 @@
         "type": "textbody",
         "alt": "X1079",
         "title": "持誦準提真言法要",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB335": {
         "authorityID": "CA0007978",
@@ -6361,7 +6856,8 @@
         "type": "textbody",
         "alt": "X1130",
         "title": "八關齋法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB336": {
         "authorityID": "CA0005967",
@@ -6384,7 +6880,8 @@
                 "name": "傳一",
                 "id": "A037521"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB337": {
         "authorityID": "CA0005968",
@@ -6407,7 +6904,8 @@
                 "name": "明英",
                 "id": "A037522"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB338": {
         "authorityID": "CA0005969",
@@ -6430,7 +6928,8 @@
                 "name": "師炤",
                 "id": "A037523"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB339": {
         "authorityID": "CA0005970",
@@ -6453,7 +6952,8 @@
                 "name": "振澂",
                 "id": "A037524"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB340": {
         "authorityID": "CA0005971",
@@ -6476,7 +6976,8 @@
                 "name": "徹御",
                 "id": "A001622"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB341": {
         "authorityID": "CA0004973",
@@ -6507,7 +7008,8 @@
                 "name": "聖可",
                 "id": "A001669"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB342": {
         "authorityID": "CA0005972",
@@ -6530,7 +7032,8 @@
                 "name": "光佛",
                 "id": "A016581"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB343": {
         "authorityID": "CA0005973",
@@ -6553,7 +7056,8 @@
                 "name": "如暐",
                 "id": "A037526"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB344": {
         "authorityID": "CA0005974",
@@ -6561,7 +7065,8 @@
         "type": "textbody",
         "alt": "X0694+X0693",
         "title": "佛說梵網經菩薩心地品合註",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB345": {
         "authorityID": "CA0005975",
@@ -6584,7 +7089,8 @@
                 "name": "機如",
                 "id": "A001805"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB346": {
         "authorityID": "CA0004974",
@@ -6607,7 +7113,8 @@
                 "name": "全威",
                 "id": "A000326"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB347": {
         "authorityID": "CA0005976",
@@ -6615,7 +7122,8 @@
         "type": "textbody",
         "alt": "X0824",
         "title": "成唯識論觀心法要",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB348": {
         "authorityID": "CA0002077",
@@ -6634,7 +7142,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB349": {
         "authorityID": "CA0005977",
@@ -6642,7 +7151,8 @@
         "type": "textbody",
         "alt": "X0699",
         "title": "佛說梵網經順硃",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB350": {
         "authorityID": "CA0005978",
@@ -6650,7 +7160,8 @@
         "type": "textbody",
         "alt": "X1265",
         "title": "禪林寶訓順硃",
-        "juans": 4
+        "juans": 4,
+        "fulltext": false
     },
     "JB351": {
         "authorityID": "CA0000733",
@@ -6669,7 +7180,8 @@
                 "name": "德玉",
                 "id": "A001669"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB352": {
         "authorityID": "CA0005979",
@@ -6692,7 +7204,8 @@
                 "name": "傳慧",
                 "id": "A037527"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB353": {
         "authorityID": "CA0005980",
@@ -6723,7 +7236,8 @@
                 "name": "李道泰",
                 "id": "A037529"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB354": {
         "authorityID": "CA0004975",
@@ -6750,7 +7264,8 @@
                 "name": "發林",
                 "id": "A016730"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB355": {
         "authorityID": "CA0005981",
@@ -6773,7 +7288,8 @@
                 "name": "光悠",
                 "id": "A037530"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB356": {
         "authorityID": "CA0005982",
@@ -6800,7 +7316,8 @@
                 "name": "明燦",
                 "id": "A026570"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB357": {
         "authorityID": "CA0005983",
@@ -6823,7 +7340,8 @@
                 "name": "最正",
                 "id": "A019495"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB358": {
         "authorityID": "CA0005984",
@@ -6850,7 +7368,8 @@
                 "name": "尚瑩",
                 "id": "A037533"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB359": {
         "authorityID": "CA0000155",
@@ -6885,7 +7404,8 @@
                 "name": "方拱乾",
                 "id": "A037535"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB360": {
         "authorityID": "CA0005985",
@@ -6893,7 +7413,8 @@
         "type": "textbody",
         "alt": "X1433",
         "title": "建陽東苑晦臺鏡禪師語錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB361": {
         "authorityID": "CA0005986",
@@ -6901,7 +7422,8 @@
         "type": "textbody",
         "alt": "X1434",
         "title": "壽昌見如謐禪師語錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB362": {
         "authorityID": "CA0005987",
@@ -6924,7 +7446,8 @@
                 "name": "興舒",
                 "id": "A037536"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB363": {
         "authorityID": "CA0005988",
@@ -6947,7 +7470,8 @@
                 "name": "真慧",
                 "id": "A037537"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB364": {
         "authorityID": "CA0005989",
@@ -6970,7 +7494,8 @@
                 "name": "超質",
                 "id": "A004351"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB365": {
         "authorityID": "CA0005990",
@@ -6993,7 +7518,8 @@
                 "name": "明嵩",
                 "id": "A037538"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB366": {
         "authorityID": "CA0000581",
@@ -7016,7 +7542,8 @@
                 "name": "超鳴",
                 "id": "A037539"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB367": {
         "authorityID": "CA0005991",
@@ -7039,7 +7566,8 @@
                 "name": "發育",
                 "id": "A037540"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB368": {
         "authorityID": "CA0005992",
@@ -7066,7 +7594,8 @@
                 "name": "超香",
                 "id": "A037542"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB369": {
         "authorityID": "CA0005993",
@@ -7089,7 +7618,8 @@
                 "name": "智璋",
                 "id": "A037543"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB370": {
         "authorityID": "CA0005994",
@@ -7112,7 +7642,8 @@
                 "name": "寂訥",
                 "id": "A019546"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB371": {
         "authorityID": "CA0001098",
@@ -7135,7 +7666,8 @@
                 "name": "性純",
                 "id": "A037544"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB372": {
         "authorityID": "CA0005995",
@@ -7162,7 +7694,8 @@
                 "name": "法通",
                 "id": "A037546"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB373": {
         "authorityID": "CA0005996",
@@ -7170,7 +7703,8 @@
         "type": "textbody",
         "alt": "X1483",
         "title": "藥師三昧行法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB374": {
         "authorityID": "CA0005997",
@@ -7178,7 +7712,8 @@
         "type": "textbody",
         "alt": "X1481",
         "title": "準提三昧行法",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB375": {
         "authorityID": "CA0005998",
@@ -7186,7 +7721,8 @@
         "type": "textbody",
         "alt": "X0493",
         "title": "金剛般若波羅蜜經部旨",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB376": {
         "authorityID": "CA0005999",
@@ -7194,7 +7730,8 @@
         "type": "textbody",
         "alt": "X0381",
         "title": "藥師瑠璃光如來本願功德經直解",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB377": {
         "authorityID": "CA0006000",
@@ -7202,7 +7739,8 @@
         "type": "textbody",
         "alt": "X0647",
         "title": "觀世音菩薩普門品膚說",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB378": {
         "authorityID": "CA0006001",
@@ -7210,7 +7748,8 @@
         "type": "textbody",
         "alt": "X0378",
         "title": "佛說盂蘭盆經折中疏",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB379": {
         "authorityID": "CA0006002",
@@ -7218,7 +7757,8 @@
         "type": "textbody",
         "alt": "X0969",
         "title": "天台傳佛心印記註",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB380": {
         "authorityID": "CA0006003",
@@ -7226,7 +7766,8 @@
         "type": "textbody",
         "alt": "X0979",
         "title": "四教集註節義",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB381": {
         "authorityID": "CA0006004",
@@ -7234,7 +7775,8 @@
         "type": "textbody",
         "alt": "X0591",
         "title": "釋籤緣起序指明",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB382": {
         "authorityID": "CA0006005",
@@ -7242,7 +7784,8 @@
         "type": "textbody",
         "alt": "X0924",
         "title": "摩訶止觀貫義科",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB383": {
         "authorityID": "CA0001314",
@@ -7258,7 +7801,8 @@
                 "name": "繼堯",
                 "id": "A037547"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB384": {
         "authorityID": "CA0001313",
@@ -7285,7 +7829,8 @@
                 "name": "繼堯",
                 "id": "A037547"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB385": {
         "authorityID": "CA0006006",
@@ -7293,7 +7838,8 @@
         "type": "textbody",
         "alt": "X1595",
         "title": "佛祖正傳古今捷錄",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB386": {
         "authorityID": "CA0006007",
@@ -7316,7 +7862,8 @@
                 "name": "元視",
                 "id": "A037549"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB387": {
         "authorityID": "CA0006008",
@@ -7339,7 +7886,8 @@
                 "name": "明圓",
                 "id": "A037550"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB388": {
         "authorityID": "CA0006009",
@@ -7362,7 +7910,8 @@
                 "name": "成炯",
                 "id": "A037551"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB389": {
         "authorityID": "CA0006010",
@@ -7385,7 +7934,8 @@
                 "name": "上睿",
                 "id": "A016603"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB390": {
         "authorityID": "CA0006011",
@@ -7408,7 +7958,8 @@
                 "name": "照琮",
                 "id": "A037552"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB391": {
         "authorityID": "CA0006012",
@@ -7431,7 +7982,8 @@
                 "name": "悟本",
                 "id": "A037553"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB392": {
         "authorityID": "CA0006013",
@@ -7454,7 +8006,8 @@
                 "name": "德昊",
                 "id": "A037554"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB393": {
         "authorityID": "CA0006014",
@@ -7477,7 +8030,8 @@
                 "name": "通量",
                 "id": "A037555"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB394": {
         "authorityID": "CA0006015",
@@ -7508,7 +8062,8 @@
                 "name": "力端",
                 "id": "A037558"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB395": {
         "authorityID": "CA0006016",
@@ -7531,7 +8086,8 @@
                 "name": "振聞",
                 "id": "A037559"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB396": {
         "authorityID": "CA0006017",
@@ -7558,7 +8114,8 @@
                 "name": "海闊",
                 "id": "A037561"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB397": {
         "authorityID": "CA0006018",
@@ -7566,7 +8123,8 @@
         "type": "textbody",
         "alt": "X1127",
         "title": "傳授三壇弘戒法儀",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB398": {
         "authorityID": "CA0006019",
@@ -7574,7 +8132,8 @@
         "type": "textbody",
         "alt": "X1603",
         "title": "緇門世譜",
-        "juans": 1
+        "juans": 1,
+        "fulltext": false
     },
     "JB399": {
         "authorityID": "CA0006020",
@@ -7597,7 +8156,8 @@
                 "name": "湛祐",
                 "id": "A016623"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB400": {
         "authorityID": "CA0004068",
@@ -7620,7 +8180,8 @@
                 "name": "通來",
                 "id": "A037562"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB401": {
         "authorityID": "CA0006021",
@@ -7643,7 +8204,8 @@
                 "name": "海棟",
                 "id": "A019551"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB402": {
         "authorityID": "CA0006022",
@@ -7674,7 +8236,8 @@
                 "name": "慧岱",
                 "id": "A037565"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB403": {
         "authorityID": "CA0006023",
@@ -7682,7 +8245,8 @@
         "type": "textbody",
         "alt": "X0291",
         "title": "首楞嚴經直指",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB404": {
         "authorityID": "CA0006024",
@@ -7690,7 +8254,8 @@
         "type": "textbody",
         "alt": "X0334",
         "title": "楞伽阿跋多羅寶經心印",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB405": {
         "authorityID": "CA0006025",
@@ -7698,7 +8263,8 @@
         "type": "textbody",
         "alt": "X1443",
         "title": "長慶宗寶禪師語錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "JB406": {
         "authorityID": "CA0006026",
@@ -7721,7 +8287,8 @@
                 "name": "今辯",
                 "id": "A000111"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB407": {
         "authorityID": "CA0006027",
@@ -7756,7 +8323,8 @@
                 "name": "今又",
                 "id": "A037569"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB408": {
         "authorityID": "CA0006028",
@@ -7779,7 +8347,8 @@
                 "name": "今辯",
                 "id": "A000111"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB409": {
         "authorityID": "CA0006029",
@@ -7802,7 +8371,8 @@
                 "name": "今辯",
                 "id": "A000111"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB410": {
         "authorityID": "CA0002046",
@@ -7825,7 +8395,8 @@
                 "name": "性深",
                 "id": "A037570"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB411": {
         "authorityID": "CA0006030",
@@ -7848,7 +8419,8 @@
                 "name": "如惺",
                 "id": "A037571"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB412": {
         "authorityID": "CA0006031",
@@ -7875,7 +8447,8 @@
                 "name": "譚貞默",
                 "id": "A037518"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB413": {
         "authorityID": "CA0006032",
@@ -7906,7 +8479,8 @@
                 "name": "文德翼",
                 "id": "A037575"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB414": {
         "authorityID": "CA0006033",
@@ -7933,7 +8507,8 @@
                 "name": "智旭",
                 "id": "A037576"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB415": {
         "authorityID": "CA0004976",
@@ -7956,7 +8531,8 @@
                 "name": "機德",
                 "id": "A001807"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB416": {
         "authorityID": "CA0003267",
@@ -7983,7 +8559,8 @@
                 "name": "羅開驎",
                 "id": "A020640"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB417": {
         "authorityID": "CA0006034",
@@ -8018,7 +8595,8 @@
                 "name": "機雲",
                 "id": "A001806"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB418": {
         "authorityID": "CA0006035",
@@ -8041,7 +8619,8 @@
                 "name": "全琳",
                 "id": "A037580"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB419": {
         "authorityID": "CA0006036",
@@ -8064,7 +8643,8 @@
                 "name": "德普",
                 "id": "A037581"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB420": {
         "authorityID": "CA0006037",
@@ -8091,7 +8671,8 @@
                 "name": "華嚴玉",
                 "id": "A037583"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB421": {
         "authorityID": "CA0001325",
@@ -8114,7 +8695,8 @@
                 "name": "上震",
                 "id": "A037584"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB422": {
         "authorityID": "CA0002075",
@@ -8141,7 +8723,8 @@
                 "name": "海茲",
                 "id": "A037586"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB423": {
         "authorityID": "CA0003087",
@@ -8164,7 +8747,8 @@
                 "name": "芳桂",
                 "id": "A016594"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB424": {
         "authorityID": "CA0006038",
@@ -8191,7 +8775,8 @@
                 "name": "葉燮",
                 "id": "A018503"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB425": {
         "authorityID": "CA0001511",
@@ -8214,7 +8799,8 @@
                 "name": "明洞",
                 "id": "A026499"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB426": {
         "authorityID": "CA0006039",
@@ -8222,7 +8808,8 @@
         "type": "textbody",
         "alt": "X1590",
         "title": "錦江禪燈",
-        "juans": 20
+        "juans": 20,
+        "fulltext": false
     },
     "JB427": {
         "authorityID": "CA0006040",
@@ -8245,7 +8832,8 @@
                 "name": "如鵬",
                 "id": "A026344"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB428": {
         "authorityID": "CA0006041",
@@ -8272,7 +8860,8 @@
                 "name": "明珍",
                 "id": "A037589"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB429": {
         "authorityID": "CA0001180",
@@ -8299,7 +8888,8 @@
                 "name": "正燈",
                 "id": "A037591"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB430": {
         "authorityID": "CA0006042",
@@ -8322,7 +8912,8 @@
                 "name": "圓頂",
                 "id": "A019616"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB431": {
         "authorityID": "CA0006043",
@@ -8353,7 +8944,8 @@
                 "name": "徹生",
                 "id": "A016606"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB432": {
         "authorityID": "CA0001478",
@@ -8376,7 +8968,8 @@
                 "name": "清尚",
                 "id": "A037593"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB433": {
         "authorityID": "CA0000521",
@@ -8399,7 +8992,8 @@
                 "name": "智遠",
                 "id": "A019621"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB434": {
         "authorityID": "CA0000831",
@@ -8426,7 +9020,8 @@
                 "name": "弘源",
                 "id": "A037595"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB435": {
         "authorityID": "CA0006044",
@@ -8457,7 +9052,8 @@
                 "name": "超琛",
                 "id": "A019013"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB436": {
         "authorityID": "CA0006045",
@@ -8484,7 +9080,8 @@
                 "name": "明俊",
                 "id": "A037599"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB437": {
         "authorityID": "CA0006046",
@@ -8492,7 +9089,8 @@
         "type": "textbody",
         "alt": "X1582+X1583",
         "title": "續燈正統",
-        "juans": 42
+        "juans": 42,
+        "fulltext": false
     },
     "JB438": {
         "authorityID": "CA0001332",
@@ -8523,7 +9121,8 @@
                 "name": "藍理",
                 "id": "A012025"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB439": {
         "authorityID": "CA0006047",
@@ -8546,7 +9145,8 @@
                 "name": "性統",
                 "id": "A000635"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB440": {
         "authorityID": "CA0006048",
@@ -8569,7 +9169,8 @@
                 "name": "燈洪",
                 "id": "A037602"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB441": {
         "authorityID": "CA0006049",
@@ -8592,7 +9193,8 @@
                 "name": "德林",
                 "id": "A037603"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB442": {
         "authorityID": "CA0006050",
@@ -8615,7 +9217,8 @@
                 "name": "空情",
                 "id": "A037604"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB443": {
         "authorityID": "CA0006051",
@@ -8642,7 +9245,8 @@
                 "name": "張廷勱",
                 "id": "A037606"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB444": {
         "authorityID": "CA0006052",
@@ -8673,7 +9277,8 @@
                 "name": "藍理",
                 "id": "A012025"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB445": {
         "authorityID": "CA0006053",
@@ -8696,7 +9301,8 @@
                 "name": "弘秀",
                 "id": "A037607"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB446": {
         "authorityID": "CA0002082",
@@ -8719,7 +9325,8 @@
                 "name": "福度",
                 "id": "A016619"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB447": {
         "authorityID": "CA0006054",
@@ -8742,7 +9349,8 @@
                 "name": "慶緒",
                 "id": "A026234"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB448": {
         "authorityID": "CA0002078",
@@ -8765,7 +9373,8 @@
                 "name": "寂方",
                 "id": "A037608"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB449": {
         "authorityID": "CA0006055",
@@ -8788,7 +9397,8 @@
                 "name": "廣和",
                 "id": "A037609"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB450": {
         "authorityID": "CA0002251",
@@ -8815,7 +9425,8 @@
                 "name": "道領",
                 "id": "A016604"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB451": {
         "authorityID": "CA0006056",
@@ -8838,7 +9449,8 @@
                 "name": "寂源",
                 "id": "A021486"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB452": {
         "authorityID": "CA0006057",
@@ -8861,7 +9473,8 @@
                 "name": "成純",
                 "id": "A037610"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB453": {
         "authorityID": "CA0006058",
@@ -8884,7 +9497,8 @@
                 "name": "智祥",
                 "id": "A001274"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB454": {
         "authorityID": "CA0006059",
@@ -8907,7 +9521,8 @@
                 "name": "德能",
                 "id": "A017952"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB455": {
         "authorityID": "CA0006060",
@@ -8934,7 +9549,8 @@
                 "name": "超原",
                 "id": "A016573"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB456": {
         "authorityID": "CA0006061",
@@ -8957,7 +9573,8 @@
                 "name": "明德",
                 "id": "A037611"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB457": {
         "authorityID": "CA0006062",
@@ -8984,7 +9601,8 @@
                 "name": "妙心",
                 "id": "A037613"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB458": {
         "authorityID": "CA0006063",
@@ -9011,7 +9629,8 @@
                 "name": "陳聞道",
                 "id": "A037614"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB459": {
         "authorityID": "CA0006064",
@@ -9038,7 +9657,8 @@
                 "name": "海清",
                 "id": "A037616"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB460": {
         "authorityID": "CA0006065",
@@ -9065,7 +9685,8 @@
                 "name": "寂寶",
                 "id": "A037618"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB461": {
         "authorityID": "CA0006066",
@@ -9088,7 +9709,8 @@
                 "name": "超自",
                 "id": "A019632"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB462": {
         "authorityID": "CA0006067",
@@ -9119,7 +9741,8 @@
                 "name": "明智",
                 "id": "A037621"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB463": {
         "authorityID": "CA0006068",
@@ -9142,7 +9765,8 @@
                 "name": "真謙",
                 "id": "A037622"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB464": {
         "authorityID": "CA0006069",
@@ -9165,7 +9789,8 @@
                 "name": "力廣",
                 "id": "A037623"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB465": {
         "authorityID": "CA0006070",
@@ -9188,7 +9813,8 @@
                 "name": "祖圓",
                 "id": "A037624"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB466": {
         "authorityID": "CA0006071",
@@ -9211,7 +9837,8 @@
                 "name": "行悟",
                 "id": "A037625"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB467": {
         "authorityID": "CA0006072",
@@ -9219,7 +9846,8 @@
         "type": "textbody",
         "alt": "X1591",
         "title": "黔南會燈錄",
-        "juans": 8
+        "juans": 8,
+        "fulltext": false
     },
     "JB468": {
         "authorityID": "CA0006073",
@@ -9242,7 +9870,8 @@
                 "name": "學正",
                 "id": "A037626"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB469": {
         "authorityID": "CA0002910",
@@ -9265,7 +9894,8 @@
                 "name": "大悅",
                 "id": "A016585"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB470": {
         "authorityID": "CA0003262",
@@ -9288,7 +9918,8 @@
                 "name": "學愚",
                 "id": "A037627"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB471": {
         "authorityID": "CA0004978",
@@ -9311,7 +9942,8 @@
                 "name": "德儒",
                 "id": "A001693"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB472": {
         "authorityID": "CA0006074",
@@ -9334,7 +9966,8 @@
                 "name": "超宗",
                 "id": "A001368"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB473": {
         "authorityID": "CA0004980",
@@ -9357,7 +9990,8 @@
                 "name": "實性",
                 "id": "A001920"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB474": {
         "authorityID": "CA0004981",
@@ -9384,7 +10018,8 @@
                 "name": "心月",
                 "id": "A037628"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB475": {
         "authorityID": "CA0004982",
@@ -9407,7 +10042,8 @@
                 "name": "行謙",
                 "id": "A000426"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB476": {
         "authorityID": "CA0004983",
@@ -9434,7 +10070,8 @@
                 "name": "慧輅",
                 "id": "A016537"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB477": {
         "authorityID": "CA0004984",
@@ -9461,7 +10098,8 @@
                 "name": "際鋒",
                 "id": "A037629"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB478": {
         "authorityID": "CA0006075",
@@ -9484,7 +10122,8 @@
                 "name": "合哲",
                 "id": "A000331"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB479": {
         "authorityID": "CA0006076",
@@ -9507,7 +10146,8 @@
                 "name": "實悟",
                 "id": "A026337"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB480": {
         "authorityID": "CA0004987",
@@ -9526,7 +10166,8 @@
                 "name": "廣真",
                 "id": "A001662"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB481": {
         "authorityID": "CA0004988",
@@ -9565,7 +10206,8 @@
                 "name": "慧澤",
                 "id": "A037634"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB482": {
         "authorityID": "CA0006077",
@@ -9573,7 +10215,8 @@
         "type": "textbody",
         "alt": "X1282",
         "title": "五家宗旨纂要",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "JB483": {
         "authorityID": "CA0006078",
@@ -9608,7 +10251,8 @@
                 "name": "性濟",
                 "id": "A037637"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB484": {
         "authorityID": "CA0004990",
@@ -9631,7 +10275,8 @@
                 "name": "性燦",
                 "id": "A037638"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB485": {
         "authorityID": "CA0004991",
@@ -9654,7 +10299,8 @@
                 "name": "性胤",
                 "id": "A000631"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB486": {
         "authorityID": "CA0004992",
@@ -9685,7 +10331,8 @@
                 "name": "杜允貞",
                 "id": "A037640"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB487": {
         "authorityID": "CA0004993",
@@ -9708,7 +10355,8 @@
                 "name": "道通",
                 "id": "A001536"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB488": {
         "authorityID": "CA0004994",
@@ -9731,7 +10379,8 @@
                 "name": "普潤",
                 "id": "A001231"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB489": {
         "authorityID": "CA0006079",
@@ -9739,7 +10388,8 @@
         "type": "textbody",
         "alt": "X1435",
         "title": "博山無異禪師廣錄",
-        "juans": 35
+        "juans": 35,
+        "fulltext": false
     },
     "JB490": {
         "authorityID": "CA0006080",
@@ -9762,7 +10412,8 @@
                 "name": "傅鵬",
                 "id": "A001174"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB491": {
         "authorityID": "CA0004996",
@@ -9785,7 +10436,8 @@
                 "name": "如淵",
                 "id": "A000346"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB492": {
         "authorityID": "CA0006081",
@@ -9808,7 +10460,8 @@
                 "name": "普壽",
                 "id": "A001229"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB493": {
         "authorityID": "CA0006082",
@@ -9831,7 +10484,8 @@
                 "name": "光模",
                 "id": "A000323"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB494": {
         "authorityID": "CA0004999",
@@ -9850,7 +10504,8 @@
                 "name": "上思",
                 "id": "A000046"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB495": {
         "authorityID": "CA0006083",
@@ -9873,7 +10528,8 @@
                 "name": "明康",
                 "id": "A000663"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "JB496": {
         "authorityID": "CA0006084",
@@ -9881,7 +10537,8 @@
         "type": "textbody",
         "alt": "X0826",
         "title": "成唯識論音響補遺",
-        "juans": 10
+        "juans": 10,
+        "fulltext": false
     },
     "JB497": {
         "authorityID": "CA0005001",
@@ -9904,6 +10561,7 @@
                 "name": "德敷",
                 "id": "A001691"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

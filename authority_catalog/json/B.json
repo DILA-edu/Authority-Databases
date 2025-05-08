@@ -18,7 +18,8 @@
                 "name": "金知見",
                 "id": "A032660"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0002": {
         "authorityID": "CA0006086",
@@ -34,7 +35,8 @@
                 "name": "道霈",
                 "id": "A001551"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0003": {
         "authorityID": "CA0006087",
@@ -51,7 +53,8 @@
                 "name": "江鍊百",
                 "id": "A000390"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0004": {
         "authorityID": "CA0006088",
@@ -68,7 +71,8 @@
                 "name": "芝峯",
                 "id": "A000769"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0005": {
         "authorityID": "CA0006089",
@@ -85,7 +89,8 @@
                 "name": "夏丏尊",
                 "id": "A000903"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0006": {
         "authorityID": "CA0006090",
@@ -101,7 +106,8 @@
                 "name": "黃謹良",
                 "id": "A035002"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0007": {
         "authorityID": "CA0006091",
@@ -118,7 +124,8 @@
                 "name": "范寄東",
                 "id": "A004850"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0008": {
         "authorityID": "CA0006092",
@@ -139,7 +146,8 @@
                 "name": "范寄東",
                 "id": "A004850"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0009": {
         "authorityID": "CA0006093",
@@ -155,7 +163,8 @@
                 "name": "佐伯旭雅",
                 "id": "A034211"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0010": {
         "authorityID": "CA0006094",
@@ -171,7 +180,8 @@
                 "name": "丘哌博",
                 "id": "A034215"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0011": {
         "authorityID": "CA0006095",
@@ -187,7 +197,8 @@
                 "name": "岫廬",
                 "id": "A034218"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0012": {
         "authorityID": "CA0006096",
@@ -203,7 +214,8 @@
                 "name": "法舫",
                 "id": "A007860"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0013": {
         "authorityID": "CA0006097",
@@ -219,7 +231,8 @@
                 "name": "法舫",
                 "id": "A007860"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0014": {
         "authorityID": "CA0006098",
@@ -236,7 +249,8 @@
                 "name": "法舫",
                 "id": "A007860"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0015": {
         "authorityID": "CA0006099",
@@ -256,7 +270,8 @@
                 "name": "徐鄂雲",
                 "id": "A034220"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0016": {
         "authorityID": "CA0006100",
@@ -272,7 +287,8 @@
                 "name": "法舫",
                 "id": "A007860"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0017": {
         "authorityID": "CA0006101",
@@ -289,7 +305,8 @@
                 "name": "了參",
                 "id": "A024157"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0018": {
         "authorityID": "CA0006102",
@@ -305,7 +322,8 @@
                 "name": "巴宙",
                 "id": "A032558"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0019": {
         "authorityID": "CA0006103",
@@ -322,7 +340,8 @@
                 "name": "湯用彤",
                 "id": "A024596"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0020": {
         "authorityID": "CA0006104",
@@ -342,7 +361,8 @@
                 "name": "雲根",
                 "id": "A034221"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0021": {
         "authorityID": "CA0006105",
@@ -362,7 +382,8 @@
                 "name": "南天棒鄧州",
                 "id": "A029511"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0022": {
         "authorityID": "CA0006106",
@@ -378,7 +399,8 @@
                 "name": "貢噶呼圖克圖",
                 "id": "A034224"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0023": {
         "authorityID": "CA0006107",
@@ -394,7 +416,8 @@
                 "name": "江味農",
                 "id": "A000389"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0024": {
         "authorityID": "CA0006108",
@@ -414,7 +437,8 @@
                 "name": "法舫",
                 "id": "A007860"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0025": {
         "authorityID": "CA0006109",
@@ -434,7 +458,8 @@
                 "name": "法舫",
                 "id": "A007860"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0026": {
         "authorityID": "CA0006110",
@@ -451,7 +476,8 @@
                 "name": "佛瑩",
                 "id": "A034226"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0027": {
         "authorityID": "CA0006111",
@@ -472,7 +498,8 @@
                 "name": "湯薌銘",
                 "id": "A024044"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0028": {
         "authorityID": "CA0006112",
@@ -492,7 +519,8 @@
                 "name": "湯薌銘",
                 "id": "A024044"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0029": {
         "authorityID": "CA0006113",
@@ -512,7 +540,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0030": {
         "authorityID": "CA0006114",
@@ -528,7 +557,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0031": {
         "authorityID": "CA0006115",
@@ -548,7 +578,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0032": {
         "authorityID": "CA0006116",
@@ -573,7 +604,8 @@
                 "name": "弘悲",
                 "id": "A034237"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0033": {
         "authorityID": "CA0006117",
@@ -593,7 +625,8 @@
                 "name": "慧海",
                 "id": "A034238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0034": {
         "authorityID": "CA0006118",
@@ -613,7 +646,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0035": {
         "authorityID": "CA0006119",
@@ -634,7 +668,8 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0036": {
         "authorityID": "CA0006120",
@@ -655,7 +690,8 @@
                 "name": "劉孝蘭",
                 "id": "A034239"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0037": {
         "authorityID": "CA0006121",
@@ -672,7 +708,8 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0038": {
         "authorityID": "CA0006122",
@@ -689,7 +726,8 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0039": {
         "authorityID": "CA0006123",
@@ -710,7 +748,8 @@
                 "name": "印滄",
                 "id": "A034240"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0040": {
         "authorityID": "CA0006124",
@@ -731,7 +770,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0041": {
         "authorityID": "CA0006125",
@@ -751,7 +791,8 @@
                 "name": "王森",
                 "id": "A034243"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0042": {
         "authorityID": "CA0006126",
@@ -772,7 +813,8 @@
                 "name": "楊化群",
                 "id": "A034244"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0043": {
         "authorityID": "CA0006127",
@@ -797,7 +839,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0044": {
         "authorityID": "CA0006128",
@@ -817,7 +860,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0045": {
         "authorityID": "CA0006129",
@@ -837,7 +881,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0046": {
         "authorityID": "CA0006130",
@@ -857,7 +902,8 @@
                 "name": "潭影",
                 "id": "A034249"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0047": {
         "authorityID": "CA0006131",
@@ -878,7 +924,8 @@
                 "name": "常浩",
                 "id": "A034256"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0048": {
         "authorityID": "CA0006132",
@@ -898,7 +945,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0049": {
         "authorityID": "CA0006133",
@@ -918,7 +966,8 @@
                 "name": "超一",
                 "id": "A034269"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0050": {
         "authorityID": "CA0006134",
@@ -938,7 +987,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0051": {
         "authorityID": "CA0006135",
@@ -958,7 +1008,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0052": {
         "authorityID": "CA0006136",
@@ -978,7 +1029,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0053": {
         "authorityID": "CA0006137",
@@ -998,7 +1050,8 @@
                 "name": "超一",
                 "id": "A034269"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0054": {
         "authorityID": "CA0006138",
@@ -1018,7 +1071,8 @@
                 "name": "超一",
                 "id": "A034269"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0055": {
         "authorityID": "CA0006139",
@@ -1039,7 +1093,8 @@
                 "name": "超一",
                 "id": "A034269"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0056": {
         "authorityID": "CA0006140",
@@ -1063,7 +1118,8 @@
                 "name": "趙洪鑄",
                 "id": "A034278"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0057": {
         "authorityID": "CA0006141",
@@ -1083,7 +1139,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0058": {
         "authorityID": "CA0006142",
@@ -1104,7 +1161,8 @@
                 "name": "光明心",
                 "id": "A034282"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0059": {
         "authorityID": "CA0006143",
@@ -1124,7 +1182,8 @@
                 "name": "張妙定蓮菩提金剛正",
                 "id": "A034284"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0060": {
         "authorityID": "CA0006144",
@@ -1148,7 +1207,8 @@
                 "name": "張妙定蓮菩提金剛正",
                 "id": "A034284"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0061": {
         "authorityID": "CA0006145",
@@ -1172,7 +1232,8 @@
                 "name": "滿空",
                 "id": "A034290"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0062": {
         "authorityID": "CA0006146",
@@ -1188,7 +1249,8 @@
                 "name": "貢噶",
                 "id": "A034224"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0063": {
         "authorityID": "CA0006147",
@@ -1209,7 +1271,8 @@
                 "name": "鍾伯毅",
                 "id": "A034291"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0064": {
         "authorityID": "CA0006148",
@@ -1230,7 +1293,8 @@
                 "name": "慈威",
                 "id": "A034299"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0065": {
         "authorityID": "CA0006149",
@@ -1251,7 +1315,8 @@
                 "name": "邢肅芝",
                 "id": "A034300"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0066": {
         "authorityID": "CA0006150",
@@ -1275,7 +1340,8 @@
                 "name": "智湛",
                 "id": "A034301"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0067": {
         "authorityID": "CA0006151",
@@ -1296,7 +1362,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0068": {
         "authorityID": "CA0006152",
@@ -1316,7 +1383,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0069": {
         "authorityID": "CA0006153",
@@ -1336,7 +1404,8 @@
                 "name": "郭元興",
                 "id": "A034296"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0070": {
         "authorityID": "CA0006154",
@@ -1352,7 +1421,8 @@
                 "name": "金慧暢",
                 "id": "A034303"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0071": {
         "authorityID": "CA0006155",
@@ -1368,7 +1438,8 @@
                 "name": "諾那呼圖克圖逞列匠磋",
                 "id": "A034304"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0072": {
         "authorityID": "CA0006156",
@@ -1384,7 +1455,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0073": {
         "authorityID": "CA0006157",
@@ -1408,7 +1480,8 @@
                 "name": "張心若",
                 "id": "A034311"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0074": {
         "authorityID": "CA0006158",
@@ -1424,7 +1497,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0075": {
         "authorityID": "CA0006159",
@@ -1444,7 +1518,8 @@
                 "name": "郭和卿",
                 "id": "A034314"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0076": {
         "authorityID": "CA0006160",
@@ -1465,7 +1540,8 @@
                 "name": "王沂暖",
                 "id": "A034315"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0077": {
         "authorityID": "CA0006161",
@@ -1486,7 +1562,8 @@
                 "name": "周祖謨",
                 "id": "A034316"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0078": {
         "authorityID": "CA0006162",
@@ -1507,7 +1584,8 @@
                 "name": "范祥雍",
                 "id": "A034317"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0079": {
         "authorityID": "CA0006163",
@@ -1523,7 +1601,8 @@
                 "name": "義楚",
                 "id": "A001474"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0080": {
         "authorityID": "CA0006164",
@@ -1544,7 +1623,8 @@
                 "name": "辯機",
                 "id": "A001966"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0081": {
         "authorityID": "CA0006165",
@@ -1560,7 +1640,8 @@
                 "name": "智炬",
                 "id": "A001267"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0082": {
         "authorityID": "CA0006166",
@@ -1576,14 +1657,16 @@
                 "name": "王隨",
                 "id": "A017492"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0083": {
         "authorityID": "CA0006167",
         "vol": "B14",
         "type": "textbody",
         "alt": "JB118",
-        "title": "密藏開禪師遺稿"
+        "title": "密藏開禪師遺稿",
+        "fulltext": false
     },
     "B0084": {
         "authorityID": "CA0006168",
@@ -1599,7 +1682,8 @@
                 "name": "密藏",
                 "id": "A009414"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0085": {
         "authorityID": "CA0006169",
@@ -1619,7 +1703,8 @@
                 "name": "福徵",
                 "id": "A007801"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0086": {
         "authorityID": "CA0006170",
@@ -1635,7 +1720,8 @@
                 "name": "劉世珩",
                 "id": "A034323"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0087": {
         "authorityID": "CA0006171",
@@ -1667,7 +1753,8 @@
                 "name": "濟岳",
                 "id": "A001854"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0088": {
         "authorityID": "CA0006172",
@@ -1676,7 +1763,8 @@
         "category": "新編部類",
         "title": "古今圖書集成選輯",
         "juans": 158,
-        "cjk_chars": 2106564
+        "cjk_chars": 2106564,
+        "fulltext": true
     },
     "B0089": {
         "authorityID": "CA0006173",
@@ -1692,7 +1780,8 @@
                 "name": "李昉",
                 "id": "A019294"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0090": {
         "authorityID": "CA0006174",
@@ -1709,7 +1798,8 @@
                 "name": "段成式",
                 "id": "A000850"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0091": {
         "authorityID": "CA0006175",
@@ -1718,7 +1808,8 @@
         "category": "新編部類",
         "title": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
         "juans": 10,
-        "cjk_chars": 52988
+        "cjk_chars": 52988,
+        "fulltext": true
     },
     "B0092": {
         "authorityID": "CA0006176",
@@ -1727,7 +1818,8 @@
         "category": "新編部類",
         "title": "唐會要、五代會要、明書、明會典選輯",
         "juans": 8,
-        "cjk_chars": 34738
+        "cjk_chars": 34738,
+        "fulltext": true
     },
     "B0093": {
         "authorityID": "CA0006177",
@@ -1743,7 +1835,8 @@
                 "name": "陳士元",
                 "id": "A034326"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0094": {
         "authorityID": "CA0006178",
@@ -1763,7 +1856,8 @@
                 "name": "楊億",
                 "id": "A001446"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0095": {
         "authorityID": "CA0006179",
@@ -1780,7 +1874,8 @@
                 "name": "圓仁",
                 "id": "A001402"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0096": {
         "authorityID": "CA0006180",
@@ -1789,7 +1884,8 @@
         "category": "新編部類",
         "title": "佛教繪畫史料",
         "juans": 6,
-        "cjk_chars": 19998
+        "cjk_chars": 19998,
+        "fulltext": true
     },
     "B0097": {
         "authorityID": "CA0006181",
@@ -1805,7 +1901,8 @@
                 "name": "智達",
                 "id": "A034330"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0098": {
         "authorityID": "CA0006182",
@@ -1821,7 +1918,8 @@
                 "name": "來果",
                 "id": "A023711"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0099": {
         "authorityID": "CA0006183",
@@ -1837,14 +1935,16 @@
                 "name": "王夫之",
                 "id": "A019145"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0100": {
         "authorityID": "CA0006184",
         "vol": "B18",
         "type": "textbody",
         "alt": "JB325",
-        "title": "解惑編"
+        "title": "解惑編",
+        "fulltext": false
     },
     "B0101": {
         "authorityID": "CA0006185",
@@ -1861,14 +1961,16 @@
                 "name": "菩提達磨",
                 "id": "A001361"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0102": {
         "authorityID": "CA0006186",
         "vol": "B18",
         "type": "textbody",
         "alt": "JB090",
-        "title": "續原教論"
+        "title": "續原教論",
+        "fulltext": false
     },
     "B0103": {
         "authorityID": "CA0006187",
@@ -1884,91 +1986,104 @@
                 "name": "無著道忠",
                 "id": "A001319"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0104": {
         "authorityID": "CA0006188",
         "vol": "B20",
         "type": "textbody",
         "alt": "P1612",
-        "title": "諸佛世尊如來菩薩尊者名稱歌曲"
+        "title": "諸佛世尊如來菩薩尊者名稱歌曲",
+        "fulltext": false
     },
     "B0105": {
         "authorityID": "CA0006189",
         "vol": "B20",
         "type": "textbody",
         "alt": "JB097",
-        "title": "天樂鳴空集"
+        "title": "天樂鳴空集",
+        "fulltext": false
     },
     "B0106": {
         "authorityID": "CA0006190",
         "vol": "B20",
         "type": "textbody",
         "alt": "JB098",
-        "title": "黃蘗無念禪師復問"
+        "title": "黃蘗無念禪師復問",
+        "fulltext": false
     },
     "B0107": {
         "authorityID": "CA0006191",
         "vol": "B20",
         "type": "textbody",
         "alt": "L1651",
-        "title": "南宋江陰軍乾明院羅漢尊號碑"
+        "title": "南宋江陰軍乾明院羅漢尊號碑",
+        "fulltext": false
     },
     "B0108": {
         "authorityID": "CA0006192",
         "vol": "B20",
         "type": "textbody",
         "alt": "X1235",
-        "title": "寂音尊者智證傳"
+        "title": "寂音尊者智證傳",
+        "fulltext": false
     },
     "B0109": {
         "authorityID": "CA0006193",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB135",
-        "title": "石門文字禪"
+        "title": "石門文字禪",
+        "fulltext": false
     },
     "B0110": {
         "authorityID": "CA0006194",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB127",
-        "title": "無依道人錄"
+        "title": "無依道人錄",
+        "fulltext": false
     },
     "B0111": {
         "authorityID": "CA0006195",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB128",
-        "title": "普明禪師牧牛圖頌"
+        "title": "普明禪師牧牛圖頌",
+        "fulltext": false
     },
     "B0112": {
         "authorityID": "CA0006196",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB129",
-        "title": "牧牛圖頌"
+        "title": "牧牛圖頌",
+        "fulltext": false
     },
     "B0113": {
         "authorityID": "CA0006197",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB295",
-        "title": "學佛考訓"
+        "title": "學佛考訓",
+        "fulltext": false
     },
     "B0114": {
         "authorityID": "CA0006198",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB298",
-        "title": "艸峰憲禪師語錄"
+        "title": "艸峰憲禪師語錄",
+        "fulltext": false
     },
     "B0115": {
         "authorityID": "CA0006199",
         "vol": "B21",
         "type": "textbody",
         "alt": "JB299",
-        "title": "三峰藏和尚語錄"
+        "title": "三峰藏和尚語錄",
+        "fulltext": false
     },
     "B0116": {
         "authorityID": "CA0006200",
@@ -1984,7 +2099,8 @@
                 "name": "明成祖朱棣",
                 "id": "A000149"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0117": {
         "authorityID": "CA0006201",
@@ -2005,7 +2121,8 @@
                 "name": "丁福保",
                 "id": "A007851"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0118": {
         "authorityID": "CA0006202",
@@ -2025,7 +2142,8 @@
                 "name": "劉霞彩",
                 "id": "A034331"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0119": {
         "authorityID": "CA0006203",
@@ -2041,7 +2159,8 @@
                 "name": "汪宗衍",
                 "id": "A034907"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0120": {
         "authorityID": "CA0006204",
@@ -2049,63 +2168,72 @@
         "type": "textbody",
         "alt": "JB277",
         "title": "雲棲大師遺稿",
-        "juans": 3
+        "juans": 3,
+        "fulltext": false
     },
     "B0121": {
         "authorityID": "CA0006205",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "雲棲大師塔銘"
+        "title": "雲棲大師塔銘",
+        "fulltext": false
     },
     "B0122": {
         "authorityID": "CA0006206",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "雲棲紀事"
+        "title": "雲棲紀事",
+        "fulltext": false
     },
     "B0123": {
         "authorityID": "CA0006207",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "竹窗隨筆"
+        "title": "竹窗隨筆",
+        "fulltext": false
     },
     "B0124": {
         "authorityID": "CA0006208",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "竹窗二筆"
+        "title": "竹窗二筆",
+        "fulltext": false
     },
     "B0125": {
         "authorityID": "CA0006209",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "竹窗三筆"
+        "title": "竹窗三筆",
+        "fulltext": false
     },
     "B0126": {
         "authorityID": "CA0006210",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "正訛集"
+        "title": "正訛集",
+        "fulltext": false
     },
     "B0127": {
         "authorityID": "CA0006211",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "雲棲共住規約"
+        "title": "雲棲共住規約",
+        "fulltext": false
     },
     "B0128": {
         "authorityID": "CA0006212",
         "vol": "B23",
         "type": "textbody",
         "alt": "JB277",
-        "title": "直道錄"
+        "title": "直道錄",
+        "fulltext": false
     },
     "B0129": {
         "authorityID": "CA0006213",
@@ -2113,7 +2241,8 @@
         "type": "textbody",
         "alt": "JB277",
         "title": "山房雜錄",
-        "juans": 2
+        "juans": 2,
+        "fulltext": false
     },
     "B0130": {
         "authorityID": "CA0006214",
@@ -2129,7 +2258,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0131": {
         "authorityID": "CA0006216",
@@ -2145,7 +2275,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0132": {
         "authorityID": "CA0006217",
@@ -2161,7 +2292,8 @@
                 "name": "空谷景隆",
                 "id": "A001245"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0133": {
         "authorityID": "CA0006218",
@@ -2177,7 +2309,8 @@
                 "name": "空谷景隆",
                 "id": "A001245"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0134": {
         "authorityID": "CA0006219",
@@ -2193,7 +2326,8 @@
                 "name": "鍾始聲",
                 "id": "A001871"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0135": {
         "authorityID": "CA0006221",
@@ -2209,7 +2343,8 @@
                 "name": "笑隱大訢",
                 "id": "A000062"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0136": {
         "authorityID": "CA0006222",
@@ -2225,7 +2360,8 @@
                 "name": "智旭",
                 "id": "A001257"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0137": {
         "authorityID": "CA0006223",
@@ -2241,13 +2377,15 @@
                 "name": "智楷",
                 "id": "A001284"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0138": {
         "authorityID": "CA0008618",
         "alt": "GA0062",
         "category": "新編部類",
-        "title": "開元寺志"
+        "title": "開元寺志",
+        "fulltext": false
     },
     "B0139": {
         "authorityID": "CA0006224",
@@ -2263,7 +2401,8 @@
                 "name": "陳沂",
                 "id": "A034338"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0140": {
         "authorityID": "CA0006225",
@@ -2279,7 +2418,8 @@
                 "name": "徐𤊹",
                 "id": "A005179"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0141": {
         "authorityID": "CA0006226",
@@ -2295,7 +2435,8 @@
                 "name": "傅梅",
                 "id": "A034340"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0142": {
         "authorityID": "CA0006227",
@@ -2312,7 +2453,8 @@
                 "name": "胡適",
                 "id": "A023813"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0143": {
         "authorityID": "CA0006228",
@@ -2329,7 +2471,8 @@
                 "name": "胡適",
                 "id": "A023813"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0144": {
         "authorityID": "CA0006229",
@@ -2349,7 +2492,8 @@
                 "name": "筠",
                 "id": "A034921"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0145": {
         "authorityID": "CA0006230",
@@ -2365,7 +2509,8 @@
                 "name": "中峰明本",
                 "id": "A000655"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0146": {
         "authorityID": "CA0006231",
@@ -2374,7 +2519,8 @@
         "category": "新編部類",
         "title": "房山雲居寺石經──經文、題記、碑銘等拓片之選輯",
         "juans": 5,
-        "cjk_chars": 48488
+        "cjk_chars": 48488,
+        "fulltext": true
     },
     "B0147": {
         "authorityID": "CA0006232",
@@ -2391,7 +2537,8 @@
                 "name": "矢吹慶輝",
                 "id": "A034342"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0148": {
         "authorityID": "CA0006233",
@@ -2407,7 +2554,8 @@
                 "name": "徐長孺",
                 "id": "A034443"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0149": {
         "authorityID": "CA0006234",
@@ -2423,7 +2571,8 @@
                 "name": "李屏山",
                 "id": "A022444"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0150": {
         "authorityID": "CA0006235",
@@ -2439,7 +2588,8 @@
                 "name": "姚廣孝",
                 "id": "A001522"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0151": {
         "authorityID": "CA0006237",
@@ -2455,7 +2605,8 @@
                 "name": "喻謙",
                 "id": "A034445"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0152": {
         "authorityID": "CA0006238",
@@ -2471,7 +2622,8 @@
                 "name": "音緯",
                 "id": "A034447"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0153": {
         "authorityID": "CA0006239",
@@ -2487,14 +2639,16 @@
                 "name": "晁逈",
                 "id": "A009420"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0154": {
         "authorityID": "CA0006240",
         "vol": "B28",
         "type": "textbody",
         "alt": "JB110",
-        "title": "宋文憲公護法錄"
+        "title": "宋文憲公護法錄",
+        "fulltext": false
     },
     "B0155": {
         "authorityID": "CA0006241",
@@ -2510,7 +2664,8 @@
                 "name": "徐昌治",
                 "id": "A000922"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0156": {
         "authorityID": "CA0006242",
@@ -2527,7 +2682,8 @@
                 "name": "屠隆",
                 "id": "A007025"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0157": {
         "authorityID": "CA0006243",
@@ -2543,7 +2699,8 @@
                 "name": "楊文會",
                 "id": "A001440"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0158": {
         "authorityID": "CA0006244",
@@ -2563,7 +2720,8 @@
                 "name": "許光清",
                 "id": "A034454"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0159": {
         "authorityID": "CA0006245",
@@ -2579,7 +2737,8 @@
                 "name": "袁了凡",
                 "id": "A008362"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0160": {
         "authorityID": "CA0006246",
@@ -2595,7 +2754,8 @@
                 "name": "葛寅亮",
                 "id": "A004190"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0161": {
         "authorityID": "CA0006247",
@@ -2611,14 +2771,16 @@
                 "name": "吳之鯨",
                 "id": "A022597"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0162": {
         "authorityID": "CA0006248",
         "vol": "B29",
         "type": "textbody",
         "alt": "GA0086",
-        "title": "黃檗山志"
+        "title": "黃檗山志",
+        "fulltext": false
     },
     "B0163": {
         "authorityID": "CA0006249",
@@ -2638,42 +2800,48 @@
                 "name": "釋真樸",
                 "id": "A000960"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0164": {
         "authorityID": "CA0006250",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0009",
-        "title": "普陀洛迦新志"
+        "title": "普陀洛迦新志",
+        "fulltext": false
     },
     "B0165": {
         "authorityID": "CA0006251",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0081",
-        "title": "清涼山志"
+        "title": "清涼山志",
+        "fulltext": false
     },
     "B0166": {
         "authorityID": "CA0006252",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0077",
-        "title": "九華山志"
+        "title": "九華山志",
+        "fulltext": false
     },
     "B0167": {
         "authorityID": "CA0006253",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0049",
-        "title": "峨眉山志"
+        "title": "峨眉山志",
+        "fulltext": false
     },
     "B0168": {
         "authorityID": "CA0006254",
         "vol": "B30",
         "type": "textbody",
         "alt": "GA0089",
-        "title": "天台山方外志"
+        "title": "天台山方外志",
+        "fulltext": false
     },
     "B0169": {
         "authorityID": "CA0006255",
@@ -2682,7 +2850,8 @@
         "category": "新編部類",
         "title": "朝鮮寺剎史料",
         "juans": 2,
-        "cjk_chars": 317407
+        "cjk_chars": 317407,
+        "fulltext": true
     },
     "B0170": {
         "authorityID": "CA0006256",
@@ -2699,7 +2868,8 @@
                 "name": "李能和",
                 "id": "A034473"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0171": {
         "authorityID": "CA0006257",
@@ -2715,7 +2885,8 @@
                 "name": "凝然",
                 "id": "A001772"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0172": {
         "authorityID": "CA0006258",
@@ -2732,7 +2903,8 @@
                 "name": "富永仲基",
                 "id": "A034474"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0173": {
         "authorityID": "CA0006259",
@@ -2749,7 +2921,8 @@
                 "name": "師鍊",
                 "id": "A000919"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0174": {
         "authorityID": "CA0006260",
@@ -2766,7 +2939,8 @@
                 "name": "成尋",
                 "id": "A023182"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0175": {
         "authorityID": "CA0006261",
@@ -2783,7 +2957,8 @@
                 "name": "榮西",
                 "id": "A001624"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0176": {
         "authorityID": "CA0006262",
@@ -2804,7 +2979,8 @@
                 "name": "英園",
                 "id": "A034476"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0177": {
         "authorityID": "CA0006263",
@@ -2821,7 +2997,8 @@
                 "name": "義觀",
                 "id": "A034478"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0178": {
         "authorityID": "CA0006264",
@@ -2831,7 +3008,8 @@
         "title": "東大寺六宗未決義",
         "juans": 1,
         "cjk_chars": 3563,
-        "en_words": 1
+        "en_words": 1,
+        "fulltext": true
     },
     "B0179": {
         "authorityID": "CA0006265",
@@ -2848,7 +3026,8 @@
                 "name": "師鍊",
                 "id": "A000919"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0180": {
         "authorityID": "CA0006266",
@@ -2865,7 +3044,8 @@
                 "name": "定仙",
                 "id": "A034480"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0181": {
         "authorityID": "CA0006267",
@@ -2882,7 +3062,8 @@
                 "name": "賴瑜",
                 "id": "A001828"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0182": {
         "authorityID": "CA0006268",
@@ -2899,7 +3080,8 @@
                 "name": "凝然",
                 "id": "A001772"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0183": {
         "authorityID": "CA0006269",
@@ -2916,7 +3098,8 @@
                 "name": "慧中",
                 "id": "A034481"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0184": {
         "authorityID": "CA0006270",
@@ -2933,7 +3116,8 @@
                 "name": "普寂",
                 "id": "A001219"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0185": {
         "authorityID": "CA0006271",
@@ -2950,7 +3134,8 @@
                 "name": "良山",
                 "id": "A034489"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0186": {
         "authorityID": "CA0006272",
@@ -2966,7 +3151,8 @@
                 "name": "凝然",
                 "id": "A001772"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0187": {
         "authorityID": "CA0006273",
@@ -2983,14 +3169,16 @@
                 "name": "元曉",
                 "id": "A000136"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0188": {
         "authorityID": "CA0006274",
         "vol": "B32",
         "type": "textbody",
         "alt": "X0860",
-        "title": "判比量論"
+        "title": "判比量論",
+        "fulltext": false
     },
     "B0189": {
         "authorityID": "CA0006275",
@@ -3006,7 +3194,8 @@
                 "name": "雪岑",
                 "id": "A034492"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0190": {
         "authorityID": "CA0006276",
@@ -3022,7 +3211,8 @@
                 "name": "雪岑",
                 "id": "A034492"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0191": {
         "authorityID": "CA0006277",
@@ -3042,7 +3232,8 @@
                 "name": "聖奎",
                 "id": "A034500"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0192": {
         "authorityID": "CA0006278",
@@ -3058,7 +3249,8 @@
                 "name": "梅鼎祚",
                 "id": "A034504"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0193": {
         "authorityID": "CA0006279",
@@ -3074,7 +3266,8 @@
                 "name": "周永年",
                 "id": "A018586"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0194": {
         "authorityID": "CA0006280",
@@ -3091,7 +3284,8 @@
                 "name": "蔡念生",
                 "id": "A010533"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0195": {
         "authorityID": "CA0006281",
@@ -3108,7 +3302,8 @@
                 "name": "王錫",
                 "id": "A034507"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0196": {
         "authorityID": "CA0006282",
@@ -3118,7 +3313,8 @@
         "title": "大乘中宗見解",
         "juans": 1,
         "cjk_chars": 3143,
-        "en_words": 2770
+        "en_words": 2770,
+        "fulltext": true
     },
     "B0197": {
         "authorityID": "CA0006283",
@@ -3139,7 +3335,8 @@
                 "name": "唐季雍",
                 "id": "A034515"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "B0198": {
         "authorityID": "CA0006284",
@@ -3156,7 +3353,8 @@
                 "name": "雅蘇瑪蒂書達．踏薩",
                 "id": "A034521"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba001": {
         "authorityID": "CA0008573",
@@ -3172,7 +3370,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba002": {
         "authorityID": "CA0008574",
@@ -3189,7 +3388,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba003": {
         "authorityID": "CA0008575",
@@ -3205,7 +3405,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba004": {
         "authorityID": "CA0008576",
@@ -3221,7 +3422,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba005": {
         "authorityID": "CA0008577",
@@ -3237,7 +3439,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba006": {
         "authorityID": "CA0008578",
@@ -3253,7 +3456,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba007": {
         "authorityID": "CA0008579",
@@ -3270,7 +3474,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba008": {
         "authorityID": "CA0008580",
@@ -3286,7 +3491,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba009": {
         "authorityID": "CA0008581",
@@ -3302,7 +3508,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba010": {
         "authorityID": "CA0008582",
@@ -3319,7 +3526,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba011": {
         "authorityID": "CA0008583",
@@ -3335,7 +3543,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba012": {
         "authorityID": "CA0008584",
@@ -3352,7 +3561,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba013": {
         "authorityID": "CA0008585",
@@ -3368,7 +3578,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba014": {
         "authorityID": "CA0008586",
@@ -3384,7 +3595,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba015": {
         "authorityID": "CA0008587",
@@ -3400,7 +3612,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba016": {
         "authorityID": "CA0008588",
@@ -3416,7 +3629,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba017": {
         "authorityID": "CA0008589",
@@ -3432,7 +3646,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba018": {
         "authorityID": "CA0008590",
@@ -3449,7 +3664,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba019": {
         "authorityID": "CA0008592",
@@ -3465,7 +3681,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba020": {
         "authorityID": "CA0008593",
@@ -3481,7 +3698,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba021": {
         "authorityID": "CA0008594",
@@ -3497,7 +3715,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba022": {
         "authorityID": "CA0008595",
@@ -3514,7 +3733,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba023": {
         "authorityID": "CA0008596",
@@ -3531,7 +3751,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba024": {
         "authorityID": "CA0008597",
@@ -3548,7 +3769,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba025": {
         "authorityID": "CA0008598",
@@ -3564,7 +3786,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba026": {
         "authorityID": "CA0008599",
@@ -3580,7 +3803,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba027": {
         "authorityID": "CA0008600",
@@ -3597,7 +3821,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba028": {
         "authorityID": "CA0008601",
@@ -3613,7 +3838,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba029": {
         "authorityID": "CA0008602",
@@ -3629,7 +3855,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba030": {
         "authorityID": "CA0008603",
@@ -3645,7 +3872,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba031": {
         "authorityID": "CA0008604",
@@ -3661,7 +3889,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba032": {
         "authorityID": "CA0008605",
@@ -3678,7 +3907,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba033": {
         "authorityID": "CA0008606",
@@ -3695,7 +3925,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba034": {
         "authorityID": "CA0008607",
@@ -3711,7 +3942,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba035": {
         "authorityID": "CA0008608",
@@ -3728,7 +3960,8 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "Ba036": {
         "authorityID": "CA0008609",
@@ -3745,6 +3978,7 @@
                 "name": "藍吉富",
                 "id": "A024238"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

@@ -16,7 +16,8 @@
                 "name": "惟白",
                 "id": "A001061"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1163": {
         "authorityID": "CA0007990",
@@ -35,7 +36,8 @@
                 "name": "玄應",
                 "id": "A000300"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1169": {
         "authorityID": "CA0007991",
@@ -54,7 +56,8 @@
                 "name": "處觀",
                 "id": "A001143"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1665": {
         "authorityID": "CA0007992",
@@ -73,7 +76,8 @@
                 "name": "羅濬",
                 "id": "A001905"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1666": {
         "authorityID": "CA0007993",
@@ -82,7 +86,8 @@
         "category": "密教部類",
         "title": "梵本大悲神咒",
         "juans": 1,
-        "cjk_chars": 1180
+        "cjk_chars": 1180,
+        "fulltext": true
     },
     "C1679": {
         "authorityID": "CA0007994",
@@ -101,7 +106,8 @@
                 "name": "趙炅",
                 "id": "A001640"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1680": {
         "authorityID": "CA0007995",
@@ -120,7 +126,8 @@
                 "name": "趙炅",
                 "id": "A001640"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1710": {
         "authorityID": "CA0007996",
@@ -143,7 +150,8 @@
                 "name": "淨戒",
                 "id": "A001101"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1720": {
         "authorityID": "CA0007997",
@@ -170,7 +178,8 @@
                 "name": "淨戒",
                 "id": "A001101"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1821": {
         "authorityID": "CA0007998",
@@ -193,7 +202,8 @@
                 "name": "楊彥國",
                 "id": "A001442"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "C1937": {
         "authorityID": "CA0007999",
@@ -212,6 +222,7 @@
                 "name": "雙徑山僧眾",
                 "id": "A001890"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

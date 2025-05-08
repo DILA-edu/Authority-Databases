@@ -54,6 +54,9 @@
    * `id：地名 Authority ID`
    * `lat：地名之緯度`
    * `long：地名之經度`
+* `fulltext：是否有全文`
+   * `Data type：Boolean`
+   * `true = 有全文，false = 無全文`
    
 Maintainer
 ==========

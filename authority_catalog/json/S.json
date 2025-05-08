@@ -16,7 +16,8 @@
                 "name": "詮明",
                 "id": "A001493"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "S0047": {
         "authorityID": "CA0008317",
@@ -25,6 +26,7 @@
         "category": "經集部類",
         "title": "上生經疏隨新抄科文",
         "juans": 1,
-        "cjk_chars": 7380
+        "cjk_chars": 7380,
+        "fulltext": true
     }
 }

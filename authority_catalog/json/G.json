@@ -16,7 +16,8 @@
                 "name": "不空",
                 "id": "A000095"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G1977": {
         "authorityID": "CA0008092",
@@ -35,7 +36,8 @@
                 "name": "湛然",
                 "id": "A001307"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2073": {
         "authorityID": "CA0008093",
@@ -54,7 +56,8 @@
                 "name": "明太宗",
                 "id": "A000149"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2075": {
         "authorityID": "CA0008094",
@@ -73,7 +76,8 @@
                 "name": "明太宗",
                 "id": "A000149"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2084": {
         "authorityID": "CA0008095",
@@ -89,7 +93,8 @@
                 "name": "道元",
                 "id": "A001499"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2086": {
         "authorityID": "CA0008096",
@@ -105,7 +110,8 @@
                 "name": "瑩山",
                 "id": "A001758"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2250": {
         "authorityID": "CA0008626",
@@ -124,7 +130,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2251": {
         "authorityID": "CA0008627",
@@ -144,7 +151,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2252": {
         "authorityID": "CA0008628",
@@ -163,7 +171,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2253": {
         "authorityID": "CA0008629",
@@ -182,7 +191,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2254": {
         "authorityID": "CA0008630",
@@ -201,7 +211,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2255": {
         "authorityID": "CA0008650",
@@ -220,7 +231,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2256": {
         "authorityID": "CA0008631",
@@ -239,7 +251,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2257": {
         "authorityID": "CA0008632",
@@ -258,7 +271,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2258": {
         "authorityID": "CA0008651",
@@ -277,7 +291,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2259": {
         "authorityID": "CA0008652",
@@ -296,7 +311,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2260": {
         "authorityID": "CA0008653",
@@ -315,7 +331,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2261": {
         "authorityID": "CA0008654",
@@ -335,7 +352,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2262": {
         "authorityID": "CA0008655",
@@ -354,7 +372,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2263": {
         "authorityID": "CA0008656",
@@ -373,7 +392,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2264": {
         "authorityID": "CA0008657",
@@ -392,7 +412,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2265": {
         "authorityID": "CA0008658",
@@ -411,7 +432,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2266": {
         "authorityID": "CA0008659",
@@ -430,7 +452,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2267": {
         "authorityID": "CA0008660",
@@ -449,7 +472,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2268": {
         "authorityID": "CA0008633",
@@ -468,7 +492,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2269": {
         "authorityID": "CA0008634",
@@ -487,7 +512,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2270": {
         "authorityID": "CA0008635",
@@ -506,7 +532,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2271": {
         "authorityID": "CA0008636",
@@ -525,7 +552,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2272": {
         "authorityID": "CA0008637",
@@ -544,7 +572,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2273": {
         "authorityID": "CA0008638",
@@ -563,7 +592,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2274": {
         "authorityID": "CA0008639",
@@ -582,7 +612,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2275": {
         "authorityID": "CA0008640",
@@ -601,7 +632,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2276": {
         "authorityID": "CA0008641",
@@ -620,7 +652,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2277": {
         "authorityID": "CA0008642",
@@ -639,7 +672,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2278": {
         "authorityID": "CA0008643",
@@ -658,7 +692,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2279": {
         "authorityID": "CA0008644",
@@ -677,7 +712,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2280": {
         "authorityID": "CA0008645",
@@ -696,7 +732,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2281": {
         "authorityID": "CA0008646",
@@ -715,7 +752,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2282": {
         "authorityID": "CA0008647",
@@ -734,7 +772,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2283": {
         "authorityID": "CA0008648",
@@ -753,7 +792,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2284": {
         "authorityID": "CA0008649",
@@ -772,7 +812,8 @@
                 "name": "弘一",
                 "id": "A000236"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2517": {
         "authorityID": "CA0008665",
@@ -795,7 +836,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2518": {
         "authorityID": "CA0008666",
@@ -818,7 +860,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2550": {
         "authorityID": "CA0008667",
@@ -842,7 +885,8 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "G2551": {
         "authorityID": "CA0008668",
@@ -865,6 +909,7 @@
                 "name": "法尊",
                 "id": "A004774"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

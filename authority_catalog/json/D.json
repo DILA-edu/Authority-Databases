@@ -6,7 +6,8 @@
         "category": "國圖善本部類",
         "title": "佛說佛名經（存卷四）",
         "juans": 1,
-        "cjk_chars": 4398
+        "cjk_chars": 4398,
+        "fulltext": true
     },
     "D8680": {
         "authorityID": "CA0008001",
@@ -15,7 +16,8 @@
         "category": "國圖善本部類",
         "title": "佛說佛名經（存卷七）",
         "juans": 1,
-        "cjk_chars": 9385
+        "cjk_chars": 9385,
+        "fulltext": true
     },
     "D8701": {
         "authorityID": "CA0008002",
@@ -24,7 +26,8 @@
         "category": "國圖善本部類",
         "title": "盂蘭盆經講經文（前殘）",
         "juans": 1,
-        "cjk_chars": 1417
+        "cjk_chars": 1417,
+        "fulltext": true
     },
     "D8724": {
         "authorityID": "CA0008003",
@@ -43,7 +46,8 @@
                 "name": "楊仙鸖",
                 "id": "A034554"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8774": {
         "authorityID": "CA0008004",
@@ -52,7 +56,8 @@
         "category": "國圖善本部類",
         "title": "羯磨文（前殘）",
         "juans": 1,
-        "cjk_chars": 14943
+        "cjk_chars": 14943,
+        "fulltext": true
     },
     "D8775": {
         "authorityID": "CA0008005",
@@ -61,7 +66,8 @@
         "category": "國圖善本部類",
         "title": "式叉摩那尼六法",
         "juans": 1,
-        "cjk_chars": 2347
+        "cjk_chars": 2347,
+        "fulltext": true
     },
     "D8779": {
         "authorityID": "CA0008006",
@@ -80,7 +86,8 @@
                 "name": "釋慧融",
                 "id": "A034559"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8780": {
         "authorityID": "CA0008007",
@@ -89,7 +96,8 @@
         "category": "國圖善本部類",
         "title": "小鈔",
         "juans": 1,
-        "cjk_chars": 3864
+        "cjk_chars": 3864,
+        "fulltext": true
     },
     "D8790": {
         "authorityID": "CA0008008",
@@ -98,7 +106,8 @@
         "category": "國圖善本部類",
         "title": "佛性觀（前殘）",
         "juans": 1,
-        "cjk_chars": 2727
+        "cjk_chars": 2727,
+        "fulltext": true
     },
     "D8814": {
         "authorityID": "CA0008009",
@@ -107,7 +116,8 @@
         "category": "國圖善本部類",
         "title": "佛頂尊勝陀羅尼等靈異神咒二十道",
         "juans": 1,
-        "cjk_chars": 3845
+        "cjk_chars": 3845,
+        "fulltext": true
     },
     "D8817": {
         "authorityID": "CA0008010",
@@ -116,7 +126,8 @@
         "category": "國圖善本部類",
         "title": "佛說觀世音三昧經",
         "juans": 1,
-        "cjk_chars": 3357
+        "cjk_chars": 3357,
+        "fulltext": true
     },
     "D8820": {
         "authorityID": "CA0008011",
@@ -125,7 +136,8 @@
         "category": "國圖善本部類",
         "title": "新菩薩經",
         "juans": 1,
-        "cjk_chars": 154
+        "cjk_chars": 154,
+        "fulltext": true
     },
     "D8838": {
         "authorityID": "CA0008012",
@@ -144,7 +156,8 @@
                 "name": "釋思聰",
                 "id": "A034561"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8842": {
         "authorityID": "CA0008013",
@@ -160,7 +173,8 @@
                 "name": "釋圓耳",
                 "id": "A034568"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8853": {
         "authorityID": "CA0008014",
@@ -169,7 +183,8 @@
         "category": "國圖善本部類",
         "title": "梵網古跡抄",
         "juans": 8,
-        "cjk_chars": 162279
+        "cjk_chars": 162279,
+        "fulltext": true
     },
     "D8859": {
         "authorityID": "CA0008015",
@@ -188,7 +203,8 @@
                 "name": "釋弘演",
                 "id": "A034569"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8862": {
         "authorityID": "CA0008016",
@@ -207,7 +223,8 @@
                 "name": "釋觀衡",
                 "id": "A001993"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8863": {
         "authorityID": "CA0008017",
@@ -227,7 +244,8 @@
                 "name": "釋一行",
                 "id": "A000008"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8864": {
         "authorityID": "CA0008018",
@@ -243,7 +261,8 @@
                 "name": "釋運敞",
                 "id": "A001496"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8869": {
         "authorityID": "CA0008019",
@@ -252,7 +271,8 @@
         "category": "國圖善本部類",
         "title": "惟教三昧（存卷下　前殘）",
         "juans": 1,
-        "cjk_chars": 6815
+        "cjk_chars": 6815,
+        "fulltext": true
     },
     "D8871": {
         "authorityID": "CA0008020",
@@ -261,7 +281,8 @@
         "category": "國圖善本部類",
         "title": "□者眷屬",
         "juans": 1,
-        "cjk_chars": 4948
+        "cjk_chars": 4948,
+        "fulltext": true
     },
     "D8874": {
         "authorityID": "CA0008021",
@@ -280,7 +301,8 @@
                 "name": "釋其甲",
                 "id": "A034572"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8879": {
         "authorityID": "CA0008022",
@@ -299,7 +321,8 @@
                 "name": "釋廣伸",
                 "id": "A001657"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8880": {
         "authorityID": "CA0008023",
@@ -315,7 +338,8 @@
                 "name": "釋善珠",
                 "id": "A001337"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8881": {
         "authorityID": "CA0008024",
@@ -331,7 +355,8 @@
                 "name": "釋善珠",
                 "id": "A001337"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8882": {
         "authorityID": "CA0008025",
@@ -347,7 +372,8 @@
                 "name": "釋實順",
                 "id": "A034579"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8883": {
         "authorityID": "CA0008026",
@@ -356,7 +382,8 @@
         "category": "國圖善本部類",
         "title": "百法問答聞書抄",
         "juans": 6,
-        "cjk_chars": 75551
+        "cjk_chars": 75551,
+        "fulltext": true
     },
     "D8885": {
         "authorityID": "CA0008027",
@@ -375,7 +402,8 @@
                 "name": "吳樹虛",
                 "id": "A034583"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8888": {
         "authorityID": "CA0008028",
@@ -394,7 +422,8 @@
                 "name": "釋窺基",
                 "id": "A001019"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8889": {
         "authorityID": "CA0008029",
@@ -410,7 +439,8 @@
                 "name": "釋高範",
                 "id": "A034584"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8890": {
         "authorityID": "CA0008030",
@@ -429,7 +459,8 @@
                 "name": "吳樹虛",
                 "id": "A034583"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8891": {
         "authorityID": "CA0008031",
@@ -445,7 +476,8 @@
                 "name": "釋叡尊",
                 "id": "A001839"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8892": {
         "authorityID": "CA0008032",
@@ -461,7 +493,8 @@
                 "name": "釋高範",
                 "id": "A034584"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8893": {
         "authorityID": "CA0008033",
@@ -477,7 +510,8 @@
                 "name": "釋龍謙",
                 "id": "A034585"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8894": {
         "authorityID": "CA0008034",
@@ -486,7 +520,8 @@
         "category": "國圖善本部類",
         "title": "頌義八拔萃",
         "juans": 5,
-        "cjk_chars": 116788
+        "cjk_chars": 116788,
+        "fulltext": true
     },
     "D8895": {
         "authorityID": "CA0008035",
@@ -502,7 +537,8 @@
                 "name": "釋良光",
                 "id": "A034586"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8896": {
         "authorityID": "CA0008036",
@@ -518,7 +554,8 @@
                 "name": "釋真興",
                 "id": "A000961"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8898": {
         "authorityID": "CA0008037",
@@ -537,7 +574,8 @@
                 "name": "釋杜順",
                 "id": "A000525"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8899": {
         "authorityID": "CA0008038",
@@ -556,7 +594,8 @@
                 "name": "釋淨源",
                 "id": "A001113"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8903": {
         "authorityID": "CA0008039",
@@ -572,7 +611,8 @@
                 "name": "釋貞舜",
                 "id": "A000876"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8904": {
         "authorityID": "CA0008040",
@@ -581,7 +621,8 @@
         "category": "國圖善本部類",
         "title": "西谷名目句解",
         "juans": 7,
-        "cjk_chars": 248693
+        "cjk_chars": 248693,
+        "fulltext": true
     },
     "D8905": {
         "authorityID": "CA0008041",
@@ -597,7 +638,8 @@
                 "name": "釋良忠",
                 "id": "A000535"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8913": {
         "authorityID": "CA0008042",
@@ -613,7 +655,8 @@
                 "name": "弁阿",
                 "id": "A001831"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8914": {
         "authorityID": "CA0008043",
@@ -622,7 +665,8 @@
         "category": "國圖善本部類",
         "title": "釋淨土群疑論探要記",
         "juans": 14,
-        "cjk_chars": 306965
+        "cjk_chars": 306965,
+        "fulltext": true
     },
     "D8915": {
         "authorityID": "CA0008044",
@@ -631,7 +675,8 @@
         "category": "國圖善本部類",
         "title": "禪門偈（前殘）",
         "juans": 1,
-        "cjk_chars": 2173
+        "cjk_chars": 2173,
+        "fulltext": true
     },
     "D8930": {
         "authorityID": "CA0008045",
@@ -647,7 +692,8 @@
                 "name": "釋妙超",
                 "id": "A000584"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8936": {
         "authorityID": "CA0008046",
@@ -663,7 +709,8 @@
                 "name": "釋空誓",
                 "id": "A034599"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8939": {
         "authorityID": "CA0008047",
@@ -672,7 +719,8 @@
         "category": "國圖善本部類",
         "title": "古尊宿語錄",
         "juans": 33,
-        "cjk_chars": 353373
+        "cjk_chars": 353373,
+        "fulltext": true
     },
     "D8942": {
         "authorityID": "CA0008048",
@@ -691,7 +739,8 @@
                 "name": "釋海島",
                 "id": "A034600"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8945": {
         "authorityID": "CA0008049",
@@ -714,7 +763,8 @@
                 "name": "釋惠然",
                 "id": "A034601"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8948": {
         "authorityID": "CA0008050",
@@ -737,7 +787,8 @@
                 "name": "釋妙環",
                 "id": "A000478"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8951": {
         "authorityID": "CA0008051",
@@ -756,7 +807,8 @@
                 "name": "唐時",
                 "id": "A011850"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8952": {
         "authorityID": "CA0008052",
@@ -765,7 +817,8 @@
         "category": "國圖善本部類",
         "title": "為二太子中元盂蘭薦福文",
         "juans": 1,
-        "cjk_chars": 557
+        "cjk_chars": 557,
+        "fulltext": true
     },
     "D8953": {
         "authorityID": "CA0008053",
@@ -774,7 +827,8 @@
         "category": "國圖善本部類",
         "title": "結壇散食迴向發願文（首尾殘缺）",
         "juans": 1,
-        "cjk_chars": 2018
+        "cjk_chars": 2018,
+        "fulltext": true
     },
     "D8954": {
         "authorityID": "CA0008054",
@@ -793,7 +847,8 @@
                 "name": "釋大惠",
                 "id": "A000061"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D8980": {
         "authorityID": "CA0008055",
@@ -812,7 +867,8 @@
                 "name": "釋祖心",
                 "id": "A008470"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D9000": {
         "authorityID": "CA0008056",
@@ -831,7 +887,8 @@
                 "name": "釋景隆",
                 "id": "A001245"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D9010": {
         "authorityID": "CA0008057",
@@ -850,7 +907,8 @@
                 "name": "王芥庵",
                 "id": "A007335"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D9011": {
         "authorityID": "CA0008058",
@@ -859,7 +917,8 @@
         "category": "國圖善本部類",
         "title": "藏經值畫一目錄",
         "juans": 1,
-        "cjk_chars": 21451
+        "cjk_chars": 21451,
+        "fulltext": true
     },
     "D9021": {
         "authorityID": "CA0008059",
@@ -878,7 +937,8 @@
                 "name": "周夢秀",
                 "id": "A034603"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D9025": {
         "authorityID": "CA0008060",
@@ -894,7 +954,8 @@
                 "name": "釋信瑞",
                 "id": "A000808"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "D9026": {
         "authorityID": "CA0008061",
@@ -903,7 +964,8 @@
         "category": "國圖善本部類",
         "title": "大悲觀世音菩薩至道禮文",
         "juans": 1,
-        "cjk_chars": 647
+        "cjk_chars": 647,
+        "fulltext": true
     },
     "D9027": {
         "authorityID": "CA0008062",
@@ -912,7 +974,8 @@
         "category": "國圖善本部類",
         "title": "道安法師念佛讚文附入山讚文",
         "juans": 1,
-        "cjk_chars": 548
+        "cjk_chars": 548,
+        "fulltext": true
     },
     "D9031": {
         "authorityID": "CA0008063",
@@ -931,6 +994,7 @@
                 "name": "釋冲絢",
                 "id": "A034604"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }

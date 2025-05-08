@@ -24,7 +24,8 @@
                 "name": "湛然",
                 "id": "A001307"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1557": {
         "authorityID": "CA0008237",
@@ -47,7 +48,8 @@
                 "name": "澄觀",
                 "id": "A001755"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1571": {
         "authorityID": "CA0008238",
@@ -66,7 +68,8 @@
                 "name": "仁岳",
                 "id": "A000106"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1600": {
         "authorityID": "CA0008239",
@@ -85,7 +88,8 @@
                 "name": "法藏",
                 "id": "A002450"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1608": {
         "authorityID": "CA0008240",
@@ -104,7 +108,8 @@
                 "name": "王古",
                 "id": "A009477"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1629": {
         "authorityID": "CA0008241",
@@ -127,7 +132,8 @@
                 "name": "慈恩法師",
                 "id": "A001019"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1635": {
         "authorityID": "CA0008242",
@@ -146,7 +152,8 @@
                 "name": "德清",
                 "id": "A001681"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1636": {
         "authorityID": "CA0008243",
@@ -165,7 +172,8 @@
                 "name": "德清",
                 "id": "A001681"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1637": {
         "authorityID": "CA0008244",
@@ -192,7 +200,8 @@
                 "name": "圓修",
                 "id": "A001410"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1638": {
         "authorityID": "CA0008245",
@@ -215,7 +224,8 @@
                 "name": "弘歇",
                 "id": "A000239"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1639": {
         "authorityID": "CA0008246",
@@ -238,7 +248,8 @@
                 "name": "通琇",
                 "id": "A001153"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1640": {
         "authorityID": "CA0008247",
@@ -261,7 +272,8 @@
                 "name": "道忞",
                 "id": "A001513"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1641": {
         "authorityID": "CA0008248",
@@ -284,7 +296,8 @@
                 "name": "行岳",
                 "id": "A016400"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1642": {
         "authorityID": "CA0008249",
@@ -307,7 +320,8 @@
                 "name": "超德",
                 "id": "A001374"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1643": {
         "authorityID": "CA0008250",
@@ -330,7 +344,8 @@
                 "name": "顯權",
                 "id": "A001978"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1649": {
         "authorityID": "CA0008251",
@@ -357,7 +372,8 @@
                 "name": "達謙",
                 "id": "A001576"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1651": {
         "authorityID": "CA0008252",
@@ -376,7 +392,8 @@
                 "name": "高道素",
                 "id": "A001006"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1652": {
         "authorityID": "CA0008253",
@@ -403,7 +420,8 @@
                 "name": "方醒",
                 "id": "A000191"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1666": {
         "authorityID": "CA0008254",
@@ -422,7 +440,8 @@
                 "name": "超海",
                 "id": "A022509"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1668": {
         "authorityID": "CA0008255",
@@ -441,7 +460,8 @@
                 "name": "胤禛",
                 "id": "A000212"
             }
-        ]
+        ],
+        "fulltext": true
     },
     "L1669": {
         "authorityID": "CA0008256",
@@ -460,6 +480,7 @@
                 "name": "胤禛",
                 "id": "A000212"
             }
-        ]
+        ],
+        "fulltext": true
     }
 }
