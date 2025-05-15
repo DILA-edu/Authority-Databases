@@ -17,8 +17,7 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "LC0002": {
         "authorityID": "CA0008258",
@@ -38,8 +37,7 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "LC0003": {
         "authorityID": "CA0008259",
@@ -59,8 +57,7 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "LC0004": {
         "authorityID": "CA0008260",
@@ -80,8 +77,7 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "LC0005": {
         "authorityID": "CA0008261",
@@ -101,8 +97,7 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "LC0006": {
         "authorityID": "CA0008262",
@@ -122,8 +117,7 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "LC0007": {
         "authorityID": "CA0008263",
@@ -143,7 +137,6 @@
                 "name": "呂澂",
                 "id": "A007178"
             }
-        ],
-        "fulltext": true
+        ]
     }
 }

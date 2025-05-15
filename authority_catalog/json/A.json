@@ -16,8 +16,7 @@
                 "name": "慧菀",
                 "id": "A001713"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1267": {
         "authorityID": "CA0007982",
@@ -36,8 +35,7 @@
                 "name": "玄逸",
                 "id": "A000295"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1490": {
         "authorityID": "CA0007983",
@@ -56,8 +54,7 @@
                 "name": "惟淨",
                 "id": "A001072"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1493": {
         "authorityID": "CA0007984",
@@ -76,8 +73,7 @@
                 "name": "楊億",
                 "id": "A001446"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1494": {
         "authorityID": "CA0007985",
@@ -96,8 +92,7 @@
                 "name": "呂夷簡",
                 "id": "A000457"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1504": {
         "authorityID": "CA0007986",
@@ -116,8 +111,7 @@
                 "name": "金總持",
                 "id": "A000001"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1505": {
         "authorityID": "CA0007987",
@@ -136,8 +130,7 @@
                 "name": "智吉祥",
                 "id": "A001255"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1548": {
         "authorityID": "CA0007988",
@@ -156,8 +149,7 @@
                 "name": "窺基",
                 "id": "A001019"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "A1561": {
         "authorityID": "CA0007989",
@@ -180,7 +172,6 @@
                 "name": "澄淨",
                 "id": "A001752"
             }
-        ],
-        "fulltext": true
+        ]
     }
 }

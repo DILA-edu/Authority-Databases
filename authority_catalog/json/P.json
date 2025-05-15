@@ -20,8 +20,7 @@
                 "name": "清茂",
                 "id": "A001087"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1573": {
         "authorityID": "CA0008304",
@@ -40,8 +39,7 @@
                 "name": "知禮",
                 "id": "A000756"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1581": {
         "authorityID": "CA0008305",
@@ -64,8 +62,7 @@
                 "name": "咸輝",
                 "id": "A000818"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1590": {
         "authorityID": "CA0008306",
@@ -84,8 +81,7 @@
                 "name": "淨源",
                 "id": "A001113"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1610": {
         "authorityID": "CA0008307",
@@ -104,8 +100,7 @@
                 "name": "朱棣",
                 "id": "A000149"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1611": {
         "authorityID": "CA0008308",
@@ -124,8 +119,7 @@
                 "name": "朱棣",
                 "id": "A000149"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1612": {
         "authorityID": "CA0008309",
@@ -144,8 +138,7 @@
                 "name": "朱棣",
                 "id": "A000149"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1615": {
         "authorityID": "CA0008310",
@@ -165,8 +158,7 @@
                 "name": "一如",
                 "id": "A000007"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1617": {
         "authorityID": "CA0008311",
@@ -185,8 +177,7 @@
                 "name": "戒環",
                 "id": "A000514"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1618": {
         "authorityID": "CA0008312",
@@ -207,8 +198,7 @@
                 "name": "惟則",
                 "id": "A001064"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1624": {
         "authorityID": "CA0008313",
@@ -227,8 +217,7 @@
                 "name": "子璿",
                 "id": "A000085"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1629": {
         "authorityID": "CA0008314",
@@ -247,8 +236,7 @@
                 "name": "蒙潤",
                 "id": "A001638"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "P1630": {
         "authorityID": "CA0008315",
@@ -267,7 +255,6 @@
                 "name": "圓瀞",
                 "id": "A001412"
             }
-        ],
-        "fulltext": true
+        ]
     }
 }

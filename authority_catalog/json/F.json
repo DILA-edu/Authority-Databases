@@ -6,8 +6,7 @@
         "category": "法華部類",
         "title": "大王觀世音經",
         "juans": 1,
-        "cjk_chars": 247,
-        "fulltext": true
+        "cjk_chars": 247
     },
     "F0041": {
         "authorityID": "CA0008065",
@@ -26,8 +25,7 @@
                 "name": "求那跋摩",
                 "id": "A000218"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0069": {
         "authorityID": "CA0008066",
@@ -46,8 +44,7 @@
                 "name": "求那跋陀羅",
                 "id": "A000527"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0088": {
         "authorityID": "CA0008067",
@@ -66,8 +63,7 @@
                 "name": "帛尸梨密多羅",
                 "id": "A000619"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0089": {
         "authorityID": "CA0008068",
@@ -86,8 +82,7 @@
                 "name": "求那跋陀羅",
                 "id": "A000527"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0100": {
         "authorityID": "CA0008069",
@@ -106,8 +101,7 @@
                 "name": "李隆基",
                 "id": "A000291"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0181": {
         "authorityID": "CA0008070",
@@ -116,8 +110,7 @@
         "category": "般若部類",
         "title": "大般若關",
         "juans": 1,
-        "cjk_chars": 1576,
-        "fulltext": true
+        "cjk_chars": 1576
     },
     "F0248": {
         "authorityID": "CA0008071",
@@ -133,8 +126,7 @@
                 "name": "比丘道真",
                 "id": "A001527"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0546": {
         "authorityID": "CA0008072",
@@ -153,8 +145,7 @@
                 "name": "通理大師",
                 "id": "A022419"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F0761": {
         "authorityID": "CA0008073",
@@ -173,8 +164,7 @@
                 "name": "金剛智",
                 "id": "A000774"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1048": {
         "authorityID": "CA0008074",
@@ -193,8 +183,7 @@
                 "name": "不空",
                 "id": "A000095"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1050": {
         "authorityID": "CA0008075",
@@ -213,8 +202,7 @@
                 "name": "不空",
                 "id": "A000095"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1056": {
         "authorityID": "CA0008076",
@@ -233,8 +221,7 @@
                 "name": "不空",
                 "id": "A000095"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1060": {
         "authorityID": "CA0008077",
@@ -253,8 +240,7 @@
                 "name": "慈賢",
                 "id": "A001432"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1061": {
         "authorityID": "CA0008078",
@@ -273,8 +259,7 @@
                 "name": "慈賢",
                 "id": "A001432"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1062": {
         "authorityID": "CA0008079",
@@ -293,8 +278,7 @@
                 "name": "慈賢",
                 "id": "A001432"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1063": {
         "authorityID": "CA0008080",
@@ -313,8 +297,7 @@
                 "name": "慈賢",
                 "id": "A001432"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1064": {
         "authorityID": "CA0008081",
@@ -333,8 +316,7 @@
                 "name": "慈賢",
                 "id": "A001432"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1071": {
         "authorityID": "CA0008082",
@@ -350,8 +332,7 @@
                 "name": "行琳",
                 "id": "A000420"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1072": {
         "authorityID": "CA0008083",
@@ -367,8 +348,7 @@
                 "name": "德雲",
                 "id": "A001684"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1076": {
         "authorityID": "CA0008084",
@@ -384,8 +364,7 @@
                 "name": "志仙",
                 "id": "A000495"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1081": {
         "authorityID": "CA0008085",
@@ -401,8 +380,7 @@
                 "name": "儼法師",
                 "id": "A001304"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1082": {
         "authorityID": "CA0008086",
@@ -418,8 +396,7 @@
                 "name": "惟勁",
                 "id": "A001066"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1083": {
         "authorityID": "CA0008087",
@@ -435,8 +412,7 @@
                 "name": "杜順法師",
                 "id": "A000525"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1084": {
         "authorityID": "CA0008088",
@@ -452,8 +428,7 @@
                 "name": "法藏",
                 "id": "A032738"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1098": {
         "authorityID": "CA0008089",
@@ -468,8 +443,7 @@
                 "name": "儼法師",
                 "id": "A001304"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "F1099": {
         "authorityID": "CA0008090",
@@ -484,7 +458,6 @@
                 "name": "杜順法師",
                 "id": "A000525"
             }
-        ],
-        "fulltext": true
+        ]
     }
 }

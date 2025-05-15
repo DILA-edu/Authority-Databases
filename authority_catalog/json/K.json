@@ -16,8 +16,7 @@
                 "name": "玄奘",
                 "id": "A000294"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1064": {
         "authorityID": "CA0001434",
@@ -36,8 +35,7 @@
                 "name": "慧菀",
                 "id": "A001713"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1257": {
         "authorityID": "CA0003584",
@@ -56,8 +54,7 @@
                 "name": "可洪",
                 "id": "A000222"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1258": {
         "authorityID": "CA0002049",
@@ -76,8 +73,7 @@
                 "name": "趙炅",
                 "id": "A001640"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1259": {
         "authorityID": "CA0002217",
@@ -96,8 +92,7 @@
                 "name": "趙炅",
                 "id": "A001640"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1260": {
         "authorityID": "CA0003574",
@@ -116,8 +111,7 @@
                 "name": "趙炅",
                 "id": "A001640"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1261": {
         "authorityID": "CA0003899",
@@ -136,8 +130,7 @@
                 "name": "趙炅",
                 "id": "A001640"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1402": {
         "authorityID": "CA0001132",
@@ -156,8 +149,7 @@
                 "name": "守其",
                 "id": "A000358"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "K1482": {
         "authorityID": "CA0007835",
@@ -180,7 +172,6 @@
                 "name": "惟淨",
                 "id": "A001072"
             }
-        ],
-        "fulltext": true
+        ]
     }
 }

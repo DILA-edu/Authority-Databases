@@ -15,8 +15,7 @@
                 "name": "釋震華",
                 "id": "A046728"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "CC0002": {
         "authorityID": "CA0008625",
@@ -34,8 +33,7 @@
                 "name": "黃連忠",
                 "id": "A035436"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "CC0003": {
         "authorityID": "CA0008662",
@@ -63,8 +61,7 @@
                 "name": "觀空",
                 "id": "A023405"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "CC0004": {
         "authorityID": "CA0008663",
@@ -83,8 +80,7 @@
                 "name": "圓測",
                 "id": "A001414"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "CC0005": {
         "authorityID": "CA0008664",
@@ -103,8 +99,7 @@
                 "name": "傳燈",
                 "id": "A007274"
             }
-        ],
-        "fulltext": true
+        ]
     },
     "CC0006": {
         "authorityID": "CA0008685",
@@ -123,7 +118,6 @@
                 "name": "夏蓮居",
                 "id": "A048439"
             }
-        ],
-        "fulltext": true
+        ]
     }
 }
