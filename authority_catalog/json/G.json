@@ -774,6 +774,24 @@
             }
         ]
     },
+    "G2302": {
+        "authorityID": "CA0008686",
+        "vol": "G114..G118",
+        "type": "textbody",
+        "category": "事彙部類",
+        "title": "佛學名相彙解",
+        "juans": 68,
+        "byline": "明 沙門寂照編",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644,
+        "contributors": [
+            {
+                "name": "寂照",
+                "id": "A048441"
+            }
+        ]
+    },
     "G2517": {
         "authorityID": "CA0008665",
         "vol": "G148",
@@ -864,6 +882,42 @@
             {
                 "name": "法尊",
                 "id": "A004774"
+            }
+        ]
+    },
+    "G2600": {
+        "authorityID": "CA0008687",
+        "vol": "G157",
+        "type": "textbody",
+        "category": "法華部類",
+        "title": "始終心要義記",
+        "juans": 1,
+        "byline": "民國 倓虛述",
+        "dynasty": "民國",
+        "time_from": 1875,
+        "time_to": 1963,
+        "contributors": [
+            {
+                "name": "倓虛",
+                "id": "A007866"
+            }
+        ]
+    },
+    "G2619": {
+        "authorityID": "CA0008688",
+        "vol": "G160",
+        "type": "textbody",
+        "category": "史傳部類",
+        "title": "宗喀巴大師傳",
+        "juans": 1,
+        "byline": "民國 張建木述",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1989,
+        "contributors": [
+            {
+                "name": "張建木",
+                "id": "A048442"
             }
         ]
     }
