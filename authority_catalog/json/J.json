@@ -2222,7 +2222,7 @@
         "title": "黃蘗無念禪師復問",
         "juans": 6,
         "cjk_chars": 39162,
-        "byline": "明 深有撰　明 聞刪定",
+        "byline": "明深有撰　明聞刪訂",
         "dynasty": "明",
         "time_from": 1368,
         "time_to": 1644,
@@ -5206,13 +5206,13 @@
         "title": "牧雲和尚嬾齋別集",
         "juans": 14,
         "cjk_chars": 151935,
-        "byline": "明 通明撰　毛晉編",
+        "byline": "明 通門撰　毛晉編",
         "dynasty": "明",
         "time_from": 1368,
         "time_to": 1644,
         "contributors": [
             {
-                "name": "通明",
+                "name": "通門",
                 "id": "A001148"
             },
             {
@@ -5229,13 +5229,13 @@
         "title": "牧雲和尚宗本投機頌",
         "juans": 1,
         "cjk_chars": 41596,
-        "byline": "明 通明撰　附病遊遊刃．病遊初草．病遊後草",
+        "byline": "明 通門撰　附病遊遊刃．病遊初草．病遊後草",
         "dynasty": "明",
         "time_from": 1368,
         "time_to": 1644,
         "contributors": [
             {
-                "name": "通明",
+                "name": "通門",
                 "id": "A001148"
             }
         ]
@@ -7049,7 +7049,7 @@
         "title": "天台通玄寺獨朗禪師語錄",
         "juans": 2,
         "cjk_chars": 12966,
-        "byline": "清 行曰說　超心．超香等編",
+        "byline": "清 行日說　超心．超香等編",
         "dynasty": "清",
         "time_from": 1644,
         "time_to": 1911,
