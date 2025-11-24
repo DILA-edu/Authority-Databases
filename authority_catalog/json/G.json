@@ -887,6 +887,77 @@
             }
         ]
     },
+    "G2559": {
+        "authorityID": "CA0008689",
+        "vol": "G151",
+        "type": "textbody",
+        "category": "中觀部類",
+        "title": "十二門論講話",
+        "juans": 1,
+        "byline": "民國 慈航述",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1954,
+        "contributors": [
+            {
+                "name": "慈航",
+                "id": "A019748"
+            }
+        ]
+    },
+    "G2589": {
+        "authorityID": "CA0008690",
+        "vol": "G155",
+        "type": "textbody",
+        "category": "禪宗部類",
+        "title": "法寶壇經解義",
+        "juans": 2,
+        "byline": "民國 許聖可著",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "許聖可",
+                "id": "A048746"
+            }
+        ]
+    },
+    "G2590": {
+        "authorityID": "CA0008691",
+        "vol": "G155",
+        "type": "textbody",
+        "category": "禪宗部類",
+        "title": "六祖大師法寶壇經箋註",
+        "juans": 13,
+        "byline": "民國 丁福保註",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1952,
+        "contributors": [
+            {
+                "name": "丁福保",
+                "id": "A007851"
+            }
+        ]
+    },
+    "G2594": {
+        "authorityID": "CA0008692",
+        "vol": "G157",
+        "type": "textbody",
+        "category": "法華部類",
+        "title": "修習止觀坐禪法要講述",
+        "juans": 1,
+        "byline": "民國 寶靜述",
+        "dynasty": "民國",
+        "time_from": 1900,
+        "time_to": 1940,
+        "contributors": [
+            {
+                "name": "寶靜",
+                "id": "A006232"
+            }
+        ]
+    },
     "G2600": {
         "authorityID": "CA0008687",
         "vol": "G157",
@@ -898,6 +969,24 @@
         "byline": "民國 倓虛述",
         "dynasty": "民國",
         "time_from": 1875,
+        "time_to": 1963,
+        "contributors": [
+            {
+                "name": "倓虛",
+                "id": "A007866"
+            }
+        ]
+    },
+    "G2601": {
+        "authorityID": "CA0008693",
+        "vol": "G157",
+        "type": "textbody",
+        "category": "法華部類",
+        "title": "天台傳佛心印記註釋要",
+        "juans": 2,
+        "byline": "民國 倓虛釋要",
+        "dynasty": "民國",
+        "time_from": 1912,
         "time_to": 1963,
         "contributors": [
             {

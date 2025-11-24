@@ -1,0 +1,238 @@
+{
+    "YP0001": {
+        "authorityID": "CA0008697",
+        "vol": "YP01",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "金剛般若波羅密經講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0002": {
+        "authorityID": "CA0008698",
+        "vol": "YP01",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "金剛經概要",
+        "juans": 1,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0003": {
+        "authorityID": "CA0008699",
+        "vol": "YP01",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "金光明經空品講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0004": {
+        "authorityID": "CA0008700",
+        "vol": "YP02",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "般若波羅密多心經講記",
+        "juans": 3,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0005": {
+        "authorityID": "CA0008701",
+        "vol": "YP02",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "般若波羅密多心經講記",
+        "juans": 10,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0006": {
+        "authorityID": "CA0008702",
+        "vol": "YP02",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "心經十二講",
+        "juans": 12,
+        "byline": "日本 高神覺昇著　民國 釋演培．關凱圖合譯",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "高神覺昇",
+                "id": "A048744"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            },
+            {
+                "name": "關凱圖",
+                "id": "A048745"
+            }
+        ]
+    },
+    "YP0007": {
+        "authorityID": "CA0008703",
+        "vol": "YP03",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "佛說十善業道經講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0008": {
+        "authorityID": "CA0008704",
+        "vol": "YP03",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "佛說八大人覺經講記",
+        "juans": 1,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0009": {
+        "authorityID": "CA0008705",
+        "vol": "YP03",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "大寶積妙慧童女經講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0010": {
+        "authorityID": "CA0008706",
+        "vol": "YP04",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "勝鬘師子吼一乘大方便方廣經講記",
+        "juans": 5,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YPa001": {
+        "authorityID": "CA0008694",
+        "vol": "YP00",
+        "type": "non-textbody",
+        "category": "新編部類",
+        "title": "演培長老傳略",
+        "juans": 1,
+        "byline": "演培法師全集出版委員會",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "演培法師全集出版委員會"
+            }
+        ]
+    },
+    "YPa002": {
+        "authorityID": "CA0008695",
+        "vol": "YP00",
+        "type": "non-textbody",
+        "category": "新編部類",
+        "title": "演培法師全集．出版緣起",
+        "juans": 1,
+        "byline": "演培法師全集出版委員會",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "演培法師全集出版委員會"
+            }
+        ]
+    },
+    "YPa003": {
+        "authorityID": "CA0008696",
+        "vol": "YP00",
+        "type": "non-textbody",
+        "category": "新編部類",
+        "title": "演培法師全集．序文",
+        "juans": 1,
+        "byline": "演培法師全集出版委員會",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "演培法師全集出版委員會"
+            }
+        ]
+    }
+}
