@@ -199,6 +199,204 @@
             }
         ]
     },
+    "YP0011": {
+        "authorityID": "CA0008710",
+        "vol": "YP05..YP06",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "維摩詰所說經講記",
+        "juans": 15,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0012": {
+        "authorityID": "CA0008711",
+        "vol": "YP07",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "解深密經語體釋",
+        "juans": 9,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0013": {
+        "authorityID": "CA0008712",
+        "vol": "YP08",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "佛說彌勒大成佛經講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0014": {
+        "authorityID": "CA0008713",
+        "vol": "YP09",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "華嚴經普賢行願品講記",
+        "juans": 5,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0015": {
+        "authorityID": "CA0008714",
+        "vol": "YP10",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "觀世音菩薩普門品講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0016": {
+        "authorityID": "CA0008715",
+        "vol": "YP10",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "藥師經講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0017": {
+        "authorityID": "CA0008716",
+        "vol": "YP11",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "六祖壇經講記",
+        "juans": 11,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0018": {
+        "authorityID": "CA0008717",
+        "vol": "YP12",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "梵網經菩薩戒本講記",
+        "juans": 7,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0019": {
+        "authorityID": "CA0008718",
+        "vol": "YP13",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "毘尼日用切要講記",
+        "juans": 2,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0020": {
+        "authorityID": "CA0008719",
+        "vol": "YP13",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "八關齋戒十講",
+        "juans": 12,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0021": {
+        "authorityID": "CA0008720",
+        "vol": "YP14",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "異部宗輪論語體釋",
+        "juans": 3,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
     "YPa001": {
         "authorityID": "CA0008694",
         "vol": "YP00",
