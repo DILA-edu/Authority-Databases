@@ -410,6 +410,150 @@
             }
         ]
     },
+    "YP0022": {
+        "authorityID": "CA0008730",
+        "vol": "YP15",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "入中論頌講記",
+        "juans": 5,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0023": {
+        "authorityID": "CA0008731",
+        "vol": "YP16..YP18",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "俱舍論頌講記",
+        "juans": 10,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0024": {
+        "authorityID": "CA0008732",
+        "vol": "YP19",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "唯識二十頌講記",
+        "juans": 2,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0025": {
+        "authorityID": "CA0008733",
+        "vol": "YP19",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "八識規矩頌講記",
+        "juans": 6,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0026": {
+        "authorityID": "CA0008734",
+        "vol": "YP20..YP24",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "成唯識論講記",
+        "juans": 10,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0027": {
+        "authorityID": "CA0008735",
+        "vol": "YP25",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "慈悲三昧水懺講記",
+        "juans": 3,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0028": {
+        "authorityID": "CA0008736",
+        "vol": "YP26",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "勸發菩提心文講記",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0029": {
+        "authorityID": "CA0008737",
+        "vol": "YP27..YP28",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "成佛之道偈頌講記",
+        "juans": 10,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
     "YPa001": {
         "authorityID": "CA0008694",
         "vol": "YP00",

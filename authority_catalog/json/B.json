@@ -2121,9 +2121,12 @@
         "type": "textbody",
         "alt": "JB348+JB120+X1641+選錄",
         "category": "新編部類",
-        "title": "靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）",
-        "juans": 1,
+        "title": "靈峰宗論（部分資料暫採他本）",
+        "juans": 10,
         "byline": "智旭著",
+        "dynasty": "明",
+        "time_from": 1599,
+        "time_to": 1655,
         "contributors": [
             {
                 "name": "智旭",
@@ -2185,9 +2188,12 @@
         "type": "textbody",
         "alt": "JB120+B0130+選錄",
         "category": "新編部類",
-        "title": "闢邪集（選錄〈翻刻闢邪集序〉、〈天學初闢〉、〈統正序〉、〈原道闢邪說〉、〈跋〉）",
+        "title": "闢邪集（部分資料暫採他本）",
         "juans": 2,
         "byline": "鍾始聲著",
+        "dynasty": "明",
+        "time_from": 1599,
+        "time_to": 1655,
         "contributors": [
             {
                 "name": "鍾始聲",

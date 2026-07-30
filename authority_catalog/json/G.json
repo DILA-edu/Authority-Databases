@@ -831,6 +831,24 @@
             }
         ]
     },
+    "G2285": {
+        "authorityID": "CA0008721",
+        "vol": "G104",
+        "type": "textbody",
+        "category": "法華部類",
+        "title": "大乘止觀述記",
+        "juans": 20,
+        "byline": "民國 諦閑說",
+        "dynasty": "民國",
+        "time_from": 1858,
+        "time_to": 1932,
+        "contributors": [
+            {
+                "name": "諦閑",
+                "id": "A001825"
+            }
+        ]
+    },
     "G2302": {
         "authorityID": "CA0008686",
         "vol": "G114..G118",
@@ -848,6 +866,148 @@
             {
                 "name": "寂照",
                 "id": "A048441"
+            }
+        ]
+    },
+    "G2316": {
+        "authorityID": "CA0008722",
+        "vol": "G121",
+        "type": "textbody",
+        "category": "密教部類",
+        "title": "楞嚴經妙心疏",
+        "juans": 10,
+        "byline": "民國 守培疏",
+        "dynasty": "民國",
+        "time_from": 1884,
+        "time_to": 1955,
+        "contributors": [
+            {
+                "name": "守培",
+                "id": "A023620"
+            }
+        ]
+    },
+    "G2331": {
+        "authorityID": "CA0008723",
+        "vol": "G124",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "佛說盂蘭盆經疏摘要",
+        "juans": 1,
+        "byline": "清 通理述",
+        "dynasty": "清",
+        "time_from": 1701,
+        "time_to": 1782,
+        "contributors": [
+            {
+                "name": "通理",
+                "id": "A001152"
+            }
+        ]
+    },
+    "G2334": {
+        "authorityID": "CA0008724",
+        "vol": "G124",
+        "type": "textbody",
+        "category": "密教部類",
+        "title": "楞嚴經觀音圓通章講章",
+        "juans": 1,
+        "byline": "民國 紹三講",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "紹三",
+                "id": "A049519"
+            }
+        ]
+    },
+    "G2335": {
+        "authorityID": "CA0008725",
+        "vol": "G124",
+        "type": "textbody",
+        "category": "密教部類",
+        "title": "楞嚴經大勢至菩薩念佛圓通章講義",
+        "juans": 1,
+        "byline": "民國 靜權述",
+        "dynasty": "民國",
+        "time_from": 1881,
+        "time_to": 1960,
+        "contributors": [
+            {
+                "name": "靜權",
+                "id": "A049520"
+            }
+        ]
+    },
+    "G2337": {
+        "authorityID": "CA0008726",
+        "vol": "G124",
+        "type": "textbody",
+        "category": "法華部類",
+        "title": "觀普賢菩薩行法經箋註",
+        "juans": 4,
+        "byline": "民國 丁福保註",
+        "dynasty": "民國",
+        "time_from": 1874,
+        "time_to": 1952,
+        "contributors": [
+            {
+                "name": "丁福保",
+                "id": "A007851"
+            }
+        ]
+    },
+    "G2338": {
+        "authorityID": "CA0008727",
+        "vol": "G124",
+        "type": "textbody",
+        "category": "法華部類",
+        "title": "無量義經箋註",
+        "juans": 4,
+        "byline": "民國 丁福保註",
+        "dynasty": "民國",
+        "time_from": 1874,
+        "time_to": 1952,
+        "contributors": [
+            {
+                "name": "丁福保",
+                "id": "A007851"
+            }
+        ]
+    },
+    "G2339": {
+        "authorityID": "CA0008728",
+        "vol": "G124",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "維摩詰不思議經集注",
+        "juans": 10,
+        "byline": "民國 李翊灼輯",
+        "dynasty": "民國",
+        "time_from": 1881,
+        "time_to": 1952,
+        "contributors": [
+            {
+                "name": "李翊灼",
+                "id": "A046450"
+            }
+        ]
+    },
+    "G2351": {
+        "authorityID": "CA0008729",
+        "vol": "G127",
+        "type": "textbody",
+        "category": "大集部類",
+        "title": "地藏菩薩本願經演孝疏",
+        "juans": 3,
+        "byline": "民國 知性述",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "contributors": [
+            {
+                "name": "知性",
+                "id": "A049521"
             }
         ]
     },
