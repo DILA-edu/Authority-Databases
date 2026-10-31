@@ -26,7 +26,7 @@
           <principal>Marcus Bingenheimer 馬德偉</principal>
       </titleStmt>
         <publicationStmt>        
-            <date>2008-01-01 to 2026-10-01</date>
+            <date>2008-01-01 to 2026-11-01</date>
             <publisher>Dharma Drum Institute of Liberal Arts 法鼓文理學院</publisher>
             <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>  
             <availability status="free"><p>This electronic archive is distributed by Dharma Drum Institute of Liberal Arts under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</ref>.</p>
@@ -94630,11 +94630,13 @@ X77n1524_p0371a23、T49n2036_p0726b13）</note>
  <placeName type="alternative" xml:lang="zho-Hant">石甑山</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">古塔山</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">巨石山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">寶叔山</placeName>
  <location><place key="PLD000929">西湖區</place><geo cert="high">120.135388 30.261589</geo></location>
  <district>中國-浙江省-杭州市-西湖區</district>
  <note>位於杭州西湖北側的一座小山，南臨西湖，東、北兩面都是繁華市區西面是葛嶺，是觀看西湖美景的佳處。寶石山的山岩呈赭紅色，岩體中有許多閃閃發亮的紅色小石子，因而被稱為寶石山，「寶石流霞」也被列為新西湖十景之一。寶石山山頂建有造型獨特的古塔保俶塔，是西湖風景區的標誌之一。（<ref target="http://zh.wikipedia.org/zh-tw/%E5%AE%9D%E7%9F%B3%E5%B1%B1">http://zh.wikipedia.org/zh-tw/%E5%AE%9D%E7%9F%B3%E5%B1%B1</ref>，2012.02.12）</note>
  <listBibl>
   <bibl>( CBETA T50n2061_p0774c25 ) 宋高僧傳: 圓脩傳 {石甑山}  </bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0130&amp;target=PL000000011583">g033p0130(《西天目祖山志．卷2．東明禪師》)</ref></bibl>
  </listBibl>
   <note type="category">山峰、山脈</note>
 </place>
@@ -96587,6 +96589,7 @@ X77n1524_p0371a23、T49n2036_p0726b13）</note>
  <placeName xml:lang="zho-Hant">大滌山</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">大辟山</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">大滌玄蓋洞天</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">九鎖山</placeName>
  <location><place key="PLD000932">餘杭區</place><place key="PLD000937">臨安市</place><geo cert="high">119.832905 30.239891</geo></location>
  <district>中國-浙江省-杭州市-餘杭區;中國-浙江省-杭州市-臨安市</district>
  <note>大滌山古名大辟山。在浙江餘杭縣西南，位於浙江臨安、餘杭兩縣交界的青山鄉橋頭村和中橋鄉公利村一帶，是天目山脈東延的名山之一。其主峰為白鹿山。道教將其列入三十六洞天之第三十四，名大滌玄蓋洞天。（<ref target="http://baike.baidu.com/view/983458.htm">http://baike.baidu.com/大滌山</ref>，2009.07.07；<ref target="http://www.xoyin.com/home/newsinfo/5069.htm">http://www.xoyin.com/餘杭大滌山簡介</ref>，2012.08.09）</note>
@@ -177043,7 +177046,6 @@ X77n1524_p0371a23、T49n2036_p0726b13）</note>
  <placeName type="alternative" xml:lang="zho-Hant">蘭陵</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">承縣</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">鄫州</placeName>
- <placeName type="alternative" xml:lang="zho-Hant">鄶州</placeName>
  <placeName type="alternative" xml:lang="zho-Hant">鄫城</placeName>
  <location><place key="PLD001387">嶧城區</place><geo cert="high">117.6115 34.7703</geo></location>
  <district>中國-山東省-棗莊市-嶧城區</district>
@@ -491678,6 +491680,742 @@ In terms of both farm and forest lands， the Tarai was becoming Nepal's richest
  <listBibl>
   <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g024&amp;cpage=0133&amp;target=PL000000060694">g024p0133(《杭州上天竺講寺志．卷5》)</ref></bibl>
  </listBibl>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000060695">
+ <placeName xml:lang="zho-Hant">雷門</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">五雲門</placeName>
+ <location><place key="PLD000977">越城區</place><geo cert="low">120.592 30</geo></location>
+ <district>中國-浙江省-紹興市-越城區</district>
+ <note>會稽城東門，勾踐以吳於陵門上有蛇象而作龍形，龍畏雷，故作此門以勝之。宋後改稱五雲門。（嘉泰會稽志．卷18：13；<ref target="https://baike.baidu.com/item/%E9%9B%B7%E9%97%A8/18755007">https://baike.baidu.com/item/%E9%9B%B7%E9%97%A8/18755007</ref>，2026.10.09）</note>
+ <listBibl>
+  <bibl>( CBETA T50n2061_p0798c24 ) 宋高僧傳  </bibl>
+ </listBibl>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000060696">
+ <placeName xml:lang="zho-Hant">龍鬚山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">臨安龍鬚</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0103&amp;target=PL000000060696">g033p0103(《西天目祖山志．卷2．高峯禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060697">
+ <placeName xml:lang="zho-Hant">靈洞山</placeName>
+ <district>中國-浙江省-杭州市-市轄區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0108&amp;target=PL000000060697">g033p0108(西天目祖山志．卷2．中峯禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">山峰、山脈</note>
+</place>
+<place xml:id="PL000000060698">
+ <placeName xml:lang="zho-Hant">順心庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">平江路順心禪菴</placeName>
+ <district>中國-江蘇省-蘇州市-平江區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0109&amp;target=PL000000060698">g033p0109(《西天目祖山志．卷2．中峯禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060699">
+ <placeName xml:lang="zho-Hant">大同庵</placeName>
+ <district>中國-江蘇省-鎮江市-丹陽市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0110&amp;target=PL000000060699">g033p0110(《西天目祖山志．卷2．中峯禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060700">
+ <placeName xml:lang="zho-Hant">中佳山</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0110&amp;target=PL000000060700">g033p0110(《西天目祖山志．卷2．中峯禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">山峰、山脈</note>
+</place>
+<place xml:id="PL000000060701">
+ <placeName xml:lang="zho-Hant">桂子堂</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">中天竺桂子堂</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0115&amp;target=PL000000060701">g033p0115(《西天目祖山志．卷2．布衲禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060702">
+ <placeName xml:lang="zho-Hant">上虞寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">上虞奉國寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">奉國寺</placeName>
+ <district>中國-浙江省-紹興市-上虞市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0116&amp;target=PL000000060702">g033p0116(《西天目祖山志．卷2．易首座》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060703">
+ <placeName xml:lang="zho-Hant">法門院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">富陽法門院</placeName>
+ <district>中國-浙江省-杭州市-富陽市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0120&amp;target=PL000000060703">g033p0120(《西天目祖山志．卷2．千巖禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060704">
+ <placeName xml:lang="zho-Hant">蘇囉薩寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">迦濕彌羅國蘇囉薩寺</placeName>
+ <district>印度-查謨-克什米爾邦(JammuandKashmir)-Srinagar</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0125&amp;target=PL000000060704">g033p0125(《西天目祖山志．卷2．班的達禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060705">
+ <placeName xml:lang="zho-Hant">吉祥法雲寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">西山法雲寺</placeName>
+ <district>中國-北京市-市轄區-海淀區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0125&amp;target=PL000000060705">g033p0125(《西天目祖山志．卷2．班的達禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060706">
+ <placeName xml:lang="zho-Hant">三祖塔</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目獅子巖三祖塔</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0126&amp;target=PL000000060706">g033p0126(《西天目祖山志．卷2．班的達禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060707">
+ <placeName xml:lang="zho-Hant">華蓋殿</placeName>
+ <district>中國-江蘇省-南京市-建鄴區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0126&amp;target=PL000000060707">g033p0126(《西天目祖山志．卷2．班的達禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000060708">
+ <placeName xml:lang="zho-Hant">修吉山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">武林西湖修吉山</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0127&amp;target=PL000000060708">g033p0127(《西天目祖山志．卷2．空谷禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060709">
+ <placeName xml:lang="zho-Hant">正傳院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">修吉山正傳院</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0127&amp;target=PL000000060709">g033p0127(《西天目祖山志．卷2．空谷禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060710">
+ <placeName xml:lang="zho-Hant">覺皇殿</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0127&amp;target=PL000000060710">g033p0127(《西天目祖山志．卷2．顯宗禪師　惠澄禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060711">
+ <placeName xml:lang="zho-Hant">雙清莊</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0127&amp;target=PL000000060711">g033p0127(《西天目祖山志．卷2．顯宗禪師　惠澄禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000060712">
+ <placeName xml:lang="zho-Hant">萬峯庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目萬峯庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0128&amp;target=PL000000060712">g033p0128(《西天目祖山志．卷2．毒峯禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060713">
+ <placeName xml:lang="zho-Hant">古道山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">錢唐古道山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">東明山</placeName>
+ <district>中國-浙江省-杭州市-餘杭區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0129&amp;target=PL000000060713">g033p0129(《西天目祖山志．卷2．月江禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060714">
+ <placeName xml:lang="zho-Hant">太子庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目太子庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0129&amp;target=PL000000060714">g033p0129(《西天目祖山志．卷2．月江禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060715">
+ <placeName xml:lang="zho-Hant">新林</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">蕭山新林</placeName>
+ <district>中國-浙江省-杭州市-蕭山區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0131&amp;target=PL000000060715">g033p0131(《西天目祖山志．卷2．一庵禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060716">
+ <placeName xml:lang="zho-Hant">中雲庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目中雲庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0132&amp;target=PL000000060716">g033p0132(《西天目祖山志．卷2．達觀禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060717">
+ <placeName xml:lang="zho-Hant">白馬廟</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">杭城白馬廟</placeName>
+ <district>中國-浙江省-杭州市-市轄區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0133&amp;target=PL000000060717">g033p0133(《西天目祖山志．卷2．無盡學禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060718">
+ <placeName xml:lang="zho-Hant">天目東隖庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">東隖塔院</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0133&amp;target=PL000000060718">g033p0133(《西天目祖山志．卷2．無盡學禪師》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0145&amp;target=PL000000060718">g033p0145(《西天目祖山志．卷2．道謙禪師》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0202&amp;target=PL000000060718">g033p0202(《西天目祖山志．卷3．王熙》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060719">
+ <placeName xml:lang="zho-Hant">千丈巖</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">西天目山千丈巖</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0135&amp;target=PL000000060719">g033p0135(《西天目祖山志．卷2．慧楨首座》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060720">
+ <placeName xml:lang="zho-Hant">無諍寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">錢唐無諍寺</placeName>
+ <district>中國-浙江省-杭州市-市轄區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0138&amp;target=PL000000060720">g033p0138(《西天目祖山志．卷2．全庵禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060721">
+ <placeName xml:lang="zho-Hant">證果庵</placeName>
+ <district>中國-浙江省-湖州市-德清縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0138&amp;target=PL000000060721">g033p0138(《西天目祖山志．卷2．全庵禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060722">
+ <placeName xml:lang="zho-Hant">陽和峯</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目陽和峯</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0139&amp;target=PL000000060722">g033p0139(《西天目祖山志．卷2．全庵禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060723">
+ <placeName xml:lang="zho-Hant">彌勒庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">江寧彌勒庵</placeName>
+ <district>中國-江蘇省-南京市-白下區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0139&amp;target=PL000000060723">g033p0139(《西天目祖山志．卷2．南谷禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060724">
+ <placeName xml:lang="zho-Hant">荊門庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目何佳塢荊門庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0139&amp;target=PL000000060724">g033p0139(《西天目祖山志．卷2．南谷禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060725">
+ <placeName xml:lang="zho-Hant">剔燈庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目剔燈庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目正宗剔燈庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0140&amp;target=PL000000060725">g033p0140(《西天目祖山志．卷2．晦石禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060726">
+ <placeName xml:lang="zho-Hant">樹雪林</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">花塢樹雪林</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0141&amp;target=PL000000060726">g033p0141(《西天目祖山志．卷2．澹如禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060727">
+ <placeName xml:lang="zho-Hant">楊樹坂</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山楊樹坂</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0141&amp;target=PL000000060727">g033p0141(《西天目祖山志．卷2．澹如禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060728">
+ <placeName xml:lang="zho-Hant">觀音院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">揚州觀音院</placeName>
+ <district>中國-江蘇省-揚州市-寶應縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0141&amp;target=PL000000060728">g033p0141(《西天目祖山志．卷2．松溪禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060729">
+ <placeName xml:lang="zho-Hant">海會庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">金陵海會庵</placeName>
+ <district>中國-江蘇省-南京市-江寧區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0143&amp;target=PL000000060729">g033p0143(《西天目祖山志．卷2．有于禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060730">
+ <placeName xml:lang="zho-Hant">龍駒隖</placeName>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0143&amp;target=PL000000060730">g033p0143(《西天目祖山志．卷2．有于禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060731">
+ <placeName xml:lang="zho-Hant">文星寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">蘇州文星寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">文星閣</placeName>
+ <district>中國-江蘇省-蘇州市-市轄區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0144&amp;target=PL000000060731">g033p0144(《西天目祖山志．卷2．聞學禪師》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0147&amp;target=PL000000060731">g033p0147(《西天目祖山志．卷2．旅亭禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060732">
+ <placeName xml:lang="zho-Hant">白果灣</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山白果灣</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0144&amp;target=PL000000060732">g033p0144(《西天目祖山志．卷2．聞學禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060733">
+ <placeName xml:lang="zho-Hant">東林寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">蕭邑龕山東林寺</placeName>
+ <district>中國-浙江省-杭州市-蕭山區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0144&amp;target=PL000000060733">g033p0144(《西天目祖山志．卷2．桂巖禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060734">
+ <placeName xml:lang="zho-Hant">攢玉峯</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山攢玉峯</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0145&amp;target=PL000000060734">g033p0145(《西天目祖山志．卷2．道謙禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060735">
+ <placeName xml:lang="zho-Hant">古音庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">通州古音庵</placeName>
+ <district>中國-江蘇省-南通市-通州區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0145&amp;target=PL000000060735">g033p0145(《西天目祖山志．卷2．梵音禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060736">
+ <placeName xml:lang="zho-Hant">鐵壁居</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">會稽鐵壁居</placeName>
+ <district>中國-浙江省-紹興市-市轄區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0145&amp;target=PL000000060736">g033p0145(《西天目祖山志．卷2．峻極禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060737">
+ <placeName xml:lang="zho-Hant">梵嚴靜室</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">月塘梵嚴靜室</placeName>
+ <district>中國-浙江省-杭州市-下城區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0146&amp;target=PL000000060737">g033p0146(《西天目祖山志．卷2．峻極禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060738">
+ <placeName xml:lang="zho-Hant">半山橋</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山半山橋</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0146&amp;target=PL000000060738">g033p0146(《西天目祖山志．卷2．峻極禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060739">
+ <placeName xml:lang="zho-Hant">滿覺庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目滿覺庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0147&amp;target=PL000000060739">g033p0147(《西天目祖山志．卷2．巨源禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060740">
+ <placeName xml:lang="zho-Hant">孝慈寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">杭州孝慈寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">孝慈精舍</placeName>
+ <district>中國-浙江省-杭州市-市轄區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0148&amp;target=PL000000060740">g033p0148(《西天目祖山志．卷2．文遠禪師》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0164&amp;target=PL000000060740">g033p0164(《西天目祖山志．卷2．道源禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060741">
+ <placeName xml:lang="zho-Hant">顯教禪寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">蘭溪顯教寺</placeName>
+ <district>中國-浙江省-金華市-蘭溪市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0150&amp;target=PL000000060741">g033p0150(《西天目祖山志．卷2．世愚禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060742">
+ <placeName xml:lang="zho-Hant">康候山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">金華浦江康候山</placeName>
+ <district>中國-浙江省-金華市-浦江縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0152&amp;target=PL000000060742">g033p0152(《西天目祖山志．卷2．守貴禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060743">
+ <placeName xml:lang="zho-Hant">萬善殿</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">北京萬善殿</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">崇智殿</placeName>
+ <district>中國-北京市-市轄區-西城區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0154&amp;target=PL000000060743">g033p0154(《西天目祖山志．卷2．山曉禪師》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0157&amp;target=PL000000060743">g033p0157(《西天目祖山志．卷2．𦭎溪禪師》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0161&amp;target=PL000000060743">g033p0161(《西天目祖山志．卷2．曉雲禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000060744">
+ <placeName xml:lang="zho-Hant">棲賢堂</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">大雄山棲賢堂</placeName>
+ <district>中國-浙江省-杭州市-餘杭區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0157&amp;target=PL000000060744">g033p0157(《西天目祖山志．卷2．寂菴禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060745">
+ <placeName xml:lang="zho-Hant">清淨庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">昌平州清淨庵</placeName>
+ <district>中國-北京市-市轄區-昌平區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0158&amp;target=PL000000060745">g033p0158(《西天目祖山志．卷2．慧樞禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060746">
+ <placeName xml:lang="zho-Hant">青龍山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">漢陽城西青龍</placeName>
+ <district>中國-湖北省-武漢市-漢陽區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0161&amp;target=PL000000060746">g033p0161(《西天目祖山志．卷2．古箬禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060747">
+ <placeName xml:lang="zho-Hant">昌化寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">金臺昌化寺</placeName>
+ <district>中國-北京市-市轄區-朝陽區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0162&amp;target=PL000000060747">g033p0162(《西天目祖山志．卷2．琴水禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060748">
+ <placeName xml:lang="zho-Hant">興勝寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">北京興勝寺</placeName>
+ <district>中國-北京市-市轄區-宣武區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0163&amp;target=PL000000060748">g033p0163(《西天目祖山志．卷2．在衡禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060749">
+ <placeName xml:lang="zho-Hant">景陽菴</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">潤州景陽菴</placeName>
+ <district>中國-江蘇省-常州市-金壇市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0165&amp;target=PL000000060749">g033p0165(《西天目祖山志．卷2．迦羅禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060750">
+ <placeName xml:lang="zho-Hant">水陸寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">武林忠清里水陸寺</placeName>
+ <district>中國-浙江省-杭州市-上城區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0165&amp;target=PL000000060750">g033p0165(《西天目祖山志．卷2．誠一禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060751">
+ <placeName xml:lang="zho-Hant">陽城山</placeName>
+ <district>中國-河南省-鄭州市-登封市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0177&amp;target=PL000000060751">g033p0177(《西天目祖山志．卷3．左慈》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060752">
+ <placeName xml:lang="zho-Hant">西菩山</placeName>
+ <district>中國-浙江省-湖州市-德清縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0178&amp;target=PL000000060752">g033p0178(《西天目祖山志．卷3．葛洪》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060753">
+ <placeName xml:lang="zho-Hant">仙姑庵</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目仙姑庵</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0181&amp;target=PL000000060753">g033p0181(《西天目祖山志．卷3．徐仙姑》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060754">
+ <placeName xml:lang="zho-Hant">真慶觀</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">元霤山真慶觀</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0182&amp;target=PL000000060754">g033p0182(《西天目祖山志．卷3．阮日益》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060755">
+ <placeName xml:lang="zho-Hant">寶福院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目旭日峯寶福院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山寶福寺</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0185&amp;target=PL000000060755">g033p0185(《西天目祖山志．卷3．朱道從》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0191&amp;target=PL000000060755">g033p0191(《西天目祖山志．卷3．洪咨夔》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060756">
+ <placeName xml:lang="zho-Hant">旭日峯</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目旭日峯</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0185&amp;target=PL000000060756">g033p0185(《西天目祖山志．卷3．朱道從》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060757">
+ <placeName xml:lang="zho-Hant">等慈院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山等慈院</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">等慈寺</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0193&amp;target=PL000000060757">g033p0193(《西天目祖山志．卷3．昭明太子蕭統》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060758">
+ <placeName xml:lang="zho-Hant">景疎菴</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天目山景疎菴</placeName>
+ <district>中國-浙江省-杭州市-臨安市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g033&amp;cpage=0195&amp;target=PL000000060758">g033p0195(《西天目祖山志．卷3．洪喬祖》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060759">
+ <placeName xml:lang="zho-Hant">弇榆山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">鬱洲弇榆山</placeName>
+ <district>中國-江蘇省-連雲港市-連雲區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0199&amp;target=PL000000060759">g034p0199(《攝山志．卷3．明僧紹》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060760">
+ <placeName xml:lang="zho-Hant">白雲菴</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">攝山白雲菴</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">繖山白雲菴</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">棲霞山白雲菴</placeName>
+ <district>中國-江蘇省-南京市-棲霞區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0202&amp;target=PL000000060760">g034p0202(《攝山志．卷3．張環》)</ref></bibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0218&amp;target=PL000000060760">g034p0218(《攝山志．卷3．張可仕》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060761">
+ <placeName xml:lang="zho-Hant">葛仙井</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">天台山葛仙井</placeName>
+ <district>中國-浙江省-台州市-天台縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0216&amp;target=PL000000060761">g034p0216(《攝山志．卷3．張可久》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060762">
+ <placeName xml:lang="zho-Hant">松風閣</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">雨花臺松風閣</placeName>
+ <district>中國-江蘇省-南京市-雨花臺區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0218&amp;target=PL000000060762">g034p0218(《攝山志．卷3．張可仕》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060763">
+ <placeName xml:lang="zho-Hant">濯錦塘</placeName>
+ <district>中國-江蘇省-南京市-秦淮區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0218&amp;target=PL000000060763">g034p0218(《攝山志．卷3．張可仕》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,河流、湖泊、海洋等水系</note>
+</place>
+<place xml:id="PL000000060764">
+ <placeName xml:lang="zho-Hant">鷗天館</placeName>
+ <district>中國-江蘇省-南京市-秦淮區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0218&amp;target=PL000000060764">g034p0218(《攝山志．卷3．張可仕》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000060765">
+ <placeName xml:lang="zho-Hant">廣濟塔</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">衡山廣濟塔</placeName>
+ <district>中國-湖南省-衡陽市-衡山縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0221&amp;target=PL000000060765">g034p0221(《攝山志．卷3．鄧旭》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060766">
+ <placeName xml:lang="zho-Hant">五雲閣</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">攝山五雲閣</placeName>
+ <district>中國-江蘇省-南京市-棲霞區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0226&amp;target=PL000000060766">g034p0226(《攝山志．卷3．于成龍》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060767">
+ <placeName xml:lang="zho-Hant">三藏殿</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">大報恩寺三藏殿</placeName>
+ <district>中國-江蘇省-南京市-秦淮區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0252&amp;target=PL000000060767">g034p0252(《攝山志．卷3．雲谷禪師》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060768">
+ <placeName xml:lang="zho-Hant">慶源寺</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">建陽慶源寺</placeName>
+ <district>中國-福建省-南平市-建陽市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0261&amp;target=PL000000060768">g034p0261(《攝山志．卷3．覺浪盛禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060769">
+ <placeName xml:lang="zho-Hant">夢筆山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">福建夢筆山</placeName>
+ <district>中國-福建省-南平市-浦城縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0261&amp;target=PL000000060769">g034p0261(《攝山志．卷3．覺浪盛禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060770">
+ <placeName xml:lang="zho-Hant">信州小祇園</placeName>
+ <district>中國-江西省-上饒市-信州區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0277&amp;target=PL000000060770">g034p0277(《攝山志．卷3．南嶽竺庵禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060771">
+ <placeName xml:lang="zho-Hant">桃山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">宜邑桃山</placeName>
+ <district>中國-江西省-撫州市-宜黃縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0287&amp;target=PL000000060771">g034p0287(《攝山志．卷3．南嶽竺庵禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060772">
+ <placeName xml:lang="zho-Hant">白鹿湖</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">蓮湖</placeName>
+ <district>中國-福建省-莆田市-城廂區</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0298&amp;target=PL000000060772">g034p0298(《攝山志．卷3．南庵依禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,河流、湖泊、海洋等水系</note>
+</place>
+<place xml:id="PL000000060773">
+ <placeName xml:lang="zho-Hant">圍山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">瀏陽圍山</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">大圍山</placeName>
+ <district>中國-湖南省-長沙市-瀏陽市</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0303&amp;target=PL000000060773">g034p0303(《攝山志．卷3．楚雲源禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈</note>
+</place>
+<place xml:id="PL000000060774">
+ <placeName xml:lang="zho-Hant">古彌勒洞</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">衡山古彌勒洞</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">兜率精舍</placeName>
+ <district>中國-湖南省-衡陽市-衡山縣</district>
+ <listBibl>
+  <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g034&amp;cpage=0312&amp;target=PL000000060774">g034p0312(《攝山志．卷3．楚雲源禪師傳》)</ref></bibl>
+ </listBibl>
+  <note type="category">地點,山峰、山脈,寺廟、佛塔、佛教文化地點</note>
+</place>
+<place xml:id="PL000000060775">
+ <placeName xml:lang="zho-Hant">功臣堂</placeName>
+ <location><place key="PLD000929">西湖區</place><geo cert="low">120.0911 30.1442</geo></location>
+ <district>中國-浙江省-杭州市-西湖區</district>
+ <note>《新五代史》卷67：天祐元年，封鏐吳王，鏐建功臣堂，立碑紀功，列賓佐將校名氏於碑陰者五百人。（<ref target="https://zh.wikisource.org/zh-hant/%E6%96%B0%E4%BA%94%E4%BB%A3%E5%8F%B2/%E5%8D%B767">維基文庫_新五代史</ref>）2003年重建，占地11300平方米，建築面積4600平方米。重建後有銅獻殿、功臣堂、五王殿（正殿）及古戲臺等。（<ref target="https://zh.wikipedia.org/zh-tw/%E9%92%B1%E7%8E%8B%E7%A5%A0">維基百科_錢王祠</ref>）</note>
   <note type="category">地點</note>
 </place>
       </listPlace>     
