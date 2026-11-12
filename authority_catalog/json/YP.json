@@ -565,6 +565,272 @@
             }
         ]
     },
+    "YP0030": {
+        "authorityID": "CA0008747",
+        "vol": "YP29",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "大乘佛教思想論",
+        "juans": 3,
+        "byline": "日本 木村泰賢著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1881,
+        "time_to": 1930,
+        "contributors": [
+            {
+                "name": "木村泰賢",
+                "id": "A024424"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0031": {
+        "authorityID": "CA0008748",
+        "vol": "YP30",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "小乘佛教思想論",
+        "juans": 7,
+        "byline": "日本 木村泰賢著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1881,
+        "time_to": 1930,
+        "contributors": [
+            {
+                "name": "木村泰賢",
+                "id": "A024424"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0032": {
+        "authorityID": "CA0008749",
+        "vol": "YP31",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "天臺性具思想論",
+        "juans": 3,
+        "byline": "日本 安藤俊雄著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1909,
+        "time_to": 1973,
+        "contributors": [
+            {
+                "name": "安藤俊雄",
+                "id": "A023696"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0033": {
+        "authorityID": "CA0008750",
+        "vol": "YP31",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "瑜伽師地論解題",
+        "juans": 1,
+        "byline": "日本 左伯定胤著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1867,
+        "time_to": 1952,
+        "contributors": [
+            {
+                "name": "左伯定胤",
+                "id": "A000448"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0034": {
+        "authorityID": "CA0008751",
+        "vol": "YP31",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "攝大乘論解題",
+        "juans": 1,
+        "byline": "日本 左伯定胤．保坂玉泉合著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1887,
+        "time_to": 1952,
+        "contributors": [
+            {
+                "name": "左伯定胤",
+                "id": "A000448"
+            },
+            {
+                "name": "保坂玉泉",
+                "id": "A024518"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0035": {
+        "authorityID": "CA0008752",
+        "vol": "YP31",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "阿利安文化與佛教的成立",
+        "juans": 1,
+        "byline": "日本 宮本正尊著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1893,
+        "time_to": 1983,
+        "contributors": [
+            {
+                "name": "宮本正尊",
+                "id": "A024370"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0036": {
+        "authorityID": "CA0008753",
+        "vol": "YP31",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "中論相關性的論理",
+        "juans": 1,
+        "byline": "日本 安藤俊雄著　民國 釋演培譯",
+        "dynasty": "民國",
+        "time_from": 1909,
+        "time_to": 1973,
+        "contributors": [
+            {
+                "name": "安藤俊雄",
+                "id": "A023696"
+            },
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0037": {
+        "authorityID": "CA0008754",
+        "vol": "YP32",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "三寶歌解說",
+        "juans": 1,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0038": {
+        "authorityID": "CA0008755",
+        "vol": "YP32",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "佛教的緣起觀",
+        "juans": 18,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0039": {
+        "authorityID": "CA0008756",
+        "vol": "YP33",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "印度部派佛教思想觀",
+        "juans": 12,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0040": {
+        "authorityID": "CA0008757",
+        "vol": "YP33",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "人間佛陀",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0041": {
+        "authorityID": "CA0008758",
+        "vol": "YP34",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "識法相及其思想演變",
+        "juans": 13,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
+    "YP0042": {
+        "authorityID": "CA0008759",
+        "vol": "YP34",
+        "type": "textbody",
+        "category": "新編部類",
+        "title": "業及依業而有的輪迴",
+        "juans": 4,
+        "byline": "民國 釋演培著",
+        "dynasty": "民國",
+        "time_from": 1917,
+        "time_to": 1996,
+        "contributors": [
+            {
+                "name": "釋演培",
+                "id": "A024062"
+            }
+        ]
+    },
     "YPa001": {
         "authorityID": "CA0008694",
         "vol": "YP00",

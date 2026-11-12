@@ -1020,6 +1020,168 @@
             }
         ]
     },
+    "G2352": {
+        "authorityID": "CA0008738",
+        "vol": "G127",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "楞伽阿跋多羅寶經科解",
+        "juans": 10,
+        "byline": "明 真貴述",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644,
+        "contributors": [
+            {
+                "name": "真貴",
+                "id": "A000956"
+            }
+        ]
+    },
+    "G2379": {
+        "authorityID": "CA0008739",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "藥師經疏鈔擇要",
+        "juans": 3,
+        "byline": "清 伯亭疏鈔　普霦擇要",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911,
+        "contributors": [
+            {
+                "name": "伯亭",
+                "id": "A001959"
+            },
+            {
+                "name": "普霦",
+                "id": "A049893"
+            }
+        ]
+    },
+    "G2380": {
+        "authorityID": "CA0008740",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "藥師經義述",
+        "juans": 1,
+        "byline": "民國 周演濟述",
+        "dynasty": "民國",
+        "time_from": 1911,
+        "contributors": [
+            {
+                "name": "周演濟",
+                "id": "A049894"
+            }
+        ]
+    },
+    "G2381": {
+        "authorityID": "CA0008741",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "佛說八大人覺經講註",
+        "juans": 1,
+        "byline": "民國 寶靜述",
+        "dynasty": "民國",
+        "time_from": 1900,
+        "time_to": 1940,
+        "contributors": [
+            {
+                "name": "寶靜",
+                "id": "A006232"
+            }
+        ]
+    },
+    "G2382": {
+        "authorityID": "CA0008742",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "涅槃部類",
+        "title": "佛遺教經講義",
+        "juans": 1,
+        "byline": "民國 寶靜述",
+        "dynasty": "民國",
+        "time_from": 1900,
+        "time_to": 1940,
+        "contributors": [
+            {
+                "name": "寶靜",
+                "id": "A006232"
+            }
+        ]
+    },
+    "G2383": {
+        "authorityID": "CA0008743",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "華嚴部類",
+        "title": "普賢行願品頌疏",
+        "juans": 1,
+        "byline": "民國 周演濟述",
+        "dynasty": "民國",
+        "time_from": 1911,
+        "contributors": [
+            {
+                "name": "周演濟",
+                "id": "A049894"
+            }
+        ]
+    },
+    "G2384": {
+        "authorityID": "CA0008744",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "經集部類",
+        "title": "佛說灌佛經疏",
+        "juans": 1,
+        "byline": "民國 周演濟述",
+        "dynasty": "民國",
+        "time_from": 1911,
+        "contributors": [
+            {
+                "name": "周演濟",
+                "id": "A049894"
+            }
+        ]
+    },
+    "G2385": {
+        "authorityID": "CA0008745",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "寶積部類",
+        "title": "佛說如幻三摩地無量印法門經疏",
+        "juans": 1,
+        "byline": "民國 周演濟述",
+        "dynasty": "民國",
+        "time_from": 1911,
+        "contributors": [
+            {
+                "name": "周演濟",
+                "id": "A049894"
+            }
+        ]
+    },
+    "G2388": {
+        "authorityID": "CA0008746",
+        "vol": "G131",
+        "type": "textbody",
+        "category": "般若部類",
+        "title": "大般若波羅蜜多經叙",
+        "juans": 4,
+        "byline": "民國 歐陽漸叙",
+        "dynasty": "民國",
+        "time_from": 1871,
+        "time_to": 1943,
+        "contributors": [
+            {
+                "name": "歐陽漸",
+                "id": "A004828"
+            }
+        ]
+    },
     "G2517": {
         "authorityID": "CA0008665",
         "vol": "G148",
