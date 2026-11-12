@@ -28,7 +28,7 @@
         <publicationStmt>        
             <publisher>Dharma Drum Institute of Liberal Arts 法鼓文理學院</publisher>
             <pubPlace>Jinshan, Taiwan 台灣新北市金山區</pubPlace>  
-            <date>2008-01-01 to 2026-11-01</date>
+            <date>2008-01-01 to 2026-11-12</date>
             <availability status="free"><p>This electronic archive is distributed by Dharma Drum Institute of Liberal Arts under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</ref>.</p>
             </availability>
         </publicationStmt>
@@ -17645,6 +17645,8 @@
   </listBibl>
   <note type="worksInTripitaka">
     玄奘三藏師資傳叢書(X1651)
+    瑜伽師地論解題(YP0033)
+    攝大乘論解題(YP0034)
   </note>
   <idno type="Wikidata">Q11382813</idno>
 </person>
@@ -22448,9 +22450,9 @@
   </listBibl>
   <note type="worksInTripitaka">
     原人論(T1886)
-    禪源諸詮集都序(T2015)
     金剛般若經疏論纂要(T1701)
     大方廣圓覺修多羅了義經略疏(T1795)
+    禪源諸詮集都序(T2015)
     佛說盂蘭盆經疏(T1792)
     註華嚴法界觀門(T1884)
     大方廣佛華嚴經普賢行願品別行疏鈔（選錄「華嚴宗七祖行蹟」及「附錄」）(JB005)
@@ -22468,7 +22470,6 @@
     華嚴心要法門註(X1005)
     註華嚴法界觀科文(X1007)
     中華傳心地禪門師資承襲圖(X1225)
-    法昌倚遇禪師語錄(X1448)
     圓覺經道場修證儀(X1475)
     注心要法門(ZW0058)
   </note>
@@ -35518,6 +35519,7 @@
     <bibl>( CBETA X73n1456_p0671a23 ) 憨山老人夢遊集</bibl>
   </listBibl>
   <note type="worksInTripitaka">
+    楞伽阿跋多羅寶經科解(G2352)
     仁王經科疏科文(X0515)
     仁王經科疏懸談(X0516)
     仁王經科疏(X0517)
@@ -35700,6 +35702,12 @@
     <relation type="teacher" active="A031380" n="悟潔">
       <desc>
         <bibl>《武進天寧寺志．卷7．普能法兄行略》：「道光二十五年四月初一日，先師潔老人授以心印。」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0222)</bibl>
+      </desc>
+    </relation>
+    <relation type="teacher" active="A049866" n="岳宗">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．普能法兄行略》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0221</ref>
       </desc>
     </relation>
     <relation type="student" active="A042180" n="清如">
@@ -75890,6 +75898,7 @@ X86n1601_p0415a25）
   <note type="monk">是</note>
   <note type="extensive">俗姓沈。九歲從學於杭州天竺山慈雲寺明源，十九歲受具足戒，二十歲習講經，歷時七年，受明源付囑，為雲棲袾宏五世之法孫。歷主慈雲、崇壽、上天竺諸剎。雍正六年示寂，世壽八十八。傳法弟子二十餘人，培豐、慈裔、正中、天懷四師最為著名。（《般若心經事觀解》序）</note>
   <note type="worksInTripitaka">
+    藥師經疏鈔擇要(G2379)
     楞嚴經勢至圓通章疏鈔(X0311)
     觀無量壽經直指疏(X0413)
     阿彌陀經略註(X0431)
@@ -152288,6 +152297,9 @@ op=ViewArticle%26articleId=500827">http://yiming323_2002.mysinablog.com/index.ph
     <bibl>m004p225</bibl>
     <bibl>m028p494</bibl>
   </listBibl>
+  <note type="worksInTripitaka">
+    大般若波羅蜜多經叙(G2388)
+  </note>
   <idno type="Wikidata">Q4340279</idno>
 </person>
 <person xml:id="A004829" ana="historical">
@@ -180326,6 +180338,8 @@ X86n1601_p0415a25）
     <bibl>m018p052</bibl>
   </listBibl>
   <note type="worksInTripitaka">
+    佛說八大人覺經講註(G2381)
+    佛遺教經講義(G2382)
     修習止觀坐禪法要講述(G2594)
   </note>
 </person>
@@ -187108,9 +187122,9 @@ X86n1601_p0415a25）
   <note type="concise">原名劉繼興，南漢帝劉晟之長子，原封衛王。南漢乾和十六年（958年）劉晟去世，劉繼興繼位，改名劉鋹，改元大寶。鋹不會治國，政事皆委諸宦官龔澄樞及女侍中盧瓊仙等人。大寶十四年（宋開寶四年，971年），宋軍節節進逼，劉鋹，準備逃亡入海；還沒出發，宦官與衛兵就盜取船舶逃走，劉鋹只好投降，南漢亡。（<ref target="http://zh.wikipedia.org/zh-tw/%E5%8A%89%E9%8B%B9">http://zh.wikipedia.org/zh-tw/%E5%8A%89%E9%8B%B9</ref>，2012.01.05）</note>
 </person>
 <person xml:id="A006594" ana="historical">
-  <persName xml:lang="zho-Hant">王延鈞</persName>
+  <persName xml:lang="zho-Hant">王鏻</persName>
   <persName type="alternative" xml:lang="zho-Hant">閩惠宗</persName>
-  <persName type="alternative" xml:lang="zho-Hant">王鏻</persName>
+  <persName type="alternative" xml:lang="zho-Hant">王延鈞</persName>
   <persName type="alternative" xml:lang="zho-Hant">王璘</persName>
   <persName type="alternative" xml:lang="zho-Hant">齊肅明孝皇帝</persName>
   <sex value="1"/>
@@ -187123,6 +187137,8 @@ X86n1601_p0415a25）
   </note>
   <note type="monk">否</note>
   <note type="concise">王延鈞，後改名王鏻（又作王璘），王審知之次子，王延翰之弟。（<ref target="http://zh.wikisource.org/zh-hant/%E8%88%8A%E4%BA%94%E4%BB%A3%E5%8F%B2/%E5%8D%B7134">http://zh.wikisource.org/zh-hant/%E8%88%8A%E4%BA%94%E4%BB%A3%E5%8F%B2/%E5%8D%B7134</ref>；<ref target="http://zh.wikipedia.org/zh-tw/%E7%8E%8B%E5%BB%B6%E9%88%9E">http://zh.wikipedia.org/zh-tw/%E7%8E%8B%E5%BB%B6%E9%88%9E</ref>；<ref target="http://zh.wikisource.org/zh-hant/%E6%96%B0%E4%BA%94%E4%BB%A3%E5%8F%B2/%E5%8D%B768">http://zh.wikisource.org/zh-hant/%E6%96%B0%E4%BA%94%E4%BB%A3%E5%8F%B2/%E5%8D%B768</ref>，2012.09.04）</note>
+  <idno type="Wikidata">Q2109927</idno>
+  <idno type="CBDB">11521</idno>
 </person>
 <person xml:id="A006595" ana="historical">
   <persName xml:lang="zho-Hant">王繼鵬</persName>
@@ -332449,7 +332465,7 @@ X86n1601_p0415a25）
   </birth>
   <death>
     +0823-02-19 ~ +0824-02-07
-    <note>于時源已年八十餘矣，抗表不起。二年 而卒，長慶二年也。（舊唐書 卷一百八十七下 列傳第一百三十七 李源傳作長慶三年）（T50n2061_p0840a22）</note>
+    <note>于時源已年八十餘矣，抗表不起。二年而卒，長慶二年也。（舊唐書 卷一百八十七下 列傳第一百三十七 李源傳作長慶三年）（T50n2061_p0840a22）</note>
   </death>
   <note type="birthDeathDateQuote">生於：+0748</note>
   <note type="dynasty">
@@ -332465,6 +332481,7 @@ X86n1601_p0415a25）
   <listBibl>
     <bibl>( CBETA T50n2061_p0839c11 ) 宋高僧傳: 圓觀傳 {李源}</bibl>
   </listBibl>
+  <idno type="CBDB">194275</idno>
 </person>
 <person xml:id="A012637" ana="historical">
   <persName xml:lang="zho-Hant">本空</persName>
@@ -332790,6 +332807,15 @@ X86n1601_p0415a25）
   <persName type="alternative" xml:lang="zho-Hant">高城法藏</persName>
   <persName type="alternative" xml:lang="zho-Hant">廬山法藏</persName>
   <sex value="1"/>
+  <birth>
+    +0744-01-01 ~ +0744-12-31
+    <note>依記錄推算。</note>
+  </birth>
+  <death>
+    +0825-02-02 ~ +0827-03-17
+    <note>寶曆中示滅。年八十二。（T50n2061_p0840b18）</note>
+  </death>
+  <note type="birthDeathDateQuote">卒於：唐, 敬宗, 寶曆, 元年, 正月, 七日 to 唐, 文宗, 寶曆, 三年, 二月, 十二日，82歲</note>
   <note type="dynasty">
     唐
   </note>
@@ -335446,6 +335472,15 @@ X86n1601_p0415a25）
   </note>
   <note type="monk">是</note>
   <note type="concise">俗姓趙，五臺山華嚴寺僧人。童蒙之歲有似神不足，遣入鄉校，終日不知一字。惟見僧尼，合掌有畏憚之貌。年甫十二，二親送往五臺華嚴寺善住閣院出家，禮淨覺為師。及年三十有六，發願朝五臺，禮文殊，惟求聰明，學誦經法耳。時冒寒雪，情無退屈，至五臺山果感得文殊菩薩現形，開啟智慧。（T50n2061_p0843b05；疑年錄：114）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A012785" n="淨覺">
+      <desc>
+        <bibl>《宋高僧傳》卷21〈6 感通篇〉：「二親送往五臺華嚴寺善住閣院出家，禮淨覺為師。」</bibl>
+        <ref type="url">http://cbetaonline.dila.edu.tw/T50n2061_p0843b08</ref>
+      </desc>
+    </relation>
+  </listRelation>
   <listBibl>
     <bibl>( CBETA T50n2061_p0843b05 ) 宋高僧傳: 牛雲傳 {牛雲}</bibl>
     <bibl>( CBETA T50n2061_p0843b06 ) 宋高僧傳: 牛雲傳 {釋牛雲}</bibl>
@@ -335538,6 +335573,15 @@ X86n1601_p0415a25）
   </note>
   <note type="monk">是</note>
   <note type="concise">五臺華嚴寺善住閣院僧，釋牛雲（673-735）年甫十二，二親送往五臺華嚴寺善住閣院出家，禮淨覺為師。（T50n2061_p0843b08；宋僧索引：100）</note>
+
+  <listRelation>
+    <relation type="student" active="A012781" n="牛雲">
+      <desc>
+        <bibl>《宋高僧傳》卷21〈6 感通篇〉：「二親送往五臺華嚴寺善住閣院出家，禮淨覺為師。」</bibl>
+        <ref type="url">http://cbetaonline.dila.edu.tw/T50n2061_p0843b08</ref>
+      </desc>
+    </relation>
+  </listRelation>
   <listBibl>
     <bibl>( CBETA T50n2061_p0843b09 ) 宋高僧傳: 牛雲傳 {淨覺}</bibl>
   </listBibl>
@@ -336830,7 +336874,7 @@ X86n1601_p0415a25）
     </placeName>
   </note>
   <note type="monk">是</note>
-  <note type="concise">鄧州僧人。生卒年不詳。年且衰朽，遊行穰、鄧州 間，日食二雉鳩，僧俗共非之。老僧終無避迴。嘗饌羞之次，有貧士求飡，分其二足與之食。食訖，老僧盥漱，雙鳩從口而出，一則能行，一則匍匐在地。貧士驚怪，亦吐其飯，其鳩二足復全。其僧實不食此禽。自爾眾人崇重，號曰南陽鴙鳩和尚也。（T50n2061_p0847b06；T50n2061_p0847b12；佛光：728）</note>
+  <note type="concise">鄧州僧人。生卒年不詳。年且衰朽，遊行穰、鄧州間，日食二雉鳩，僧俗共非之。老僧終無避迴。嘗饌羞之次，有貧士求飡，分其二足與之食。食訖，老僧盥漱，雙鳩從口而出，一則能行，一則匍匐在地。貧士驚怪，亦吐其飯，其鳩二足復全。其僧實不食此禽。自爾眾人崇重，號曰南陽鴙鳩和尚也。（T50n2061_p0847b06；T50n2061_p0847b12；佛光：728）</note>
   <listBibl>
     <bibl>( CBETA J34nB295_p0025a25 ) 學佛考訓</bibl>
     <bibl>( CBETA T50n2061_p0847b06 ) 宋高僧傳: 隱峯傳 {亡名}</bibl>
@@ -339221,7 +339265,7 @@ X86n1601_p0415a25）
 </person>
 <person xml:id="A012938" ana="historical">
   <persName xml:lang="zho-Hant">趙匡凝</persName>
-  <persName type="alternative" xml:lang="zho-Hant">趙凝</persName>
+  <persName type="alternative" xml:lang="zho-Hant">趙凝_諱</persName>
   <persName type="alternative" xml:lang="zho-Hant">趙光儀</persName>
   <sex value="1"/>
   <death>
@@ -339241,6 +339285,9 @@ X86n1601_p0415a25）
   <listBibl>
     <bibl>( CBETA T50n2061_p0851b07 ) 宋高僧傳: 僧緘傳 {趙凝}</bibl>
   </listBibl>
+  <idno type="Wikidata">Q8070536</idno>
+  <idno type="CBDB">194887</idno>
+  <idno type="CBDB">504985</idno>
 </person>
 <person xml:id="A012939" ana="historical">
   <persName xml:lang="zho-Hant">張肯堂</persName>
@@ -487103,6 +487150,12 @@ T18n0901_p0812c05；<ref target="http://www.amitabha.twmail.net/f14.htm">http://
         <bibl>《武進天寧寺志．卷7．冶開大師塔銘》：「定公知師已開佛眼，遂授記莂。」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0229)</bibl>
       </desc>
     </relation>
+    <relation type="teacher" active="A049871" n="隱聞">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．冶開大師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0229</ref>
+      </desc>
+    </relation>
     <relation type="student" active="A019766" n="應慈">
       <desc>
         <bibl>（http://www.hudong.com/wiki/%E5%BA%94%E6%85%88%E6%B3%95%E5%B8%88，2011.04.26）</bibl>
@@ -487127,6 +487180,24 @@ T18n0901_p0812c05；<ref target="http://www.amitabha.twmail.net/f14.htm">http://
       <desc>
         <bibl>《新續高僧傳》卷35：「弟子顯澈」</bibl>
         <ref type="url">http://cbetaonline.dila.edu.tw/B27n0151_p0277a05</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049872" n="張玉濤">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．冶開大師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0230</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049873" n="顯親">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．冶開和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0233</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049878" n="行實">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．惟寬徹禪師塔銘并敍》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0240</ref>
       </desc>
     </relation>
   </listRelation>
@@ -545593,6 +545664,18 @@ https：//zh.wikisource.org/zh-hant/%E6%AA%87%E6%9D%8E%E8%A9%A9%E7%B9%AB_（%E5%
         <bibl>《武進天寧寺志．卷7．定念和尚塔銘》：「聞雪叟潔公住持天寧，道價傾東南，師往依之。問答之際，棒喝兼施，雷舂電掃，一剎那頃，萬緣脫喪，一性洞虛。」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0212)</bibl>
       </desc>
     </relation>
+    <relation type="teacher" active="A049850" n="性空大師">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．定念和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0212</ref>
+      </desc>
+    </relation>
+    <relation type="teacher" active="A049851" n="月高輪">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．定念和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0212</ref>
+      </desc>
+    </relation>
     <relation type="student" active="A031381" n="清宗">
       <desc>
         <bibl>（禪典．禪宗法系譜：18）</bibl>
@@ -545601,6 +545684,12 @@ https：//zh.wikisource.org/zh-hant/%E6%AA%87%E6%9D%8E%E8%A9%A9%E7%B9%AB_（%E5%
     <relation type="student" active="A019707" n="清鎔">
       <desc>
         <bibl>《武進天寧寺志．卷7．冶開大師塔銘》：「定公知師已開佛眼，遂授記莂。」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0229)</bibl>
+      </desc>
+    </relation>
+    <relation type="student" active="A049856" n="清月">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．定念和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0214</ref>
       </desc>
     </relation>
   </listRelation>
@@ -580839,6 +580928,10 @@ https：//buddhism.lib.ntu.edu.tw/DLMBS/jp/author/authorinfo.jsp？ID=28091＆co
   <note type="concise">日本佛教學者。1933年於日本九州大學文學部哲學科畢業。歷任京都大學、九州大學講師，及大谷大學教授、文學部部長、校長等職。著作有《天台思想史》、《天台學-根本思想與其發展》、《趙宋時期日中天台之交流》、《天台學論集》等書。（佛光：2410）</note>
   <note type="extensive">https：//ja.wikipedia.org/wiki/%E5%AE%89%E8%97%A4%E4%BF%8A%E9%9B%84
 安藤 俊雄（あんどう としお、1909年10月12日[1][2] - 1973年12月26日[1][2]）は、天台宗の仏教学者。大谷大学学長</note>
+  <note type="worksInTripitaka">
+    天臺性具思想論(YP0032)
+    中論相關性的論理(YP0036)
+  </note>
 </person>
 <person xml:id="A023697" ana="historical">
   <persName xml:lang="zho-Hant">佐佐木孝憲</persName>
@@ -585415,6 +585508,36 @@ https：//www.ddm.org.tw/maze/205/page2.asp
         <bibl>《武進天寧寺志．重印武進天寧寺志序一》：「鎮江證蓮上人受寬公記莂」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0003)</bibl>
       </desc>
     </relation>
+    <relation type="student" active="A049901" n="復奘">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049902" n="大奘">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049903" n="耀海">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049904" n="維嶽">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396 複製到剪</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049905" n="照寬">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
   </listRelation>
   <listBibl>
     <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0397%26target=A023993">g035p0397(武進天寧寺志)</ref></bibl>
@@ -586416,6 +586539,19 @@ chrome-extension：//efaidnbmnnnibpcajpcglclefindmkaj/https：//www.huayencolleg
     慈悲三昧水懺講記(YP0027)
     勸發菩提心文講記(YP0028)
     成佛之道偈頌講記(YP0029)
+    大乘佛教思想論(YP0030)
+    小乘佛教思想論(YP0031)
+    天臺性具思想論(YP0032)
+    瑜伽師地論解題(YP0033)
+    攝大乘論解題(YP0034)
+    阿利安文化與佛教的成立(YP0035)
+    中論相關性的論理(YP0036)
+    三寶歌解說(YP0037)
+    佛教的緣起觀(YP0038)
+    印度部派佛教思想觀(YP0039)
+    人間佛陀(YP0040)
+    識法相及其思想演變(YP0041)
+    業及依業而有的輪迴(YP0042)
   </note>
 </person>
 <person xml:id="A024063" ana="historical">
@@ -590519,6 +590655,9 @@ https：//www.lama.com.tw/content/msg/DiscussDetail.aspx？id=3588</note>
   <note type="extensive">https：//ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E6%AD%A3%E5%B0%8A
 宮本 正尊（みやもと しょうそん、1893年10月1日 - 1983年11月30日）は、仏教学者。
 新潟県出身。号・香雪。1918年大谷大学卒、1921年東京帝国大学文学部印度哲学梵文学科卒業。1924年オックスフォード大学大学院に学び1929年Ph.D.。1928年帰国し東京帝大助教授、1942年教授、同年「中道思想及びその発達」で東京帝大文学博士</note>
+  <note type="worksInTripitaka">
+    阿利安文化與佛教的成立(YP0035)
+  </note>
 </person>
 <person xml:id="A024371" ana="historical">
   <persName xml:lang="zho-Hant">平川彰</persName>
@@ -591331,6 +591470,10 @@ chrome-extension：//efaidnbmnnnibpcajpcglclefindmkaj/https：//www.hcu.edu.tw/u
   <note type="monk">是</note>
   <note type="concise">日本曹洞宗僧侶，為岩手縣東慈寺住持。1903年，畢業於曹洞宗大學（今駒澤大學），隨後進入東京帝國大學印度哲學系，師從高楠順次郎攻讀博士學位。曾從軍參與日俄戰爭，退伍後任教於曹洞宗大學、日本女子大學、東京帝國大學。1920年公費留學，歸國成為東京帝國大學教授。1930年疾卒。（<ref target="http://zh.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%B3%B0%E8%B3%A2">http://zh.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%B3%B0%E8%B3%A2</ref>，2014.10.29）</note>
   <note type="extensive">木村 泰賢（1881年8月11日-1930年5月16日），日本佛教曹洞宗僧侶，生於岩手縣，印度哲學與佛教研究學者，東京帝國大學文學博士、東京帝國大學教授、岩手縣東慈寺住持。</note>
+  <note type="worksInTripitaka">
+    大乘佛教思想論(YP0030)
+    小乘佛教思想論(YP0031)
+  </note>
 </person>
 <person xml:id="A024425" ana="historical">
   <persName xml:lang="zho-Hant">忽滑谷快天</persName>
@@ -592890,6 +593033,9 @@ https：//ja.wikipedia.org/wiki/%E8%A1%9B%E8%97%A4%E5%8D%B3%E5%BF%9C</note>
   </note>
   <note type="monk">是</note>
   <note type="concise">曹洞宗僧。新潟縣觀音寺得度。曹洞宗大學畢業。曾任觀音寺住持、曹洞宗大學講師、駒澤大學教授與總長。著有《唯識根本教理》。（<ref target="https://kotobank.jp/word/%E4%BF%9D%E5%9D%82%E7%8E%89%E6%B3%89-1107803">https://kotobank.jp/word/%E4%BF%9D%E5%9D%82%E7%8E%89%E6%B3%89-1107803</ref>，2014.11.03）</note>
+  <note type="worksInTripitaka">
+    攝大乘論解題(YP0034)
+  </note>
 </person>
 <person xml:id="A024519" ana="historical">
   <persName xml:lang="zho-Hant">熊本英人</persName>
@@ -619269,6 +619415,9 @@ https：//zh.wikisource.org/zh-hant/%E4%BA%94%E7%87%88%E5%9A%B4%E7%B5%B1/%E5%8D%
   <listBibl>
     <bibl>( CBETA T51n2077_p0523a02 ) 續傳燈錄</bibl>
   </listBibl>
+  <note type="worksInTripitaka">
+    法昌倚遇禪師語錄(X1448)
+  </note>
 </person>
 <person xml:id="A025726" ana="historical">
   <persName xml:lang="zho-Hant">了實</persName>
@@ -998742,6 +998891,30 @@ JB413《黃蓮東巖禪師語錄》清 黃蓮東巖說　機琇記錄　黎元�
         <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》：「普公寓錫定慧，公就加參請，得密契焉。」(《中國佛寺史志彙刊》，第1輯，第35冊，頁0218)</bibl>
       </desc>
     </relation>
+    <relation type="student" active="A049861" n="顯備">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049862" n="顯泉">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049863" n="顯熙">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219 複製到剪</ref>
+      </desc>
+    </relation>
+    <relation type="student" active="A049864" n="顯開">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219</ref>
+      </desc>
+    </relation>
   </listRelation>
   <listBibl>
     <bibl><ref target="http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0217%26target=A042180">g035p0217(武進天寧寺志)</ref></bibl>
@@ -1121998,12 +1122171,16 @@ http：//buddhistinformatics.dila.edu.tw/fosizhi/ui.html？book=g012</note>
 </person>
 <person xml:id="A049839" ana="historical">
   <persName xml:lang="zho-Hant">約鑑齋都統</persName>
+  <persName type="alternative" xml:lang="zho-Hant">京口都統賡公鑑齋</persName>
+  <persName type="alternative" xml:lang="zho-Hant">永齡</persName>
+  <persName type="alternative" xml:lang="zho-Hant">賡音蘇</persName>
+  <persName type="alternative" xml:lang="zho-Hant">賡音素</persName>
   <sex value="1"/>
   <note type="dynasty">
     清
   </note>
   <note type="monk">否</note>
-  <note type="concise">清朝官員（都統）。與潤城（鎮江）紳士同請廣參達明禪師主持竹林寺。（g035p0195）</note>
+  <note type="concise">清朝官員（都統）。與潤城（鎮江，京口）紳士同請廣參達明禪師主持竹林寺。（g035p0195）；向恆贊達如禪師行弟子之禮。（g035p0199）</note>
 </person>
 <person xml:id="A049840" ana="historical">
   <persName xml:lang="zho-Hant">何隱涯</persName>
@@ -1122061,6 +1122238,872 @@ http：//buddhistinformatics.dila.edu.tw/fosizhi/ui.html？book=g012</note>
   </note>
   <note type="monk">是</note>
   <note type="concise">清朝僧人。與恆贊達如禪師對話（參話頭），後同住二年，對其修行有所影響。（g035p0197-198）</note>
+</person>
+<person xml:id="A049845" ana="historical">
+  <persName xml:lang="zho-Hant">張拙</persName>
+  <persName type="alternative" xml:lang="zho-Hant">張拙秀才</persName>
+  <persName type="alternative" xml:lang="zho-Hant">巧之</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    唐
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">唐朝秀才、居士。參禪開悟時作開悟偈：一念不生全體現，六根纔動被雲遮。恆贊達如禪師一看到壁間的偈語即打失鼻孔：打破迷情、豁然開朗。（g035p0198）</note>
+</person>
+<person xml:id="A049846" ana="historical">
+  <persName xml:lang="zho-Hant">夢三</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝僧人。恆贊達如禪師的同參道友結伴出嶺遊歷。（g035p0198）</note>
+</person>
+<person xml:id="A049847" ana="historical">
+  <persName xml:lang="zho-Hant">左輔</persName>
+  <persName type="alternative" xml:lang="zho-Hant">左杏莊中丞</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝進士，曾任湖南巡撫（古稱中丞）。敬愛恆贊達如禪師的誠實風範，無不傾心且樂意擔任他的「外護」（指佛教中在世俗出資護持佛法的善信）。（g035p0200）</note>
+</person>
+<person xml:id="A049848" ana="historical">
+  <persName xml:lang="zho-Hant">陸鼎翰</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>武進
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009727</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝地方著名的文人與學者。精通金石校勘與地方文史，曾與莊毓鋐等人纂修《光緒武陽志餘》（即武進、陽湖二縣合志），在當地文化界頗具聲望。為常州天寧禪寺定念和尚撰寫塔銘。（g035p0211）</note>
+</person>
+<person xml:id="A049849" ana="historical">
+  <persName xml:lang="zho-Hant">陳惠忠</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>漢陽
+      <ref target="http://authority.dila.edu.tw/place/">PL000000026428</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝湖北漢陽人。為定念真禪禪師的父親。（g035p0211）</note>
+</person>
+<person xml:id="A049850" ana="historical">
+  <persName xml:lang="zho-Hant">性空大師</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝江寧句容之宏通庵僧人。定念真禪禪師依止大師修行。（g035p0212）</note>
+
+  <listRelation>
+    <relation type="student" active="A021868" n="真禪">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．定念和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0212</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049851" ana="historical">
+  <persName xml:lang="zho-Hant">月高輪</persName>
+  <persName type="alternative" xml:lang="zho-Hant">歸元月高輪公</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝歸元寺僧人。定念真禪禪師受具足戒於月高輪公，究心三觀十乘之旨，脅不沾席者數月。（g035p022）</note>
+
+  <listRelation>
+    <relation type="student" active="A021868" n="真禪">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．定念和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0212</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049852" ana="historical">
+  <persName xml:lang="zho-Hant">范西民</persName>
+  <persName type="alternative" xml:lang="zho-Hant">國俊</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝士太夫、地方官員（太守）。尊敬定念真禪禪師之梵行，相與證明心印。（g035p0213）</note>
+</person>
+<person xml:id="A049853" ana="historical">
+  <persName xml:lang="zho-Hant">莊衞生</persName>
+  <persName type="alternative" xml:lang="zho-Hant">受祺</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝士太夫、地方官員（方伯）。尊敬定念真禪禪師之梵行，相與證明心印。（g035p0213）</note>
+</person>
+<person xml:id="A049854" ana="historical">
+  <persName xml:lang="zho-Hant">陸少逸</persName>
+  <persName type="alternative" xml:lang="zho-Hant">陸葆</persName>
+  <sex value="1"/>
+  <note type="placeOfOrigin">
+    <placeName>武進
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009727</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝士太夫、地方士紳。陸鼎翰（撰寫定念禪師塔銘）之族父。尊敬定念真禪禪師之梵行，相與證明心印。（g035p0213）</note>
+</person>
+<person xml:id="A049855" ana="historical">
+  <persName xml:lang="zho-Hant">知山</persName>
+  <persName type="alternative" xml:lang="zho-Hant">浙江糧道知公</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝地方官員（浙江糧道）。與江蘇常州天寧寺名僧定念真禪禪師之間交情尤其深厚，經常書信往來問候。（g035p0213）</note>
+</person>
+<person xml:id="A049856" ana="historical">
+  <persName xml:lang="zho-Hant">清月</persName>
+  <persName type="alternative" xml:lang="zho-Hant">上首清月</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝江蘇鎮江竹林寺僧人。為定念真禪禪師的得法弟子。（g035p0214）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A021868" n="真禪">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．定念和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0214</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049857" ana="historical">
+  <persName xml:lang="zho-Hant">仲錦濤</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>如皋
+      <ref target="http://authority.dila.edu.tw/place/">PL000000010336</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝通州如皋人。為善淨清如禪師的父親。（g035p0218）</note>
+</person>
+<person xml:id="A049858" ana="historical">
+  <persName xml:lang="zho-Hant">印傳上人</persName>
+  <persName type="alternative" xml:lang="zho-Hant">定慧寺印傳上人</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝江蘇通州定慧寺僧人。善淨清如禪師依止印傳上人勤習軌範。（g035p0218）</note>
+</person>
+<person xml:id="A049859" ana="historical">
+  <persName xml:lang="zho-Hant">體律師</persName>
+  <persName type="alternative" xml:lang="zho-Hant">寶華山體律師</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝寶華山僧人。善淨清如禪師受具足戒於寶華山體律師座下。（g035p0218）</note>
+</person>
+<person xml:id="A049860" ana="historical">
+  <persName xml:lang="zho-Hant">鳴公長老</persName>
+  <persName type="alternative" xml:lang="zho-Hant">定慧寺鳴公長老</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝江蘇通州定慧寺僧人。非常器重善淨清如禪師，許為法器。（g035p0218）</note>
+</person>
+<person xml:id="A049861" ana="historical">
+  <persName xml:lang="zho-Hant">顯備</persName>
+  <persName type="alternative" xml:lang="zho-Hant">海印</persName>
+  <persName type="alternative" xml:lang="zho-Hant">顯備海印</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝僧人。為善淨清如禪師的得法弟子，戒行清超，先清如公入滅（去世）。（g035p0219）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A042180" n="清如">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049862" ana="historical">
+  <persName xml:lang="zho-Hant">顯泉</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝僧人。為善淨清如禪師的得法弟子。泉等弟子請陸鼎翰公紀其師行業，為舉其昭昭者著之於篇（塔銘）。（g035p0219）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A042180" n="清如">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049863" ana="historical">
+  <persName xml:lang="zho-Hant">顯熙</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝僧人。為善淨清如禪師的得法弟子。（g035p0219）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A042180" n="清如">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219 複製到剪</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049864" ana="historical">
+  <persName xml:lang="zho-Hant">顯開</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝僧人。為善淨清如禪師的得法弟子。（g035p0219）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A042180" n="清如">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．善淨如禪師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0219</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049865" ana="historical">
+  <persName xml:lang="zho-Hant">富松大師</persName>
+  <persName type="alternative" xml:lang="zho-Hant">大慈閣富松大師</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝浙江龍游大慈閣僧人。真嵩普能禪師投其座下出家。（g035p0221）</note>
+</person>
+<person xml:id="A049866" ana="historical">
+  <persName xml:lang="zho-Hant">岳宗</persName>
+  <persName type="alternative" xml:lang="zho-Hant">祇園寺岳宗老和尚</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝浙江杭州蕭山祇園寺僧人。真嵩普能禪師從其座下受具足戒，誓願遍游叢林，講求最上奧妙。（g035p0221）</note>
+
+  <listRelation>
+    <relation type="student" active="A000958" n="真嵩">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．普能法兄行略》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0221</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049867" ana="historical">
+  <persName xml:lang="zho-Hant">慈風大師</persName>
+  <persName type="alternative" xml:lang="zho-Hant">羯磨師慈風大師</persName>
+  <persName type="alternative" xml:lang="zho-Hant">祇園寺慈風大師</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝浙江杭州蕭山祇園寺僧人。真嵩普能禪師聽慈風大師講教。（g035p0221）</note>
+</person>
+<person xml:id="A049868" ana="historical">
+  <persName xml:lang="zho-Hant">清源</persName>
+  <persName type="alternative" xml:lang="zho-Hant">龍泉寺清源老和尚</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝北京龍泉寺僧人。真嵩普能禪師北遊京都，參龍泉寺清源老和尚，終於大徹大悟，明心見性（發明心要）。（g035p0221）</note>
+</person>
+<person xml:id="A049869" ana="historical">
+  <persName xml:lang="zho-Hant">錢振鍠</persName>
+  <persName type="alternative" xml:lang="zho-Hant">純青</persName>
+  <persName type="alternative" xml:lang="zho-Hant">絜堪</persName>
+  <persName type="alternative" xml:lang="zho-Hant">錢名山</persName>
+  <persName type="alternative" xml:lang="zho-Hant">江南大儒</persName>
+  <persName type="alternative" xml:lang="zho-Hant">錢山主</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>陽湖
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009729</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初著名的文學家、書畫家。光緒丙午大饑，明年丁未米益貴，振鍠陽湖孝仁鄉人也，謀為鄉設平價出米之所，而難其財。釋清鎔住持常州天寧寺，亦施平價米百金。（g035p0227）曾奉月霞顯珠禪師骨灰塔於興福寺內之師子口（g035p0257）</note>
+</person>
+<person xml:id="A049870" ana="historical">
+  <persName xml:lang="zho-Hant">許長華</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>江都
+      <ref target="http://authority.dila.edu.tw/place/">PL000000010790</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清朝江蘇江都人。為冶開清鎔禪師的父親。（g035p0229）</note>
+</person>
+<person xml:id="A049871" ana="historical">
+  <persName xml:lang="zho-Hant">隱聞</persName>
+  <persName type="alternative" xml:lang="zho-Hant">祇樹大師</persName>
+  <persName type="alternative" xml:lang="zho-Hant">祇樹隱公</persName>
+  <persName type="alternative" xml:lang="zho-Hant">祇樹寺隱聞</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝江蘇泰縣祗樹寺僧人。冶開清鎔禪師受具戒於隱公座下。（g035p0229）</note>
+
+  <listRelation>
+    <relation type="student" active="A019707" n="清鎔">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．冶開大師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0229</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049872" ana="historical">
+  <persName xml:lang="zho-Hant">張玉濤</persName>
+  <persName type="alternative" xml:lang="zho-Hant">觀本法師</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民初居士，參加上海居士念佛會，後出家為觀本法師。於1914年在上海玉佛寺皈依冶開長老，並於1915年返回廣東中山與澳門。他在回鄉後專修淨業、弘揚佛法，期間經常寫信向遠在常州天寧寺的冶開大師請益佛法心要。（g035p0231）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A019707" n="清鎔">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．冶開大師塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0230</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049873" ana="historical">
+  <persName xml:lang="zho-Hant">顯親</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝常州天寧寺僧人。為冶開清鎔禪師的弟子。奉清鎔師靈龕，安其塔於虞山北麓破龍澗上。（g035p0233）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A019707" n="清鎔">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．冶開和尚塔銘》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0233</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049874" ana="historical">
+  <persName xml:lang="zho-Hant">明真徹</persName>
+  <persName type="alternative" xml:lang="zho-Hant">九華山明真徹公</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝鎮江九華山僧人。為冶開清鎔禪師剃度。（g035p0235）</note>
+</person>
+<person xml:id="A049875" ana="historical">
+  <persName xml:lang="zho-Hant">高朗月</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝常州天寧寺僧人。與有乾宗公、方丈善淨清如禪師，協助清鎔禪師一起重建兵燹後的天寧寺殿舍。（g035p0237）</note>
+</person>
+<person xml:id="A049876" ana="historical">
+  <persName xml:lang="zho-Hant">有乾宗</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝常州天寧寺僧人。與高朗月公、方丈善淨清如禪師，協助清鎔禪師一起重建兵燹後的天寧寺殿舍。（g035p0237）</note>
+</person>
+<person xml:id="A049877" ana="historical">
+  <persName xml:lang="zho-Hant">慧海上人</persName>
+  <persName type="alternative" xml:lang="zho-Hant">昌福寺慧海上人</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝江蘇昌福寺僧人。為惟寬顯徹禪師剃度。（g035p0239）</note>
+</person>
+<person xml:id="A049878" ana="historical">
+  <persName xml:lang="zho-Hant">行實</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>無錫
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009350</ref>
+    </placeName>
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝常州天寧寺僧人，出家前為江蘇無錫庠生（秀才），具備極高的文學與書法造詣。由清鎔冶開禪師為其剃度。（g035p0240）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A019707" n="清鎔">
+      <desc>
+        <bibl>《武進天寧寺志．卷7．惟寬徹禪師塔銘并敍》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0240</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049879" ana="historical">
+  <persName xml:lang="zho-Hant">屠寄</persName>
+  <persName type="alternative" xml:lang="zho-Hant">屠敬山</persName>
+  <persName type="alternative" xml:lang="zho-Hant">結一宧主人</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>武進
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009727</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初著名的歷史學家、地理學家與官員，以研究蒙古史和元史聞名於世。他最核心的學術貢獻是耗費二十餘年心血編纂的元史巨著《蒙兀兒史記》。曾與惟寬顯徹禪師同行，勸其權宜食於巿肆，但禪師有師堅持，忍飢不食，持律之嚴。（g035p0241）</note>
+</person>
+<person xml:id="A049880" ana="historical">
+  <persName xml:lang="zho-Hant">雲巖</persName>
+  <persName type="alternative" xml:lang="zho-Hant">獅子山寺雲巖</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清朝四川巴縣獅子山寺僧人（寺主）。曾為惟寬顯徹禪師在常州天寧寺同參法侶。顯徹師在朝禮峨嵋山過程中與之邂逅，後示寂於途。（g035p0242）</note>
+</person>
+<person xml:id="A049881" ana="historical">
+  <persName xml:lang="zho-Hant">臧再興</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初時期反對袁世凱專制的二次革命（或護國運動時期）革命黨人。時成立革命軍三大隊，臧再興為第二大隊長；第一、第三兩隊長為清華上人（閰海如）。（g035p0247）</note>
+</person>
+<person xml:id="A049882" ana="historical">
+  <persName xml:lang="zho-Hant">琮鑑</persName>
+  <persName type="alternative" xml:lang="zho-Hant">磬山寺琮鑑</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民初江蘇磬山寺僧人（方丈）。為清華恆海上人剃度。（g035p0248）</note>
+</person>
+<person xml:id="A049883" ana="historical">
+  <persName xml:lang="zho-Hant">悟深</persName>
+  <persName type="alternative" xml:lang="zho-Hant">澄光寺悟深</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民初龍池山澄光寺僧人（方丈）。曾邀請清華恆海上人出任澄光寺的監院（總管寺務的職位）。上人念在澄光寺是明代臨濟宗名僧「幻有祖師」的道場，加上盛情難卻，便答應前往，後悟深方丈引退，上人繼之。（g035p0247）</note>
+</person>
+<person xml:id="A049884" ana="historical">
+  <persName xml:lang="zho-Hant">白寶山</persName>
+  <persName type="alternative" xml:lang="zho-Hant">俊卿</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>寧河
+      <ref target="http://authority.dila.edu.tw/place/">PL000000000731</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">民國時期的直系軍閥將領，曾任江蘇陸軍第一師師長、海州鎮守使，後在北洋軍閥混戰與江浙戰爭期間活躍於蘇、浙、滬一帶。白氏駐宜興時，遇故交清華恆海上人，助其協調軍民關係。（g035p0248）</note>
+</person>
+<person xml:id="A049885" ana="historical">
+  <persName xml:lang="zho-Hant">學淵</persName>
+  <persName type="alternative" xml:lang="zho-Hant">天寧寺西堂職司學淵</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民初常州天寧寺僧人（西堂職司）。曾遭南京警備司令部強行逮捕，時清華恆海上人為天寧寺住持，四處奔走，最終平安獲釋。（g035p0250）</note>
+</person>
+<person xml:id="A049886" ana="historical">
+  <persName xml:lang="zho-Hant">秀庭法師</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民初常州天寧寺僧人。清華恆海上人在天寧寺提倡體育，請秀庭法師教授國術，操場校舍儼然，時龍池佛學研究社，實一具規模的學校。（g035p0251）</note>
+</person>
+<person xml:id="A049887" ana="historical">
+  <persName xml:lang="zho-Hant">謝生標</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">民國初年軍人。避難至常州天寧寺，適清華恆海上人組織寺僧練拳自衛抗戰，大家推舉謝生標為「游擊司令」，遠近的人聽聞後紛紛前來響應。（g035p0251）</note>
+</person>
+<person xml:id="A049888" ana="historical">
+  <persName xml:lang="zho-Hant">中庸</persName>
+  <persName type="alternative" xml:lang="zho-Hant">祥符寺監院中庸</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>武進
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009727</ref>
+    </placeName>
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">民國初年武進馬蹟山祥符寺僧人（監院）。為清華恆海上人剃度弟子。（g035p0251
+）</note>
+</person>
+<person xml:id="A049889" ana="historical">
+  <persName xml:lang="zho-Hant">田文龍</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">民國初年駐於江蘇的抗日軍隊首領。日軍侵略吳縣各鄉，駐守橫涇的軍隊撤退到洞庭山，日軍在後追擊，抗日力量分散進入太湖。以田文龍為首的隊伍登上馬蹟山尋求糧食支援，遇祥符寺監院中庸，並向其詢寇狀。（g035p0251）</note>
+</person>
+<person xml:id="A049890" ana="historical">
+  <persName xml:lang="zho-Hant">莊啟</persName>
+  <persName type="alternative" xml:lang="zho-Hant">仲希</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>武進
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009727</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初江蘇武進人，出身於常州望族，早年留學比利時，回國後致力於地方建設，曾創辦常州電話局、擔任江蘇省立第一電話局局長，並主編過《武進年鑑》。留心於佛教史料與地方文獻的輯錄。選寫清華恆海上人傳。（g035p0247-257）</note>
+</person>
+<person xml:id="A049891" ana="historical">
+  <persName xml:lang="zho-Hant">蘇軍門</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初年鎮守長安的官員。經常向月霞顯珠禪師請益佛法，月送齋米供養，顯珠將供養轉贈其他修行者，並勸蘇軍門開墾種稻，長久供養，以為樍畜不朽福慧。（g035p0255）</note>
+</person>
+<person xml:id="A049892" ana="historical">
+  <persName xml:lang="zho-Hant">了塵</persName>
+  <persName type="alternative" xml:lang="zho-Hant">太白頂了塵老和尚</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民初河南太白頂僧人。月霞顯珠禪師曾聽其講《維摩經》，於入不二法門參究數晝夜，廢寢忘餐，末後言句得了老印可。（g035p0256）</note>
+</person>
+<person xml:id="A049893" ana="historical">
+  <persName xml:lang="zho-Hant">普霦</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">《藥師經疏鈔擇要》清 伯亭疏鈔　普霦擇要。</note>
+  <note type="worksInTripitaka">
+    藥師經疏鈔擇要(G2379)
+  </note>
+</person>
+<person xml:id="A049894" ana="historical">
+  <persName xml:lang="zho-Hant">周演濟</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">《藥師經義述》民國 周演濟述。</note>
+  <note type="worksInTripitaka">
+    藥師經義述(G2380)
+    普賢行願品頌疏(G2383)
+    佛說灌佛經疏(G2384)
+    佛說如幻三摩地無量印法門經疏(G2385)
+  </note>
+</person>
+<person xml:id="A049895" ana="historical">
+  <persName xml:lang="zho-Hant">吳榮富</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>鎮江府
+      <ref target="http://authority.dila.edu.tw/place/">PL000000010976</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初江蘇鎮江人。證蓮密源法師的父親。</note>
+</person>
+<person xml:id="A049896" ana="historical">
+  <persName xml:lang="zho-Hant">果宏老人</persName>
+  <persName type="alternative" xml:lang="zho-Hant">登雲寺果宏老人</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民國初年江蘇鎮江登雲寺僧人。密源證蓮和尚在其座下出家。（g035p0391）</note>
+</person>
+<person xml:id="A049897" ana="historical">
+  <persName xml:lang="zho-Hant">德峻</persName>
+  <persName type="alternative" xml:lang="zho-Hant">焦山定慧寺德峻</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">清末民國初年鎮江焦山定慧寺僧人（方丈）。（g035p0392）</note>
+</person>
+<person xml:id="A049898" ana="historical">
+  <persName xml:lang="zho-Hant">江上達</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>上海
+      <ref target="http://authority.dila.edu.tw/place/">PL000000008388</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民國初年上海富商，居士。在蘇州（姑蘇）與陳葆初居士發起創立了「寧遠蓮社」。仰慕密源證蓮和尚德行，將蓮社布施出來，作為天寧寺的下院（分院）。（g035p0398）</note>
+</person>
+<person xml:id="A049899" ana="historical">
+  <persName xml:lang="zho-Hant">陳葆初</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>上海
+      <ref target="http://authority.dila.edu.tw/place/">PL000000008388</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">末民國初年上海富商，居士。在蘇州（姑蘇）與江上達居士發起創立了「寧遠蓮社」。仰慕密源證蓮和尚德行，將蓮社布施出來，作為天寧寺的下院（分院）。</note>
+</person>
+<person xml:id="A049900" ana="historical">
+  <persName xml:lang="zho-Hant">應德閎</persName>
+  <persName type="alternative" xml:lang="zho-Hant">季仲</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>永康
+      <ref target="http://authority.dila.edu.tw/place/">PL000000013622</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">清末民初政治人物，曾任江蘇都督府秘書長、江蘇省民政長（相當於省長）及財政總長等職。（g035p0394）</note>
+</person>
+<person xml:id="A049901" ana="historical">
+  <persName xml:lang="zho-Hant">復奘</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">民國初年僧人。為密源證蓮和尚披剃弟子。（g035p0396）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A023993" n="證蓮密源">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049902" ana="historical">
+  <persName xml:lang="zho-Hant">大奘</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    清
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">民國初年僧人。為密源證蓮和尚披剃弟子。（g035p0396）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A023993" n="證蓮密源">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049903" ana="historical">
+  <persName xml:lang="zho-Hant">耀海</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">民國初年僧人。為密源證蓮和尚嗣法門人，1949年中國大陸政權更迭後，居留大陸。（g035p0396）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A023993" n="證蓮密源">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049904" ana="historical">
+  <persName xml:lang="zho-Hant">維嶽</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">民國初年僧人。為密源證蓮和尚嗣法門人，1949年中國大陸政權更迭後，居留大陸。（g035p0396）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A023993" n="證蓮密源">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396 複製到剪</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049905" ana="historical">
+  <persName xml:lang="zho-Hant">照寬</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="monk">是</note>
+  <note type="concise">民國初年僧人。為密源證蓮和尚嗣法門人，1949年中國大陸政權更迭後，居留大陸。（g035p0396）</note>
+
+  <listRelation>
+    <relation type="teacher" active="A023993" n="證蓮密源">
+      <desc>
+        <bibl>《武進天寧寺志．卷末．證蓮和尚傳》</bibl>
+        <ref type="url">https://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g035%26cpage=0396</ref>
+      </desc>
+    </relation>
+  </listRelation>
+</person>
+<person xml:id="A049906" ana="historical">
+  <persName xml:lang="zho-Hant">吳偉民</persName>
+  <sex value="1"/>
+  <note type="dynasty">
+    民國
+  </note>
+  <note type="placeOfOrigin">
+    <placeName>陽羨
+      <ref target="http://authority.dila.edu.tw/place/">PL000000009442</ref>
+    </placeName>
+  </note>
+  <note type="monk">否</note>
+  <note type="concise">民國時期刻石工匠。為密源證蓮和尚篆刻塔銘。（g035p0401）</note>
 </person>
       </listPerson>     
     </body>
